@@ -1,0 +1,1775 @@
+{
+    "layers": [
+        {
+            "id": "7ABF6401-F49A-4C29-8415-CEE2345313A3",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "rectangle",
+            "color": [
+                0.1490196139,
+                0.1960784346,
+                0.2196078449,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white image of a plane flying over a field"
+        },
+        {
+            "id": "C5D313C0-21F2-4498-A7BF-E128DBCD8BD3",
+            "name": "Weight Diary",
+            "rect": {
+                "x": 32,
+                "y": 81,
+                "width": 175,
+                "height": 29
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the weight diary logo"
+        },
+        {
+            "id": "34DD2304-0CCC-4E65-9F3D-18544E19FF2D",
+            "name": "Path 3",
+            "rect": {
+                "x": 32,
+                "y": 56,
+                "width": 23,
+                "height": 0.10000000000000142
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "779E58FD-87CD-44A4-895A-872F1FDA9E67",
+            "name": "Path 3 Copy",
+            "rect": {
+                "x": 30.53788585336929,
+                "y": 48.27046279585991,
+                "width": 10.146055275512026,
+                "height": 16.459074408280173
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue arrow pointing to the right"
+        },
+        {
+            "id": "2858DE0A-B2E8-460D-848D-BCE181CAC582",
+            "name": "Calculator",
+            "rect": {
+                "x": 56,
+                "y": 47,
+                "width": 81,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the calculator logo is shown in blue and white"
+        },
+        {
+            "id": "EA495914-75C1-4AC4-81AC-0FE1EB1F6E6F",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 128,
+                "y": 164,
+                "width": 120,
+                "height": 288
+            },
+            "_class": "rectangle",
+            "color": [
+                0.2769027352333069,
+                0.349347472190857,
+                0.3832971155643463,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white square with a white background"
+        },
+        {
+            "id": "0C2212D4-05E0-4D6B-988D-3FF4E4C31C20",
+            "name": "Rectangle 6",
+            "rect": {
+                "x": 48,
+                "y": 224,
+                "width": 1,
+                "height": 160
+            },
+            "_class": "rectangle",
+            "color": [
+                0.2769027352333069,
+                0.349347472190857,
+                0.3832971155643463,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person on a skateboard"
+        },
+        {
+            "id": "18A608BF-6192-45AB-8C0C-E57232CF528B",
+            "name": "Rectangle 6 Copy",
+            "rect": {
+                "x": 119,
+                "y": 224,
+                "width": 1,
+                "height": 160
+            },
+            "_class": "rectangle",
+            "color": [
+                0.2769027352333069,
+                0.349347472190857,
+                0.3832971155643463,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person on a skateboard"
+        },
+        {
+            "id": "2098CB15-0E73-4344-9D68-D9D27A8FDFCE",
+            "name": "Rectangle 6 Copy 2",
+            "rect": {
+                "x": 187,
+                "y": 224,
+                "width": 1,
+                "height": 160
+            },
+            "_class": "rectangle",
+            "color": [
+                0.2769027352333069,
+                0.349347472190857,
+                0.3832971155643463,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person on a skateboard"
+        },
+        {
+            "id": "8769B7B5-95A9-4129-94A5-D330C6D1CC9F",
+            "name": "Rectangle 6 Copy 3",
+            "rect": {
+                "x": 256,
+                "y": 224,
+                "width": 1,
+                "height": 160
+            },
+            "_class": "rectangle",
+            "color": [
+                0.2769027352333069,
+                0.349347472190857,
+                0.3832971155643463,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person on a skateboard"
+        },
+        {
+            "id": "B4918A47-6459-4FB2-9DE4-15DA097BA794",
+            "name": "Rectangle 6 Copy 4",
+            "rect": {
+                "x": 327,
+                "y": 224,
+                "width": 1,
+                "height": 160
+            },
+            "_class": "rectangle",
+            "color": [
+                0.2769027352333069,
+                0.349347472190857,
+                0.3832971155643463,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person on a skateboard"
+        },
+        {
+            "id": "069E9EC7-6EC5-41D1-998F-0330D1990652",
+            "name": "Sep",
+            "rect": {
+                "x": 34,
+                "y": 382,
+                "width": 29,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for september"
+        },
+        {
+            "id": "92C43F4C-8E41-4864-81E9-26E7A7B3F662",
+            "name": "Oct",
+            "rect": {
+                "x": 105.5,
+                "y": 382,
+                "width": 29,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word october is shown in blue on a black background"
+        },
+        {
+            "id": "2445C434-1FA8-468E-80D4-05CC81E8B6D6",
+            "name": "Nov",
+            "rect": {
+                "x": 170,
+                "y": 381,
+                "width": 36,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for november"
+        },
+        {
+            "id": "DD9D0B3D-9C34-4C9C-871B-835DCAACABAF",
+            "name": "Dec",
+            "rect": {
+                "x": 242,
+                "y": 382,
+                "width": 31,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word deco is shown in blue and white"
+        },
+        {
+            "id": "52B39F1D-5068-41C4-B15D-1A7CF23BDAA1",
+            "name": "Jan",
+            "rect": {
+                "x": 312,
+                "y": 382,
+                "width": 29,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word january is shown in blue"
+        },
+        {
+            "id": "5D4130C0-9C05-49D6-A48B-0AB0D788D86E",
+            "name": "Rectangle 9",
+            "rect": {
+                "x": -6,
+                "y": 326.5,
+                "width": 387,
+                "height": 18.5
+            },
+            "_class": "rectangle",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a green and black striped background with a black and white stripe"
+        },
+        {
+            "id": "3FBF3B98-A4B6-49A1-A52C-E0699E69FBA7",
+            "name": "Rectangle 9",
+            "rect": {
+                "x": -6,
+                "y": 294.5,
+                "width": 387,
+                "height": 18.5
+            },
+            "_class": "rectangle",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a red, black and orange striped flag"
+        },
+        {
+            "id": "F962D3FA-F4B8-4A45-A5D9-22880E2A1BD9",
+            "name": "Path 2",
+            "rect": {
+                "x": -25,
+                "y": 234,
+                "width": 424,
+                "height": 156
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0.9176470588235294,
+                0.7647058823529412,
+                1
+            ],
+            "label": 0,
+            "msg": "a graph showing the number of people in the world"
+        },
+        {
+            "id": "5CFDD9EF-859E-41F0-830B-54C65660CCDC",
+            "name": "82.0",
+            "rect": {
+                "x": 166.5,
+                "y": 205,
+                "width": 43,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the radio station 820"
+        },
+        {
+            "id": "A32D260C-6CF0-4089-BAF1-97EE0C3F9365",
+            "name": "kg",
+            "rect": {
+                "x": 190,
+                "y": 222,
+                "width": 17,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the kangaroo bank"
+        },
+        {
+            "id": "68B0ABCB-DA0A-4A30-BE14-B8CBAFF64A73",
+            "name": "Path 2",
+            "rect": {
+                "x": -30.71123530421619,
+                "y": 232.49971879067945,
+                "width": 435.26775637122364,
+                "height": 69.91647325611044
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and black image of a wave"
+        },
+        {
+            "id": "014425C5-60D6-4C73-85B3-A8062A858D38",
+            "name": "Oval 2",
+            "rect": {
+                "x": 174.5,
+                "y": 245.5,
+                "width": 27,
+                "height": 27
+            },
+            "_class": "oval",
+            "color": [
+                0.196078431372549,
+                0.2549019607843137,
+                0.2823529411764706,
+                0.09499547101449275
+            ],
+            "label": 0,
+            "msg": "a black and blue circle with a black dot in the center"
+        },
+        {
+            "id": "22E1327F-7A84-4C89-8C42-30AD1C23F562",
+            "name": "Oval 2",
+            "rect": {
+                "x": 154.5,
+                "y": 225.5,
+                "width": 67,
+                "height": 67
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and blue circular object with a light in the center"
+        },
+        {
+            "id": "B1B3D30B-D666-4DF0-B63F-0E934FA7ED66",
+            "name": "January 07, 2019",
+            "rect": {
+                "x": 32,
+                "y": 158,
+                "width": 118,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word \"the\" is written in blue on a black background"
+        },
+        {
+            "id": "7E683085-0913-4CC6-BAE3-4E22C5FC5703",
+            "name": "Rectangle 8",
+            "rect": {
+                "x": 308,
+                "y": 136,
+                "width": 40,
+                "height": 32
+            },
+            "_class": "rectangle",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "2AC5000E-5047-44DE-BF0E-1A52D2B1D1A5",
+            "name": "Statistic",
+            "rect": {
+                "x": 32,
+                "y": 133,
+                "width": 79,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "statistica - statistical analysis software"
+        },
+        {
+            "id": "43D9F98C-BE0C-4102-B31F-2F32E6E30D57",
+            "name": "month",
+            "rect": {
+                "x": 213,
+                "y": 134,
+                "width": 45,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the month of april"
+        },
+        {
+            "id": "AA60B009-FD3F-4E12-BD31-1414AF2B4C64",
+            "name": "year",
+            "rect": {
+                "x": 274,
+                "y": 134,
+                "width": 30,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the year in review"
+        },
+        {
+            "id": "1049F911-2229-4BDF-BED5-FEE8C3EF2411",
+            "name": "all",
+            "rect": {
+                "x": 328,
+                "y": 134,
+                "width": 18,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the all white logo is shown on a black background"
+        },
+        {
+            "id": "862FC56C-C359-47D7-A16C-0E5507C71F4D",
+            "name": "79",
+            "rect": {
+                "x": 83,
+                "y": 605,
+                "width": 42,
+                "height": 38
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a number that says 79 on it"
+        },
+        {
+            "id": "3BA6E6B3-B0B9-402F-9C69-5C96EDFAA881",
+            "name": "Goal",
+            "rect": {
+                "x": 48,
+                "y": 550,
+                "width": 32,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the goal logo with a blue background"
+        },
+        {
+            "id": "46EA50B4-08A9-4BE1-BE71-9F363CE4568F",
+            "name": "Mask",
+            "rect": {
+                "x": 8,
+                "y": 508,
+                "width": 192,
+                "height": 224
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "3D758DEB-F9E1-489C-A7FA-D4665B5B38CF",
+            "name": "Path 11",
+            "rect": {
+                "x": 9.999999999999773,
+                "y": 253.99999999999991,
+                "width": 290.12303520005344,
+                "height": 318.85560342887175
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                0.4929800724637681
+            ],
+            "label": 0,
+            "msg": "a white plastic cup with a handle"
+        },
+        {
+            "id": "123ED1F0-E716-444E-BECB-95437CF96A8D",
+            "name": "Path 12",
+            "rect": {
+                "x": -45.923782634920144,
+                "y": 578.2352359245026,
+                "width": 257.1232537879896,
+                "height": 213.68166914936876
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                0.4929800724637681
+            ],
+            "label": 0,
+            "msg": "the white shoe is on a black background"
+        },
+        {
+            "id": "B8624B2E-2C86-4499-97C0-EFD22F2C1111",
+            "name": "Path 13",
+            "rect": {
+                "x": 20,
+                "y": 510,
+                "width": 41.43994680327046,
+                "height": 36.413674312125636
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "B8C6A1CE-4565-41ED-8DE1-565638B35E4D",
+            "name": "Oval 5",
+            "rect": {
+                "x": 55,
+                "y": 575,
+                "width": 98,
+                "height": 98
+            },
+            "_class": "oval",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the circle logo on a black background"
+        },
+        {
+            "id": "F822078A-C143-40A1-8887-BF6C79EFCD16",
+            "name": "Oval 5",
+            "rect": {
+                "x": 68,
+                "y": 588,
+                "width": 72,
+                "height": 72
+            },
+            "_class": "oval",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "4AC424CC-A218-4457-95A2-FCF8A0A8BAAF",
+            "name": "79",
+            "rect": {
+                "x": 83,
+                "y": 602,
+                "width": 42,
+                "height": 38
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a number that says 79 on it"
+        },
+        {
+            "id": "B343C17C-7646-4222-A1D7-1B8CAB0B7920",
+            "name": "kg",
+            "rect": {
+                "x": 96,
+                "y": 630,
+                "width": 17,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the kangaroo bank"
+        },
+        {
+            "id": "AD8C8FB8-DA36-4E1A-8F91-F2B2D1DD3C79",
+            "name": "Goal",
+            "rect": {
+                "x": 48,
+                "y": 543,
+                "width": 27,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the goal"
+        },
+        {
+            "id": "C5C351F1-5C77-4549-9168-43A0E04B0AE9",
+            "name": "Mask",
+            "rect": {
+                "x": 200,
+                "y": 528,
+                "width": 144,
+                "height": 176
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                0.8497089743614197,
+                0.5724824666976929,
+                1
+            ],
+            "label": 0,
+            "msg": "a square orange color background with a black square"
+        },
+        {
+            "id": "C60EB962-9643-4128-8173-E352C8E578BA",
+            "name": "Path 6",
+            "rect": {
+                "x": 175,
+                "y": 431,
+                "width": 205.6038744464131,
+                "height": 162.41469211006938
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                0.5647058823529412,
+                0.3568627450980393,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "063E20F4-935E-46DF-845D-E5B5E9B502D7",
+            "name": "Path 7",
+            "rect": {
+                "x": 45,
+                "y": 391,
+                "width": 240.5434356422038,
+                "height": 167.99999999999955
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                0.5058823529411764,
+                0.3137254901960784,
+                0.6096580615942029
+            ],
+            "label": 0,
+            "msg": "the orange heart is shown on a black background"
+        },
+        {
+            "id": "1C7FC704-0594-48C5-8A21-33DA71942CD3",
+            "name": "Path 7",
+            "rect": {
+                "x": 144,
+                "y": 656.0920754683393,
+                "width": 337.8298029626296,
+                "height": 117.49174046930614
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                0.5058823529411764,
+                0.3137254901960784,
+                0.929658
+            ],
+            "label": 0,
+            "msg": "a logo for a company that makes orange and black clothing"
+        },
+        {
+            "id": "956FA0D8-3F26-47D1-A653-D1610654ACAB",
+            "name": "Current Weight",
+            "rect": {
+                "x": 216,
+                "y": 543,
+                "width": 49,
+                "height": 32
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the current weight logo"
+        },
+        {
+            "id": "82498D9B-2305-4E53-96C2-7372611A0FED",
+            "name": "80.3",
+            "rect": {
+                "x": 228,
+                "y": 593,
+                "width": 88,
+                "height": 48
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the radio station 80 3"
+        },
+        {
+            "id": "CA0E3EC3-4D28-4438-8E4B-A12EB659612B",
+            "name": "- 1.4 kg remain",
+            "rect": {
+                "x": 228,
+                "y": 636,
+                "width": 88,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word \"love\" is written in a font"
+        },
+        {
+            "id": "74078889-49B4-4650-AEAB-49FB56CC0C5D",
+            "name": "Mask",
+            "rect": {
+                "x": 32,
+                "y": 432,
+                "width": 312,
+                "height": 72
+            },
+            "_class": "rectangle",
+            "color": [
+                0.4470588235294118,
+                0.5647058823529413,
+                0.615686274509804,
+                1
+            ],
+            "label": 0,
+            "msg": "the blue sky is filled with clouds"
+        },
+        {
+            "id": "33762512-4CF2-4D1E-8097-A3B76EFA5EFA",
+            "name": "Path 4",
+            "rect": {
+                "x": 52,
+                "y": 455,
+                "width": 14,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue sky with a white cloud in the middle"
+        },
+        {
+            "id": "60180048-DF11-4EA6-8DC0-09BBF06F669D",
+            "name": "Your weight",
+            "rect": {
+                "x": 83,
+                "y": 443,
+                "width": 82,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word 'your weight' is written in blue on a black background"
+        },
+        {
+            "id": "0E0947C2-59E6-4AF0-943A-71F253288FF8",
+            "name": "Path 4",
+            "rect": {
+                "x": 60,
+                "y": 479,
+                "width": 6,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow background with a white stripe"
+        },
+        {
+            "id": "8A73F923-5363-4E7B-9D22-3BF3536EB79A",
+            "name": "Underweight",
+            "rect": {
+                "x": 83,
+                "y": 467,
+                "width": 89,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "underwater photography - underwater photography - underwater photography - underwater photography - underwater photography - underwater photography"
+        },
+        {
+            "id": "E7B61F2F-814A-4BD8-B07B-CEB139804374",
+            "name": "Path 4",
+            "rect": {
+                "x": 196,
+                "y": 455,
+                "width": 6,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a green background with a white stripe"
+        },
+        {
+            "id": "B9BDEF50-09E0-4C52-94B6-C7E2CB16C643",
+            "name": "Desired weight",
+            "rect": {
+                "x": 218,
+                "y": 443,
+                "width": 104,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in blue"
+        },
+        {
+            "id": "3E8D4518-4E1A-4D28-93E3-DCC346E8D653",
+            "name": "Path 4",
+            "rect": {
+                "x": 192,
+                "y": 479,
+                "width": 10,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "an orange background with a white square in the middle"
+        },
+        {
+            "id": "277D1827-F318-4BE1-B146-778B3949A098",
+            "name": "Overweight",
+            "rect": {
+                "x": 218,
+                "y": 467,
+                "width": 80,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "overweight logo design"
+        },
+        {
+            "id": "1C8A11B6-6F01-44E1-8042-FB4402EA5648",
+            "name": "Friday",
+            "rect": {
+                "x": 32,
+                "y": 726,
+                "width": 43,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word friday is in white letters on a black background"
+        },
+        {
+            "id": "38B606AE-A3DF-4925-859B-3895EE92CB0F",
+            "name": "November 3",
+            "rect": {
+                "x": 32,
+                "y": 742,
+                "width": 84,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the november saturday"
+        },
+        {
+            "id": "6F5AD76F-E986-46B2-B8AD-CBE52F2028B3",
+            "name": "0.5",
+            "rect": {
+                "x": 319,
+                "y": 726,
+                "width": 25,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 5 is shown in white on a black background"
+        },
+        {
+            "id": "FEF903FF-3BB3-4F18-96D4-EC8C369CBDB6",
+            "name": "Fill 1",
+            "rect": {
+                "x": 282.000125,
+                "y": 730.999875,
+                "width": 14,
+                "height": 14.000250000000051
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0.9098039215686274,
+                0.7764705882352941,
+                1
+            ],
+            "label": 0,
+            "msg": "a green arrow pointing down on a black background"
+        },
+        {
+            "id": "CDA4C37B-30E1-433B-B92A-5CD83D6F5DD3",
+            "name": "Fill 1",
+            "rect": {
+                "x": 286,
+                "y": 732,
+                "width": 10,
+                "height": 10
+            },
+            "_class": "shapePath",
+            "color": [
+                0.9294117647058824,
+                0.3803921568627451,
+                0.1215686274509804,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "903164C3-9FF9-4EB7-8053-E15A909322D7",
+            "name": "Fill 1",
+            "rect": {
+                "x": 286,
+                "y": 736,
+                "width": 10,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0.9098039215686274,
+                0.7764705882352941,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "AB51918E-08B2-46DB-99F8-522721A94D10",
+            "name": "kg",
+            "rect": {
+                "x": 209,
+                "y": 742,
+                "width": 17,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the kangaroo bank"
+        },
+        {
+            "id": "468933C1-EA3E-4595-82A6-36C8C905B748",
+            "name": "82.0",
+            "rect": {
+                "x": 180.5,
+                "y": 725,
+                "width": 43,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the radio station 820"
+        },
+        {
+            "id": "EC93CBA7-32C7-4F33-812C-1D9882773177",
+            "name": "Tuesday",
+            "rect": {
+                "x": 32,
+                "y": 774,
+                "width": 58,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for tuesday"
+        },
+        {
+            "id": "F3CAB4E1-479B-453E-8339-D117CE932471",
+            "name": "October 30",
+            "rect": {
+                "x": 32,
+                "y": 790,
+                "width": 79,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in blue"
+        },
+        {
+            "id": "6BB92C56-8C6D-4155-9DF3-50083350BC73",
+            "name": "0.2",
+            "rect": {
+                "x": 315,
+                "y": 774,
+                "width": 29,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 2 is shown in white on a black background"
+        },
+        {
+            "id": "8BF5129B-6A4B-4EE9-9451-22FE5810ABB9",
+            "name": "Fill 1",
+            "rect": {
+                "x": 282,
+                "y": 779,
+                "width": 14.000250000000051,
+                "height": 14
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                0.4392156899,
+                0.2627451122,
+                1
+            ],
+            "label": 0,
+            "msg": "a red arrow pointing to the right"
+        },
+        {
+            "id": "E620F18F-25EE-4F92-B5C7-7B1F3BF85054",
+            "name": "Fill 1",
+            "rect": {
+                "x": 286,
+                "y": 780,
+                "width": 10,
+                "height": 10
+            },
+            "_class": "shapePath",
+            "color": [
+                0.9294117647058824,
+                0.3803921568627451,
+                0.1215686274509804,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "1B722F17-F300-480D-8A24-11839DDB7B73",
+            "name": "Fill 1",
+            "rect": {
+                "x": 286,
+                "y": 784,
+                "width": 10,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0.9098039215686274,
+                0.7764705882352941,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "0BB026FC-B971-448D-81E9-267AA997B15D",
+            "name": "kg",
+            "rect": {
+                "x": 209,
+                "y": 790,
+                "width": 17,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the kangaroo bank"
+        },
+        {
+            "id": "1BFC50C6-109D-44C1-A458-CCC317C2E5E2",
+            "name": "82.5",
+            "rect": {
+                "x": 180.5,
+                "y": 773,
+                "width": 43,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 825 is shown in white on a black background"
+        },
+        {
+            "id": "36DCBBC7-E146-489E-ADE9-6B35D8CCEAFE",
+            "name": "Sunday",
+            "rect": {
+                "x": 32,
+                "y": 822,
+                "width": 52,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "653EB8DC-6C82-44B5-8B66-23947223A77B",
+            "name": "October 28",
+            "rect": {
+                "x": 32,
+                "y": 838,
+                "width": 79,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "55609180-4BF2-4061-9325-56877087F9C9",
+            "name": "0.2",
+            "rect": {
+                "x": 315,
+                "y": 822,
+                "width": 29,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "093D656D-AB61-4AC4-919E-F96520098C0D",
+            "name": "Fill 1",
+            "rect": {
+                "x": 282.000125,
+                "y": 826.999875,
+                "width": 14,
+                "height": 14.000250000000051
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0.9098039215686274,
+                0.7764705882352941,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "5F914F84-7173-418D-B1CB-EC5EEF7DDFC3",
+            "name": "Fill 1",
+            "rect": {
+                "x": 282.000125,
+                "y": 826.999875,
+                "width": 14,
+                "height": 14.000250000000051
+            },
+            "_class": "shapePath",
+            "color": [
+                0.9302589297294617,
+                0.3793744146823884,
+                0.1216867938637734,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "B447CC90-2AE0-4500-B29A-C87B9C96E07F",
+            "name": "Fill 1",
+            "rect": {
+                "x": 286,
+                "y": 828,
+                "width": 10,
+                "height": 10
+            },
+            "_class": "shapePath",
+            "color": [
+                0.9294117647058824,
+                0.3803921568627451,
+                0.1215686274509804,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "0E453D07-8568-4B82-81F0-A186ADA572E0",
+            "name": "Fill 1",
+            "rect": {
+                "x": 286,
+                "y": 832,
+                "width": 10,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0.9098039215686274,
+                0.7764705882352941,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "28210AB1-FFE7-40B6-B0DB-2894C0FBBB56",
+            "name": "kg",
+            "rect": {
+                "x": 209,
+                "y": 838,
+                "width": 17,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "5CC8D0AD-2EF1-42CB-A4A1-AA5A5BF56DD4",
+            "name": "82.3",
+            "rect": {
+                "x": 180.5,
+                "y": 821,
+                "width": 43,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "B45C358A-1C1C-41C9-BECC-FFA3651994C0",
+            "name": "Friday",
+            "rect": {
+                "x": 32,
+                "y": 870,
+                "width": 43,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "EEA02846-8D59-473D-9A48-A6877A50E47C",
+            "name": "October 26",
+            "rect": {
+                "x": 32,
+                "y": 886,
+                "width": 79,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "BE483134-389C-4162-86C4-CDD13A6D746A",
+            "name": "0.2",
+            "rect": {
+                "x": 315,
+                "y": 870,
+                "width": 29,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "AA87F53C-0FC5-4B0F-8A99-0158A4AEC8ED",
+            "name": "Fill 1",
+            "rect": {
+                "x": 282,
+                "y": 875,
+                "width": 14.000250000000051,
+                "height": 14
+            },
+            "_class": "shapePath",
+            "color": [
+                0.9302589297294617,
+                0.3793744146823884,
+                0.1216867938637734,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "E92CC2BE-05E8-4E01-9DF5-E80BED829074",
+            "name": "Fill 1",
+            "rect": {
+                "x": 286,
+                "y": 876,
+                "width": 10,
+                "height": 10
+            },
+            "_class": "shapePath",
+            "color": [
+                0.9294117647058824,
+                0.3803921568627451,
+                0.1215686274509804,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "227B0CD1-784E-4331-9F28-095B3ECB0CF8",
+            "name": "Fill 1",
+            "rect": {
+                "x": 286,
+                "y": 880,
+                "width": 10,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0.9098039215686274,
+                0.7764705882352941,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "4C14B314-C8B3-43B6-97F8-D8853F0FF66F",
+            "name": "kg",
+            "rect": {
+                "x": 209,
+                "y": 886,
+                "width": 17,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "A554EFB8-5071-43A8-BA18-5176DEBF5D5A",
+            "name": "82.1",
+            "rect": {
+                "x": 183.5,
+                "y": 869,
+                "width": 40,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "DF5FB64F-3FDB-40E8-8A10-99EE85EACCE7",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 768,
+                "width": 375,
+                "height": 78
+            },
+            "_class": "rectangle",
+            "color": [
+                0.1490196139,
+                0.1960784346,
+                0.2196078449,
+                1
+            ],
+            "label": 0,
+            "msg": "a large blue sky with a few clouds in it"
+        },
+        {
+            "id": "9C5A2206-7023-46E3-A2D5-A3B60DBC386C",
+            "name": "Addnew_btn",
+            "rect": {
+                "x": 264,
+                "y": 27,
+                "width": 114,
+                "height": 114
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue button with a plus sign on it"
+        },
+        {
+            "id": "F98D2C01-1B89-41F5-AED3-FB0A92435B13",
+            "name": "Light Status Bar",
+            "rect": {
+                "x": 6,
+                "y": 3.5,
+                "width": 363.5,
+                "height": 14
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white logo with the words \"the best\""
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

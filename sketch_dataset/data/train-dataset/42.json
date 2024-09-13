@@ -1,0 +1,958 @@
+{
+    "layers": [
+        {
+            "id": "CEF0C688-B422-41BF-992C-76A2E2959A00",
+            "name": "floor",
+            "rect": {
+                "x": 0,
+                "y": 221,
+                "width": 375,
+                "height": 446
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5490196078431372,
+                0.2588235294117647,
+                0.807843137254902,
+                1
+            ],
+            "label": 0,
+            "msg": "a purple background with a white background"
+        },
+        {
+            "id": "4503A9E9-1C01-45C9-A463-296AE5DECAF0",
+            "name": "sky",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 221
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a purple background with a white background"
+        },
+        {
+            "id": "422F920A-D41D-416C-A40D-16AC1FEA081E",
+            "name": "Oval 7",
+            "rect": {
+                "x": -80.49773755656133,
+                "y": 24,
+                "width": 51.32579185520444,
+                "height": 51.32579185520363
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the north face women's alpine parka"
+        },
+        {
+            "id": "1AB71A62-D9FE-4565-A8BD-740991B5656F",
+            "name": "Oval 7 Copy",
+            "rect": {
+                "x": -71.493212669684,
+                "y": 47.41176470588236,
+                "width": 79.23981900452418,
+                "height": 79.23981900452489
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the north face women's alpine parka"
+        },
+        {
+            "id": "0E4DB81A-374B-4EBF-B37D-B5CFF63B0F0C",
+            "name": "Oval 7 Copy 2",
+            "rect": {
+                "x": -29.17194570135689,
+                "y": 47.41176470588236,
+                "width": 79.23981900452418,
+                "height": 79.23981900452489
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the north face women's alpine parka"
+        },
+        {
+            "id": "4A2F9E8F-B819-4F5C-912C-DA4FFCA0BE36",
+            "name": "Oval 7 Copy 3",
+            "rect": {
+                "x": -50.78280542986431,
+                "y": 87.0316742081448,
+                "width": 79.23981900452418,
+                "height": 79.23981900452486
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the north face women's alpine parka"
+        },
+        {
+            "id": "9FAC5CB1-1C19-4045-A004-4874D060E907",
+            "name": "Oval 7 Copy 4",
+            "rect": {
+                "x": 10.4479638009052,
+                "y": 87.0316742081448,
+                "width": 79.23981900452418,
+                "height": 79.23981900452486
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the north face women's alpine parka"
+        },
+        {
+            "id": "1ABA34E0-B7E9-434B-81C5-75CE97102C34",
+            "name": "Oval 7 Copy 5",
+            "rect": {
+                "x": 68.07692307692378,
+                "y": 70.82352941176472,
+                "width": 79.23981900452418,
+                "height": 79.23981900452489
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the north face women's alpine parka"
+        },
+        {
+            "id": "36C4D94A-53DE-4B76-BE7C-A5B832A972FB",
+            "name": "Oval 7 Copy 6",
+            "rect": {
+                "x": 107.69683257918587,
+                "y": 24,
+                "width": 79.23981900452418,
+                "height": 79.23981900452489
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the north face women's alpine parka"
+        },
+        {
+            "id": "0D5807C3-7C44-4DDF-B53A-C532F1B6784B",
+            "name": "Rectangle",
+            "rect": {
+                "x": -85,
+                "y": 81.62895927601811,
+                "width": 257.5294117647063,
+                "height": 162.08144796380088
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the north face women's alpine parka"
+        },
+        {
+            "id": "857683EB-F98D-4A5C-BF9D-6FE814F5E03F",
+            "name": "Oval 7",
+            "rect": {
+                "x": 176.00562917949355,
+                "y": 24,
+                "width": 45.66417264622578,
+                "height": 45.66417264622562
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the north face women's alpine parka"
+        },
+        {
+            "id": "23577EC3-8FA3-41F7-A658-B61EEAEFCFC6",
+            "name": "Oval 7 Copy",
+            "rect": {
+                "x": 184.01688753848066,
+                "y": 44.82927173336607,
+                "width": 70.49907355908545,
+                "height": 70.4990735590851
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the north face women's alpine parka"
+        },
+        {
+            "id": "F0866B8D-C148-4D6A-B8AB-CA5314DB87C9",
+            "name": "Oval 7 Copy 2",
+            "rect": {
+                "x": 221.66980182571933,
+                "y": 44.82927173336607,
+                "width": 70.49907355908545,
+                "height": 70.4990735590851
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the north face women's alpine parka"
+        },
+        {
+            "id": "2045D417-3617-48B0-BAC9-E5602BFB968A",
+            "name": "Oval 7 Copy 3",
+            "rect": {
+                "x": 202.4427817641499,
+                "y": 80.07880851290876,
+                "width": 70.49907355908545,
+                "height": 70.49907355908518
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the north face women's alpine parka"
+        },
+        {
+            "id": "F7BF9D1A-DAF8-4FE4-85FD-DFDD9F986C85",
+            "name": "Oval 7 Copy 4",
+            "rect": {
+                "x": 256.91933860526115,
+                "y": 80.07880851290876,
+                "width": 70.49907355908545,
+                "height": 70.49907355908518
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the north face women's alpine parka"
+        },
+        {
+            "id": "E6BB4D7C-3231-4462-904F-D92232E785EC",
+            "name": "Oval 7 Copy 5",
+            "rect": {
+                "x": 308.191392102779,
+                "y": 65.65854346673214,
+                "width": 70.49907355908545,
+                "height": 70.49907355908545
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the north face women's alpine parka"
+        },
+        {
+            "id": "A1356762-30F9-4918-82F6-ABB69EECCED9",
+            "name": "Oval 7 Copy 6",
+            "rect": {
+                "x": 343.4409288823208,
+                "y": 24,
+                "width": 70.49907355908545,
+                "height": 70.49907355908519
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the north face women's alpine parka"
+        },
+        {
+            "id": "DF9E0CA0-2E68-4FBD-9B9E-99EFE7265CBF",
+            "name": "Rectangle",
+            "rect": {
+                "x": 172,
+                "y": 75.2720534975166,
+                "width": 229.12198906702724,
+                "height": 167.2026504617653
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the north face women's alpine parka"
+        },
+        {
+            "id": "D6BA5E53-691D-4E75-87A9-A6EA019A003D",
+            "name": "Rectangle 9",
+            "rect": {
+                "x": 17.44482940144553,
+                "y": 86.22662386010558,
+                "width": 41.03154290371458,
+                "height": 175.4657980173427
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white picket fence with a blue sky"
+        },
+        {
+            "id": "6AFA3598-8CD3-436D-922C-E2F342D323F6",
+            "name": "Rectangle 9 Copy 2",
+            "rect": {
+                "x": 137.25693468029385,
+                "y": 86.22662386010558,
+                "width": 41.03154290371458,
+                "height": 175.4657980173427
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white picket fence with a blue sky"
+        },
+        {
+            "id": "2A28A097-BF26-41C2-91B6-B9FB55870EF8",
+            "name": "Rectangle 9 Copy",
+            "rect": {
+                "x": 77.35088204086969,
+                "y": 86.22662386010558,
+                "width": 41.03154290371458,
+                "height": 175.4657980173427
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white picket fence with a blue sky"
+        },
+        {
+            "id": "748F1C25-933F-4ACD-B79D-8A0468C88685",
+            "name": "Rectangle 10",
+            "rect": {
+                "x": -9,
+                "y": 135.68374566592897,
+                "width": 214.55393784352782,
+                "height": 36.819410097592396
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white picket fence with a blue sky"
+        },
+        {
+            "id": "8521E9D3-8E5E-406F-AD37-3970AF06DB48",
+            "name": "Rectangle 9",
+            "rect": {
+                "x": 197.09090376494896,
+                "y": 86.22662386010558,
+                "width": 41.03154290371458,
+                "height": 175.4657980173427
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white picket fence with a blue sky"
+        },
+        {
+            "id": "824B6505-3B1C-4784-9377-2BF755834C58",
+            "name": "Rectangle 9 Copy 2",
+            "rect": {
+                "x": 316.9030090437973,
+                "y": 86.22662386010558,
+                "width": 41.03154290371458,
+                "height": 175.4657980173427
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white picket fence with a blue sky"
+        },
+        {
+            "id": "DEFE2E41-527B-4098-97E3-BFE3E8573CF0",
+            "name": "Rectangle 9 Copy",
+            "rect": {
+                "x": 256.9969564043731,
+                "y": 86.22662386010558,
+                "width": 41.03154290371458,
+                "height": 175.4657980173427
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white picket fence with a blue sky"
+        },
+        {
+            "id": "B849B327-DFA7-44D9-BA91-093148104480",
+            "name": "Rectangle 10",
+            "rect": {
+                "x": 170.64607436350343,
+                "y": 135.68374566592897,
+                "width": 214.55393784352782,
+                "height": 36.819410097592396
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white picket fence with a blue sky"
+        },
+        {
+            "id": "3A316228-F8A8-4F8D-ACB4-05F868AB20E3",
+            "name": "No Files",
+            "rect": {
+                "x": 50,
+                "y": 404,
+                "width": 123,
+                "height": 39
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "no files logo"
+        },
+        {
+            "id": "A2AA438E-9A80-4C88-905D-48F38C9D1D42",
+            "name": "Opps! The file you a",
+            "rect": {
+                "x": 50,
+                "y": 468,
+                "width": 264,
+                "height": 50
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person standing in front of a white background"
+        },
+        {
+            "id": "9B29D4CB-A917-4D16-B4B2-A5DC79C31A20",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 25,
+                "y": 543,
+                "width": 139,
+                "height": 94
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white oval with a black background"
+        },
+        {
+            "id": "C9C96C0B-E9F0-4C61-9921-96BD1CD5BD1B",
+            "name": "Home",
+            "rect": {
+                "x": 71.5,
+                "y": 576,
+                "width": 46,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word home is in a blue font on a black background"
+        },
+        {
+            "id": "F9865805-8EBC-4E4D-8CC1-DCC65949A024",
+            "name": "hole",
+            "rect": {
+                "x": 107,
+                "y": 305,
+                "width": 225,
+                "height": 72.4009900990099
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.4463689479698128,
+                0.1812536538052721,
+                0.6828231292517006,
+                1
+            ],
+            "label": 0,
+            "msg": "a purple circle with a black background"
+        },
+        {
+            "id": "3EAAFEC7-9DB5-447F-BA3B-69E80E884B30",
+            "name": "path",
+            "rect": {
+                "x": 63.35320707694518,
+                "y": 120.52944656881968,
+                "width": 250.0597822757518,
+                "height": 251.37086166297038
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and blue line on a black background"
+        },
+        {
+            "id": "FA974CBA-FD20-4BC6-A078-72D90E9A1377",
+            "name": "Oval",
+            "rect": {
+                "x": 172.0148324241436,
+                "y": 83.96023442875592,
+                "width": 25.33540681337945,
+                "height": 26.455774965498293
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8069891844763671,
+                0.8461959910845994,
+                0.8991815476190477,
+                1
+            ],
+            "label": 0,
+            "msg": "the person is wearing a blue shirt and has a white hat"
+        },
+        {
+            "id": "4D25018C-6901-4A97-97AE-E9C26384010D",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 154.9619535715392,
+                "y": 106.52380413472476,
+                "width": 25.33540681337945,
+                "height": 26.45577496549832
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8069891844763671,
+                0.8461959910845994,
+                0.8991815476190477,
+                1
+            ],
+            "label": 0,
+            "msg": "the person is wearing a white shirt and blue jeans"
+        },
+        {
+            "id": "44039295-0EB4-4DBB-B747-315E51C6B130",
+            "name": "Mask",
+            "rect": {
+                "x": 167.7951376923611,
+                "y": 99.88421921126212,
+                "width": 15.813729074865478,
+                "height": 15.797971398631987
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black outline"
+        },
+        {
+            "id": "A1DC7ADA-AEF1-454E-A8FB-EDFC62BFA554",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 173.27984405347343,
+                "y": 102.01442378716054,
+                "width": 11.161734194985911,
+                "height": 14.215251748871125
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.4588235294117646,
+                0.196078431372549,
+                0.6901960784313725,
+                0.2854110054347826
+            ],
+            "label": 0,
+            "msg": "a purple stick with a black background"
+        },
+        {
+            "id": "3010CE87-7B27-4C34-B257-B8DE48B93ECC",
+            "name": "Rectangle 4 Copy",
+            "rect": {
+                "x": 166.63268110652825,
+                "y": 98.86766852891864,
+                "width": 14.695771325605165,
+                "height": 14.698099755947311
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.4588235294117646,
+                0.196078431372549,
+                0.6901960784313725,
+                0.2854110054347826
+            ],
+            "label": 0,
+            "msg": "a purple pencil with a black background"
+        },
+        {
+            "id": "8F09D953-E5B9-41BB-A308-1EB449FBEFC1",
+            "name": "Path 7 Copy",
+            "rect": {
+                "x": 154.34304994932063,
+                "y": 98.18432525117274,
+                "width": 5.716677568791056,
+                "height": 2.7970043995235443
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person standing on a chair"
+        },
+        {
+            "id": "18EE2525-86BF-4876-A683-5F94F7CCD9C0",
+            "name": "Path 7",
+            "rect": {
+                "x": 158.54537957995854,
+                "y": 91.92342744026027,
+                "width": 3.543960879847873,
+                "height": 5.874752942050279
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white outline of a map of the united states"
+        },
+        {
+            "id": "D8BAF748-E255-462C-A86E-65E1F0B73280",
+            "name": "Oval 4",
+            "rect": {
+                "x": 158.7534856594466,
+                "y": 94.30119845452232,
+                "width": 13.316824484098106,
+                "height": 13.303554862005882
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "AAC19CC1-B560-444B-B5EF-BCA343FE7093",
+            "name": "Combined Shape",
+            "rect": {
+                "x": 206,
+                "y": 221,
+                "width": 50,
+                "height": 156.61723451956573
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and purple square with a black background"
+        },
+        {
+            "id": "7CF7FBA9-8102-4F1B-90F9-499C9AB26268",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 206,
+                "y": 221,
+                "width": 93,
+                "height": 50
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a purple and white background with a black and white image"
+        },
+        {
+            "id": "8BE85E95-64F3-4213-8CA7-C672E4154B5F",
+            "name": "Oval",
+            "rect": {
+                "x": 287,
+                "y": 221,
+                "width": 23,
+                "height": 50
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.4863679846938775,
+                0.4863679846938775,
+                0.4863679846938775,
+                1
+            ],
+            "label": 0,
+            "msg": "a purple circle with a black background"
+        },
+        {
+            "id": "57F79C38-A649-4390-8118-AD064E94AFCF",
+            "name": "Line",
+            "rect": {
+                "x": 315.7754298140608,
+                "y": 213.29681879027723,
+                "width": 14.092176961006771,
+                "height": 9.41612104436254
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9228050595238095,
+                0.9228050595238095,
+                0.9228050595238095,
+                1
+            ],
+            "label": 0,
+            "msg": "a white outline of a map of the united states"
+        },
+        {
+            "id": "7F1CC475-6C09-4E01-B315-F972321C64B5",
+            "name": "Line Copy",
+            "rect": {
+                "x": 303.15830058387655,
+                "y": 198.40779481565968,
+                "width": 16.50590116534113,
+                "height": 14.203610740549664
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9228050595238095,
+                0.9228050595238095,
+                0.9228050595238095,
+                1
+            ],
+            "label": 0,
+            "msg": "a white line on a black background"
+        },
+        {
+            "id": "EFC88BE7-204F-4C7D-B6A9-2F209FE9C20F",
+            "name": "Line Copy 2",
+            "rect": {
+                "x": 318.3671395457841,
+                "y": 225.96334538999125,
+                "width": 16.63491784742837,
+                "height": 14.77947963012872
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9228050595238095,
+                0.9228050595238095,
+                0.9228050595238095,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "254F09A4-1A35-4594-972D-64361584F7CC",
+            "name": "Path 70",
+            "rect": {
+                "x": 44.11217415320061,
+                "y": 271.16613456471583,
+                "width": 63.804685739833076,
+                "height": 27.55204985093036
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white image of a piece of paper"
+        },
+        {
+            "id": "E4C7D08A-E00A-4528-907A-AB54EB4DDAA8",
+            "name": "Path 12",
+            "rect": {
+                "x": 82.73229572535274,
+                "y": 260.3761468180385,
+                "width": 12.008868802702636,
+                "height": 15.828489427444879
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7231879755756443,
+                0.5127446338383839,
+                1
+            ],
+            "label": 0,
+            "msg": "a cartoon orange piece of fruit"
+        },
+        {
+            "id": "E76276AA-4A60-4B9F-9C95-71A6F6F4EBAF",
+            "name": "Path 9",
+            "rect": {
+                "x": 28.06465583096906,
+                "y": 244.27633165006492,
+                "width": 67.53912341643809,
+                "height": 58.85905899796708
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.8745161281848719,
+                0.5293955176767677,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow paper clip with a black background"
+        },
+        {
+            "id": "DFE2120C-55FD-46C0-8336-BB7CE2B70E87",
+            "name": "Status",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 22
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1884473406776688,
+                0.1733934261836048,
+                0.282312925170068,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a plane flying over a field"
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

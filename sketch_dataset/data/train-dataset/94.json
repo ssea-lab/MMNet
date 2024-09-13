@@ -1,0 +1,901 @@
+{
+    "layers": [
+        {
+            "id": "E43D35F3-939B-4F8D-ADCA-E3A849CC1E94",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "07A448CB-9A95-4767-B0E2-2C81C786024B",
+            "name": "base",
+            "rect": {
+                "x": 16,
+                "y": 151,
+                "width": 359,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9725490196078431,
+                0.9725490196078431,
+                0.9725490196078431,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "EF8D711E-5A77-49AF-B5D1-CC3E2BBB60D9",
+            "name": "t-shirt",
+            "rect": {
+                "x": 17,
+                "y": 108,
+                "width": 49,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the t - shirt company"
+        },
+        {
+            "id": "B85603E1-524B-450E-A3DC-C7EC85187EDE",
+            "name": "129",
+            "rect": {
+                "x": 322,
+                "y": 108,
+                "width": 29,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 12 is shown in white on a black background"
+        },
+        {
+            "id": "CBEA291C-25EA-4D1D-924C-DB2084196038",
+            "name": "base",
+            "rect": {
+                "x": 16,
+                "y": 423,
+                "width": 359,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9725490196078431,
+                0.9725490196078431,
+                0.9725490196078431,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "2EB656D6-FF6B-4BE6-8AC5-F2D99F70DED8",
+            "name": "shoes black",
+            "rect": {
+                "x": 17,
+                "y": 380,
+                "width": 94,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the shoes black logo on a black background"
+        },
+        {
+            "id": "9888B87D-AB13-4899-94F4-B6B5F926A549",
+            "name": "404",
+            "rect": {
+                "x": 318,
+                "y": 380,
+                "width": 33,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 40 is shown in a black background"
+        },
+        {
+            "id": "42C73210-09CD-4A18-A393-0157F0786F50",
+            "name": "base",
+            "rect": {
+                "x": 16,
+                "y": 287,
+                "width": 359,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9725490196078431,
+                0.9725490196078431,
+                0.9725490196078431,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "C8A6A916-977C-4EFD-A762-74033AA6D4C8",
+            "name": "hat",
+            "rect": {
+                "x": 17,
+                "y": 244,
+                "width": 26,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word 'chat' is shown in black and white"
+        },
+        {
+            "id": "983D5EB9-F1F6-42F8-A7E8-8FF07ACFB9E4",
+            "name": "144",
+            "rect": {
+                "x": 321,
+                "y": 244,
+                "width": 30,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white number 14 on a black background"
+        },
+        {
+            "id": "0E08C8A1-C133-43E7-9B54-85725FC64B82",
+            "name": "base",
+            "rect": {
+                "x": 16,
+                "y": 559,
+                "width": 359,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9725490196078431,
+                0.9725490196078431,
+                0.9725490196078431,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "E7AAE6FF-2E2B-4D2C-8ECF-62C9974F4EB9",
+            "name": "acessories",
+            "rect": {
+                "x": 17,
+                "y": 516,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word accessories is shown in black and white"
+        },
+        {
+            "id": "6185C5BF-45C4-4387-BFFC-B68BFAF24245",
+            "name": "29",
+            "rect": {
+                "x": 330,
+                "y": 516,
+                "width": 21,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 2 is shown in white on a black background"
+        },
+        {
+            "id": "0CA9FB79-34D8-47A2-B8A9-2093C0EA38F3",
+            "name": "base",
+            "rect": {
+                "x": 16,
+                "y": 219,
+                "width": 359,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9725490196078431,
+                0.9725490196078431,
+                0.9725490196078431,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "309BF80F-189B-4E63-BBF6-55B526847A46",
+            "name": "dress",
+            "rect": {
+                "x": 17,
+                "y": 176,
+                "width": 43,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word wordpress is shown in black and white"
+        },
+        {
+            "id": "CA2B7AB0-F8B2-43FF-80CA-B7F94AD7FD40",
+            "name": "288",
+            "rect": {
+                "x": 319,
+                "y": 176,
+                "width": 32,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 28 is shown in white on a black background"
+        },
+        {
+            "id": "4CC0909F-A123-4679-BE4B-00A13443094B",
+            "name": "base",
+            "rect": {
+                "x": 16,
+                "y": 491,
+                "width": 359,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9725490196078431,
+                0.9725490196078431,
+                0.9725490196078431,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "521EF819-29DE-4F71-B24A-A62DA8C36ABE",
+            "name": "sexy dress",
+            "rect": {
+                "x": 17,
+                "y": 448,
+                "width": 84,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the sexy dress logo"
+        },
+        {
+            "id": "12837692-92D1-4A4A-92E4-760C6C34A2AF",
+            "name": "501",
+            "rect": {
+                "x": 322,
+                "y": 448,
+                "width": 29,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 50 is shown in gray on a black background"
+        },
+        {
+            "id": "52107EC5-DEAF-4870-B5B1-8D110D9823EA",
+            "name": "base",
+            "rect": {
+                "x": 16,
+                "y": 355,
+                "width": 359,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9725490196078431,
+                0.9725490196078431,
+                0.9725490196078431,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "951FF45D-F827-480C-9960-DF28ECFD7C46",
+            "name": "jean",
+            "rect": {
+                "x": 16,
+                "y": 312,
+                "width": 34,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the jeans logo is shown in black and white"
+        },
+        {
+            "id": "60B4A666-A22D-4440-8BB2-FF6E923F040B",
+            "name": "72",
+            "rect": {
+                "x": 331,
+                "y": 312,
+                "width": 20,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number seven is shown in a black and white photo"
+        },
+        {
+            "id": "8380A3E8-47C2-4A38-A911-C1B1F4D9F170",
+            "name": "img",
+            "rect": {
+                "x": 16,
+                "y": 584,
+                "width": 144,
+                "height": 184
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6588235294117647,
+                0.6588235294117647,
+                0.6588235294117647,
+                1
+            ],
+            "label": 0,
+            "msg": "a woman in a black dress posing for the camera"
+        },
+        {
+            "id": "76169E80-0D49-4BEC-BFFC-D5D2243F862D",
+            "name": "White Dressrosa",
+            "rect": {
+                "x": 16,
+                "y": 776,
+                "width": 144,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a plane flying"
+        },
+        {
+            "id": "E8BCEADF-D3F4-4F49-84D0-3C9444E2EDE0",
+            "name": "$99.69",
+            "rect": {
+                "x": 16,
+                "y": 796,
+                "width": 80,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the radio station is shown"
+        },
+        {
+            "id": "0B48D29A-EE68-4142-91DD-3C81182984B0",
+            "name": "img",
+            "rect": {
+                "x": 176,
+                "y": 584,
+                "width": 144,
+                "height": 184
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6588235294117647,
+                0.6588235294117647,
+                0.6588235294117647,
+                1
+            ],
+            "label": 0,
+            "msg": "the black and red dress is made from a soft fabric"
+        },
+        {
+            "id": "227EEC6A-F910-43D0-AD2C-B6D5F32B2C8B",
+            "name": "White Dressrosa",
+            "rect": {
+                "x": 176,
+                "y": 776,
+                "width": 144,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a plane flying"
+        },
+        {
+            "id": "5099F483-BE0F-4243-B4BD-3E435E27D86D",
+            "name": "$99.69",
+            "rect": {
+                "x": 176,
+                "y": 796,
+                "width": 80,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the radio station is shown"
+        },
+        {
+            "id": "C45F7A15-CB9E-4BA8-8B35-F251DD8E48A6",
+            "name": "img",
+            "rect": {
+                "x": 336,
+                "y": 584,
+                "width": 144,
+                "height": 184
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6588235294117647,
+                0.6588235294117647,
+                0.6588235294117647,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a white square"
+        },
+        {
+            "id": "E51689CE-B507-4343-97C7-7067725A5F90",
+            "name": "White Dressrosa",
+            "rect": {
+                "x": 336,
+                "y": 776,
+                "width": 144,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the white house logo"
+        },
+        {
+            "id": "CCB00459-ACF4-4E47-A4B9-AF4CE5FFEC64",
+            "name": "$99.69",
+            "rect": {
+                "x": 336,
+                "y": 796,
+                "width": 80,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the radio station is shown"
+        },
+        {
+            "id": "790290AA-6F2A-4AA8-9343-333A4D17E0E2",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 782,
+                "width": 375,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "C25A3F05-4EC5-4A5F-8C36-3F23701487B7",
+            "name": "line",
+            "rect": {
+                "x": 133,
+                "y": 795,
+                "width": 110,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white square"
+        },
+        {
+            "id": "6D54BE02-646E-4D49-86DF-A84B04761D90",
+            "name": "Background",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 116
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                0.8200000000000001
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "72FC8A0F-11F6-4090-8C1D-1909E976F476",
+            "name": "stt",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 27
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9725490196078431,
+                0.9725490196078431,
+                0.9725490196078431,
+                0.8200000000000001
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "F20C0ED6-A336-4904-8617-095B593DC7FB",
+            "name": "base nav",
+            "rect": {
+                "x": 0,
+                "y": 27,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "18EF2BC8-5E18-484B-9DFF-0E1EF69C89A4",
+            "name": "base nav",
+            "rect": {
+                "x": 0,
+                "y": 27,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "0E086EF2-15CD-4B30-A2F1-D34FC4092085",
+            "name": "line",
+            "rect": {
+                "x": 16,
+                "y": 70,
+                "width": 295,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "0DB7D1DB-CE6F-4F82-8F89-844CECC6C40A",
+            "name": "type something",
+            "rect": {
+                "x": 48,
+                "y": 40,
+                "width": 211,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the new york times"
+        },
+        {
+            "id": "4FF6A5C5-7CD4-42CB-BB5B-E4B2BF7D6341",
+            "name": "Path",
+            "rect": {
+                "x": 17.500328196792907,
+                "y": 38.49957803269467,
+                "width": 16.50361016472334,
+                "height": 16.504360328821917
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a magnifying glass icon on a black background"
+        },
+        {
+            "id": "79F1CB13-1783-4D48-9960-4DBF88BF92E9",
+            "name": "Path",
+            "rect": {
+                "x": 16,
+                "y": 37,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a magnifying glass icon on a black background"
+        },
+        {
+            "id": "1EF7C84C-D043-403A-A20A-AB0ADF9C9726",
+            "name": "Fill 1",
+            "rect": {
+                "x": 331.37005722892354,
+                "y": 42.66221315437372,
+                "width": 26.695864188794076,
+                "height": 13.40969553571665
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "77F8FE95-90AC-4269-86D9-183C163D4EE5",
+            "name": "Fill 3",
+            "rect": {
+                "x": 331,
+                "y": 39,
+                "width": 4.524433786161808,
+                "height": 5.005530616005444
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "D6E7D941-74DE-479A-B425-638E6EAFAA9B",
+            "name": "Fill 4",
+            "rect": {
+                "x": 331,
+                "y": 54.82908767535196,
+                "width": 4.524433786161808,
+                "height": 5.005455841863409
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "632350A7-3DF3-4442-BFCF-AFD1721E662F",
+            "name": "Fill 6",
+            "rect": {
+                "x": 354.47526711727005,
+                "y": 39,
+                "width": 4.52473288272995,
+                "height": 5.005530616005444
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "88F16122-0B90-451D-9B44-C40A4389D58C",
+            "name": "Fill 7",
+            "rect": {
+                "x": 354.47526711727005,
+                "y": 54.82908767535196,
+                "width": 4.52473288272995,
+                "height": 5.005455841863409
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "F7139146-2B4A-41A5-9E2D-A5E0ABADA77C",
+            "name": "Path",
+            "rect": {
+                "x": 336.7167074808858,
+                "y": 54.931004830943834,
+                "width": 15.432709948432603,
+                "height": 1.2562803603045722
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

@@ -1,0 +1,1053 @@
+{
+    "layers": [
+        {
+            "id": "12907286-314D-4329-B994-2FF71048D996",
+            "name": "Rectangle",
+            "rect": {
+                "x": -4,
+                "y": -2,
+                "width": 383,
+                "height": 96
+            },
+            "_class": "rectangle",
+            "color": [
+                0.392156862745098,
+                0.4235294117647062,
+                0.9882352941176471,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and yellow rectangle with a white border"
+        },
+        {
+            "id": "29B435A1-E729-40D4-9E76-EBBF3F60CABB",
+            "name": "Event Details",
+            "rect": {
+                "x": 134,
+                "y": 55,
+                "width": 108,
+                "height": 23
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the event deals website"
+        },
+        {
+            "id": "34D2EF5F-B38C-49FD-8F57-DC341636CE67",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "F0C938A6-FCD6-4050-85AB-603F267EAA8C",
+            "name": "Border",
+            "rect": {
+                "x": 336,
+                "y": 17.33333333333337,
+                "width": 22,
+                "height": 11.333333333333371
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black square with a white background"
+        },
+        {
+            "id": "B33B9D55-4E93-45C0-8867-302A5859F84B",
+            "name": "Cap",
+            "rect": {
+                "x": 359,
+                "y": 21,
+                "width": 1.3280380056083914,
+                "height": 4
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "E594BE0B-7F06-4172-AEB0-1CBBE677D265",
+            "name": "Capacity",
+            "rect": {
+                "x": 338,
+                "y": 19.33333333333337,
+                "width": 18,
+                "height": 7.333333333333371
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "B5B9463E-100C-4BCA-AA10-6420DB2ADE0B",
+            "name": "Wifi-path",
+            "rect": {
+                "x": 315.69372069707185,
+                "y": 17.33067270403251,
+                "width": 15.27238845364559,
+                "height": 4.7432373976931785
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 0,
+            "msg": "a white logo with a large tree in the middle"
+        },
+        {
+            "id": "9AFD149B-BCFA-431F-9054-3D2FA6140AF4",
+            "name": "Wifi-path",
+            "rect": {
+                "x": 318.3569945543097,
+                "y": 21.124713253322284,
+                "width": 9.949041387461762,
+                "height": 3.633980939289472
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 0,
+            "msg": "a white logo with a large tree in the middle"
+        },
+        {
+            "id": "C76EB3CD-062F-4CFC-ABC0-5712DEE35D66",
+            "name": "Wifi-path",
+            "rect": {
+                "x": 321.0170997074356,
+                "y": 24.921837113234915,
+                "width": 4.626293640211543,
+                "height": 3.3744071970963887
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 0,
+            "msg": "a white logo with a large tree in the middle"
+        },
+        {
+            "id": "B5011663-66F5-44EB-9B3A-AD54FCA995FC",
+            "name": "Cellular_Connection-path",
+            "rect": {
+                "x": 293.66666666666606,
+                "y": 24.333333333333258,
+                "width": 3,
+                "height": 4
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and black image of a bar graph"
+        },
+        {
+            "id": "EE42A2A1-65A5-4885-8672-EE23B3518A65",
+            "name": "Cellular_Connection-path",
+            "rect": {
+                "x": 298.3333333333328,
+                "y": 22.333333333333258,
+                "width": 3,
+                "height": 6
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and black image of a bar graph"
+        },
+        {
+            "id": "811CE1E4-26C3-41FB-8CAF-3D65124968C0",
+            "name": "Cellular_Connection-path",
+            "rect": {
+                "x": 302.99999999999955,
+                "y": 20,
+                "width": 3,
+                "height": 8.333333333333371
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and black image of a bar graph"
+        },
+        {
+            "id": "C8DC26A0-FA54-4DAE-B8A5-BE57A9EF60AB",
+            "name": "Cellular_Connection-path",
+            "rect": {
+                "x": 307.66666666666606,
+                "y": 17.66666666666663,
+                "width": 3,
+                "height": 10.666666666666629
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and black image of a bar graph"
+        },
+        {
+            "id": "28F4BDB9-2328-499E-BFE7-E8F0C1002FC5",
+            "name": "↳ Time",
+            "rect": {
+                "x": 21,
+                "y": 15.5,
+                "width": 54,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word 914 is shown in white on a black background"
+        },
+        {
+            "id": "A37685C8-BB56-49F0-B065-26EF8EB8D26C",
+            "name": "Path",
+            "rect": {
+                "x": 14,
+                "y": 55,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "7EEB7A54-700E-4A9A-A592-54FE355D8115",
+            "name": "Path",
+            "rect": {
+                "x": 20.247500000000002,
+                "y": 57.622499999999945,
+                "width": 10.741259665119685,
+                "height": 18.764999999999986
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white arrow pointing down on a black background"
+        },
+        {
+            "id": "9A6A66CB-7209-45D0-8202-24BA7BDC4885",
+            "name": "Rectangle Copy",
+            "rect": {
+                "x": -3,
+                "y": 86,
+                "width": 381,
+                "height": 336
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black rectangle in the middle"
+        },
+        {
+            "id": "445F8F43-933B-402B-A6FE-33A175E35A66",
+            "name": "Marketing and sales",
+            "rect": {
+                "x": 55,
+                "y": 113,
+                "width": 274,
+                "height": 60
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in blue"
+        },
+        {
+            "id": "2AE28A58-F944-4BB6-AFAC-75069525B8A1",
+            "name": "Thursday, 1 Feb, 201",
+            "rect": {
+                "x": 55,
+                "y": 179,
+                "width": 142,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a clock"
+        },
+        {
+            "id": "7719AF07-2493-4D83-B6F1-F6F0D0F31AD6",
+            "name": "11 PM - 12 PM",
+            "rect": {
+                "x": 55,
+                "y": 224,
+                "width": 90,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a man and woman"
+        },
+        {
+            "id": "6D979FF9-0EA5-4B0F-885A-3B2382657202",
+            "name": "Oval",
+            "rect": {
+                "x": 23.75,
+                "y": 225.75000000000023,
+                "width": 16.5,
+                "height": 16.5
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a circular logo with a black background"
+        },
+        {
+            "id": "06B1D353-F8DD-46FB-A781-349DB6DC79C9",
+            "name": "Path",
+            "rect": {
+                "x": 31.386363636363626,
+                "y": 230.659090909091,
+                "width": 1.227272727272748,
+                "height": 3.9545454545452685
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a man is standing in front of a building"
+        },
+        {
+            "id": "1FC35817-02C2-4460-BB1E-DAEE93BA1978",
+            "name": "Path",
+            "rect": {
+                "x": 27.97763636361441,
+                "y": 233.38636363634168,
+                "width": 4.636000000043907,
+                "height": 4.636727272771168
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a person holding a phone"
+        },
+        {
+            "id": "2DA3D547-ADF1-4FC3-B343-5E6B85C61EDA",
+            "name": "New York",
+            "rect": {
+                "x": 55,
+                "y": 271,
+                "width": 66,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the new york city logo"
+        },
+        {
+            "id": "CA37EB08-B39A-48EC-8337-3ABA6BBBAC4C",
+            "name": "Oval",
+            "rect": {
+                "x": 25.930147058823536,
+                "y": 273.4724264705883,
+                "width": 10.698529411764696,
+                "height": 10.492647058823422
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a circular logo with a black background"
+        },
+        {
+            "id": "821968E8-FF2D-4C34-A9C9-779CB42A1F89",
+            "name": "Path",
+            "rect": {
+                "x": 26.577205882352928,
+                "y": 275.8482181372549,
+                "width": 5.199432692126209,
+                "height": 7.407579761499846
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a blue arrow pointing to the sky"
+        },
+        {
+            "id": "7AD7BC95-0E2E-48C1-95B1-7DAAA8C27883",
+            "name": "Path",
+            "rect": {
+                "x": 33.20919341879369,
+                "y": 275.8482180091212,
+                "width": 3.296621657560536,
+                "height": 4.446768635860508
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a blue and yellow logo with a black background"
+        },
+        {
+            "id": "DFF0F3A6-DF6A-4DE3-89BB-EFD7B91EB7E3",
+            "name": "Path",
+            "rect": {
+                "x": 23.503676470588232,
+                "y": 271.09742657675906,
+                "width": 15.551470588235304,
+                "height": 18.724597564004853
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a heart"
+        },
+        {
+            "id": "FC8BB6AA-2795-403A-83E7-6A30BB5569E8",
+            "name": "1 hour before",
+            "rect": {
+                "x": 55,
+                "y": 317,
+                "width": 88,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown"
+        },
+        {
+            "id": "6160B52C-D04A-44A4-8394-A94AA86372BF",
+            "name": "Path",
+            "rect": {
+                "x": 28.86096021860567,
+                "y": 333.6352657741611,
+                "width": 4.281968451677585,
+                "height": 2.353647923452627
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a blue bag with a yellow stripe on it"
+        },
+        {
+            "id": "1F38B349-7443-48B8-830E-39715509485A",
+            "name": "Path",
+            "rect": {
+                "x": 30.41666666666663,
+                "y": 317.01041666666674,
+                "width": 1.1666666666666856,
+                "height": 2.947916666666515
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a plane flying in the sky"
+        },
+        {
+            "id": "0147F683-9D2C-4BF8-89EB-A2B2E17AE022",
+            "name": "Path",
+            "rect": {
+                "x": 23.415592857583988,
+                "y": 318.79166666666674,
+                "width": 15.168898888039848,
+                "height": 13.635416666666515
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a blue arch with a white background"
+        },
+        {
+            "id": "F50C18D2-F894-44DF-81E4-66322F50C3E0",
+            "name": "Never",
+            "rect": {
+                "x": 55,
+                "y": 364,
+                "width": 41,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "neverland logo"
+        },
+        {
+            "id": "92A06136-747E-4D55-8304-628CBFCC2EB7",
+            "name": "Path",
+            "rect": {
+                "x": 24.814824655050643,
+                "y": 366.1209691666927,
+                "width": 13.455880105000574,
+                "height": 5.351472834301376
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black and white logo with a green arrow"
+        },
+        {
+            "id": "8EBFD87F-D5A2-46FC-950B-99A802CB1646",
+            "name": "Path",
+            "rect": {
+                "x": 25.3418448065986,
+                "y": 374.1161480054707,
+                "width": 14.163079705507812,
+                "height": 5.643762746464745
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white logo with a green arrow"
+        },
+        {
+            "id": "7CFABD83-66B2-4F6D-8694-015887710F65",
+            "name": "Path",
+            "rect": {
+                "x": 479,
+                "y": 241,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "0E27A117-503E-43F1-AB72-816C89576679",
+            "name": "Path",
+            "rect": {
+                "x": 483.9890867889486,
+                "y": 247.24930109576553,
+                "width": 14.016112115285864,
+                "height": 11.495730896930127
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "A39EC514-BA04-4A93-9DC6-7AFC04070549",
+            "name": "Path",
+            "rect": {
+                "x": 485,
+                "y": 313,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "4178D74E-E26F-42E2-B493-D511195B0980",
+            "name": "Path",
+            "rect": {
+                "x": 489.9890867889486,
+                "y": 319.24930109576553,
+                "width": 14.016112115285864,
+                "height": 11.495730896930127
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "F9EB3C8E-E2EE-49AC-9306-9EAD04CF8016",
+            "name": "Path Copy",
+            "rect": {
+                "x": 408,
+                "y": 264,
+                "width": 12,
+                "height": 10.00004270315435
+            },
+            "_class": "shapePath",
+            "color": [
+                0.1538817463957845,
+                0.2093392250969302,
+                0.324484481292517,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "35B981BB-3B05-4640-8CE9-2BF39A51A8AC",
+            "name": "Oval",
+            "rect": {
+                "x": 349.5625,
+                "y": 60,
+                "width": 4.875,
+                "height": 4.875
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 1,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "EEA0E3EF-DB01-4BEF-A7A0-C1466968F59F",
+            "name": "Oval",
+            "rect": {
+                "x": 349.5625,
+                "y": 66.5625,
+                "width": 4.875,
+                "height": 4.875
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "2197D4D8-85E2-47FB-9CA2-3699A63B503F",
+            "name": "Oval",
+            "rect": {
+                "x": 349.5625,
+                "y": 73.125,
+                "width": 4.875,
+                "height": 4.875
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "CC52C7CA-7D24-46C5-9ADD-0C6B808214C0",
+            "name": "Stroke 1",
+            "rect": {
+                "x": 308.75,
+                "y": 58.75,
+                "width": 20.5,
+                "height": 20.5
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "98EE855F-6587-4FBE-825F-C1C1D91648D0",
+            "name": "Path",
+            "rect": {
+                "x": 311.49999985,
+                "y": 64.15833346549994,
+                "width": 12.341665426166742,
+                "height": 12.341665484500027
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white tube with a black handle"
+        },
+        {
+            "id": "548A8767-6101-4A16-936B-DB56CE0B9B53",
+            "name": "Path",
+            "rect": {
+                "x": 321.60833182683336,
+                "y": 61.49791661470829,
+                "width": 4.893749248041672,
+                "height": 4.893750300125021
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white tube with a black handle"
+        },
+        {
+            "id": "75AA4BE3-A737-405A-BB39-CE72889585EA",
+            "name": "Path",
+            "rect": {
+                "x": 345.16666666666674,
+                "y": 281.5999999999999,
+                "width": 5.833333333333371,
+                "height": 7.800536270211296
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "F6688476-CA07-4007-ABBC-12566A0C73DC",
+            "name": "Path",
+            "rect": {
+                "x": 347.0625,
+                "y": 283.54999999999995,
+                "width": 2.0416666666666288,
+                "height": 2.099999999999909
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "B2138252-54BF-4E20-9D07-5F33276A7195",
+            "name": "Path",
+            "rect": {
+                "x": 337,
+                "y": 275.0000845238035,
+                "width": 13.416666666666629,
+                "height": 13.659743115058973
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "the logo for the company is shown in blue"
+        },
+        {
+            "id": "25C737B3-F1F4-4678-9208-FCB92C5E11ED",
+            "name": "Path",
+            "rect": {
+                "x": 338.16666666666674,
+                "y": 276.6661991356614,
+                "width": 2.9166666666666288,
+                "height": 10.115401728667393
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "the logo for the company is shown in blue"
+        },
+        {
+            "id": "C77B5EC8-7BE1-4FA0-9428-84053788CA15",
+            "name": "Line 3",
+            "rect": {
+                "x": 53.20676396735723,
+                "y": 257.1898148148148,
+                "width": 269.855374342828,
+                "height": 0.6203703703704377
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a dark blue background with a white square"
+        },
+        {
+            "id": "B2D613E8-A222-4F9A-8D2A-99EA7E2390CB",
+            "name": "Line 3 Copy",
+            "rect": {
+                "x": 53.20676396735723,
+                "y": 305.1898148148148,
+                "width": 269.855374342828,
+                "height": 0.6203703703704377
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a dark blue background with a white square"
+        },
+        {
+            "id": "53CB1CB4-DFCE-4E6D-8EC0-C8F1671D1705",
+            "name": "Line 3 Copy 2",
+            "rect": {
+                "x": 53.20676396735723,
+                "y": 351.1898148148148,
+                "width": 269.855374342828,
+                "height": 0.6203703703704377
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a dark blue background with a white square"
+        },
+        {
+            "id": "A30A6ADC-A546-42C2-9F58-4357562B931A",
+            "name": "Get Directions",
+            "rect": {
+                "x": 257,
+                "y": 274,
+                "width": 72,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for getcreative"
+        },
+        {
+            "id": "4D0889E3-2EC7-4210-A059-386E7F713773",
+            "name": "Rectangle",
+            "rect": {
+                "x": 24,
+                "y": 125,
+                "width": 15,
+                "height": 15
+            },
+            "_class": "rectangle",
+            "color": [
+                0.3058823529411765,
+                0.3411764705882353,
+                0.9411764705882353,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue circle with a black background"
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

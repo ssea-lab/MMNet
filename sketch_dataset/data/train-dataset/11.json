@@ -1,0 +1,768 @@
+{
+    "layers": [
+        {
+            "id": "8C43AA87-BA5B-43D6-8D39-F378CE89B6DD",
+            "name": "wallpaper",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 666.6666666666666
+            },
+            "_class": "bitmap",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "iphone xs max wallpaper"
+        },
+        {
+            "id": "5AB50365-EEAC-4C19-819E-9B668BA02DFC",
+            "name": "blur",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 667
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0,
+                0,
+                0,
+                0.3999999761581421
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "4163E9A1-5C07-4626-8CBC-CC2497FF6B35",
+            "name": "Cancel",
+            "rect": {
+                "x": 265,
+                "y": 614,
+                "width": 50,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word cancel is in white on a black background"
+        },
+        {
+            "id": "6FA71F50-107F-4493-9338-7F1744EA0F4A",
+            "name": "Emergency",
+            "rect": {
+                "x": 43.5,
+                "y": 614,
+                "width": 82,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word emergency is in white letters on a black background"
+        },
+        {
+            "id": "C5AFFF5B-71BA-4D03-9C07-A443C8CF8721",
+            "name": "button",
+            "rect": {
+                "x": 150,
+                "y": 476.5,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "BE115FC4-098B-4A86-AA71-34A956666157",
+            "name": "0",
+            "rect": {
+                "x": 175.5,
+                "y": 493,
+                "width": 24,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "BFC1B459-C52C-454F-99F7-BCA154195943",
+            "name": "button",
+            "rect": {
+                "x": 253,
+                "y": 386.5,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "44151A6A-5EE1-4601-895D-46E4D574C4A4",
+            "name": "WXYZ",
+            "rect": {
+                "x": 271,
+                "y": 435,
+                "width": 43,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white logo with the words wyz"
+        },
+        {
+            "id": "FAB2D21C-5E1E-4542-8DF2-E5575111E3A2",
+            "name": "9",
+            "rect": {
+                "x": 278.5,
+                "y": 397,
+                "width": 24,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 9 in white on a black background"
+        },
+        {
+            "id": "AAFA761E-0008-486E-AADC-CAF71D199AFC",
+            "name": "button",
+            "rect": {
+                "x": 150,
+                "y": 386.5,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "14946659-FA86-4D66-A120-B564BDE2235D",
+            "name": "TUV",
+            "rect": {
+                "x": 174,
+                "y": 435,
+                "width": 31,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word vu is written in white on a black background"
+        },
+        {
+            "id": "B2759399-FC1B-40C4-8042-CFCD554CED7B",
+            "name": "8",
+            "rect": {
+                "x": 175,
+                "y": 397,
+                "width": 25,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white number eight on a black background"
+        },
+        {
+            "id": "7220F9EA-C950-4E1B-9FEE-424DE7CE6480",
+            "name": "button",
+            "rect": {
+                "x": 47,
+                "y": 387,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "F8AE1F9C-0879-4FE7-9E11-862D65001F78",
+            "name": "PQRS",
+            "rect": {
+                "x": 65.5,
+                "y": 435,
+                "width": 40,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word 'pros' is written in white on a black background"
+        },
+        {
+            "id": "7B4A8F42-835A-42C3-AF2A-EDA82D69E5E8",
+            "name": "7",
+            "rect": {
+                "x": 73.5,
+                "y": 397,
+                "width": 22,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the seven seven hotel"
+        },
+        {
+            "id": "28D0AACB-68BE-4164-A15F-51C6347103A8",
+            "name": "button",
+            "rect": {
+                "x": 253,
+                "y": 296.5,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "555F6D8F-4CD7-4345-B3EE-A62CE086E5E1",
+            "name": "MNO",
+            "rect": {
+                "x": 275.5,
+                "y": 345,
+                "width": 34,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word \"omn\" is written in white on a black background"
+        },
+        {
+            "id": "151958CD-3C5F-4DC7-8727-61BBD1BEE48F",
+            "name": "6",
+            "rect": {
+                "x": 278.5,
+                "y": 307,
+                "width": 24,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white number six on a black background"
+        },
+        {
+            "id": "FE92AC76-EFD2-48B1-95D3-7CFDAC060F07",
+            "name": "button",
+            "rect": {
+                "x": 150,
+                "y": 296.5,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "F33F5E97-A59D-48ED-8EAD-51FC015BF553",
+            "name": "JKL",
+            "rect": {
+                "x": 175.5,
+                "y": 345,
+                "width": 28,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the jkl logo is shown in white on a black background"
+        },
+        {
+            "id": "AF95641E-5D58-4951-83A6-AC5F485B9AC1",
+            "name": "5",
+            "rect": {
+                "x": 175.5,
+                "y": 307,
+                "width": 24,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number five is shown in white on a black background"
+        },
+        {
+            "id": "A30AD04E-B704-4BA1-8E87-45AB5755397D",
+            "name": "button",
+            "rect": {
+                "x": 47,
+                "y": 297,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "9CDCEFEB-B7A5-43AA-974C-93F5C9B18CD9",
+            "name": "GHI",
+            "rect": {
+                "x": 72.5,
+                "y": 345,
+                "width": 28,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for ghc, a company that makes a variety of products"
+        },
+        {
+            "id": "E352AF3D-097D-489D-8B17-1A90BF0AE1F1",
+            "name": "4",
+            "rect": {
+                "x": 72,
+                "y": 307,
+                "width": 25,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white number four is shown on a black background"
+        },
+        {
+            "id": "76E0F755-427B-4F04-BAA7-31BB4350CD9F",
+            "name": "button",
+            "rect": {
+                "x": 253,
+                "y": 206.5,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "E5510E24-5E7D-4331-BDC6-1678A1015C02",
+            "name": "DEF",
+            "rect": {
+                "x": 278,
+                "y": 255,
+                "width": 29,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "defence force logo"
+        },
+        {
+            "id": "9746688D-3A66-42C9-9E51-9EA0F1EF11E2",
+            "name": "3",
+            "rect": {
+                "x": 278.5,
+                "y": 217,
+                "width": 24,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white number three on a black background"
+        },
+        {
+            "id": "88A7CA74-4728-4BBF-926C-4E2D57E1400C",
+            "name": "button",
+            "rect": {
+                "x": 150,
+                "y": 206.5,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "7A8656D2-144D-4B0D-96BC-22D508D90655",
+            "name": "ABC",
+            "rect": {
+                "x": 174,
+                "y": 255,
+                "width": 31,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the abc logo is shown in white on a black background"
+        },
+        {
+            "id": "2EA24598-ADF2-4C9E-9C3E-2B758202A2A1",
+            "name": "2",
+            "rect": {
+                "x": 176,
+                "y": 217,
+                "width": 23,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number two is shown in white on a black background"
+        },
+        {
+            "id": "4A19AD54-BFC7-47EC-9533-E6E5AE768C41",
+            "name": "button",
+            "rect": {
+                "x": 47,
+                "y": 206.5,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "384D222B-A893-421B-B43E-F2B8777F3C53",
+            "name": "1",
+            "rect": {
+                "x": 75.5,
+                "y": 217,
+                "width": 18,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white and black logo with a black background"
+        },
+        {
+            "id": "9D19A79C-85AC-4E53-8870-F3ABE2BF2D9C",
+            "name": "status bar large white",
+            "rect": {
+                "x": 6.5,
+                "y": 4,
+                "width": 363.5,
+                "height": 16
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a green light is on a black background"
+        },
+        {
+            "id": "B2406FF3-BA90-42A7-B1AC-C39C3F99A359",
+            "name": "shape",
+            "rect": {
+                "x": 85,
+                "y": 140,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a barcode"
+        },
+        {
+            "id": "69A3CFF2-782A-48DF-A3E4-0C93511FF263",
+            "name": "shape",
+            "rect": {
+                "x": 124,
+                "y": 140,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a barcode"
+        },
+        {
+            "id": "B21AE566-DB9D-4730-A5FC-748CF38927EC",
+            "name": "shape",
+            "rect": {
+                "x": 162,
+                "y": 140,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a barcode"
+        },
+        {
+            "id": "105881F4-C6A1-456E-8E76-94D68A05695C",
+            "name": "shape",
+            "rect": {
+                "x": 201,
+                "y": 140,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a barcode"
+        },
+        {
+            "id": "D2AC5EA1-EE99-408C-A27A-DA7A5E5C7C4B",
+            "name": "shape",
+            "rect": {
+                "x": 239,
+                "y": 140,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a barcode"
+        },
+        {
+            "id": "4DD3A37A-FFD3-41F9-88D3-4A7962022840",
+            "name": "shape",
+            "rect": {
+                "x": 278,
+                "y": 140,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a barcode"
+        },
+        {
+            "id": "113CD047-308B-4C51-8C86-62F069CC795C",
+            "name": "Touch ID or Enter Pa",
+            "rect": {
+                "x": 68.5,
+                "y": 94,
+                "width": 238,
+                "height": 23
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white logo with the words \"the best\""
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

@@ -1,0 +1,1737 @@
+{
+    "layers": [
+        {
+            "id": "0BCDB79C-E30B-46BE-89E0-FF2CB11EE167",
+            "name": "Bg_layout",
+            "rect": {
+                "x": 0,
+                "y": 3121,
+                "width": 1440,
+                "height": 772
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9428661279116216,
+                0.9421217837202944,
+                0.9750744047619048,
+                1
+            ],
+            "label": 0,
+            "msg": "a woman is wearing a black dress with a white collar"
+        },
+        {
+            "id": "26F1772C-EDF0-475E-BE0B-BE2F96A2099E",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 3793,
+                "width": 1440,
+                "height": 100
+            },
+            "_class": "rectangle",
+            "color": [
+                0.7411764705882353,
+                0.7843137254901961,
+                0.8392156862745098,
+                1
+            ],
+            "label": 0,
+            "msg": "a small plane flying over a blue sky"
+        },
+        {
+            "id": "2CA46C89-CA0C-46BE-A891-B4F3FE742C0E",
+            "name": "Privacy",
+            "rect": {
+                "x": 925,
+                "y": 3830,
+                "width": 65,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "privacy - privacy policy"
+        },
+        {
+            "id": "DAAF5CD7-2D74-4B2D-9694-2D505A807D21",
+            "name": "Terms & Conditions",
+            "rect": {
+                "x": 1020,
+                "y": 3830,
+                "width": 160,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the new york state department of health"
+        },
+        {
+            "id": "70EB7FFF-2310-4078-BB42-CA0303401B6A",
+            "name": "FAQ",
+            "rect": {
+                "x": 1210,
+                "y": 3830,
+                "width": 65,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the faq logo is shown in white on a black background"
+        },
+        {
+            "id": "2BC2B213-8058-42AB-A20B-F5529F1CAD61",
+            "name": "Icon/Social/Twitter",
+            "rect": {
+                "x": 367.41968295833334,
+                "y": 3838,
+                "width": 15.438913000000014,
+                "height": 11.721371279253617
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white bird is flying in the air"
+        },
+        {
+            "id": "C3916A1D-3E5E-4F96-89DC-DE84AD4DBEEA",
+            "name": "Icon/Social/Twitter Copy",
+            "rect": {
+                "x": 424.77801891666667,
+                "y": 3836,
+                "width": 7.238922000000002,
+                "height": 14.097173512051086
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white man is standing in front of a black background"
+        },
+        {
+            "id": "BE4505E8-E8E9-4C2A-8C4C-3C33F52C4BAE",
+            "name": "Icon/Social/Twitter Copy 2",
+            "rect": {
+                "x": 474.2916666666667,
+                "y": 3837,
+                "width": 19,
+                "height": 12.349999999999909
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white and black image of a logo"
+        },
+        {
+            "id": "50E01386-C008-43AD-87D0-2F52BDC87C5A",
+            "name": "Icon/Social/Twitter Copy 3",
+            "rect": {
+                "x": 529,
+                "y": 3836,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white square on a black background"
+        },
+        {
+            "id": "3D2122FF-5BD4-4694-9CF3-0E9A625F786A",
+            "name": "Icon/Social/Twitter Copy 4",
+            "rect": {
+                "x": 584.2910833333333,
+                "y": 3835,
+                "width": 14.998000000000047,
+                "height": 14.059570321290266
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white and black logo on a black background"
+        },
+        {
+            "id": "9623ECB5-81F9-4B1F-9426-A5F14F21B31C",
+            "name": "© Organic UI 2019",
+            "rect": {
+                "x": 165,
+                "y": 3830,
+                "width": 133,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the organic university logo"
+        },
+        {
+            "id": "D5591C9A-1477-41E6-86F6-F8953AEE4D29",
+            "name": "Bg",
+            "rect": {
+                "x": 0,
+                "y": 3640,
+                "width": 1440,
+                "height": 154
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "87235D6B-AC73-4353-9FA0-4C8D64BAE87F",
+            "name": "About us",
+            "rect": {
+                "x": 355,
+                "y": 3711.4426751592355,
+                "width": 70,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company's website"
+        },
+        {
+            "id": "022B41D1-3874-455F-ACBC-AC50185955D5",
+            "name": "Company",
+            "rect": {
+                "x": 500,
+                "y": 3711.4426751592355,
+                "width": 73,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the company logo is shown in blue"
+        },
+        {
+            "id": "BCE8108E-03E4-4E0B-BE85-8F2FA796425B",
+            "name": "Works",
+            "rect": {
+                "x": 648,
+                "y": 3711.4426751592355,
+                "width": 49,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for works"
+        },
+        {
+            "id": "B46563E3-2BEF-490F-909C-0A111F68FD07",
+            "name": "Contact",
+            "rect": {
+                "x": 773,
+                "y": 3711.4426751592355,
+                "width": 60,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the contact logo with a blue background"
+        },
+        {
+            "id": "49CD6ECD-96AC-4B2B-B276-55551714284C",
+            "name": "Login",
+            "rect": {
+                "x": 1041,
+                "y": 3711.4426751592355,
+                "width": 44,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "logging in to the internet"
+        },
+        {
+            "id": "23BD07EB-88A0-4828-B361-3DAF373466AC",
+            "name": "Join Us",
+            "rect": {
+                "x": 908,
+                "y": 3711.4426751592355,
+                "width": 58,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company's website"
+        },
+        {
+            "id": "BC827D37-CA74-4FF4-8904-E3D1B35C045E",
+            "name": "Form / Prime",
+            "rect": {
+                "x": 450,
+                "y": 3273,
+                "width": 255,
+                "height": 72
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a blue logo on it"
+        },
+        {
+            "id": "3DA8CA21-3B77-45A1-89D6-97C262F6E09D",
+            "name": "Form / Prime Copy",
+            "rect": {
+                "x": 735,
+                "y": 3273,
+                "width": 255,
+                "height": 72
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a blue and white logo"
+        },
+        {
+            "id": "71EA1E84-F6DA-4C8D-833D-0BD74EF15272",
+            "name": "Form / Textarea",
+            "rect": {
+                "x": 516,
+                "y": 3393,
+                "width": 408,
+                "height": 72.62195121951208
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a blue and white logo"
+        },
+        {
+            "id": "05A97A93-E72E-4FBA-AEB0-77511287330E",
+            "name": "Button / Big / Prime",
+            "rect": {
+                "x": 586,
+                "y": 3528,
+                "width": 255,
+                "height": 50
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue button with the words send your request on it"
+        },
+        {
+            "id": "CF54D5FB-327C-4FC0-93DE-4ED3024F2990",
+            "name": "Want To Work With Us",
+            "rect": {
+                "x": 450,
+                "y": 3171,
+                "width": 540,
+                "height": 52
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue sky with a few clouds in the distance"
+        },
+        {
+            "id": "3F84D7A4-22D6-4914-AC14-3E9793BDD312",
+            "name": "Bg_layout",
+            "rect": {
+                "x": 0,
+                "y": 2316,
+                "width": 1440,
+                "height": 805
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "25C11DED-A630-4112-A62D-6FCE72671555",
+            "name": "Placeholder",
+            "rect": {
+                "x": 165,
+                "y": 2876,
+                "width": 95,
+                "height": 95
+            },
+            "_class": "rectangle",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "xbox one wireless controller - white"
+        },
+        {
+            "id": "00660050-6F01-4A70-AA49-69954343D9EA",
+            "name": "Placeholder",
+            "rect": {
+                "x": 165,
+                "y": 2731,
+                "width": 95,
+                "height": 95
+            },
+            "_class": "rectangle",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "xbox one wireless controller - white"
+        },
+        {
+            "id": "EBE9EB45-62E3-4C5A-A84C-A9C901C6D4AF",
+            "name": "Placeholder",
+            "rect": {
+                "x": 145,
+                "y": 2586,
+                "width": 135,
+                "height": 145
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "xbox one wireless controller - white"
+        },
+        {
+            "id": "E84FEEC1-7129-4BBF-AEDA-B0CBCA23B19D",
+            "name": "Icon/Star",
+            "rect": {
+                "x": 646.8981251409664,
+                "y": 3039,
+                "width": 16.611249154201687,
+                "height": 16.110674867116813
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue heart shape on a black background"
+        },
+        {
+            "id": "6E4E0A3D-9311-4309-B213-E6DFC3707213",
+            "name": "Save To Wishlist",
+            "rect": {
+                "x": 671,
+                "y": 3035,
+                "width": 123,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person with a white background"
+        },
+        {
+            "id": "E402FC79-169C-4D46-ABDA-95C1DF9C33C5",
+            "name": "Button / Big / Prime",
+            "rect": {
+                "x": 593,
+                "y": 2957,
+                "width": 255,
+                "height": 50
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "add to cart button on a pink background"
+        },
+        {
+            "id": "91E71335-02E9-4550-AD6D-AF371E547465",
+            "name": "Placeholder",
+            "rect": {
+                "x": 450,
+                "y": 2561,
+                "width": 540,
+                "height": 335
+            },
+            "_class": "rectangle",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "xbox one wireless controller - white"
+        },
+        {
+            "id": "794CCFB2-E887-48A8-87F7-0C6A803732D7",
+            "name": "Path",
+            "rect": {
+                "x": 702.9999999999993,
+                "y": 2866,
+                "width": 35.2933777983103,
+                "height": 40.89550271547614
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black and white image of a cube with arrows"
+        },
+        {
+            "id": "79E0D99A-C165-4321-BC11-A4B7A6B2EDF3",
+            "name": "Path",
+            "rect": {
+                "x": 706.158050073012,
+                "y": 2878.894764210714,
+                "width": 12.908490338095248,
+                "height": 23.727967652380812
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a cube with arrows"
+        },
+        {
+            "id": "79006A74-0869-4577-96F2-274814388DE1",
+            "name": "Path",
+            "rect": {
+                "x": 722.2256872492025,
+                "y": 2878.894764210714,
+                "width": 12.908490338095248,
+                "height": 23.727967652380812
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a cube with arrows"
+        },
+        {
+            "id": "FCE21147-3EF6-4A2A-B959-44E84E44DB4A",
+            "name": "Path",
+            "rect": {
+                "x": 707.9182058111071,
+                "y": 2869.3538549107143,
+                "width": 25.45695774761907,
+                "height": 13.664261061904654
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a cube with arrows"
+        },
+        {
+            "id": "F5C833ED-BB2D-46CA-AC66-F98D97364885",
+            "name": "Path",
+            "rect": {
+                "x": 691.5086219713515,
+                "y": 2883.5086219713517,
+                "width": 57.98275605729691,
+                "height": 57.98275605729668
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white image of a cube with arrows"
+        },
+        {
+            "id": "C3D3EDF8-91D3-4DBF-BC4E-A1F993B4346C",
+            "name": "Special Edition 2019",
+            "rect": {
+                "x": 622.5,
+                "y": 2470,
+                "width": 197,
+                "height": 120
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue and white logo with the words \"the best\""
+        },
+        {
+            "id": "EF553BBB-288D-43E0-A2FB-18B251E566F3",
+            "name": "Xbox One Wireless Co",
+            "rect": {
+                "x": 260,
+                "y": 2396,
+                "width": 920,
+                "height": 60
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue sky with a few clouds in it"
+        },
+        {
+            "id": "3CB6C74F-81A3-4257-AEB8-A9F1394171E4",
+            "name": "Arrives by Thursday,",
+            "rect": {
+                "x": 1114,
+                "y": 2923,
+                "width": 160,
+                "height": 48
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the american association for the advancement of science"
+        },
+        {
+            "id": "2E0944FD-6C38-40D1-8626-C0CFD38A33B2",
+            "name": "Free shipping",
+            "rect": {
+                "x": 1114,
+                "y": 2892,
+                "width": 87,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the free shipping program"
+        },
+        {
+            "id": "AB4ABEBA-9993-40FC-8506-0D779D8A4721",
+            "name": "Icon/Star",
+            "rect": {
+                "x": 1120.000022349635,
+                "y": 2704.0178582677167,
+                "width": 13.970079999999825,
+                "height": 13.2729875570476
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a star shaped object on a black background"
+        },
+        {
+            "id": "60CA0303-5379-4DE7-BF2B-836CD558FB7B",
+            "name": "Icon/Star Copy 2",
+            "rect": {
+                "x": 1168.000022349635,
+                "y": 2704.0178582677167,
+                "width": 13.970079999999825,
+                "height": 13.2729875570476
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue star on a black background"
+        },
+        {
+            "id": "9B4C5246-6581-4E99-9168-0E15ED264498",
+            "name": "Icon/Star Copy",
+            "rect": {
+                "x": 1144.000022349635,
+                "y": 2704.0178582677167,
+                "width": 13.970079999999825,
+                "height": 13.2729875570476
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue star on a black background"
+        },
+        {
+            "id": "8432E12B-F603-4F5E-9542-FF9A6E961106",
+            "name": "Icon/Star Copy 3",
+            "rect": {
+                "x": 1192.000022349635,
+                "y": 2704.0178582677167,
+                "width": 13.970079999999825,
+                "height": 13.2729875570476
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue star on a black background"
+        },
+        {
+            "id": "4BFB006A-1320-4DC4-8F4C-37CAEB8D19FF",
+            "name": "Icon/Star Copy 4",
+            "rect": {
+                "x": 1216.000022349635,
+                "y": 2704.0178582677167,
+                "width": 13.970079999999825,
+                "height": 13.2729875570476
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue star on a black background"
+        },
+        {
+            "id": "33BA72B6-C91B-4E74-B691-73D8E927172D",
+            "name": "$59.99",
+            "rect": {
+                "x": 1114,
+                "y": 2627,
+                "width": 160,
+                "height": 52
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue and white sign with the words $ 59 99"
+        },
+        {
+            "id": "D7479998-C5D3-4271-825E-AD46398C140A",
+            "name": "Label",
+            "rect": {
+                "x": 1114,
+                "y": 2586,
+                "width": 95,
+                "height": 34.5
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word adults only is shown in white on a black background"
+        },
+        {
+            "id": "EE7D35DC-4CA0-47B2-B7E3-9D2A1EA3F4DC",
+            "name": "Bg_layout",
+            "rect": {
+                "x": 0,
+                "y": 1544,
+                "width": 1440,
+                "height": 772
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "E9419D94-41A6-4702-ACDA-52925AE35EF9",
+            "name": "Placeholder",
+            "rect": {
+                "x": 925,
+                "y": 1624,
+                "width": 350,
+                "height": 632
+            },
+            "_class": "rectangle",
+            "color": [
+                0.4484481292517007,
+                0.2684690357114674,
+                0.2684690357114674,
+                1
+            ],
+            "label": 0,
+            "msg": "a woman with long hair standing in front of a wall"
+        },
+        {
+            "id": "804D1631-0CCF-4F5A-8D84-F772FC10EEBD",
+            "name": "Placeholder",
+            "rect": {
+                "x": 545,
+                "y": 1624,
+                "width": 350,
+                "height": 561
+            },
+            "_class": "rectangle",
+            "color": [
+                0.4484481292517007,
+                0.2684690357114674,
+                0.2684690357114674,
+                1
+            ],
+            "label": 0,
+            "msg": "a man with long hair wearing sunglasses and a denim jacket"
+        },
+        {
+            "id": "BE462E01-F978-41FA-A7DF-FFB63A9515F2",
+            "name": "Icon/Social/Facebook",
+            "rect": {
+                "x": 848,
+                "y": 2234.6876208897484,
+                "width": 15,
+                "height": 15
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white and black image of a circular shape"
+        },
+        {
+            "id": "B8F289C5-83FB-434C-9177-5C3DA16DD7F4",
+            "name": "Icon/Social/Facebook Copy 3",
+            "rect": {
+                "x": 818,
+                "y": 2235.6505319148932,
+                "width": 19,
+                "height": 12.350000000000364
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the google logo is shown on a black background"
+        },
+        {
+            "id": "1A7DF6DD-22FB-483E-BBC9-E7E9EC844F34",
+            "name": "Icon/Social/Facebook Copy 4",
+            "rect": {
+                "x": 795,
+                "y": 2234.6361056452715,
+                "width": 7.238922000000002,
+                "height": 14.097173512051086
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white facebook logo on a black background"
+        },
+        {
+            "id": "470B3A1A-B5AB-41C2-BCA4-38C963403221",
+            "name": "Icon/Social/Dribbble",
+            "rect": {
+                "x": 875,
+                "y": 2236.6647969166343,
+                "width": 17.66666699999996,
+                "height": 10.600000200000068
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word b is shown in white on a black background"
+        },
+        {
+            "id": "58DE1739-A384-47EE-A5D2-AACBA694908B",
+            "name": "Alejandro Evans",
+            "rect": {
+                "x": 545,
+                "y": 2207.4622823984528,
+                "width": 190,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "B109D0AA-34C7-41BA-A9E3-9FB0C22C3AF3",
+            "name": "Photographer",
+            "rect": {
+                "x": 545,
+                "y": 2238.0870406189556,
+                "width": 190,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a barcode is shown on a black background"
+        },
+        {
+            "id": "6851BB4B-8001-4BCF-990F-BE7C6CA3A1FC",
+            "name": "Icon / Arrow",
+            "rect": {
+                "x": 306,
+                "y": 2240,
+                "width": 14.454461999999978,
+                "height": 8.799604492473918
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue arrow pointing to the right on a black background"
+        },
+        {
+            "id": "B6D817A5-BE4E-4172-AECE-FDDE0C314CAF",
+            "name": "Icon / Arrow Copy",
+            "rect": {
+                "x": 170,
+                "y": 2240,
+                "width": 14.454462000000007,
+                "height": 8.799604492473918
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue arrow pointing to the left on a black background"
+        },
+        {
+            "id": "C4F822C1-41F8-4F4D-B11D-948D6EAAD597",
+            "name": "02/ 05",
+            "rect": {
+                "x": 165,
+                "y": 2148,
+                "width": 160,
+                "height": 37
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the time is 02 05 05"
+        },
+        {
+            "id": "05BA3B33-3604-40F6-9C56-6C7EE052B401",
+            "name": "If you own an Iphone",
+            "rect": {
+                "x": 166,
+                "y": 1724,
+                "width": 255,
+                "height": 156
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person"
+        },
+        {
+            "id": "334452D4-0135-489D-99FF-072FEDA6735C",
+            "name": "Our Crew",
+            "rect": {
+                "x": 165,
+                "y": 1624,
+                "width": 350,
+                "height": 60
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "our crew logo"
+        },
+        {
+            "id": "78C93998-5D8C-4CC8-8C33-2D6A7B680B90",
+            "name": "Bg_layout",
+            "rect": {
+                "x": 0,
+                "y": 772,
+                "width": 1440,
+                "height": 772
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "1DE5898B-115C-469B-BEC1-14A83D2A48AC",
+            "name": "Social / Share",
+            "rect": {
+                "x": 1155,
+                "y": 1465,
+                "width": 116.43891299999996,
+                "height": 16
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in blue"
+        },
+        {
+            "id": "9765DCB4-0F40-47F2-914E-0C9681EE3B5A",
+            "name": "Icon / Arrow Left",
+            "rect": {
+                "x": 879.4396184128638,
+                "y": 1466.390108342454,
+                "width": 7.5262175768264115,
+                "height": 11.86488453484526
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white arrow pointing down on a black background"
+        },
+        {
+            "id": "5725AFF8-D3B7-47BD-A1EC-484766774AB8",
+            "name": "Learn More",
+            "rect": {
+                "x": 735,
+                "y": 1464,
+                "width": 72,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word learn more is in the middle of the screen"
+        },
+        {
+            "id": "1A8264F8-398F-4048-A09C-1BB7D650DBE6",
+            "name": "For a time I worked",
+            "rect": {
+                "x": 736,
+                "y": 1194,
+                "width": 444,
+                "height": 78
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a computer screen"
+        },
+        {
+            "id": "EB44C3F5-4089-4882-95D8-4CEAC68BE262",
+            "name": "15 Tips To Increase",
+            "rect": {
+                "x": 735,
+                "y": 984,
+                "width": 445,
+                "height": 180
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "15 tips to increase your adwords profits"
+        },
+        {
+            "id": "FB21EB17-2411-40B1-BE71-74CD3EBA8638",
+            "name": "Christopher Vasquez",
+            "rect": {
+                "x": 736,
+                "y": 938,
+                "width": 254,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue sky with a few clouds in the distance"
+        },
+        {
+            "id": "6A5872BD-5CD0-42DF-91AB-D15C1EFF63BA",
+            "name": "Date",
+            "rect": {
+                "x": 1071,
+                "y": 938,
+                "width": 110,
+                "height": 16
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown on a black background"
+        },
+        {
+            "id": "333BF596-0184-4CC5-9E2B-1D1F88EEBD32",
+            "name": "Bg Pic",
+            "rect": {
+                "x": 165,
+                "y": 852,
+                "width": 445,
+                "height": 632
+            },
+            "_class": "rectangle",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a view up at the top of a tall building"
+        },
+        {
+            "id": "8C75FF03-C554-4DA3-8881-C0F09837812E",
+            "name": "Bg",
+            "rect": {
+                "x": 77,
+                "y": 951,
+                "width": 278,
+                "height": 298
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a pink and purple background with two birds on a rock"
+        },
+        {
+            "id": "E0C34807-A8B2-4F77-BCF2-FDBCF03A2E0B",
+            "name": "WE",
+            "rect": {
+                "x": 159,
+                "y": 1020,
+                "width": 115,
+                "height": 80
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the we logo is shown in black and white"
+        },
+        {
+            "id": "283273D5-81D5-45B2-8E5F-11FC7AA30D40",
+            "name": "Bg_layout",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 772
+            },
+            "_class": "rectangle",
+            "color": [
+                0.7411764705882353,
+                0.7843137254901961,
+                0.8392156862745098,
+                1
+            ],
+            "label": 0,
+            "msg": "a small plane flying in the sky with a blue sky"
+        },
+        {
+            "id": "DE3D5418-FD83-4302-A707-760F94B1285C",
+            "name": "Lock",
+            "rect": {
+                "x": 732.5625468356773,
+                "y": 119.85883587515859,
+                "width": 5.063379469939491,
+                "height": 35.053160627799016
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "260F3208-FD83-4800-BF30-5852BFB79B1B",
+            "name": "Volume Up",
+            "rect": {
+                "x": 791.0720000475072,
+                "y": 80.28269243299204,
+                "width": 29.817327731596606,
+                "height": 5.088339411673644
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "7021D7F5-01B8-4994-9E3A-2B2B61FCCA73",
+            "name": "Volume Down",
+            "rect": {
+                "x": 826.7965106248378,
+                "y": 80.28269243299204,
+                "width": 29.81735867408588,
+                "height": 5.088339411673644
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and black logo with a black background"
+        },
+        {
+            "id": "B2C75D44-34AF-4667-9E04-121599B88897",
+            "name": "Inner Shape",
+            "rect": {
+                "x": 738,
+                "y": 83,
+                "width": 816,
+                "height": 623
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "5C641F57-7EF4-4397-8AFE-E01D15F81D3F",
+            "name": "Screen",
+            "rect": {
+                "x": 761.5616479981721,
+                "y": 108.56317088136677,
+                "width": 768.2575234175437,
+                "height": 576.4853962246092
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "the best apple products for 2019"
+        },
+        {
+            "id": "F5C16BCA-EDEF-49C9-A22F-BFCCD76FE69F",
+            "name": "Housing",
+            "rect": {
+                "x": 743.3226452805197,
+                "y": 393.1793583141959,
+                "width": 8.577060828836125,
+                "height": 8.592207721390253
+            },
+            "_class": "shapePath",
+            "color": [
+                0.7411764705882353,
+                0.7843137254901961,
+                0.8392156862745098,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "42121B51-19D9-499D-A8FB-2F3B8D54ED30",
+            "name": "Eye",
+            "rect": {
+                "x": 744.9968497698031,
+                "y": 394.99616541492486,
+                "width": 5.134756550922248,
+                "height": 5.132996781235363
+            },
+            "_class": "shapePath",
+            "color": [
+                0.7411764705882353,
+                0.7843137254901961,
+                0.8392156862745098,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and blue image of a person"
+        },
+        {
+            "id": "8722536E-45C7-4766-A44C-39E2E28F943A",
+            "name": "Sensor 1",
+            "rect": {
+                "x": 742.2781293089165,
+                "y": 410.2841579812854,
+                "width": 11.681528877186338,
+                "height": 11.93421325415187
+            },
+            "_class": "shapePath",
+            "color": [
+                0.7411764705882353,
+                0.7843137254901961,
+                0.8392156862745098,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue circle with a white border"
+        },
+        {
+            "id": "441B85CE-0247-41E1-8A4E-2A39817DDDAB",
+            "name": "Sensor 2",
+            "rect": {
+                "x": 743.9469004341609,
+                "y": 431.5952598366492,
+                "width": 8.3439894080243,
+                "height": 8.52443199038595
+            },
+            "_class": "shapePath",
+            "color": [
+                0.7411764705882353,
+                0.7843137254901961,
+                0.8392156862745098,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black background"
+        },
+        {
+            "id": "4E90DC3F-1EC5-478D-930E-E387B283BD27",
+            "name": "Bg",
+            "rect": {
+                "x": 70,
+                "y": 622,
+                "width": 255,
+                "height": 150
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "257A685F-30FD-48EE-9095-0D4341938176",
+            "name": "Icon / Arrow Down",
+            "rect": {
+                "x": 192,
+                "y": 731,
+                "width": 12.873659000000004,
+                "height": 8.245266125865442
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue arrow on a black background"
+        },
+        {
+            "id": "7CD646C2-2753-436F-B9B3-CC4787C93533",
+            "name": "Icon / Arrow Down Copy",
+            "rect": {
+                "x": 192,
+                "y": 655,
+                "width": 12.873659000000004,
+                "height": 8.245266125865442
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue arrow on a black background"
+        },
+        {
+            "id": "6D09C378-775D-4CFC-BD98-1FC08DD036FA",
+            "name": "Button / Big / Prime",
+            "rect": {
+                "x": 420,
+                "y": 640,
+                "width": 190,
+                "height": 50
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "all product icon"
+        },
+        {
+            "id": "AB93449C-7DF8-45E7-8FE0-A22D5C6CF314",
+            "name": "5 Reasons To Choose",
+            "rect": {
+                "x": 165,
+                "y": 469,
+                "width": 285,
+                "height": 48
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in blue"
+        },
+        {
+            "id": "4634DFBF-8FDB-4A4D-B00C-F0E42D86A435",
+            "name": "Divider",
+            "rect": {
+                "x": 165,
+                "y": 402,
+                "width": 65,
+                "height": 3
+            },
+            "_class": "rectangle",
+            "color": [
+                0,
+                0.05490196078431378,
+                0.2823529411764706,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "1FC871A5-8145-480D-ABFD-D0B25378D4D0",
+            "name": "How Does An Lcd Scre",
+            "rect": {
+                "x": 165,
+                "y": 107,
+                "width": 445,
+                "height": 240
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "how does a led screen work?"
+        },
+        {
+            "id": "14A9BE8D-D586-41A4-A5C5-3B591E122B74",
+            "name": "01/ 03",
+            "rect": {
+                "x": 450,
+                "y": 305,
+                "width": 160,
+                "height": 24
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the radio station is shown"
+        },
+        {
+            "id": "76C40B75-81CD-4BCB-9650-A7DF2704A6CF",
+            "name": "Menu / Loc",
+            "rect": {
+                "x": 34,
+                "y": 29,
+                "width": 1376,
+                "height": 17
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a blue sky"
+        }
+    ],
+    "width": 1440,
+    "height": 3892,
+    "layer_width": 64,
+    "layer_height": 64
+}

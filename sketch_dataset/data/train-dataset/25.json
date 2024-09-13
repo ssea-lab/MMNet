@@ -1,0 +1,1870 @@
+{
+    "layers": [
+        {
+            "id": "8EA9997D-4512-433E-9D2E-1068EF817A54",
+            "name": "Preferred Roommates",
+            "rect": {
+                "x": 24,
+                "y": 130,
+                "width": 187,
+                "height": 80
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "preferred roomates logo"
+        },
+        {
+            "id": "A8E108DC-AB9A-4D24-9F7C-FB0BD255DFB6",
+            "name": "Number of preferred",
+            "rect": {
+                "x": 24,
+                "y": 242,
+                "width": 273,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the waveform of a radio station"
+        },
+        {
+            "id": "BE8CBF3B-3DF7-4B27-9537-8B4838AE348D",
+            "name": "bg",
+            "rect": {
+                "x": 24,
+                "y": 274,
+                "width": 327,
+                "height": 40
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with blue border on a white background"
+        },
+        {
+            "id": "0E63B271-6E94-4113-9BB8-AFAA5DB5D0E6",
+            "name": "line",
+            "rect": {
+                "x": 143,
+                "y": 274,
+                "width": 1,
+                "height": 40
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.05882352941176471,
+                0.4509803921568623,
+                0.9333333333333333,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "F50B9A58-4B98-4854-8CDF-81BCDBAFF8D9",
+            "name": "line",
+            "rect": {
+                "x": 184,
+                "y": 274,
+                "width": 1,
+                "height": 40
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.05882352941176471,
+                0.4509803921568623,
+                0.9333333333333333,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "3C899210-6847-4B7E-A906-B3408E1E10F4",
+            "name": "bg_active",
+            "rect": {
+                "x": 66,
+                "y": 274,
+                "width": 37,
+                "height": 40
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.05882352941176471,
+                0.4509803921568623,
+                0.9333333333333333,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "1CFAC8C5-1A42-4626-90D9-CC07DCA32952",
+            "name": "1",
+            "rect": {
+                "x": 82,
+                "y": 286,
+                "width": 5,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white and black logo with a black background"
+        },
+        {
+            "id": "DB09101B-F313-4532-BA27-3ED73814F5B9",
+            "name": "0",
+            "rect": {
+                "x": 40,
+                "y": 286,
+                "width": 10,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is blue"
+        },
+        {
+            "id": "2EF0F7A6-9D11-458E-9CCE-C3A1C8A0B643",
+            "name": "2",
+            "rect": {
+                "x": 119,
+                "y": 286,
+                "width": 8,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is blue"
+        },
+        {
+            "id": "F24A8330-AADD-4744-A181-764C2125B77E",
+            "name": "3",
+            "rect": {
+                "x": 160,
+                "y": 286,
+                "width": 8,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 3 is shown in blue"
+        },
+        {
+            "id": "5C1440DA-3F91-4516-914C-296D055F0110",
+            "name": "line",
+            "rect": {
+                "x": 225,
+                "y": 274,
+                "width": 1,
+                "height": 40
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.05882352941176471,
+                0.4509803921568623,
+                0.9333333333333333,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "A91B329F-0AB0-4DB3-A200-E14FCFD5CBD4",
+            "name": "4",
+            "rect": {
+                "x": 201,
+                "y": 286,
+                "width": 8,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 4 is shown in blue on a black background"
+        },
+        {
+            "id": "29F9CD1E-85B2-424A-A4CB-70F96469461E",
+            "name": "line",
+            "rect": {
+                "x": 266,
+                "y": 274,
+                "width": 1,
+                "height": 40
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.05882352941176471,
+                0.4509803921568623,
+                0.9333333333333333,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "FD0D742F-1D58-4E22-BCD3-87D41FE0EFFC",
+            "name": "5",
+            "rect": {
+                "x": 242,
+                "y": 286,
+                "width": 8,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number five is shown in blue"
+        },
+        {
+            "id": "DEF42671-1D17-4651-872C-187AB731B080",
+            "name": "line",
+            "rect": {
+                "x": 307,
+                "y": 274,
+                "width": 1,
+                "height": 40
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.05882352941176471,
+                0.4509803921568623,
+                0.9333333333333333,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "5DF183B3-6378-47B3-89F4-42007D4196E1",
+            "name": "6",
+            "rect": {
+                "x": 282.5,
+                "y": 286,
+                "width": 9,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number six is shown in blue"
+        },
+        {
+            "id": "EA9E81C3-796A-42A6-A4B3-75DF0C4CCC5A",
+            "name": "7",
+            "rect": {
+                "x": 324,
+                "y": 286,
+                "width": 8,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number seven is shown in blue"
+        },
+        {
+            "id": "54568B32-BCEC-4280-9246-39FAC4A88673",
+            "name": "Preferred Occupation",
+            "rect": {
+                "x": 24,
+                "y": 627,
+                "width": 195,
+                "height": 22
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in blue"
+        },
+        {
+            "id": "0B30B358-7046-4659-8F57-8F9A85287087",
+            "name": "bg",
+            "rect": {
+                "x": 102,
+                "y": 665,
+                "width": 56,
+                "height": 56
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "106BD3FB-C074-4975-9405-A6257984639D",
+            "name": "Oval",
+            "rect": {
+                "x": 127.2580645161288,
+                "y": 687.8387096774194,
+                "width": 1.0322580645160997,
+                "height": 1.0322580645160997
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.007843137254901959,
+                0.01568627450980392,
+                0.2,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue wave is shown on the screen"
+        },
+        {
+            "id": "9F6556F4-11E6-41D1-BD2C-9CB706E812C8",
+            "name": "Oval",
+            "rect": {
+                "x": 132.41935483870975,
+                "y": 687.8387096774194,
+                "width": 1.0322580645160997,
+                "height": 1.0322580645160997
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.007843137254901959,
+                0.01568627450980392,
+                0.2,
+                1
+            ],
+            "label": 2,
+            "msg": "a blue background with a black background"
+        },
+        {
+            "id": "6135F025-ACB3-4828-8A03-74CD3F8DA5BD",
+            "name": "Shape",
+            "rect": {
+                "x": 128.29032258064535,
+                "y": 690.9354838709678,
+                "width": 4.129032258064626,
+                "height": 2.064516129032313
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.007843137254901959,
+                0.01568627450980392,
+                0.2,
+                1
+            ],
+            "label": 2,
+            "msg": "a blue bird flying in the air"
+        },
+        {
+            "id": "C457638B-5EF0-4863-9CDE-96DA000015F9",
+            "name": "Path",
+            "rect": {
+                "x": 119,
+                "y": 677,
+                "width": 22.709677419354875,
+                "height": 32
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a logo with a blue background and a person in the middle"
+        },
+        {
+            "id": "CEBA0C8A-3513-4A41-8C9B-0AF422D54033",
+            "name": "Path",
+            "rect": {
+                "x": 136.01058064516133,
+                "y": 687.4175483870968,
+                "width": 1.0539354838708732,
+                "height": 2.913548387096739
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a logo with a blue background and a person in the middle"
+        },
+        {
+            "id": "6DBBECFA-A5C2-43FB-A93B-36636978EA2B",
+            "name": "Path",
+            "rect": {
+                "x": 123.64516129032268,
+                "y": 687.4175483870968,
+                "width": 1.0539354838708732,
+                "height": 2.913548387096739
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a logo with a blue background and a person in the middle"
+        },
+        {
+            "id": "DEABAFA9-7689-4758-B63E-63E795800D35",
+            "name": "Path",
+            "rect": {
+                "x": 123.6456774193548,
+                "y": 678.0322580645161,
+                "width": 13.418838709677402,
+                "height": 8.787612903225863
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a logo with a blue background and a person in the middle"
+        },
+        {
+            "id": "4F0A0D66-3BE3-4439-B6AE-2643C0EFBA0D",
+            "name": "Path",
+            "rect": {
+                "x": 125.70967741935488,
+                "y": 685.3365161290322,
+                "width": 9.290322580645125,
+                "height": 9.211870967741902
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a logo with a blue background and a person in the middle"
+        },
+        {
+            "id": "71F2E328-1EF8-4E16-BB60-6876911181C1",
+            "name": "Path",
+            "rect": {
+                "x": 131.23329032258061,
+                "y": 696.6645161290322,
+                "width": 2.7344516129032854,
+                "height": 3.661935483870934
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a logo with a blue background and a person in the middle"
+        },
+        {
+            "id": "1D90259E-0DFE-44A4-A0F5-7961250308CF",
+            "name": "Path",
+            "rect": {
+                "x": 127.77419354838707,
+                "y": 694.9535483870968,
+                "width": 5.161290322580726,
+                "height": 3.051870967741934
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a logo with a blue background and a person in the middle"
+        },
+        {
+            "id": "35601063-262A-4609-9FA9-1D8036C3720B",
+            "name": "Path",
+            "rect": {
+                "x": 126.74193548387098,
+                "y": 696.6645161290322,
+                "width": 2.7344516129032854,
+                "height": 3.661935483870934
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a logo with a blue background and a person in the middle"
+        },
+        {
+            "id": "7869DC4F-0501-46BF-A323-91888F74B01C",
+            "name": "Path",
+            "rect": {
+                "x": 120.0322580645161,
+                "y": 698.124129032258,
+                "width": 3.075612903225874,
+                "height": 6.230709677419327
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a logo with a blue background and a person in the middle"
+        },
+        {
+            "id": "842ACEEF-94F8-4A9B-8469-53CBD42D4809",
+            "name": "Path",
+            "rect": {
+                "x": 120.0322580645161,
+                "y": 705.3870967741935,
+                "width": 3.096774193548299,
+                "height": 2.580645161290363
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a logo with a blue background and a person in the middle"
+        },
+        {
+            "id": "0A9EA9BB-D8B1-43BA-B09E-AB3B83790329",
+            "name": "Path",
+            "rect": {
+                "x": 122.72954838709666,
+                "y": 697.0438709677419,
+                "width": 6.056258064516214,
+                "height": 10.923870967741891
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a logo with a blue background and a person in the middle"
+        },
+        {
+            "id": "AB361F77-7FAC-437E-9067-679742B8ECAB",
+            "name": "Path",
+            "rect": {
+                "x": 128.89935483870977,
+                "y": 702.8064516129032,
+                "width": 2.910967741935565,
+                "height": 5.161290322580612
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a logo with a blue background and a person in the middle"
+        },
+        {
+            "id": "57F66241-9BF2-4496-A5F4-77C23982D40A",
+            "name": "Path",
+            "rect": {
+                "x": 128.86374193548386,
+                "y": 699.285935483871,
+                "width": 2.9821935483871584,
+                "height": 2.488258064516117
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a logo with a blue background and a person in the middle"
+        },
+        {
+            "id": "52FC87C0-9FD8-4CB1-98CF-42071DAA13AF",
+            "name": "Path",
+            "rect": {
+                "x": 131.923870967742,
+                "y": 697.0438709677419,
+                "width": 6.056258064516214,
+                "height": 10.923870967741891
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a logo with a blue background and a person in the middle"
+        },
+        {
+            "id": "7BFA184A-73D8-47CD-914A-1EF08351F3C6",
+            "name": "Path",
+            "rect": {
+                "x": 137.58064516129025,
+                "y": 705.3870967741935,
+                "width": 3.096774193548299,
+                "height": 2.580645161290363
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a logo with a blue background and a person in the middle"
+        },
+        {
+            "id": "674907C7-CD53-41CA-A8FA-37D903543079",
+            "name": "Path",
+            "rect": {
+                "x": 137.60129032258055,
+                "y": 698.124129032258,
+                "width": 3.0761290322579953,
+                "height": 6.230709677419327
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a logo with a blue background and a person in the middle"
+        },
+        {
+            "id": "E4701B75-3563-44E6-AC76-CCFB231C4C7F",
+            "name": "Professionals",
+            "rect": {
+                "x": 83,
+                "y": 729,
+                "width": 93,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the professional services group"
+        },
+        {
+            "id": "BA00789E-C1B8-42A6-8405-C26EC11F66A7",
+            "name": "bg",
+            "rect": {
+                "x": 219,
+                "y": 665,
+                "width": 56,
+                "height": 56
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "DF1F9300-E538-4873-88E1-9167F994C7D6",
+            "name": "Path",
+            "rect": {
+                "x": 234.00073871549057,
+                "y": 677,
+                "width": 25.998447891817705,
+                "height": 31.999866666666662
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black and white image of a person in a graduation cap"
+        },
+        {
+            "id": "1CB4CF63-5EEC-43B3-9502-73F5E691F14C",
+            "name": "Path",
+            "rect": {
+                "x": 235.19871938775486,
+                "y": 692.7049333333333,
+                "width": 1.8497142857140716,
+                "height": 4.0282666666666955
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a person in a graduation cap"
+        },
+        {
+            "id": "9A658181-AE45-4B63-A277-F3C992F3C4F2",
+            "name": "Path",
+            "rect": {
+                "x": 239.86598469387764,
+                "y": 687.2473333333334,
+                "width": 1.5637142857144681,
+                "height": 4.2415999999999485
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a person in a graduation cap"
+        },
+        {
+            "id": "3B2B7F21-F013-42C1-BAB1-57746FBAB816",
+            "name": "Path",
+            "rect": {
+                "x": 237.71541326530587,
+                "y": 702.0665333333334,
+                "width": 6.1253877551021105,
+                "height": 5.866666666666674
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a person in a graduation cap"
+        },
+        {
+            "id": "07750013-D0C2-48C4-B706-F3178173B92D",
+            "name": "Path",
+            "rect": {
+                "x": 242.7328826530611,
+                "y": 702.0665333333334,
+                "width": 3.9456326530612387,
+                "height": 3.0346666666666806
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a person in a graduation cap"
+        },
+        {
+            "id": "27EC11DF-A77F-4196-BCA0-3078EC4E5E0A",
+            "name": "Path",
+            "rect": {
+                "x": 244.2753724489794,
+                "y": 704.9694666666667,
+                "width": 2.9910612244898402,
+                "height": 2.96373333333338
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a person in a graduation cap"
+        },
+        {
+            "id": "C529C20F-51EB-4125-BCA3-C062F58B3029",
+            "name": "Path",
+            "rect": {
+                "x": 245.51965816326538,
+                "y": 699.0265333333333,
+                "width": 4.554775510204308,
+                "height": 4.517866666666691
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a person in a graduation cap"
+        },
+        {
+            "id": "E7551B01-A295-4FA1-976D-F6350722165C",
+            "name": "Path",
+            "rect": {
+                "x": 248.32765816326537,
+                "y": 704.9694666666667,
+                "width": 2.9910612244898402,
+                "height": 2.96373333333338
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a person in a graduation cap"
+        },
+        {
+            "id": "16AC0BC7-9B26-4176-8AF6-4736F4A536F1",
+            "name": "Path",
+            "rect": {
+                "x": 251.75329081632663,
+                "y": 702.0665333333334,
+                "width": 6.1253877551021105,
+                "height": 5.866666666666674
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a person in a graduation cap"
+        },
+        {
+            "id": "FDE66742-8949-4313-B5E4-1943535E5775",
+            "name": "Path",
+            "rect": {
+                "x": 248.91557653061227,
+                "y": 702.0665333333334,
+                "width": 3.9456326530612387,
+                "height": 3.0346666666666806
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a person in a graduation cap"
+        },
+        {
+            "id": "2DF694F5-C34D-4182-AB15-D15595B61D30",
+            "name": "Path",
+            "rect": {
+                "x": 242.49092346938778,
+                "y": 687.7422666666666,
+                "width": 10.612244897959044,
+                "height": 10.590933333333282
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a person in a graduation cap"
+        },
+        {
+            "id": "00E891DA-DF41-45F9-8A2A-0D311F1FD231",
+            "name": "Path",
+            "rect": {
+                "x": 239.9588418367348,
+                "y": 681.2782666666667,
+                "width": 15.676408163265478,
+                "height": 6.378666666666618
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a person in a graduation cap"
+        },
+        {
+            "id": "139C5D6F-DA16-4CFA-92E4-51C9358C42DF",
+            "name": "Path",
+            "rect": {
+                "x": 254.16439285714296,
+                "y": 687.2484,
+                "width": 1.5637142857144681,
+                "height": 4.2415999999999485
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a person in a graduation cap"
+        },
+        {
+            "id": "4A340607-C2F9-470B-AE95-86F008456686",
+            "name": "Path",
+            "rect": {
+                "x": 237.76847448979606,
+                "y": 678.1006666666667,
+                "width": 20.057142857142935,
+                "height": 4.315733333333355
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a person in a graduation cap"
+        },
+        {
+            "id": "D3FF2A31-B059-456E-A9C1-0D6295116A9B",
+            "name": "Path",
+            "rect": {
+                "x": 244.21541326530632,
+                "y": 691.5332,
+                "width": 1.8571428571426623,
+                "height": 1.8666666666666742
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black background with a blue light"
+        },
+        {
+            "id": "F9ED2CDD-7856-49A1-87B9-C1AB6F72838B",
+            "name": "Path",
+            "rect": {
+                "x": 245.0113316326533,
+                "y": 692.3332,
+                "width": 0.26530612244914664,
+                "height": 0.2433333333333394
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black background with a blue light"
+        },
+        {
+            "id": "9234E691-650C-421B-9C2C-B6ADDB1A551C",
+            "name": "Path",
+            "rect": {
+                "x": 249.52153571428562,
+                "y": 691.5332,
+                "width": 1.8571428571426623,
+                "height": 1.8666666666666742
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a blue cross with a black background"
+        },
+        {
+            "id": "5025C49C-0BF5-4188-A288-88C4C563821F",
+            "name": "Path",
+            "rect": {
+                "x": 250.3174540816326,
+                "y": 692.3332,
+                "width": 0.26530612244914664,
+                "height": 0.2433333333333394
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a blue cross with a black background"
+        },
+        {
+            "id": "9CAFCA84-5AE8-4B66-8C58-6B104B5ECFDE",
+            "name": "Shape",
+            "rect": {
+                "x": 245.80724999999984,
+                "y": 695.1332,
+                "width": 3.979591836734471,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.007843137254901959,
+                0.01568627450980392,
+                0.2,
+                1
+            ],
+            "label": 2,
+            "msg": "a green light is shining on a black background"
+        },
+        {
+            "id": "215A176F-9C95-4E4B-B3F7-93BC4C8FD95E",
+            "name": "Students",
+            "rect": {
+                "x": 200,
+                "y": 729,
+                "width": 93,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the university of the state of new york"
+        },
+        {
+            "id": "40032007-09FF-4686-BA18-134C967053D0",
+            "name": "Preferred Age",
+            "rect": {
+                "x": 24,
+                "y": 511,
+                "width": 125,
+                "height": 22
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company that is called preferred age"
+        },
+        {
+            "id": "F77F133F-939B-4C96-972F-2C160FDADB2C",
+            "name": "24s - 32s",
+            "rect": {
+                "x": 292,
+                "y": 519,
+                "width": 61,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the 24s radio station"
+        },
+        {
+            "id": "4D7984C5-CD9A-4437-8670-47DA54E15D0B",
+            "name": "16s",
+            "rect": {
+                "x": 24,
+                "y": 579,
+                "width": 20,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word \"the\" is in blue and white letters"
+        },
+        {
+            "id": "DD1DB351-2DBE-4851-87C0-A5E5355F1841",
+            "name": "65s",
+            "rect": {
+                "x": 328,
+                "y": 579,
+                "width": 23,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word 65 is in white letters on a black background"
+        },
+        {
+            "id": "993529CA-EB10-44FE-AE6C-BCDE57C685DF",
+            "name": "Line",
+            "rect": {
+                "x": 24,
+                "y": 567,
+                "width": 327,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9411764705882353,
+                0.9411764705882353,
+                0.9411764705882353,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "5B7811E2-0848-4319-8671-18B781CC1231",
+            "name": "radius Range",
+            "rect": {
+                "x": 106,
+                "y": 567,
+                "width": 81,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.05882352941176471,
+                0.4509803921568623,
+                0.9333333333333333,
+                1
+            ],
+            "label": 0,
+            "msg": "a purple and blue gradient background with a white background"
+        },
+        {
+            "id": "EAC7622B-7CD2-480F-9360-FFAAF0EE05A5",
+            "name": "pin_node",
+            "rect": {
+                "x": 167,
+                "y": 551,
+                "width": 40,
+                "height": 40
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "2055B723-BAB3-4FEC-A166-2D6FBE38598D",
+            "name": "pin_node",
+            "rect": {
+                "x": 86,
+                "y": 551,
+                "width": 40,
+                "height": 40
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "93421ACD-43A9-4B13-A23F-FDD0C8D7A2F3",
+            "name": "btn_next",
+            "rect": {
+                "x": -4,
+                "y": 770,
+                "width": 383,
+                "height": 108
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white background with a purple and blue background"
+        },
+        {
+            "id": "F31D434A-0294-4D96-9F7F-90E5278A5437",
+            "name": "Preferred Gender",
+            "rect": {
+                "x": 24,
+                "y": 354,
+                "width": 156,
+                "height": 22
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the ottawa sesquicentennial celebration"
+        },
+        {
+            "id": "5348D6B8-F38A-4209-AA32-6257ECFE6CB2",
+            "name": "bg",
+            "rect": {
+                "x": 102,
+                "y": 392,
+                "width": 56,
+                "height": 56
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "D8AF4EF5-2AFE-4C99-AD37-2DD802B1016F",
+            "name": "Oval",
+            "rect": {
+                "x": 122.76392592592583,
+                "y": 422.59177411764705,
+                "width": 2.218370370370394,
+                "height": 2.254908235294124
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.007843137254901959,
+                0.01568627450980392,
+                0.2,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue and green light is shining on a black background"
+        },
+        {
+            "id": "927D4E58-2529-48F7-82E3-DB9BE146FDE8",
+            "name": "Oval",
+            "rect": {
+                "x": 135.03540740740732,
+                "y": 422.59177411764705,
+                "width": 2.218370370370394,
+                "height": 2.254908235294124
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.007843137254901959,
+                0.01568627450980392,
+                0.2,
+                1
+            ],
+            "label": 2,
+            "msg": "a blue and green light is shining on a black background"
+        },
+        {
+            "id": "705412D4-837A-4F1D-8243-587BC71B6FBD",
+            "name": "Shape",
+            "rect": {
+                "x": 122.0955740740742,
+                "y": 420.1035294117647,
+                "width": 3.5551481481481915,
+                "height": 1.7036329423060579
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.007843137254901959,
+                0.01568627450980392,
+                0.2,
+                1
+            ],
+            "label": 2,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "6631DB02-D4BE-4405-B790-45A04FC4504E",
+            "name": "Shape",
+            "rect": {
+                "x": 134.3669814814814,
+                "y": 420.1046682349985,
+                "width": 3.5551481481481915,
+                "height": 1.7024941190722984
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.007843137254901959,
+                0.01568627450980392,
+                0.2,
+                1
+            ],
+            "label": 2,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "3BB9E635-5672-4929-8392-32D386276E20",
+            "name": "Shape",
+            "rect": {
+                "x": 127.8559444444445,
+                "y": 428.3299388235294,
+                "width": 4.3058888888888305,
+                "height": 1.8616470588235075
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.007843137254901959,
+                0.01568627450980392,
+                0.2,
+                1
+            ],
+            "label": 2,
+            "msg": "a green glowing alien is on a dark background"
+        },
+        {
+            "id": "659ECF9D-9C42-4138-85BE-0218ED83864C",
+            "name": "Path",
+            "rect": {
+                "x": 116.02644444444445,
+                "y": 403.99998490793064,
+                "width": 27.964740740740808,
+                "height": 31.942866856775254
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white drawing of a man's head"
+        },
+        {
+            "id": "B9819922-6ACE-4297-9521-37050282423E",
+            "name": "Path",
+            "rect": {
+                "x": 136.81155555555551,
+                "y": 407.08603345660555,
+                "width": 3.300666666666757,
+                "height": 10.572620661041526
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white drawing of a man's head"
+        },
+        {
+            "id": "1E9EC2D6-B1C0-4717-A3B1-4DEF7F0327F1",
+            "name": "Path",
+            "rect": {
+                "x": 117.94037037037037,
+                "y": 405.20482246110134,
+                "width": 17.732222222222163,
+                "height": 9.423565803465351
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white drawing of a man's head"
+        },
+        {
+            "id": "7FA09111-60E5-4EE8-8080-4F3D8EC6EC79",
+            "name": "Path",
+            "rect": {
+                "x": 117.21162962962967,
+                "y": 421.08935529411764,
+                "width": 1.5380740740740748,
+                "height": 4.106089411764685
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white drawing of a man's head"
+        },
+        {
+            "id": "E8ED00B5-9317-4C96-8F03-7FF8B15B4FB0",
+            "name": "Path",
+            "rect": {
+                "x": 119.90540740740744,
+                "y": 412.16301176470586,
+                "width": 20.20674074074077,
+                "height": 22.57498352941178
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white drawing of a man's head"
+        },
+        {
+            "id": "9064C478-8C6F-4D26-9DAA-6EFD89924FBC",
+            "name": "Path",
+            "rect": {
+                "x": 141.27451851851856,
+                "y": 421.08935529411764,
+                "width": 1.5314814814814781,
+                "height": 4.104131764705869
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white drawing of a man's head"
+        },
+        {
+            "id": "30F402FE-58AB-4B78-9C36-5E3095FC685C",
+            "name": "Male",
+            "rect": {
+                "x": 83,
+                "y": 456,
+                "width": 93,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the male sex toys logo"
+        },
+        {
+            "id": "B27E1A80-B435-458A-81F5-05AD143B495F",
+            "name": "bg",
+            "rect": {
+                "x": 219,
+                "y": 392,
+                "width": 56,
+                "height": 56
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.05882352941176471,
+                0.4509803921568628,
+                0.9333333333333333,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "208EC30E-0D07-41B8-B028-40BF0EA09049",
+            "name": "Shape",
+            "rect": {
+                "x": 243.86775749318804,
+                "y": 427.9752037914692,
+                "width": 6.307820163487577,
+                "height": 2.2583507109004586
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 1,
+            "msg": "a white logo with a heart shape"
+        },
+        {
+            "id": "1C6BAB3B-71A5-4934-B479-393250E1EC4E",
+            "name": "Path",
+            "rect": {
+                "x": 233.05152768160042,
+                "y": 404.00002542298813,
+                "width": 27.939712576656348,
+                "height": 31.966609648101894
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white and black icon of a person"
+        },
+        {
+            "id": "252A0B6A-41C0-4F15-B1B0-54BB6E227E16",
+            "name": "Path",
+            "rect": {
+                "x": 257.91290463215273,
+                "y": 420.24295734597155,
+                "width": 1.3921416893731475,
+                "height": 3.757649289099504
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white and black icon of a person"
+        },
+        {
+            "id": "F8E09841-FB95-4510-A8F4-72BCF858603E",
+            "name": "Path",
+            "rect": {
+                "x": 235.4140842991128,
+                "y": 405.21327550456283,
+                "width": 23.21463834737642,
+                "height": 14.541436706327943
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white and black icon of a person"
+        },
+        {
+            "id": "C1655B09-86E3-4EB4-8022-BF14E006AD67",
+            "name": "Path",
+            "rect": {
+                "x": 234.73828882833777,
+                "y": 420.24303317535544,
+                "width": 1.3921416893731475,
+                "height": 3.757649289099504
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white and black icon of a person"
+        },
+        {
+            "id": "0B38AD31-3398-4DC2-A541-2500AD224D4F",
+            "name": "Path",
+            "rect": {
+                "x": 234.63941144414184,
+                "y": 425.16231279620854,
+                "width": 8.78871934604922,
+                "height": 9.591039485416218
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white and black icon of a person"
+        },
+        {
+            "id": "E1BFB54A-B144-470F-BF68-605B164B2EF9",
+            "name": "Path",
+            "rect": {
+                "x": 237.33229427792912,
+                "y": 416.00500473933647,
+                "width": 19.378746594005406,
+                "height": 16.996094786729884
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white and black icon of a person"
+        },
+        {
+            "id": "583FDE00-91D6-47A9-8078-CDC2B92E50E5",
+            "name": "Path",
+            "rect": {
+                "x": 250.61299182561334,
+                "y": 425.1624644549763,
+                "width": 8.790855585831196,
+                "height": 9.598393818587454
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white and black icon of a person"
+        },
+        {
+            "id": "43339B06-B86D-4492-B95F-510F7E9C9DA5",
+            "name": "Shape",
+            "rect": {
+                "x": 239.54759400544935,
+                "y": 420.9265687200664,
+                "width": 3.502861035422484,
+                "height": 1.6819620856207962
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a man standing on a white background"
+        },
+        {
+            "id": "96914B43-D487-429B-B3EA-9071BB9A0A49",
+            "name": "Shape",
+            "rect": {
+                "x": 250.99295640326955,
+                "y": 420.9265971563981,
+                "width": 3.502861035422484,
+                "height": 1.6819336492890784
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person standing on a white background"
+        },
+        {
+            "id": "5BD2B0A2-7B7F-4EA2-8970-26B56BDBB0AE",
+            "name": "Female",
+            "rect": {
+                "x": 200,
+                "y": 456,
+                "width": 93,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the female logo is shown in blue"
+        },
+        {
+            "id": "4EC6285C-6F5C-4244-B64B-636BEE8370F9",
+            "name": "Naviagtion",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 88
+            },
+            "_class": "symbolInstance",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "E6F34420-2437-4772-A149-648043CBF448",
+            "name": "progress",
+            "rect": {
+                "x": 0,
+                "y": 88,
+                "width": 375,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a purple and blue gradient background"
+        },
+        {
+            "id": "2A4622DA-2DAB-4021-B511-C3EA9482AD27",
+            "name": "progress_incomplete",
+            "rect": {
+                "x": 313,
+                "y": 88,
+                "width": 62,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        }
+    ],
+    "width": 375,
+    "height": 876,
+    "layer_width": 64,
+    "layer_height": 64
+}

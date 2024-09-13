@@ -1,0 +1,597 @@
+{
+    "layers": [
+        {
+            "id": "1E60AB8B-9572-4179-AA88-3CF32A07855F",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 667
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border on it"
+        },
+        {
+            "id": "D07D5700-9632-4AF7-95A6-3FDF45214B10",
+            "name": "helium",
+            "rect": {
+                "x": 0,
+                "y": 550,
+                "width": 375,
+                "height": 256
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9809736394557823,
+                0.9809736394557823,
+                0.9809736394557823,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and blue colored square with a rainbow colored background"
+        },
+        {
+            "id": "448BA5EA-877E-46BD-99FE-AC94A7F507A1",
+            "name": "mask",
+            "rect": {
+                "x": 20,
+                "y": 118,
+                "width": 335,
+                "height": 412
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9809736394557823,
+                0.9809736394557823,
+                0.9809736394557823,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "C1D37D0D-B1DF-4C11-B1DE-287C1E588FD2",
+            "name": "screenshot",
+            "rect": {
+                "x": 17,
+                "y": 115,
+                "width": 342,
+                "height": 410
+            },
+            "_class": "bitmap",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the new app store is now live"
+        },
+        {
+            "id": "30A2D603-85D3-4298-AFF0-58FBD60F4266",
+            "name": "user",
+            "rect": {
+                "x": 319,
+                "y": 64,
+                "width": 36,
+                "height": 36
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a man in a black jacket and white shirt"
+        },
+        {
+            "id": "9E5351E4-EE22-4F32-B039-50B0C08DFF8D",
+            "name": "title",
+            "rect": {
+                "x": 19,
+                "y": 68,
+                "width": 96,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "49C95DE2-3251-46A9-9DAB-8A6C8984A7DA",
+            "name": "title",
+            "rect": {
+                "x": 20,
+                "y": 47,
+                "width": 115,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the tv show the office"
+        },
+        {
+            "id": "E138D4B1-A3E0-4D76-835D-AE19A5C7C2BC",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 617.5,
+                "width": 375,
+                "height": 49.5
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9764705882352941,
+                0.9764705882352941,
+                0.9764705882352941,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border and a white background"
+        },
+        {
+            "id": "0326CB06-F40F-4FE0-B8C5-A61141D43F06",
+            "name": "divider",
+            "rect": {
+                "x": 0,
+                "y": 617.5,
+                "width": 375,
+                "height": 0.5
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6980392156862745,
+                0.6980392156862745,
+                0.6980392156862745,
+                1
+            ],
+            "label": 0,
+            "msg": "a man is standing on a skateboard in front of a gray background"
+        },
+        {
+            "id": "F06E01E7-CE85-4035-AB75-95415AC168A0",
+            "name": "title",
+            "rect": {
+                "x": 320,
+                "y": 653.5,
+                "width": 34,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the search engine logo"
+        },
+        {
+            "id": "23C516C2-8F95-4B29-9543-3E31A7EE2A09",
+            "name": "frame",
+            "rect": {
+                "x": 326,
+                "y": 626,
+                "width": 18,
+                "height": 18
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a magnifying glass on a black background"
+        },
+        {
+            "id": "DA94401D-DBB2-4157-A442-67022E73D0DF",
+            "name": "handle",
+            "rect": {
+                "x": 338.7573593128809,
+                "y": 638.7573593128807,
+                "width": 9.899494936611518,
+                "height": 9.899494936611632
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a magnifying glass on a black background"
+        },
+        {
+            "id": "05F300EE-6D93-4A08-97F3-75CAC3A910AE",
+            "name": "hole",
+            "rect": {
+                "x": 328,
+                "y": 628,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a magnifying glass on a black background"
+        },
+        {
+            "id": "4F609B82-3FB9-43B3-BD9E-1CBDCA4FD3D4",
+            "name": "title",
+            "rect": {
+                "x": 242.5,
+                "y": 653.5,
+                "width": 41,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word updates is in white on a black background"
+        },
+        {
+            "id": "CD90EDE7-8E67-4CF3-968C-933521BF5113",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 252.5,
+                "y": 628.5,
+                "width": 19,
+                "height": 19
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a gray square with a white arrow pointing down"
+        },
+        {
+            "id": "8DA0FF82-AD52-4932-9C4E-ECB2EC184620",
+            "name": "Path",
+            "rect": {
+                "x": 261,
+                "y": 625,
+                "width": 2,
+                "height": 18.5
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a gray square with a white arrow pointing down"
+        },
+        {
+            "id": "444E2B9F-491E-409B-B28E-E650972EA74E",
+            "name": "Path",
+            "rect": {
+                "x": 260.6000061035156,
+                "y": 636.75,
+                "width": 7.071067811865305,
+                "height": 7.071067811865532
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a gray square with a white arrow pointing down"
+        },
+        {
+            "id": "64C72AEF-2765-47C4-8ED5-5254F8DCFA73",
+            "name": "Path",
+            "rect": {
+                "x": 256.3999938964844,
+                "y": 636.75,
+                "width": 7.071067811865305,
+                "height": 7.071067811865532
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a gray square with a white arrow pointing down"
+        },
+        {
+            "id": "26F2C436-94A8-4E37-8ED1-311972830A44",
+            "name": "title",
+            "rect": {
+                "x": 174,
+                "y": 653.5,
+                "width": 26,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the app store"
+        },
+        {
+            "id": "A809D36D-35DC-446B-982A-CCEAC02D4C6C",
+            "name": "3",
+            "rect": {
+                "x": 176,
+                "y": 635.1568542494924,
+                "width": 22,
+                "height": 7.156854249492426
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5725490196078431,
+                0.5725490196078431,
+                0.5725490196078431,
+                1
+            ],
+            "label": 1,
+            "msg": "a gray heart with a black background"
+        },
+        {
+            "id": "F0F9714F-2CFC-45F5-BC6D-56D529ACA141",
+            "name": "2",
+            "rect": {
+                "x": 176,
+                "y": 641.1568542494924,
+                "width": 22,
+                "height": 7.156854249492426
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5725490196078431,
+                0.5725490196078431,
+                0.5725490196078431,
+                1
+            ],
+            "label": 2,
+            "msg": "a gray heart with a black background"
+        },
+        {
+            "id": "0E3536B9-2F16-4AAB-BB12-5E119A00D15D",
+            "name": "1",
+            "rect": {
+                "x": 176,
+                "y": 626,
+                "width": 22,
+                "height": 10.313708498984852
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5725490196078431,
+                0.5725490196078431,
+                0.5725490196078431,
+                1
+            ],
+            "label": 2,
+            "msg": "a gray diamond shaped object on a black background"
+        },
+        {
+            "id": "98D29CF6-55EF-426A-8AAF-F04235C222FA",
+            "name": "title",
+            "rect": {
+                "x": 95.5,
+                "y": 653.5,
+                "width": 34,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the game company"
+        },
+        {
+            "id": "EE8B9F01-0AFD-448F-9B0E-6D28B4C7BB7D",
+            "name": "Path 2",
+            "rect": {
+                "x": 102.037353515625,
+                "y": 625.548828125,
+                "width": 21.524658203125,
+                "height": 22.676757812499773
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a rocket is flying in the sky"
+        },
+        {
+            "id": "1E0C628C-290C-4F52-BFC6-D4A098D2FE79",
+            "name": "Path",
+            "rect": {
+                "x": 114,
+                "y": 631,
+                "width": 4.5,
+                "height": 4.5
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a rocket is flying in the sky"
+        },
+        {
+            "id": "2DFF5559-15F0-4EEE-BA53-135901EA1A04",
+            "name": "Path",
+            "rect": {
+                "x": 104.131103515625,
+                "y": 641.920654296875,
+                "width": 4.703125,
+                "height": 5.082763671875
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a rocket is flying in the sky"
+        },
+        {
+            "id": "37DA3618-FC8D-44EA-8C56-8A303E58FD28",
+            "name": "title",
+            "rect": {
+                "x": 22.5,
+                "y": 653.5,
+                "width": 30,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for today's news"
+        },
+        {
+            "id": "8EB311EC-B712-48F3-A706-FCFA84723163",
+            "name": "frame",
+            "rect": {
+                "x": 28,
+                "y": 626,
+                "width": 18,
+                "height": 22
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6313725490196078,
+                0.6313725490196078,
+                0.6313725490196078,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue square with a black border"
+        },
+        {
+            "id": "094E12EF-9A40-4C3C-9CDA-66997F1227D4",
+            "name": "body",
+            "rect": {
+                "x": 31,
+                "y": 633,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0,
+                0.4784313725490197,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "00C00D6E-9036-4BD2-92BB-180B2FAE1B0C",
+            "name": "title",
+            "rect": {
+                "x": 31,
+                "y": 629,
+                "width": 6.5,
+                "height": 1.5
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0,
+                0.4784313725490197,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a blue background with a white square"
+        },
+        {
+            "id": "144B1657-BFD5-47B0-81B7-E8A3EA3DFFFB",
+            "name": "status bar black",
+            "rect": {
+                "x": 6,
+                "y": 4,
+                "width": 364,
+                "height": 14
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a green and black sign on a black background"
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

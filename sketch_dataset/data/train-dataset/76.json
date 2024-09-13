@@ -1,0 +1,3751 @@
+{
+    "layers": [
+        {
+            "id": "05D3EAF2-1D45-4E22-827B-CE6435A59C38",
+            "name": "Profile Pic",
+            "rect": {
+                "x": 1323,
+                "y": 64,
+                "width": 57,
+                "height": 60
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9725490196078431,
+                0.8352941176470589,
+                0.4941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a man wearing a hat and a white shirt"
+        },
+        {
+            "id": "B29981FA-ADAB-4807-AD0A-17C3CBF36B90",
+            "name": "Mark Collins",
+            "rect": {
+                "x": 1134,
+                "y": 80,
+                "width": 103,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "40B8ECA7-7865-4160-91B5-BD1532874F38",
+            "name": "My settings",
+            "rect": {
+                "x": 1134,
+                "y": 104,
+                "width": 74,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word my is in a yellow font"
+        },
+        {
+            "id": "E5309939-B634-4FD6-BF54-EF5106C1F631",
+            "name": "Rectangle",
+            "rect": {
+                "x": 573,
+                "y": 885,
+                "width": 465,
+                "height": 106
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9647058823529412,
+                0.9686274509803922,
+                0.984313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "6126D5B8-34DF-4C10-9F69-CC4A2069B9C4",
+            "name": "Dribbble Shot",
+            "rect": {
+                "x": 655,
+                "y": 912,
+                "width": 103,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in this image"
+        },
+        {
+            "id": "8088D286-0285-4FA7-8399-4944509E98A7",
+            "name": "Working on a new sho",
+            "rect": {
+                "x": 655,
+                "y": 947,
+                "width": 156,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person"
+        },
+        {
+            "id": "51FAC4BD-96DC-4A00-BF82-7FF97DDF7136",
+            "name": "2:00 PM",
+            "rect": {
+                "x": 956,
+                "y": 913,
+                "width": 52,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word 2200 is shown in a black background"
+        },
+        {
+            "id": "22BE4894-9F16-4690-8C13-604FE65A90F2",
+            "name": "Rectangle",
+            "rect": {
+                "x": 603,
+                "y": 905,
+                "width": 35,
+                "height": 35
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black border"
+        },
+        {
+            "id": "44FC3BAB-9D6C-46A0-AC54-A58A9DABE876",
+            "name": "🧑🏻‍💻",
+            "rect": {
+                "x": 610,
+                "y": 913,
+                "width": 42,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a man with a laptop on his lap"
+        },
+        {
+            "id": "DCFE64C4-8F58-4F53-8332-62428363A857",
+            "name": "Rectangle",
+            "rect": {
+                "x": 573,
+                "y": 1001,
+                "width": 465,
+                "height": 106
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9647058823529412,
+                0.9686274509803922,
+                0.984313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic bag with a black handle"
+        },
+        {
+            "id": "3385C50A-44A4-4B20-8AA3-601B4AF053EB",
+            "name": "Dribbble Shot",
+            "rect": {
+                "x": 655,
+                "y": 1028,
+                "width": 103,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "18617D07-E128-49AB-92F4-1C2CFCDF6418",
+            "name": "Working on a new sho",
+            "rect": {
+                "x": 655,
+                "y": 1063,
+                "width": 156,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "5E2E1BFD-0EFF-4231-8941-5FBF4CA35132",
+            "name": "2:00 PM",
+            "rect": {
+                "x": 901,
+                "y": 1029,
+                "width": 52,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "77298119-9D19-420C-A4CB-EB990605A2C4",
+            "name": "Rectangle",
+            "rect": {
+                "x": 603,
+                "y": 1021,
+                "width": 35,
+                "height": 35
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white shirt with a black and white logo"
+        },
+        {
+            "id": "02D5C16F-2CEB-4576-8779-6BD7E7B6D257",
+            "name": "🧑🏻‍💻",
+            "rect": {
+                "x": 610,
+                "y": 1029,
+                "width": 42,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "E454105A-0A85-44DC-96BA-31952F27BBB0",
+            "name": "Rectangle",
+            "rect": {
+                "x": 573,
+                "y": 749,
+                "width": 465,
+                "height": 126
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9647058823529412,
+                0.9686274509803922,
+                0.984313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "56DBE358-ED2F-4DED-9284-FF0CCE1836E8",
+            "name": "Skype Sushi",
+            "rect": {
+                "x": 655,
+                "y": 776,
+                "width": 89,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the restaurant is shown"
+        },
+        {
+            "id": "6EA83490-D15F-40FE-8F7A-960CF1B2E158",
+            "name": "Lunch with Ally, fig",
+            "rect": {
+                "x": 655,
+                "y": 812,
+                "width": 158,
+                "height": 37
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person"
+        },
+        {
+            "id": "39A37982-9FB5-44CA-BD08-CC54B28D5364",
+            "name": "12:30 AM",
+            "rect": {
+                "x": 952,
+                "y": 777,
+                "width": 56,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a clock with the numbers 12 30 on it"
+        },
+        {
+            "id": "37F66369-5B77-4B05-B79F-6EA6F5785DC4",
+            "name": "Rectangle",
+            "rect": {
+                "x": 603,
+                "y": 769,
+                "width": 35,
+                "height": 35
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black border"
+        },
+        {
+            "id": "A3F8FAFB-0DB8-4161-8428-5200F1B3725F",
+            "name": "🍣",
+            "rect": {
+                "x": 610,
+                "y": 777,
+                "width": 21,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "sushi png transparent png"
+        },
+        {
+            "id": "B1A4E8EC-FDD1-4298-B218-777086F493B1",
+            "name": "Rectangle",
+            "rect": {
+                "x": 573,
+                "y": 556,
+                "width": 465,
+                "height": 183
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9647058823529412,
+                0.9686274509803922,
+                0.984313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "50F73295-4808-431A-A4EA-C7F3DCF1399C",
+            "name": "Technologies and Extensions/Messaging/x/Avatar - Person",
+            "rect": {
+                "x": 655,
+                "y": 679,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a woman with pink hair and glasses"
+        },
+        {
+            "id": "C6E27737-3ADB-4CAB-992D-3E62C464C6F9",
+            "name": "Technologies and Extensions/Messaging/x/Avatar - Person",
+            "rect": {
+                "x": 675,
+                "y": 679,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a cartoon man with a beard and a mustache"
+        },
+        {
+            "id": "1D28E54E-FE9B-457A-9467-595966DC3664",
+            "name": "Technologies and Extensions/Messaging/x/Avatar - Person Copy",
+            "rect": {
+                "x": 695,
+                "y": 679,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a man with a beard and a beard in an apple logo"
+        },
+        {
+            "id": "3AE5AAB9-E236-438E-855F-90B8F3EC3261",
+            "name": "Shift project kick o",
+            "rect": {
+                "x": 655,
+                "y": 583,
+                "width": 178,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person"
+        },
+        {
+            "id": "0D023D4A-C89E-4427-A681-BE8D88BE68FD",
+            "name": "Zoom call, kick off",
+            "rect": {
+                "x": 655,
+                "y": 623,
+                "width": 182,
+                "height": 36
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person"
+        },
+        {
+            "id": "D3815040-8641-4E1B-B938-50FB8CA3881C",
+            "name": "+3 attendees",
+            "rect": {
+                "x": 735,
+                "y": 686,
+                "width": 73,
+                "height": 13
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the american society of association marketing"
+        },
+        {
+            "id": "E7A61A6D-EA70-44A8-A170-58A3DAA5B120",
+            "name": "10:00 AM 11:30 AM",
+            "rect": {
+                "x": 949,
+                "y": 584,
+                "width": 59,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a clock with the words 10 00 am"
+        },
+        {
+            "id": "0E926A5A-7A76-4A35-8B4A-66A665CEFCAB",
+            "name": "Rectangle",
+            "rect": {
+                "x": 603,
+                "y": 576,
+                "width": 35,
+                "height": 35
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black border"
+        },
+        {
+            "id": "20595C94-F852-41C3-BC7A-44B17E83DDC4",
+            "name": "🧑🏻‍💻",
+            "rect": {
+                "x": 610,
+                "y": 584,
+                "width": 42,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a man with a laptop on his lap"
+        },
+        {
+            "id": "1A43CE13-3B4B-46E1-8A97-9AB038408E8B",
+            "name": "Rectangle",
+            "rect": {
+                "x": 573,
+                "y": 396,
+                "width": 465,
+                "height": 150
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9647058823529412,
+                0.9686274509803922,
+                0.984313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "368B4800-F28B-4605-AE42-A0ED063715AF",
+            "name": "Daily workout",
+            "rect": {
+                "x": 655,
+                "y": 422,
+                "width": 102,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the daily workout logo"
+        },
+        {
+            "id": "56C12356-F826-45B1-B982-918BCF3BD703",
+            "name": "Squat 10x3",
+            "rect": {
+                "x": 665,
+                "y": 456,
+                "width": 71,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "squat 10x10 logo"
+        },
+        {
+            "id": "75C949E3-5CB8-475E-8AC6-8B2CE94E3E3A",
+            "name": "Oval",
+            "rect": {
+                "x": 653,
+                "y": 464,
+                "width": 2,
+                "height": 2
+            },
+            "_class": "oval",
+            "color": [
+                0.1725490196078432,
+                0.1450980392156863,
+                0.2627450980392157,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a plane flying over a field"
+        },
+        {
+            "id": "952061E2-D272-4260-9A85-2DB93DE61EFA",
+            "name": "Push up 10x3",
+            "rect": {
+                "x": 665,
+                "y": 479,
+                "width": 82,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "push up 101 - push up 101"
+        },
+        {
+            "id": "78ED63F0-B6FF-43AF-919C-44EBF4E5D90A",
+            "name": "Oval",
+            "rect": {
+                "x": 653,
+                "y": 487,
+                "width": 2,
+                "height": 2
+            },
+            "_class": "oval",
+            "color": [
+                0.1725490196078432,
+                0.1450980392156863,
+                0.2627450980392157,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a plane flying over a field"
+        },
+        {
+            "id": "2B7CE20E-590F-4C9D-A217-FA80DD5D63E8",
+            "name": "Push up 10x3",
+            "rect": {
+                "x": 665,
+                "y": 502,
+                "width": 82,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "push up 101 - push up 101"
+        },
+        {
+            "id": "412E1532-126F-4CD2-975C-E91258FA462E",
+            "name": "Oval",
+            "rect": {
+                "x": 653,
+                "y": 510,
+                "width": 2,
+                "height": 2
+            },
+            "_class": "oval",
+            "color": [
+                0.1725490196078432,
+                0.1450980392156863,
+                0.2627450980392157,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a plane flying over a field"
+        },
+        {
+            "id": "CDA1B9B2-A7BF-4E11-B458-53A4A1C44CB7",
+            "name": "9:00 AM",
+            "rect": {
+                "x": 955,
+                "y": 423,
+                "width": 53,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word \"9 o 'clock\" is shown in a black background"
+        },
+        {
+            "id": "F480DA80-E892-4DE6-845D-E55937F328D7",
+            "name": "Rectangle",
+            "rect": {
+                "x": 603,
+                "y": 416,
+                "width": 35,
+                "height": 35
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black border"
+        },
+        {
+            "id": "2ADC8F42-2FBE-40D5-8A8D-C58951AA3940",
+            "name": "🏋🏻‍♀️",
+            "rect": {
+                "x": 610,
+                "y": 424,
+                "width": 21,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a woman is lifting a barbell in the air"
+        },
+        {
+            "id": "415BD00A-4C1A-4283-BDD4-62D85869DBF2",
+            "name": "Rectangle",
+            "rect": {
+                "x": 573,
+                "y": 311,
+                "width": 465,
+                "height": 75
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9725490196078431,
+                0.8352941176470589,
+                0.4941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow square with a black border"
+        },
+        {
+            "id": "F7606654-F6CA-46DD-86D4-FC79DC14C70D",
+            "name": "Morning Yoga",
+            "rect": {
+                "x": 655,
+                "y": 338,
+                "width": 103,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the morning yoga studio"
+        },
+        {
+            "id": "2230A144-10C8-4565-9546-F8068D0E5907",
+            "name": "8:00 AM",
+            "rect": {
+                "x": 955,
+                "y": 339,
+                "width": 53,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the time is 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00"
+        },
+        {
+            "id": "11BAC02A-107F-4BAF-A9E2-5CB06FF0F91C",
+            "name": "Rectangle",
+            "rect": {
+                "x": 603,
+                "y": 331,
+                "width": 35,
+                "height": 35
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black border"
+        },
+        {
+            "id": "4372CEDA-C018-4AEB-904F-7BEC7BE18DC4",
+            "name": "🧘🏻",
+            "rect": {
+                "x": 610,
+                "y": 339,
+                "width": 21,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a man sitting in a yoga pose"
+        },
+        {
+            "id": "EB7E9182-B76D-4CDB-9A33-38F17E0FC2EA",
+            "name": "Rectangle",
+            "rect": {
+                "x": 573,
+                "y": 226,
+                "width": 465,
+                "height": 75
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9725490196078431,
+                0.8352941176470589,
+                0.4941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow square with a black border"
+        },
+        {
+            "id": "86B2C65E-0631-4F42-8CBE-8BC7F76AD31F",
+            "name": "Wake up Buddy",
+            "rect": {
+                "x": 655,
+                "y": 252,
+                "width": 117,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in purple"
+        },
+        {
+            "id": "1F9803BB-C2DF-470C-8CEB-DE36D34E3351",
+            "name": "7:00 AM",
+            "rect": {
+                "x": 957,
+                "y": 254,
+                "width": 51,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a clock with the words 7 o 'clock on it"
+        },
+        {
+            "id": "9CBEB804-166C-41FD-9012-DBC49FC34673",
+            "name": "Rectangle",
+            "rect": {
+                "x": 603,
+                "y": 246,
+                "width": 35,
+                "height": 35
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black border"
+        },
+        {
+            "id": "2349199E-4DD0-46F2-A749-3DD5974DA57D",
+            "name": "⏰",
+            "rect": {
+                "x": 610,
+                "y": 254,
+                "width": 21,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a red alarm clock on a black background"
+        },
+        {
+            "id": "FF692D82-DA7A-4B50-9F55-685791AA0D72",
+            "name": "Path 14",
+            "rect": {
+                "x": 533.4999117223804,
+                "y": 260.4999117223804,
+                "width": 15.00017655523925,
+                "height": 9.000088277619625
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a check mark in the shape of a heart"
+        },
+        {
+            "id": "D8327A4D-E888-4AB8-AFDC-8A8B2989D40B",
+            "name": "Path 14",
+            "rect": {
+                "x": 533.4999117223804,
+                "y": 340.4999117223804,
+                "width": 15.00017655523925,
+                "height": 9.000088277619625
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a check mark in the shape of a heart"
+        },
+        {
+            "id": "223487CF-8BEB-44A8-9F81-073C15DD4B62",
+            "name": "Path 14",
+            "rect": {
+                "x": 535.5,
+                "y": 494.5,
+                "width": 9,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic tube with a red dot on it"
+        },
+        {
+            "id": "770914B4-F44A-4ECC-A0CC-4C806E321D6F",
+            "name": "Path 14",
+            "rect": {
+                "x": 535.5,
+                "y": 420.5,
+                "width": 9,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow plastic button with a black background"
+        },
+        {
+            "id": "272DA9B9-BAD5-4251-9A85-55CA15931276",
+            "name": "Path 14 Copy",
+            "rect": {
+                "x": 535.5,
+                "y": 568.5,
+                "width": 9,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic tube with a red dot on it"
+        },
+        {
+            "id": "B6828150-8FC2-4145-8A3E-EB959A1C8F31",
+            "name": "Path 14 Copy",
+            "rect": {
+                "x": 535.5,
+                "y": 864.5,
+                "width": 9,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic tube with a red dot on it"
+        },
+        {
+            "id": "04B9FA01-4113-414F-862F-F47140470350",
+            "name": "Path 14",
+            "rect": {
+                "x": 535.5,
+                "y": 303.5,
+                "width": 6,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow button with a black background"
+        },
+        {
+            "id": "E1174F6F-878C-4A86-B41B-52D0B411DF81",
+            "name": "Path 14",
+            "rect": {
+                "x": 535.5,
+                "y": 383.5,
+                "width": 6,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow button with a black background"
+        },
+        {
+            "id": "C25BC80B-073B-4602-B4FF-6F26CD05CEAF",
+            "name": "Path 14",
+            "rect": {
+                "x": 535.5,
+                "y": 457.5,
+                "width": 6,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic cylinder with a black background"
+        },
+        {
+            "id": "68C7BDFF-E375-4988-A3ED-0DC55B2B95BB",
+            "name": "Path 14",
+            "rect": {
+                "x": 535.5,
+                "y": 531.5,
+                "width": 6,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic cylinder with a black background"
+        },
+        {
+            "id": "CDE2CBF5-80E7-40E1-9F48-961F1BDA669D",
+            "name": "Path 14 Copy",
+            "rect": {
+                "x": 535.5,
+                "y": 642.5,
+                "width": 9,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic tube with a red dot on it"
+        },
+        {
+            "id": "53FC0846-1C86-44D1-8207-DFA73A84C8A8",
+            "name": "Path 14",
+            "rect": {
+                "x": 535.5,
+                "y": 605.5,
+                "width": 6,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic cylinder with a black background"
+        },
+        {
+            "id": "1AD19320-8480-4D54-B8D1-DCDFD8ECEF97",
+            "name": "Path 14 Copy",
+            "rect": {
+                "x": 535.5,
+                "y": 716.5,
+                "width": 9,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic tube with a red dot on it"
+        },
+        {
+            "id": "7CC3E38D-A8C9-47C1-9CA0-48096AEAB410",
+            "name": "Path 14",
+            "rect": {
+                "x": 535.5,
+                "y": 679.5,
+                "width": 6,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic cylinder with a black background"
+        },
+        {
+            "id": "F34459F7-981F-4D21-B4F4-48B4B95602C1",
+            "name": "Path 14 Copy",
+            "rect": {
+                "x": 535.5,
+                "y": 790.5,
+                "width": 9,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic tube with a red dot on it"
+        },
+        {
+            "id": "4428B113-A57D-4420-8EFB-F0C4ACF846AF",
+            "name": "Path 14",
+            "rect": {
+                "x": 535.5,
+                "y": 753.5,
+                "width": 6,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic cylinder with a black background"
+        },
+        {
+            "id": "0B1605A4-82DB-4F87-A4AB-8FACE6B34ED2",
+            "name": "Path 14",
+            "rect": {
+                "x": 535.5,
+                "y": 827.5,
+                "width": 6,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic cylinder with a black background"
+        },
+        {
+            "id": "F193BCB4-C890-45A3-BA02-05159F534848",
+            "name": "Path 14 Copy",
+            "rect": {
+                "x": 535.5,
+                "y": 1012.5,
+                "width": 9,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic tube with a red dot on it"
+        },
+        {
+            "id": "21135917-499C-465F-B70C-80C43874D96F",
+            "name": "Path 14 Copy",
+            "rect": {
+                "x": 535.5,
+                "y": 938.5,
+                "width": 9,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic tube with a red dot on it"
+        },
+        {
+            "id": "1374F7E3-89FF-40B3-8795-2450A721DCC2",
+            "name": "Path 14",
+            "rect": {
+                "x": 535.5,
+                "y": 901.5,
+                "width": 6,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic cylinder with a black background"
+        },
+        {
+            "id": "BAA446C5-D611-4F1C-BE0E-EA4EEA17BC40",
+            "name": "Path 14",
+            "rect": {
+                "x": 535.5,
+                "y": 975.5,
+                "width": 6,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic cylinder with a black background"
+        },
+        {
+            "id": "C09852E1-CD5D-4CC1-B54A-0C541C88CDEE",
+            "name": "Path 14 Copy",
+            "rect": {
+                "x": 535.5,
+                "y": 1086.5,
+                "width": 9,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "F72D7CE6-7267-47AC-A133-C9D610BB713F",
+            "name": "Path 14",
+            "rect": {
+                "x": 535.5,
+                "y": 1049.5,
+                "width": 6,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "906E69F1-CD7F-4723-ABBA-09D82D355C42",
+            "name": "Today’s schedule Thu",
+            "rect": {
+                "x": 537,
+                "y": 59,
+                "width": 314,
+                "height": 100
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the thursday night football game"
+        },
+        {
+            "id": "97202E16-5B1F-4CA1-AEAB-3C11D8BB1F2C",
+            "name": "Oval",
+            "rect": {
+                "x": 786,
+                "y": 128,
+                "width": 25,
+                "height": 25
+            },
+            "_class": "oval",
+            "color": [
+                0.9254901960784314,
+                0.9372549019607843,
+                0.9490196078431372,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "05913140-D2E4-4E30-AC7F-F42D6746E755",
+            "name": "Path 16",
+            "rect": {
+                "x": 793.1875,
+                "y": 135.8125,
+                "width": 5.625,
+                "height": 9.375
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 1,
+            "msg": "a purple arrow pointing to the left"
+        },
+        {
+            "id": "E133AD9C-846A-4321-9919-3106AACB6841",
+            "name": "Path 15",
+            "rect": {
+                "x": 793.1875,
+                "y": 139.5625,
+                "width": 10.625,
+                "height": 1.875
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 2,
+            "msg": "a purple arrow pointing to the left"
+        },
+        {
+            "id": "8A6AE9E5-60E7-459F-B597-6F4AEB284C5B",
+            "name": "Oval",
+            "rect": {
+                "x": 826,
+                "y": 128,
+                "width": 25,
+                "height": 25
+            },
+            "_class": "oval",
+            "color": [
+                0.9254901960784314,
+                0.9372549019607843,
+                0.9490196078431372,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "F441C822-9D64-44A6-A75A-F569CC726428",
+            "name": "Path 16",
+            "rect": {
+                "x": 838.1875,
+                "y": 135.8125,
+                "width": 5.625,
+                "height": 9.375
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 1,
+            "msg": "a purple arrow pointing to the left"
+        },
+        {
+            "id": "1454C4F2-EE05-4380-AC7B-33A76EDCB37B",
+            "name": "Path 15",
+            "rect": {
+                "x": 833.1875,
+                "y": 139.5625,
+                "width": 10.625,
+                "height": 1.875
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 2,
+            "msg": "a purple arrow pointing to the left"
+        },
+        {
+            "id": "514F7CF1-008C-4D58-BEF9-161DEF9BCA16",
+            "name": "Grey BG",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 477,
+                "height": 1024
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9647058823529412,
+                0.9686274509803922,
+                0.984313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a woman is wearing a black and white striped dress"
+        },
+        {
+            "id": "A4CAF6D4-D84E-44A3-8090-2E5F6AF086DC",
+            "name": "Weekly Pinned",
+            "rect": {
+                "x": 60,
+                "y": 173,
+                "width": 161,
+                "height": 28
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the weekly finn"
+        },
+        {
+            "id": "EDACE6FD-CE62-4C08-8DD1-473DF0AB5DA0",
+            "name": "View all",
+            "rect": {
+                "x": 356,
+                "y": 181,
+                "width": 51,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the view all logo"
+        },
+        {
+            "id": "D84420AE-9CFA-4AE6-B4D0-7FAB64415048",
+            "name": "bg",
+            "rect": {
+                "x": 60,
+                "y": 446,
+                "width": 357,
+                "height": 105
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "0595FB30-E866-4ED8-B2AE-05B50E9E8A40",
+            "name": "Beatrice’s bday",
+            "rect": {
+                "x": 155,
+                "y": 485,
+                "width": 129,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in purple"
+        },
+        {
+            "id": "6B7185B1-BC2D-4822-B667-0DAF1E37175D",
+            "name": "Rectangle",
+            "rect": {
+                "x": 90,
+                "y": 476,
+                "width": 45,
+                "height": 45
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9725490196078431,
+                0.8352941176470589,
+                0.4941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow circle with a black background"
+        },
+        {
+            "id": "ABA08FA2-69A8-4FB1-84E5-0783C9B17B9A",
+            "name": "👸🏻",
+            "rect": {
+                "x": 100,
+                "y": 483.5,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a woman wearing a crown on her head"
+        },
+        {
+            "id": "42A3A2F1-79E1-4791-88E7-0FFF1B33A17C",
+            "name": "22 Mar 2020",
+            "rect": {
+                "x": 308,
+                "y": 489,
+                "width": 79,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the 22 march march for science"
+        },
+        {
+            "id": "AB330DB6-9991-46C1-BE4C-3BB7A06B68B9",
+            "name": "bg",
+            "rect": {
+                "x": 60,
+                "y": 571,
+                "width": 357,
+                "height": 105
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "65D4C4AA-3033-4AA7-9D81-3F95136B7C1C",
+            "name": "Add new weekly pin",
+            "rect": {
+                "x": 155,
+                "y": 611,
+                "width": 166,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person"
+        },
+        {
+            "id": "1EBFBE40-565B-4E71-B661-4AE7F6DF9128",
+            "name": "Rectangle",
+            "rect": {
+                "x": 90,
+                "y": 601,
+                "width": 45,
+                "height": 45
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9725490196078431,
+                0.8352941176470589,
+                0.4941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow circle with a black background"
+        },
+        {
+            "id": "7A93DF6A-61FC-430F-92A7-2FEB0E727CC0",
+            "name": "Path",
+            "rect": {
+                "x": 111.5,
+                "y": 617,
+                "width": 2,
+                "height": 13
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 1,
+            "msg": "a white cross on a black background"
+        },
+        {
+            "id": "962E7330-241E-4962-8F8E-9AD64BCD127F",
+            "name": "Path",
+            "rect": {
+                "x": 106,
+                "y": 622.5,
+                "width": 13,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 2,
+            "msg": "a white cross on a black background"
+        },
+        {
+            "id": "E525A8CE-8637-4736-90E3-F42885B22CBD",
+            "name": "bg",
+            "rect": {
+                "x": 37,
+                "y": 224,
+                "width": 423,
+                "height": 265
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black background"
+        },
+        {
+            "id": "F58688DC-4B68-4CE2-B5B4-D575BD4A1CD7",
+            "name": "Rectangle",
+            "rect": {
+                "x": 165,
+                "y": 319,
+                "width": 78,
+                "height": 21
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9568627450980393,
+                0.7215686274509804,
+                0.3764705882352941,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow circle with a black background"
+        },
+        {
+            "id": "1B6A5C67-5643-46AA-BE0A-E8F82A4B4125",
+            "name": "Personal",
+            "rect": {
+                "x": 180,
+                "y": 321,
+                "width": 48,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word personal is written in white letters on a black background"
+        },
+        {
+            "id": "D1F7017C-4CAA-43E2-B260-1CA4DD4BDEC1",
+            "name": "Ask for blood tests",
+            "rect": {
+                "x": 165,
+                "y": 360,
+                "width": 200,
+                "height": 36
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person"
+        },
+        {
+            "id": "6C177AF7-02B5-4519-9656-206D6C1F92FB",
+            "name": "Call doctor for test",
+            "rect": {
+                "x": 165,
+                "y": 254,
+                "width": 183,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in purple"
+        },
+        {
+            "id": "BB4A9228-D1B4-474F-B353-D3A6D7FB7C6C",
+            "name": "15 Mar 2020 - 9:00 A",
+            "rect": {
+                "x": 165,
+                "y": 284,
+                "width": 153,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a group of people are standing in front of a black background"
+        },
+        {
+            "id": "7686E963-BC33-402B-BD49-55364462600E",
+            "name": "Rectangle",
+            "rect": {
+                "x": 90,
+                "y": 257,
+                "width": 45,
+                "height": 45
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9725490196078431,
+                0.8352941176470589,
+                0.4941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow circle with a black background"
+        },
+        {
+            "id": "0A8AF53F-8E34-41DF-9839-16CD160DFF65",
+            "name": "👨🏻‍⚕️",
+            "rect": {
+                "x": 100,
+                "y": 266.5,
+                "width": 26,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a doctor with a mustache and tie"
+        },
+        {
+            "id": "807FA3CD-8A4F-4CEF-B7D0-53E63444CD13",
+            "name": "March, 2020",
+            "rect": {
+                "x": 60,
+                "y": 736,
+                "width": 135,
+                "height": 27
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the march 2020"
+        },
+        {
+            "id": "C7377982-4F57-47A6-8A89-CCBA089B7DD7",
+            "name": "Two weeks",
+            "rect": {
+                "x": 337,
+                "y": 745,
+                "width": 70,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word two is shown in yellow on a black background"
+        },
+        {
+            "id": "2578F2BF-967D-4E97-93CE-6143C33D1E4C",
+            "name": "card bg",
+            "rect": {
+                "x": 60,
+                "y": 789,
+                "width": 357,
+                "height": 175
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "DF5500C1-DC9C-41FB-A28C-DDD0DEA7B81B",
+            "name": "data bg",
+            "rect": {
+                "x": 226,
+                "y": 895,
+                "width": 39,
+                "height": 39
+            },
+            "_class": "oval",
+            "color": [
+                0.9725490196078431,
+                0.8352941176470589,
+                0.4941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow circle with a black background"
+        },
+        {
+            "id": "F2AF534C-7DB6-4B77-B830-90C5DD99DCA1",
+            "name": "Mon",
+            "rect": {
+                "x": 90,
+                "y": 819,
+                "width": 24,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word m is shown in yellow on a black background"
+        },
+        {
+            "id": "24EE4FF6-F39D-4B01-B138-C7142441FC99",
+            "name": "1",
+            "rect": {
+                "x": 100,
+                "y": 851,
+                "width": 5,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person holding a phone"
+        },
+        {
+            "id": "78F8BBEE-B839-4E53-A251-A3D662943227",
+            "name": "8",
+            "rect": {
+                "x": 98,
+                "y": 905,
+                "width": 8,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "7CCF1D29-C1F3-4DB5-A437-19529A4DA60A",
+            "name": "app",
+            "rect": {
+                "x": 100,
+                "y": 929,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "oval",
+            "color": [
+                0.9725490196078431,
+                0.8352941176470589,
+                0.4941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow background with a white square in the center"
+        },
+        {
+            "id": "FD8281FB-76AC-4CD0-B910-F3FE41C348C2",
+            "name": "Tue",
+            "rect": {
+                "x": 139,
+                "y": 819,
+                "width": 20,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word tt on a black background"
+        },
+        {
+            "id": "69BA4C5E-CFC7-47C3-9DCD-E62D3365EE8E",
+            "name": "2",
+            "rect": {
+                "x": 145,
+                "y": 851,
+                "width": 8,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 2 is shown in a black background"
+        },
+        {
+            "id": "1C9C9B93-71CE-49AA-BBD3-D883D19BBB6C",
+            "name": "9",
+            "rect": {
+                "x": 145,
+                "y": 905,
+                "width": 8,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 9 is shown in a dark background"
+        },
+        {
+            "id": "CD66FC82-0595-4D69-8EEE-4A45FD917637",
+            "name": "app",
+            "rect": {
+                "x": 147,
+                "y": 929,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "oval",
+            "color": [
+                0.9725490196078431,
+                0.8352941176470589,
+                0.4941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow background with a white square in the center"
+        },
+        {
+            "id": "D085D48D-4A9B-4A78-88A1-AC414D060986",
+            "name": "app",
+            "rect": {
+                "x": 147,
+                "y": 875,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "oval",
+            "color": [
+                0.9725490196078431,
+                0.8352941176470589,
+                0.4941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow background with a white square in the center"
+        },
+        {
+            "id": "3112BB53-EFF6-44E3-83F4-803068504415",
+            "name": "Wed",
+            "rect": {
+                "x": 184,
+                "y": 819,
+                "width": 26,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word wedding is in a yellow font"
+        },
+        {
+            "id": "F1A5892E-4434-40D7-A054-C54A664D96F3",
+            "name": "3",
+            "rect": {
+                "x": 193,
+                "y": 851,
+                "width": 8,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 3 is shown in a dark blue background"
+        },
+        {
+            "id": "007E6705-25B3-4618-8FAF-2AA370759AA3",
+            "name": "10",
+            "rect": {
+                "x": 190,
+                "y": 905,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a person is standing in front of a black background"
+        },
+        {
+            "id": "8A3CB0C4-EEA4-4804-A81E-0CC05EE5AAB4",
+            "name": "app",
+            "rect": {
+                "x": 195,
+                "y": 875,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "oval",
+            "color": [
+                0.9725490196078431,
+                0.8352941176470589,
+                0.4941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow background with a white square in the center"
+        },
+        {
+            "id": "1C2F08D8-39DC-4184-A22B-7A76403AF602",
+            "name": "Thu",
+            "rect": {
+                "x": 235,
+                "y": 819,
+                "width": 21,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word thank you in orange on a black background"
+        },
+        {
+            "id": "0788F125-53BE-4A16-8DE5-1CBBCCFF1FA0",
+            "name": "4",
+            "rect": {
+                "x": 241,
+                "y": 851,
+                "width": 9,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 4 is shown in a black background"
+        },
+        {
+            "id": "DB6B0514-0295-41B0-A278-997A34E4E821",
+            "name": "11",
+            "rect": {
+                "x": 240,
+                "y": 905,
+                "width": 10,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the north face men's t shirt"
+        },
+        {
+            "id": "8015D461-A968-46E0-B0BF-40BD20A1E416",
+            "name": "app",
+            "rect": {
+                "x": 243,
+                "y": 875,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "oval",
+            "color": [
+                0.9725490196078431,
+                0.8352941176470589,
+                0.4941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow background with a white square in the center"
+        },
+        {
+            "id": "D69028CC-6C93-42BF-9ADB-BBEB04FE6460",
+            "name": "Fri",
+            "rect": {
+                "x": 282,
+                "y": 819,
+                "width": 14,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the french word fr"
+        },
+        {
+            "id": "F871A4B0-3AC5-4BD2-A0FF-276579DE60F9",
+            "name": "5",
+            "rect": {
+                "x": 285,
+                "y": 851,
+                "width": 8,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number five is shown in a black and white photo"
+        },
+        {
+            "id": "BEFB6B90-86E5-46BD-AD68-EB7C60566EFB",
+            "name": "12",
+            "rect": {
+                "x": 282,
+                "y": 905,
+                "width": 13,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black"
+        },
+        {
+            "id": "C3B6C8EB-CC46-4AB6-A493-C5AD8B42BD03",
+            "name": "app",
+            "rect": {
+                "x": 287,
+                "y": 929,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "oval",
+            "color": [
+                0.9725490196078431,
+                0.8352941176470589,
+                0.4941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow background with a white square in the center"
+        },
+        {
+            "id": "4FE829B4-C5AA-41F7-A546-FE3EDEAB6BF5",
+            "name": "Sat",
+            "rect": {
+                "x": 321,
+                "y": 819,
+                "width": 20,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for satoshi's pizza"
+        },
+        {
+            "id": "DA606314-6AF1-428D-9F9E-F8C0A868DE7A",
+            "name": "6",
+            "rect": {
+                "x": 327,
+                "y": 851,
+                "width": 8,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number six is shown in a black background"
+        },
+        {
+            "id": "2CD9BD72-CE63-49D2-BE90-E74734451509",
+            "name": "13",
+            "rect": {
+                "x": 325,
+                "y": 905,
+                "width": 13,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person holding a phone"
+        },
+        {
+            "id": "1FD63BBA-FB87-4BC0-AE3B-65314E032D29",
+            "name": "Sun",
+            "rect": {
+                "x": 366,
+                "y": 819,
+                "width": 21,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word suu is shown in yellow on a black background"
+        },
+        {
+            "id": "C09818FC-A728-4401-8CB9-6966FD4F634B",
+            "name": "7",
+            "rect": {
+                "x": 373,
+                "y": 851,
+                "width": 7,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white picture of a person holding a sign"
+        },
+        {
+            "id": "9AA05E4F-91C2-4CE2-B620-5E35B1ABD63B",
+            "name": "14",
+            "rect": {
+                "x": 369,
+                "y": 905,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a person is standing in front of a black background"
+        },
+        {
+            "id": "C7FDBB5E-0963-4DEC-B632-24B592F40679",
+            "name": "Oval",
+            "rect": {
+                "x": 215,
+                "y": 742,
+                "width": 20,
+                "height": 20
+            },
+            "_class": "oval",
+            "color": [
+                0.9254901960784314,
+                0.9372549019607843,
+                0.9490196078431372,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circular button with a black border"
+        },
+        {
+            "id": "C588E162-2B41-4C08-A029-A9357823F4E0",
+            "name": "Path 16",
+            "rect": {
+                "x": 220.75,
+                "y": 748.25,
+                "width": 4.5,
+                "height": 7.5
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 1,
+            "msg": "a black arrow pointing to the left"
+        },
+        {
+            "id": "F693638D-476E-42A7-BE74-AA55C372B6BB",
+            "name": "Path 15",
+            "rect": {
+                "x": 220.75,
+                "y": 751.25,
+                "width": 8.5,
+                "height": 1.5
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 2,
+            "msg": "a black arrow pointing to the left"
+        },
+        {
+            "id": "7B7C5BE0-2412-447C-AFDB-A3C0EB2757AF",
+            "name": "Oval",
+            "rect": {
+                "x": 245,
+                "y": 742,
+                "width": 20,
+                "height": 20
+            },
+            "_class": "oval",
+            "color": [
+                0.9254901960784314,
+                0.9372549019607843,
+                0.9490196078431372,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circular button with a black border"
+        },
+        {
+            "id": "FF7AF815-74C9-42E8-BEE7-255D35702CB7",
+            "name": "Path 16",
+            "rect": {
+                "x": 254.75,
+                "y": 748.25,
+                "width": 4.5,
+                "height": 7.5
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 1,
+            "msg": "a black arrow pointing to the left"
+        },
+        {
+            "id": "E6E36C1D-3C61-4819-B306-C5FA2A90CAF0",
+            "name": "Path 15",
+            "rect": {
+                "x": 250.75,
+                "y": 751.25,
+                "width": 8.5,
+                "height": 1.5
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 2,
+            "msg": "a black arrow pointing to the left"
+        },
+        {
+            "id": "1D24E540-E019-48C9-9F22-73AE5AF3340A",
+            "name": "Rectangle",
+            "rect": {
+                "x": 59.99999999999833,
+                "y": 64.99999999999973,
+                "width": 30.012193952170087,
+                "height": 31.602238214512624
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9725490196078431,
+                0.8352941176470589,
+                0.4941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow circle with a black background"
+        },
+        {
+            "id": "0A028D4C-ED4B-416B-B391-5359D6D67160",
+            "name": "Path 13",
+            "rect": {
+                "x": 73.86757840255841,
+                "y": 76.11850454048404,
+                "width": 2.3214286991528184,
+                "height": 10.059524362995518
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "3C29034B-D0DB-4BB5-8E19-1B52AA182D8F",
+            "name": "Path 13",
+            "rect": {
+                "x": 69.99853057063706,
+                "y": 79.98755237240539,
+                "width": 10.059524362995518,
+                "height": 2.3214286991528184
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black background"
+        },
+        {
+            "id": "157C2E02-0400-40B3-A92A-E0CBDD5A6702",
+            "name": "taskly",
+            "rect": {
+                "x": 103.3333357175191,
+                "y": 67.73809532324474,
+                "width": 56,
+                "height": 22
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "19D4F9D8-F25B-49F1-BB46-06BF0DD5D180",
+            "name": "Rectangle",
+            "rect": {
+                "x": 981.9999999999969,
+                "y": 64.99999999999952,
+                "width": 54.86656693809721,
+                "height": 57.77339441273597
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9725490196078431,
+                0.8352941176470589,
+                0.4941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow circle with a black background"
+        },
+        {
+            "id": "A5ED0449-5D7C-4AF9-BD96-49A0D7654EBA",
+            "name": "Path 13",
+            "rect": {
+                "x": 1008.0238605103112,
+                "y": 85.9981617789337,
+                "width": 2.8999999999999773,
+                "height": 17.046341463414635
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixelated image of a yellow and white circle"
+        },
+        {
+            "id": "07A0E28A-2BD4-4AC1-9324-7B58B42D5019",
+            "name": "Path 13",
+            "rect": {
+                "x": 1000.9506897786039,
+                "y": 93.07133251064103,
+                "width": 17.046341463414706,
+                "height": 2.8999999999999915
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixelated yellow and pink circle with a white dot in the center"
+        },
+        {
+            "id": "E29714AE-E6DE-42DE-A3F0-D3879E18356A",
+            "name": "Bg",
+            "rect": {
+                "x": 1134,
+                "y": 622,
+                "width": 246,
+                "height": 342
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9647058823529412,
+                0.9686274509803922,
+                0.984313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "5030832C-C2C1-448D-AE12-8AB2DACCB343",
+            "name": "Path 2",
+            "rect": {
+                "x": 1350.4038059222873,
+                "y": 641.9038059222866,
+                "width": 9.192388155425078,
+                "height": 9.192388155425078
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 1,
+            "msg": "a green and blue x on a black background"
+        },
+        {
+            "id": "45A5B68C-B40A-4DE7-9F74-065D271DD752",
+            "name": "Path 2",
+            "rect": {
+                "x": 1350.4038059222876,
+                "y": 641.9038059222866,
+                "width": 9.192388155425078,
+                "height": 9.192388155425078
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 2,
+            "msg": "a green and blue x on a black background"
+        },
+        {
+            "id": "3FED11BD-1996-482F-91FF-92438BC5A922",
+            "name": "Rectangle",
+            "rect": {
+                "x": 1305,
+                "y": 889,
+                "width": 55,
+                "height": 55
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9725490196078431,
+                0.8352941176470589,
+                0.4941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow circle with a black background"
+        },
+        {
+            "id": "B43B924C-AD2E-446A-A3C4-FA511DDE0EB4",
+            "name": "Path 16",
+            "rect": {
+                "x": 1332.571424045549,
+                "y": 909.7142811884063,
+                "width": 7.714290240165155,
+                "height": 13.571437623187421
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 1,
+            "msg": "a purple arrow pointing to the left"
+        },
+        {
+            "id": "3CA84041-6800-4F7E-8BF4-E0420E9E0822",
+            "name": "Path 15",
+            "rect": {
+                "x": 1325.7142857142858,
+                "y": 915.2142857142857,
+                "width": 14.571428571428442,
+                "height": 2.571428571428555
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 2,
+            "msg": "a purple arrow pointing to the left"
+        },
+        {
+            "id": "06F37906-4CA8-4013-9999-917045E9B36D",
+            "name": "a person/bust",
+            "rect": {
+                "x": 1162.6285490252042,
+                "y": 833.1507646959511,
+                "width": 91.79720371292524,
+                "height": 137.06873288992858
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white drawing of a man holding a phone"
+        },
+        {
+            "id": "AD3E9E35-7611-4524-AEDD-7FD1345355A5",
+            "name": "Unsleash the freelan",
+            "rect": {
+                "x": 1164,
+                "y": 662,
+                "width": 186,
+                "height": 85
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the words unleash the freelance super power"
+        },
+        {
+            "id": "DD48B3A4-B790-4FE0-8889-B594C81E0478",
+            "name": "Unlimited task, prem",
+            "rect": {
+                "x": 1164,
+                "y": 766,
+                "width": 186,
+                "height": 36
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person sitting on a chair"
+        },
+        {
+            "id": "4E21944E-BB9B-4E40-A455-5EF013F109E5",
+            "name": "bg",
+            "rect": {
+                "x": 1134,
+                "y": 226,
+                "width": 246,
+                "height": 218
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9647058823529412,
+                0.9686274509803922,
+                0.984313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "B62DBD72-D837-4D48-9CBC-441C9CFC4AAD",
+            "name": "Path 5",
+            "rect": {
+                "x": 1163,
+                "y": 333,
+                "width": 188,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "73F1B7D1-F281-48DE-A990-37286B18B67A",
+            "name": "Path 5",
+            "rect": {
+                "x": 1163,
+                "y": 333,
+                "width": 128,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow color paint with a white background"
+        },
+        {
+            "id": "0C5AD6E6-147F-4AE9-8B65-E05E867E6546",
+            "name": "Godzilla",
+            "rect": {
+                "x": 1229,
+                "y": 257,
+                "width": 70,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for godzilla is shown in purple"
+        },
+        {
+            "id": "BFB26CB2-3ACA-4653-B6D7-76ADAB82B711",
+            "name": "Img",
+            "rect": {
+                "x": 1164,
+                "y": 256,
+                "width": 45,
+                "height": 45
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9725490196078431,
+                0.8352941176470589,
+                0.4941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow circle with a black background"
+        },
+        {
+            "id": "DFD0FF3B-14E5-4165-828C-C8B2B30FFC7A",
+            "name": "Eminem-Music-To-Be-Murdered-By-Album",
+            "rect": {
+                "x": 1164,
+                "y": 256,
+                "width": 45,
+                "height": 45
+            },
+            "_class": "bitmap",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a red and black album cover with a man in a suit"
+        },
+        {
+            "id": "EFBA038B-379E-48CC-9CEE-AFBB7A221FE3",
+            "name": "Eminem",
+            "rect": {
+                "x": 1229,
+                "y": 282,
+                "width": 51,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the eminem logo on a black background"
+        },
+        {
+            "id": "07B18E2C-A5AF-4974-830E-073DE8470168",
+            "name": "03:15",
+            "rect": {
+                "x": 1164,
+                "y": 343,
+                "width": 28,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word \"10\" is shown in blue on a black background"
+        },
+        {
+            "id": "8550CBB6-540F-4322-A232-414308F45FC1",
+            "name": "00:45",
+            "rect": {
+                "x": 1322,
+                "y": 343,
+                "width": 32,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the clock is ticking down to zero"
+        },
+        {
+            "id": "5276E525-E854-4B9F-B1EB-29CECF83E3D3",
+            "name": "Oval",
+            "rect": {
+                "x": 1238,
+                "y": 378,
+                "width": 38,
+                "height": 38
+            },
+            "_class": "oval",
+            "color": [
+                0.9725490196078431,
+                0.8352941176470589,
+                0.4941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow circle with a black background"
+        },
+        {
+            "id": "007EE107-3D9A-4028-A85C-0FAF0874E3E1",
+            "name": "Path 10",
+            "rect": {
+                "x": 1254.0000000000011,
+                "y": 390.6267498192541,
+                "width": 7.740710119772984,
+                "height": 12.796236700666839
+            },
+            "_class": "shapePath",
+            "color": [
+                0.1725490196078431,
+                0.1450980392156863,
+                0.2627450980392157,
+                1
+            ],
+            "label": 0,
+            "msg": "a purple triangle with a black background"
+        },
+        {
+            "id": "DA5F7B6B-A944-49FE-8597-FE4D64F76F45",
+            "name": "Path 10",
+            "rect": {
+                "x": 1210,
+                "y": 390.6267498192537,
+                "width": 7.740710119772984,
+                "height": 12.796236700666839
+            },
+            "_class": "shapePath",
+            "color": [
+                0.1725490196078431,
+                0.1450980392156863,
+                0.2627450980392157,
+                1
+            ],
+            "label": 1,
+            "msg": "a purple triangle with a black background"
+        },
+        {
+            "id": "53080AC9-21AB-4C91-AE63-77093A100EED",
+            "name": "Path 10 Copy",
+            "rect": {
+                "x": 1204,
+                "y": 390.6267498192537,
+                "width": 7.740710119772984,
+                "height": 12.796236700666839
+            },
+            "_class": "shapePath",
+            "color": [
+                0.1725490196078431,
+                0.1450980392156863,
+                0.2627450980392157,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white image of a triangle"
+        },
+        {
+            "id": "D27A0A6B-5C7F-43EF-BC28-92741E8B44D3",
+            "name": "Path 87",
+            "rect": {
+                "x": 1164,
+                "y": 393.02259083613717,
+                "width": 16,
+                "height": 11
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 1,
+            "msg": "a purple arrow pointing to the left"
+        },
+        {
+            "id": "298585DD-8129-4C5E-B0B8-E79406B8D230",
+            "name": "Path 10",
+            "rect": {
+                "x": 1180,
+                "y": 399.99999952316307,
+                "width": 3.934968721569021,
+                "height": 6.136189253810187
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a purple arrow pointing to the left"
+        },
+        {
+            "id": "5C3EB49E-33B1-412D-A892-FEB2D037DC00",
+            "name": "Path 87 Copy",
+            "rect": {
+                "x": 1164,
+                "y": 393.02259083613694,
+                "width": 16,
+                "height": 11
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a purple arrow pointing up in the air"
+        },
+        {
+            "id": "AE1434D4-4B35-4C0C-A3E0-4333982D2EE8",
+            "name": "Path 10 Copy",
+            "rect": {
+                "x": 1180,
+                "y": 391,
+                "width": 3.934968721569021,
+                "height": 6.136189253810187
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a purple arrow pointing up in the air"
+        },
+        {
+            "id": "937E2FED-3679-4098-A054-C438B77DCC65",
+            "name": "Path 10 Copy",
+            "rect": {
+                "x": 1336.2012527128973,
+                "y": 400.22796722733074,
+                "width": 3.857064787594936,
+                "height": 5.254581978817782
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 1,
+            "msg": "a purple and black bird flying in the air"
+        },
+        {
+            "id": "BBF893E6-D990-4398-9EFD-91D83A2E9AEC",
+            "name": "Path 88 Copy",
+            "rect": {
+                "x": 1340.0000000000086,
+                "y": 393.6043844483106,
+                "width": 10,
+                "height": 10.395615551687968
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a purple and black bird flying in the air"
+        },
+        {
+            "id": "E932DE66-2461-498B-8601-34432B222183",
+            "name": "Oval 66",
+            "rect": {
+                "x": 1339.0000000000086,
+                "y": 386.99999999999864,
+                "width": 13,
+                "height": 13
+            },
+            "_class": "oval",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a purple and black bird flying in the air"
+        },
+        {
+            "id": "BF9671AD-574C-430C-81D9-69AF2BB29379",
+            "name": "Path 88",
+            "rect": {
+                "x": 1330,
+                "y": 392,
+                "width": 11,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a purple and black logo with a black background"
+        },
+        {
+            "id": "76F3930F-73A5-494A-B6D8-769C05DB8959",
+            "name": "Oval 66",
+            "rect": {
+                "x": 1340,
+                "y": 388,
+                "width": 10,
+                "height": 10
+            },
+            "_class": "oval",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a purple and black logo with a black background"
+        },
+        {
+            "id": "DCE4C980-F5AA-4B1C-A030-37040B53C9C9",
+            "name": "1",
+            "rect": {
+                "x": 1343.0500001907349,
+                "y": 390.5,
+                "width": 2.6400000000001,
+                "height": 5
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a purple and black logo with a black background"
+        },
+        {
+            "id": "9C3D7EF1-E4E7-4041-9CB1-DE4BE1843685",
+            "name": "Path 10",
+            "rect": {
+                "x": 1296,
+                "y": 390.6267498192537,
+                "width": 7.740710119772984,
+                "height": 12.796236700666839
+            },
+            "_class": "shapePath",
+            "color": [
+                0.1725490196078431,
+                0.1450980392156863,
+                0.2627450980392157,
+                1
+            ],
+            "label": 1,
+            "msg": "a black and white image of a triangle"
+        },
+        {
+            "id": "164F35B5-D940-44E5-84E5-7230E6280FF8",
+            "name": "Path 10 Copy",
+            "rect": {
+                "x": 1302,
+                "y": 390.6267498192537,
+                "width": 7.740710119772984,
+                "height": 12.796236700666839
+            },
+            "_class": "shapePath",
+            "color": [
+                0.1725490196078431,
+                0.1450980392156863,
+                0.2627450980392157,
+                1
+            ],
+            "label": 2,
+            "msg": "a purple triangle with a black background"
+        },
+        {
+            "id": "64B41D75-0DAB-441C-9525-AC3AAF653899",
+            "name": "Path 2",
+            "rect": {
+                "x": 1349.25,
+                "y": 245.75,
+                "width": 11.5,
+                "height": 1.5
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 1,
+            "msg": "a square with a black background and a green and yellow border"
+        },
+        {
+            "id": "FD4DF884-5415-4623-AA7C-09FF02CDCFE5",
+            "name": "Path 2",
+            "rect": {
+                "x": 1349.25,
+                "y": 249.75,
+                "width": 11.5,
+                "height": 1.5
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 2,
+            "msg": "a square with a black background and a green and yellow border"
+        },
+        {
+            "id": "8A1B6017-8146-4E30-BBA1-5F71D7FE7F0A",
+            "name": "Path 2",
+            "rect": {
+                "x": 1349.25,
+                "y": 253.75,
+                "width": 11.5,
+                "height": 1.5
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 2,
+            "msg": "a square with a black background and a green and yellow border"
+        },
+        {
+            "id": "F7C7EB60-D2ED-489F-80C0-084507CB8527",
+            "name": "bg",
+            "rect": {
+                "x": 1134,
+                "y": 463,
+                "width": 246,
+                "height": 140
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9647058823529412,
+                0.9686274509803922,
+                0.984313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "1EBEDDE9-1214-46CD-8C5C-462863494F6D",
+            "name": "Path 2",
+            "rect": {
+                "x": 1349.25,
+                "y": 482.75,
+                "width": 11.5,
+                "height": 1.5
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 1,
+            "msg": "a square with a black background and a green and yellow border"
+        },
+        {
+            "id": "75C5FE70-B8DC-4910-9CE2-5DD04D0FBA11",
+            "name": "Path 2",
+            "rect": {
+                "x": 1349.25,
+                "y": 486.75,
+                "width": 11.5,
+                "height": 1.5
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 2,
+            "msg": "a square with a black background and a green and yellow border"
+        },
+        {
+            "id": "3312C470-80E7-4682-8B6C-40C54F4D6636",
+            "name": "Path 2",
+            "rect": {
+                "x": 1349.25,
+                "y": 490.75,
+                "width": 11.5,
+                "height": 1.5
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 2,
+            "msg": "a square with a black background and a green and yellow border"
+        },
+        {
+            "id": "E1CA09F2-E902-4DD2-A247-D895DBD60174",
+            "name": "8:48 AM",
+            "rect": {
+                "x": 1164,
+                "y": 493,
+                "width": 146,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the radio station 848 am"
+        },
+        {
+            "id": "694CEC01-CC3F-402C-895A-AF0DF943B95E",
+            "name": "Now is almost Sunny",
+            "rect": {
+                "x": 1196,
+                "y": 556,
+                "width": 131,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person standing in front of a building"
+        },
+        {
+            "id": "BDA9BFEE-830D-481D-8677-2402273956F2",
+            "name": "Oval 8",
+            "rect": {
+                "x": 1171.0000000000011,
+                "y": 559.5,
+                "width": 8,
+                "height": 8
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 1,
+            "msg": "a yellow paw print with a number on it"
+        },
+        {
+            "id": "A162D9AC-D489-4520-B529-FA2AB89012AD",
+            "name": "Oval",
+            "rect": {
+                "x": 1181.0000000000011,
+                "y": 562,
+                "width": 4.5,
+                "height": 3
+            },
+            "_class": "rectangle",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a yellow paw print with a number on it"
+        },
+        {
+            "id": "CAF19129-E4A5-41DA-A69A-85E53BF86C65",
+            "name": "Path Copy",
+            "rect": {
+                "x": 1178.0000000000011,
+                "y": 555.25,
+                "width": 5.303300858899092,
+                "height": 5.303300858899092
+            },
+            "_class": "rectangle",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a yellow paw print with a number on it"
+        },
+        {
+            "id": "A1C8F52A-770B-467B-AD3B-D845EFA5A8CE",
+            "name": "Oval",
+            "rect": {
+                "x": 1173.5000000000011,
+                "y": 553,
+                "width": 3,
+                "height": 4.5
+            },
+            "_class": "rectangle",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a yellow paw print with a number on it"
+        },
+        {
+            "id": "BB44E936-20E0-4A89-B9F7-0801E6FC4F52",
+            "name": "Path Copy 3",
+            "rect": {
+                "x": 1166.750000000001,
+                "y": 555.25,
+                "width": 5.303300858899092,
+                "height": 5.303300858899092
+            },
+            "_class": "rectangle",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a yellow paw print with a number on it"
+        },
+        {
+            "id": "E80D4725-81D9-4574-B241-F655BD6A8142",
+            "name": "Oval",
+            "rect": {
+                "x": 1164,
+                "y": 560.5,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "oval",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a white heart shaped object on a black background"
+        },
+        {
+            "id": "5F3BEAFE-4B33-4A92-9020-EEC0A0BC7D00",
+            "name": "Rectangle",
+            "rect": {
+                "x": 1165.5,
+                "y": 565,
+                "width": 16.5,
+                "height": 7.5
+            },
+            "_class": "rectangle",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a white heart shaped object on a black background"
+        }
+    ],
+    "width": 1440,
+    "height": 1024,
+    "layer_width": 64,
+    "layer_height": 64
+}

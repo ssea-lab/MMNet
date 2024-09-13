@@ -1,0 +1,901 @@
+{
+    "layers": [
+        {
+            "id": "E3816743-88AE-40D6-8EE6-DAAE7DA90783",
+            "name": "Misc/Input Message",
+            "rect": {
+                "x": 0,
+                "y": 1390,
+                "width": 375,
+                "height": 84
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a screenshot of the app store showing the different types of apps"
+        },
+        {
+            "id": "12FC94A0-E6E6-40F6-B713-E8A424F30F3C",
+            "name": "Meme",
+            "rect": {
+                "x": 2,
+                "y": 1218,
+                "width": 109,
+                "height": 170
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a man in a suit and tie is making a funny face with the words god please"
+        },
+        {
+            "id": "FEEEF015-B974-4E39-AF85-85CDB5281D36",
+            "name": "Meme",
+            "rect": {
+                "x": 113,
+                "y": 1218,
+                "width": 109,
+                "height": 170
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a cartoon frog crying with his hands on his face"
+        },
+        {
+            "id": "0209F9B0-622C-42DF-BE64-44E936AA79A7",
+            "name": "Meme",
+            "rect": {
+                "x": 224,
+                "y": 1218,
+                "width": 109,
+                "height": 170
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "spongebob squarepants is a sponge who is holding his hands up"
+        },
+        {
+            "id": "188DDC3B-12D6-46D3-AA36-4F6CC4FB1803",
+            "name": "Meme",
+            "rect": {
+                "x": 335,
+                "y": 1218,
+                "width": 109,
+                "height": 170
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a cartoon pink and blue robot with a rainbow on it"
+        },
+        {
+            "id": "ED10D456-D5D7-43E7-A880-B0C0564ABF88",
+            "name": "Userpic",
+            "rect": {
+                "x": 20,
+                "y": 126,
+                "width": 36,
+                "height": 36
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1333333333333333,
+                0.1372549019607844,
+                0.1568627450980392,
+                1
+            ],
+            "label": 0,
+            "msg": "a woman with dark hair and a black jacket"
+        },
+        {
+            "id": "C93FABA0-5311-4D36-98BD-DFC4EDCD8922",
+            "name": "Message",
+            "rect": {
+                "x": 60,
+                "y": 126,
+                "width": 102,
+                "height": 36
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "aaron the aaron the aaron the aaron the aaron the aaron the"
+        },
+        {
+            "id": "D370013F-A96E-475B-B315-0E5BB5EC66AA",
+            "name": "Message",
+            "rect": {
+                "x": 60,
+                "y": 688,
+                "width": 257,
+                "height": 55.5
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the car is in the middle of the road"
+        },
+        {
+            "id": "E35780BC-877B-4D5E-812F-1F2411874EB1",
+            "name": "Userpic",
+            "rect": {
+                "x": 20,
+                "y": 1167,
+                "width": 36,
+                "height": 36
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1333333333333333,
+                0.1372549019607844,
+                0.1568627450980392,
+                1
+            ],
+            "label": 0,
+            "msg": "a woman with dark hair and a black jacket"
+        },
+        {
+            "id": "A69CC5E9-1480-4940-A829-2DA51C9CDC93",
+            "name": "😂",
+            "rect": {
+                "x": 64,
+                "y": 616,
+                "width": 61,
+                "height": 79
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a smiling emoticion with tears on it"
+        },
+        {
+            "id": "01969F76-C8A7-46C4-88C1-F47A65125AD1",
+            "name": "Userpic",
+            "rect": {
+                "x": 20,
+                "y": 623,
+                "width": 36,
+                "height": 36
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1333333333333333,
+                0.1372549019607844,
+                0.1568627450980392,
+                1
+            ],
+            "label": 0,
+            "msg": "a woman with dark hair and a black jacket"
+        },
+        {
+            "id": "B6E6AA77-96F5-4483-9CE8-42B59D282ED8",
+            "name": "Misc/Writing circles",
+            "rect": {
+                "x": 60,
+                "y": 1167,
+                "width": 58,
+                "height": 36
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white circle with three dots on it"
+        },
+        {
+            "id": "23C3C624-470E-42B6-9FCB-C1441E12A17D",
+            "name": "Message",
+            "rect": {
+                "x": 60,
+                "y": 170,
+                "width": 289,
+                "height": 36
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white background with a black text that says 'everything is fine'"
+        },
+        {
+            "id": "0E990538-5E60-4B89-AF79-E7443EFD55A4",
+            "name": "Message",
+            "rect": {
+                "x": 60,
+                "y": 214,
+                "width": 167,
+                "height": 36
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white button with the words what are you doing?"
+        },
+        {
+            "id": "062F876C-E085-4132-BCBD-D79BBD84E306",
+            "name": "Image",
+            "rect": {
+                "x": 119,
+                "y": 302,
+                "width": 231,
+                "height": 310
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9529411764705882,
+                0.9529411764705882,
+                0.9529411764705882,
+                1
+            ],
+            "label": 0,
+            "msg": "a cartoon drawing of a man sitting at a desk"
+        },
+        {
+            "id": "94EF110F-15AC-41A2-966A-8CA3A0702EE9",
+            "name": "Placeholder",
+            "rect": {
+                "x": 60,
+                "y": 912,
+                "width": 230,
+                "height": 62
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9529411764705882,
+                0.9529411764705882,
+                0.9529411764705882,
+                1
+            ],
+            "label": 0,
+            "msg": "the black square is on a white background"
+        },
+        {
+            "id": "DCF5B901-B3CA-475B-B1D1-706B5855020C",
+            "name": "Map Pin",
+            "rect": {
+                "x": 167,
+                "y": 825,
+                "width": 14,
+                "height": 17
+            },
+            "_class": "group",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "994B9019-798B-424F-B806-A00B428182ED",
+            "name": "South Hailieton",
+            "rect": {
+                "x": 76,
+                "y": 921,
+                "width": 107,
+                "height": 22
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for south hartford, illinois"
+        },
+        {
+            "id": "27321780-7F66-4DEF-88F8-ADF8E7BD7ADF",
+            "name": "843 Sauer Trace Suit",
+            "rect": {
+                "x": 76,
+                "y": 943,
+                "width": 176,
+                "height": 22
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the black and white image shows a man standing in front of a building"
+        },
+        {
+            "id": "3D4790D8-4B73-4B4E-85FF-79DD1612E75C",
+            "name": "Map",
+            "rect": {
+                "x": 60,
+                "y": 750,
+                "width": 230,
+                "height": 163
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9529411764705882,
+                0.9529411764705882,
+                0.9529411764705882,
+                1
+            ],
+            "label": 0,
+            "msg": "a map of san francisco with a few different locations"
+        },
+        {
+            "id": "8689E186-83C1-4CE1-A2DD-F0B81CFC905A",
+            "name": "Stroke 1",
+            "rect": {
+                "x": 159.44357081570456,
+                "y": 815.5,
+                "width": 31.1131083685907,
+                "height": 35.89949999999999
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a red pin on a black background"
+        },
+        {
+            "id": "EAF27253-9DB0-47D6-8BB1-E00DFB7A3EAC",
+            "name": "Stroke 3",
+            "rect": {
+                "x": 166.87265155773844,
+                "y": 822.9290807420339,
+                "width": 16.254534157815215,
+                "height": 16.254534157815215
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a red pin on a black background"
+        },
+        {
+            "id": "B22735E7-B853-4FD3-ADDA-403636E4E56C",
+            "name": "Placeholder",
+            "rect": {
+                "x": 121,
+                "y": 1118,
+                "width": 230,
+                "height": 41
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9529411764705882,
+                0.9529411764705882,
+                0.9529411764705882,
+                1
+            ],
+            "label": 0,
+            "msg": "the black and white logo for a company"
+        },
+        {
+            "id": "4F5E4E13-4472-43B7-83AD-B24266062167",
+            "name": "Map Pin",
+            "rect": {
+                "x": 228,
+                "y": 1056,
+                "width": 14,
+                "height": 17
+            },
+            "_class": "group",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "D0E71D8C-3662-4FF9-91AB-A38F7EF3B750",
+            "name": "Completed",
+            "rect": {
+                "x": 136,
+                "y": 1127,
+                "width": 76,
+                "height": 22
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the completed logo is shown in black and white"
+        },
+        {
+            "id": "23DFAF51-A025-4522-9B27-72BFF29FD721",
+            "name": "21 Jul, 10:23 am",
+            "rect": {
+                "x": 229,
+                "y": 1127,
+                "width": 109,
+                "height": 22
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the new york times"
+        },
+        {
+            "id": "2AF676E6-354E-457A-ACF5-9D8C24E62542",
+            "name": "Placeholder",
+            "rect": {
+                "x": 121,
+                "y": 1044,
+                "width": 230,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "the white square with a black border"
+        },
+        {
+            "id": "578D8417-2BDA-45CA-AD7E-283A196EDC42",
+            "name": "$30",
+            "rect": {
+                "x": 229,
+                "y": 1062,
+                "width": 55,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word $ 30 is in black on a black background"
+        },
+        {
+            "id": "8CF7C57E-B029-49C0-A2EF-CA7C3FD91482",
+            "name": "Oval",
+            "rect": {
+                "x": 187,
+                "y": 1068,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "3257DFF2-52CE-421E-B85B-B210AE938158",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 196.1215070947501,
+                "y": 1082.1907324034178,
+                "width": 6.123544617179505,
+                "height": 6.123544617179505
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a blue tick mark on a black background"
+        },
+        {
+            "id": "DE7D74FD-EEF6-4AC9-9BF9-62969052EDE8",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 199.46427934287703,
+                "y": 1078.4642793428766,
+                "width": 9.849997677720467,
+                "height": 9.849997677720694
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a blue tick mark on a black background"
+        },
+        {
+            "id": "3C69390F-F259-41BB-8A4D-FF43B50E9E5A",
+            "name": "My Message",
+            "rect": {
+                "x": 120,
+                "y": 258,
+                "width": 231,
+                "height": 36
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue button with the words'hey, i'm fine, i'm fine, i"
+        },
+        {
+            "id": "EE641426-6EBB-4B57-AA4D-8284874BCE83",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 348.97533439630274,
+                "y": 260.25269112602314,
+                "width": 4.709331054806398,
+                "height": 4.709331054806398
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a green check mark on a black background"
+        },
+        {
+            "id": "78383582-C36F-479E-A73F-BCE5109825D6",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 351.4542148062694,
+                "y": 258.09657154552656,
+                "width": 7.0215702157995565,
+                "height": 7.0215702157995565
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a green check mark on a black background"
+        },
+        {
+            "id": "2563A315-9A79-4B95-9231-4EB755C5366C",
+            "name": "My Message",
+            "rect": {
+                "x": 75,
+                "y": 982,
+                "width": 276,
+                "height": 55.5
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue background with a text message"
+        },
+        {
+            "id": "CB3A3675-EBA4-489A-BA45-CD598E547167",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 348.6824411774892,
+                "y": 984.3740118067576,
+                "width": 4.709331054806398,
+                "height": 4.709331054806171
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a green check mark on a black background"
+        },
+        {
+            "id": "6C1417D8-ED27-4A3F-831D-24CEE7DCADCC",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 351.16132158745586,
+                "y": 982.217892226261,
+                "width": 7.0215702157995565,
+                "height": 7.021570215799329
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a green check mark on a black background"
+        },
+        {
+            "id": "61DA7CBE-9FEC-4099-A4A5-E7455EBAA5AF",
+            "name": "Today",
+            "rect": {
+                "x": 167,
+                "y": 98,
+                "width": 42,
+                "height": 22
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for today"
+        },
+        {
+            "id": "4BE4E31E-C6A1-4523-A630-8BCBC824855B",
+            "name": "Keyboard",
+            "rect": {
+                "x": 0,
+                "y": 1474,
+                "width": 375,
+                "height": 216
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a keyboard with a blue button on it"
+        },
+        {
+            "id": "44C6E186-89B4-4AED-8E97-F6C7C0F2ED25",
+            "name": "Divider",
+            "rect": {
+                "x": 20,
+                "y": 81,
+                "width": 335,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9529411764705882,
+                0.9529411764705882,
+                0.9529411764705882,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "3B273547-81C9-4031-ADEC-74E4F5DE7592",
+            "name": "Video Icon",
+            "rect": {
+                "x": 290,
+                "y": 43,
+                "width": 23,
+                "height": 15
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1647058823529412,
+                0.1647058823529412,
+                0.1647058823529412,
+                1
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black"
+        },
+        {
+            "id": "F16683C0-A9FA-44F8-A81A-0D3E80FE812E",
+            "name": "Phone Icon",
+            "rect": {
+                "x": 336.0000000000002,
+                "y": 41,
+                "width": 18.999999999999773,
+                "height": 19
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1647058823529412,
+                0.1647058823529412,
+                0.1647058823529412,
+                1
+            ],
+            "label": 0,
+            "msg": "a black phone on a black background"
+        },
+        {
+            "id": "2F0DE43A-9D84-4B40-8F09-975D388C9F24",
+            "name": "Ann Harrington",
+            "rect": {
+                "x": 46,
+                "y": 33,
+                "width": 181,
+                "height": 35
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "93F3063F-B1D6-49B6-AA84-EF209959E9AC",
+            "name": "Oval",
+            "rect": {
+                "x": 233,
+                "y": 47,
+                "width": 10,
+                "height": 10
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a green circle with a white light in the center"
+        },
+        {
+            "id": "9C26A7B7-2BAF-4243-9E9B-C3B9565ABDEE",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 23.075735661548947,
+                "y": 40.742295297817236,
+                "width": 11.313708498984738,
+                "height": 11.313708498984852
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black arrow pointing to the right"
+        },
+        {
+            "id": "E050BAB3-C30C-4E12-A9EE-28C60F4EDC54",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 22.792893218813447,
+                "y": 49.547677740598374,
+                "width": 11.596550941719556,
+                "height": 11.59655094171967
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black arrow pointing to the right"
+        },
+        {
+            "id": "4B53E699-1C38-4A89-BE01-4A8950FB572C",
+            "name": "Status Bar",
+            "rect": {
+                "x": 6,
+                "y": 3.5,
+                "width": 363.5,
+                "height": 14.8203125
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a blue sky and a white cloud"
+        }
+    ],
+    "width": 375,
+    "height": 1690,
+    "layer_width": 64,
+    "layer_height": 64
+}

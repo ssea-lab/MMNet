@@ -1,0 +1,426 @@
+{
+    "layers": [
+        {
+            "id": "5B5B643E-5228-4094-98AC-F8C6EB1A902C",
+            "name": "Avatar",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 415
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "4681CF3C-FAF6-4218-9764-EEA49E95016A",
+            "name": "862b9735157213.56eb7e8345076",
+            "rect": {
+                "x": 0,
+                "y": -35,
+                "width": 426,
+                "height": 568
+            },
+            "_class": "bitmap",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a woman in a blue turtle neck top holding a rose"
+        },
+        {
+            "id": "FAF63119-49A4-412D-B354-4DD52EBCDE29",
+            "name": "Input",
+            "rect": {
+                "x": -1,
+                "y": 493,
+                "width": 377,
+                "height": 82
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "6A0F71E5-4AAE-4227-9350-92CCEFBAF18E",
+            "name": "Input",
+            "rect": {
+                "x": -1,
+                "y": 414,
+                "width": 377,
+                "height": 82
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "B93F21F0-FCB2-48C5-B44A-9D87B622C178",
+            "name": "Input",
+            "rect": {
+                "x": -1,
+                "y": 573,
+                "width": 377,
+                "height": 82
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "21114668-88DC-46B2-8A03-418B9E6C3E83",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 25,
+                "y": 615,
+                "width": 6.0437956204379475,
+                "height": 6
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and blue striped background with a black and white stripe"
+        },
+        {
+            "id": "076EAC3B-2E8E-4A8E-9F70-ED13B1DFF751",
+            "name": "Rectangle 4 Copy",
+            "rect": {
+                "x": 37.59124087591249,
+                "y": 615,
+                "width": 6.043795620438004,
+                "height": 6
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and blue striped background with a black and white stripe"
+        },
+        {
+            "id": "92AA7E08-17B4-4151-B766-1AD7BBE6AACC",
+            "name": "Rectangle 4 Copy 2",
+            "rect": {
+                "x": 50.18248175182475,
+                "y": 615,
+                "width": 6.043795620438004,
+                "height": 6
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and blue striped background with a black and white stripe"
+        },
+        {
+            "id": "C647E184-A73A-4C5A-92A9-FD7152EF5B60",
+            "name": "Rectangle 4 Copy 3",
+            "rect": {
+                "x": 62.77372262773724,
+                "y": 615,
+                "width": 6.043795620438004,
+                "height": 6
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and blue striped background with a black and white stripe"
+        },
+        {
+            "id": "A316BE89-5F71-47E4-95B4-CF62CFDA1A7F",
+            "name": "Rectangle 4 Copy 4",
+            "rect": {
+                "x": 75.36496350364962,
+                "y": 615,
+                "width": 6.043795620438004,
+                "height": 6
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and blue striped background with a black and white stripe"
+        },
+        {
+            "id": "CF161ABB-DCAC-4B13-B6B3-5264043E06F5",
+            "name": "Rectangle 4 Copy 5",
+            "rect": {
+                "x": 87.956204379562,
+                "y": 615,
+                "width": 6.043795620437891,
+                "height": 6
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and blue striped background with a black and white stripe"
+        },
+        {
+            "id": "7E762303-4411-4DD1-8B19-E7AD46C08FA1",
+            "name": "Email",
+            "rect": {
+                "x": 25,
+                "y": 511,
+                "width": 37,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the email logo is shown in blue and black"
+        },
+        {
+            "id": "11F477A4-CB91-4F83-AD87-C5A74E1C262D",
+            "name": "Name",
+            "rect": {
+                "x": 25,
+                "y": 432,
+                "width": 37,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the name of the company is written in blue"
+        },
+        {
+            "id": "F503C39F-A55A-4190-ABDF-4E744D609634",
+            "name": "hello@harpen.design",
+            "rect": {
+                "x": 25,
+                "y": 526,
+                "width": 172,
+                "height": 23
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a man sitting on a chair"
+        },
+        {
+            "id": "5A3E2DD5-FA1A-4DFF-A8B2-5BDA2164F906",
+            "name": "Kim Yi Hyun",
+            "rect": {
+                "x": 25,
+                "y": 447,
+                "width": 98,
+                "height": 23
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for kim hyun ri"
+        },
+        {
+            "id": "B5E29CC6-19C0-48FF-A702-C4C654E8A067",
+            "name": "Password",
+            "rect": {
+                "x": 25,
+                "y": 591,
+                "width": 64,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the password is a blue and green logo"
+        },
+        {
+            "id": "0E1232A2-B983-4A25-A5F8-829BB34AF0E3",
+            "name": "Buttons/Arrow",
+            "rect": {
+                "x": 25,
+                "y": 671,
+                "width": 325,
+                "height": 65
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a pink background with a white logo on it"
+        },
+        {
+            "id": "C0F3DF93-E6F6-48D1-97F6-03E66438C635",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 782,
+                "width": 375,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "82FB11C5-69E0-4A9C-880E-E8230ABDB4D1",
+            "name": "line",
+            "rect": {
+                "x": 133,
+                "y": 795,
+                "width": 110,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1071216743409998,
+                0.1878404916072689,
+                0.2454028486394558,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white square"
+        },
+        {
+            "id": "1B0147EA-86D3-4F2E-8C9F-444B448F14C2",
+            "name": "Shape",
+            "rect": {
+                "x": 25,
+                "y": 64,
+                "width": 16,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black background with a white text"
+        },
+        {
+            "id": "89DC63E3-CE7F-4D78-8BEE-2CF74F58B27D",
+            "name": "Shape",
+            "rect": {
+                "x": 23.585786437626894,
+                "y": 58.292893218813454,
+                "width": 8.12132034355966,
+                "height": 13.4142135623731
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a dark blue arrow pointing to the left"
+        },
+        {
+            "id": "6058C9A4-CDC8-4365-B47D-53EEBFCE9BBF",
+            "name": "iPhone X/Status Bars/Status Bar (White)",
+            "rect": {
+                "x": 21.5,
+                "y": 16.5,
+                "width": 339.3280380056083,
+                "height": 17
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

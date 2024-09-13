@@ -1,0 +1,1300 @@
+{
+    "layers": [
+        {
+            "id": "AC3ECD7E-8F55-4D68-835A-5D99C29A5236",
+            "name": "Bars/Status/Black",
+            "rect": {
+                "x": 6,
+                "y": 3.5,
+                "width": 363.5,
+                "height": 14
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white text"
+        },
+        {
+            "id": "CF3E8CB2-1A1A-41EB-A3C5-6DC0E558EC52",
+            "name": "Done",
+            "rect": {
+                "x": 326,
+                "y": 36,
+                "width": 34,
+                "height": 13
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word done is in blue letters on a black background"
+        },
+        {
+            "id": "97253EBA-B900-4A73-A203-60C5D7991A8D",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 62,
+                "y": 26,
+                "width": 251,
+                "height": 36
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9607843137254902,
+                0.9607843137254902,
+                0.9607843137254902,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and black leather wallet with a zipper"
+        },
+        {
+            "id": "798624D7-0167-480B-831F-AC288F958893",
+            "name": "Search book",
+            "rect": {
+                "x": 72,
+                "y": 38,
+                "width": 85,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person"
+        },
+        {
+            "id": "DF6917AE-93BA-4A33-9570-7457FFD38F0E",
+            "name": "Line",
+            "rect": {
+                "x": 72,
+                "y": 33,
+                "width": 1,
+                "height": 23
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a plane flying in the sky with a blue sky"
+        },
+        {
+            "id": "A9D5B390-3A20-4800-B578-95E88CF6946C",
+            "name": "Oval",
+            "rect": {
+                "x": 19,
+                "y": 30,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1098039215686274,
+                0.1568627450980392,
+                0.2,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "5409A240-3516-4F6D-AF9F-223BDBC70D63",
+            "name": "Line 3",
+            "rect": {
+                "x": 26.00735931288068,
+                "y": 37.00735931288068,
+                "width": 9.985281374238639,
+                "height": 9.985281374238525
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and black striped flag with a black background"
+        },
+        {
+            "id": "A133FAA6-5B23-4DF3-9250-37F492D94B99",
+            "name": "Line 3 Copy",
+            "rect": {
+                "x": 26.25,
+                "y": 37.25,
+                "width": 9.985281374238639,
+                "height": 9.985281374238525
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white knife is shown on a black background"
+        },
+        {
+            "id": "5022EB48-0DDE-48B8-802D-0B98F56004A3",
+            "name": "All Book (47)",
+            "rect": {
+                "x": 148,
+                "y": 80,
+                "width": 79,
+                "height": 13
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person in the air"
+        },
+        {
+            "id": "2817DB9E-B44F-42E1-97D9-1C03DA3E4EF4",
+            "name": "Mask",
+            "rect": {
+                "x": 19,
+                "y": 103,
+                "width": 112,
+                "height": 166
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5725490196078431,
+                0.8078431372549021,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "the happy lemon logo with a slice of lemon"
+        },
+        {
+            "id": "BC612AE9-FD09-4894-A9D0-B9355FC1412D",
+            "name": "Rectangle 8",
+            "rect": {
+                "x": 24,
+                "y": 108,
+                "width": 7,
+                "height": 150
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2282100340136054,
+                0.2282100340136054,
+                0.2282100340136054,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a man standing in front of a building"
+        },
+        {
+            "id": "DD074D97-F8CC-44D1-B856-09F2DEAFF541",
+            "name": "Mask",
+            "rect": {
+                "x": 135,
+                "y": 103,
+                "width": 111.27534717337903,
+                "height": 165.1228070175439
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5725490196078431,
+                0.8078431372549021,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "the vegetarianan by jonathan kim"
+        },
+        {
+            "id": "26B164C0-3A14-474A-96EA-1EFB94A1F027",
+            "name": "Rectangle 8",
+            "rect": {
+                "x": 140,
+                "y": 108,
+                "width": 6.175253983459697,
+                "height": 149.1228070175439
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2282100340136054,
+                0.2282100340136054,
+                0.2282100340136054,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white image of a man standing in front of a building"
+        },
+        {
+            "id": "7EA2F56B-F21D-4C59-8BF4-468A3E2ABB5E",
+            "name": "Mask",
+            "rect": {
+                "x": 251,
+                "y": 103,
+                "width": 111.54000091552734,
+                "height": 165.1228070175439
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5725490196078431,
+                0.8078431372549021,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "the cover of a book with the title of a young woman with red hair"
+        },
+        {
+            "id": "111174EB-42DC-4D1F-B870-FB5C13D2F4ED",
+            "name": "Rectangle 8",
+            "rect": {
+                "x": 256,
+                "y": 108,
+                "width": 6.192407466747227,
+                "height": 149.1228070175439
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2282100340136054,
+                0.2282100340136054,
+                0.2282100340136054,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white image of a man standing in front of a building"
+        },
+        {
+            "id": "2E88758E-8418-4170-89EA-E24B242B294C",
+            "name": "Mask",
+            "rect": {
+                "x": 19,
+                "y": 273,
+                "width": 111.54000091552734,
+                "height": 166
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5725490196078431,
+                0.8078431372549021,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "love does by bob ross"
+        },
+        {
+            "id": "E6BB56B6-86BF-4083-B700-76A2B1515991",
+            "name": "Rectangle 8",
+            "rect": {
+                "x": 24,
+                "y": 278,
+                "width": 6,
+                "height": 150
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2282100340136054,
+                0.2282100340136054,
+                0.2282100340136054,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white image of a computer screen"
+        },
+        {
+            "id": "D806EDEE-BF60-4F33-847B-9AC5DEB6B0F2",
+            "name": "Mask",
+            "rect": {
+                "x": 135,
+                "y": 273,
+                "width": 111.54000091552734,
+                "height": 166
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5725490196078431,
+                0.8078431372549021,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "the cover of the book, pieces of light"
+        },
+        {
+            "id": "1A863CB7-7E13-4FD7-988F-A2B44F854851",
+            "name": "Rectangle 8",
+            "rect": {
+                "x": 140,
+                "y": 278,
+                "width": 6,
+                "height": 149
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2282100340136054,
+                0.2282100340136054,
+                0.2282100340136054,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white image of a man standing in front of a computer"
+        },
+        {
+            "id": "58827F11-E02A-46E7-B7A2-F9A5CB425AB7",
+            "name": "Mask",
+            "rect": {
+                "x": 251,
+                "y": 273,
+                "width": 111.54000091552734,
+                "height": 166
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5725490196078431,
+                0.8078431372549021,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "the cover of the book, they both went to the end"
+        },
+        {
+            "id": "0689D02F-8B9A-4B36-B689-731F88E28052",
+            "name": "Rectangle 8",
+            "rect": {
+                "x": 256,
+                "y": 278,
+                "width": 6,
+                "height": 150
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2282100340136054,
+                0.2282100340136054,
+                0.2282100340136054,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white image of a computer screen"
+        },
+        {
+            "id": "F77D1670-799D-466D-95E6-E5DEA7E96FBC",
+            "name": "Mask",
+            "rect": {
+                "x": 19,
+                "y": 443,
+                "width": 111.54000091552734,
+                "height": 166
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5725490196078431,
+                0.8078431372549021,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "papercraft - the art of making paper crafts"
+        },
+        {
+            "id": "63D5565C-23F2-457F-A4B0-CCF5110E0644",
+            "name": "Rectangle 8",
+            "rect": {
+                "x": 24,
+                "y": 448,
+                "width": 6,
+                "height": 150
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2282100340136054,
+                0.2282100340136054,
+                0.2282100340136054,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white image of a computer screen"
+        },
+        {
+            "id": "09120EC7-AC9F-4F9E-9FEB-D2294529CC85",
+            "name": "Mask",
+            "rect": {
+                "x": 135,
+                "y": 443,
+                "width": 111.54000091552734,
+                "height": 166
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2877209595959596,
+                0.3686507622505624,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue square with a black background"
+        },
+        {
+            "id": "894A050A-456D-453A-82E6-63F522558328",
+            "name": "Rectangle 8",
+            "rect": {
+                "x": 140,
+                "y": 448,
+                "width": 6,
+                "height": 149
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2282100340136054,
+                0.2282100340136054,
+                0.2282100340136054,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white image of a man standing in front of a computer"
+        },
+        {
+            "id": "F6EEAF9C-436E-4A29-8B23-DC60864D9175",
+            "name": "The Design of Everyd",
+            "rect": {
+                "x": 151,
+                "y": 456,
+                "width": 72,
+                "height": 68
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the design of everyday things logo"
+        },
+        {
+            "id": "DD6EAD7F-2253-4A3A-BF1D-0DE2A9767094",
+            "name": "Donald Norman",
+            "rect": {
+                "x": 151,
+                "y": 568,
+                "width": 46,
+                "height": 6
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white drawing of a man standing on a street"
+        },
+        {
+            "id": "879BDA3C-5993-43F3-B8CB-440A2093C227",
+            "name": "Mask",
+            "rect": {
+                "x": 251,
+                "y": 443,
+                "width": 111.54000091552734,
+                "height": 166
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.4513604552002205,
+                0.6667995323129252,
+                0.5250151532688133,
+                1
+            ],
+            "label": 0,
+            "msg": "a green square with a black background"
+        },
+        {
+            "id": "6BEE4205-413F-47CD-99D8-942D841D79DB",
+            "name": "Rectangle 8",
+            "rect": {
+                "x": 256,
+                "y": 448,
+                "width": 6,
+                "height": 150
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2282100340136054,
+                0.2282100340136054,
+                0.2282100340136054,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white image of a computer screen"
+        },
+        {
+            "id": "E7FE47B4-80E1-477F-857B-7D548C448605",
+            "name": "The Design of Future",
+            "rect": {
+                "x": 267,
+                "y": 456,
+                "width": 72,
+                "height": 68
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the design of future things logo"
+        },
+        {
+            "id": "91C29C53-0DA0-43B8-98EF-ED1B2667542D",
+            "name": "Donald Norman",
+            "rect": {
+                "x": 267,
+                "y": 568,
+                "width": 46,
+                "height": 6
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white drawing of a man standing on a street"
+        },
+        {
+            "id": "9529960E-D33D-47B6-A352-2BFD756BB8E6",
+            "name": "Oval 22",
+            "rect": {
+                "x": 15,
+                "y": 99,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "101577F6-2F8C-47DA-A6FD-DC9C36E0430F",
+            "name": "Oval 23",
+            "rect": {
+                "x": 21,
+                "y": 112,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "FFEADE60-7D61-47B0-804F-446C738BDC93",
+            "name": "Oval 23 Copy",
+            "rect": {
+                "x": 28,
+                "y": 112,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "D3BFCC75-CC3E-4142-9F3A-4B6A8D7586C2",
+            "name": "Oval 23 Copy 2",
+            "rect": {
+                "x": 35,
+                "y": 112,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "2EC47023-E8C1-4D6B-A2F5-BB287E458B4C",
+            "name": "Oval 22",
+            "rect": {
+                "x": 132,
+                "y": 99,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "B491A9F6-A9BC-4BEE-88A0-6217C54842D6",
+            "name": "Oval 23",
+            "rect": {
+                "x": 138,
+                "y": 112,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "44AF82B5-81E6-4FDB-A4D3-F1E819B786AB",
+            "name": "Oval 23 Copy",
+            "rect": {
+                "x": 145,
+                "y": 112,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "5F6561F7-717E-4544-9190-7F0A0EA46917",
+            "name": "Oval 23 Copy 2",
+            "rect": {
+                "x": 152,
+                "y": 112,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "F8DBAA90-E8CD-4C55-BC1E-18A9BF494E71",
+            "name": "Oval 22",
+            "rect": {
+                "x": 249,
+                "y": 99,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "F94D6C68-7AC9-4921-9587-A7D307B86173",
+            "name": "Oval 23",
+            "rect": {
+                "x": 255,
+                "y": 112,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "553E3E4E-02D7-48E2-8D4A-35A26D3840D1",
+            "name": "Oval 23 Copy",
+            "rect": {
+                "x": 262,
+                "y": 112,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "979A8245-7785-4F7F-BDCF-350F5FF1FDFA",
+            "name": "Oval 23 Copy 2",
+            "rect": {
+                "x": 269,
+                "y": 112,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "BD10E5AD-E51B-4CEE-A14D-75FC42D719CD",
+            "name": "Oval 22",
+            "rect": {
+                "x": 15,
+                "y": 267,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "5D91A86D-BEFA-43DF-ADEE-4BBAC6D1A97D",
+            "name": "Oval 23",
+            "rect": {
+                "x": 21,
+                "y": 280,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "9215A96C-446F-4C5C-B70E-5C5450635A58",
+            "name": "Oval 23 Copy",
+            "rect": {
+                "x": 28,
+                "y": 280,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "952070FB-6044-4F35-BC2F-0902CC7B126A",
+            "name": "Oval 23 Copy 2",
+            "rect": {
+                "x": 35,
+                "y": 280,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "BDCA0633-5301-413D-9AF2-A8F09583DC38",
+            "name": "Oval 22",
+            "rect": {
+                "x": 132,
+                "y": 267,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "55127AAE-2934-400A-966A-B9AB058F6096",
+            "name": "Oval 23",
+            "rect": {
+                "x": 138,
+                "y": 280,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "2772F77A-16CC-422A-BD7D-864D4B39B7B6",
+            "name": "Oval 23 Copy",
+            "rect": {
+                "x": 145,
+                "y": 280,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "FF93770A-42FB-4E4A-A4C9-2DBE08D344B8",
+            "name": "Oval 23 Copy 2",
+            "rect": {
+                "x": 152,
+                "y": 280,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "C096809B-B052-4C80-A830-55E9FBA4A5F9",
+            "name": "Oval 22",
+            "rect": {
+                "x": 249,
+                "y": 267,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "1BAB334C-85FE-474D-AA2F-1CFC4C7400CE",
+            "name": "Oval 23",
+            "rect": {
+                "x": 255,
+                "y": 280,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "E265E979-AFE3-48C8-A61C-D96B09215474",
+            "name": "Oval 23 Copy",
+            "rect": {
+                "x": 262,
+                "y": 280,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "BE2E1A7E-7BDB-4DB6-8EF2-3F0021D0F2A9",
+            "name": "Oval 23 Copy 2",
+            "rect": {
+                "x": 269,
+                "y": 280,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "39DA5808-8D26-4897-810C-B75DB6DEB645",
+            "name": "Oval 22",
+            "rect": {
+                "x": 15,
+                "y": 437,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "331B2FB6-AFCB-40A4-80D4-2EDF1549CC33",
+            "name": "Oval 23",
+            "rect": {
+                "x": 21,
+                "y": 450,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "5C776EAA-FC34-4183-8B42-8EF629FD86BC",
+            "name": "Oval 23 Copy",
+            "rect": {
+                "x": 28,
+                "y": 450,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "300D9441-E032-4003-A9CA-30878FA4724F",
+            "name": "Oval 23 Copy 2",
+            "rect": {
+                "x": 35,
+                "y": 450,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "39C820BB-73AC-4560-827F-1B52CDFF1B12",
+            "name": "Oval 22",
+            "rect": {
+                "x": 132,
+                "y": 437,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "C1F69351-6679-463A-ABDD-2D2794AB0437",
+            "name": "Oval 23",
+            "rect": {
+                "x": 138,
+                "y": 450,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "DD49C5AF-3572-467E-8D1D-5D2153695EC6",
+            "name": "Oval 23 Copy",
+            "rect": {
+                "x": 145,
+                "y": 450,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "7E9A2345-EFCB-4B00-88BA-786CFA5F31BD",
+            "name": "Oval 23 Copy 2",
+            "rect": {
+                "x": 152,
+                "y": 450,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "5D058007-EFEF-47CC-B084-957AE6AC8125",
+            "name": "Oval 22",
+            "rect": {
+                "x": 249,
+                "y": 437,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "1CF433A9-7FDF-4ADA-9E16-4C5049ABD7DD",
+            "name": "Oval 23",
+            "rect": {
+                "x": 255,
+                "y": 450,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "C07C4963-D7A9-4B9C-8115-5AED5DFD6FFF",
+            "name": "Oval 23 Copy",
+            "rect": {
+                "x": 262,
+                "y": 450,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "D1B3AB14-F449-4C6C-9DD3-AEFCF4D5B59F",
+            "name": "Oval 23 Copy 2",
+            "rect": {
+                "x": 269,
+                "y": 450,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person in the dark"
+        },
+        {
+            "id": "FEA93D3E-2735-4363-BDA3-3CE0D3C7CC3D",
+            "name": "Views/Action Sheet",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 667
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the app is showing the settings for the app"
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

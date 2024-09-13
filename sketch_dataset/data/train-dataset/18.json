@@ -1,0 +1,654 @@
+{
+    "layers": [
+        {
+            "id": "E23A8435-A951-4117-A5AA-BA6A4EC4D431",
+            "name": "小程序框架 / 白底",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 1334
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the iphone is showing a message that says \"you have a new message\""
+        },
+        {
+            "id": "5976E039-8368-43A0-814E-6EAECE57D3BC",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 128,
+                "width": 750,
+                "height": 1206
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9725490196078431,
+                0.9725490196078431,
+                0.9725490196078431,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "9EFC2BF1-34C7-4BD8-9055-8BA75CA2397F",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": -100,
+                "y": 282,
+                "width": 950,
+                "height": 3345
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "7AAF99AA-D3DC-4E50-BCE5-7153296C12B9",
+            "name": "page / title",
+            "rect": {
+                "x": 60,
+                "y": 202.66666666666652,
+                "width": 120,
+                "height": 93.33333333333348
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the chinese character for 'the' is written on a black background"
+        },
+        {
+            "id": "BE572A37-6A09-4CB1-8753-63A9A03D11FD",
+            "name": "Typography",
+            "rect": {
+                "x": 28,
+                "y": 404,
+                "width": 178,
+                "height": 45
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word 'the' is written in black letters on a white background"
+        },
+        {
+            "id": "981541BE-BA9B-4278-9C56-1672D1A73724",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": -12,
+                "y": 402,
+                "width": 28,
+                "height": 64
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9803921568627451,
+                0.4982749893435636,
+                0.1568627450980392,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and white square with a black background"
+        },
+        {
+            "id": "AFA7562E-6BEC-4045-9237-B639DB235783",
+            "name": "Rectangle 6",
+            "rect": {
+                "x": 28,
+                "y": 579,
+                "width": 694,
+                "height": 80
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9803921568627451,
+                0.984313725490196,
+                0.9882352941176471,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and black leather wallet with a zipper"
+        },
+        {
+            "id": "026B036B-0A77-46EE-98A4-1A0C898DCC25",
+            "name": "H0, 40PX",
+            "rect": {
+                "x": 60,
+                "y": 592,
+                "width": 184,
+                "height": 54
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown"
+        },
+        {
+            "id": "02AB381E-3B83-4C6A-800D-AEB11F46A8FF",
+            "name": "仅用于数字",
+            "rect": {
+                "x": 458,
+                "y": 599,
+                "width": 142,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the chinese characters are written in black and white"
+        },
+        {
+            "id": "7CB92D51-11F2-47E5-8005-C2C21EE9ADF5",
+            "name": "60PX",
+            "rect": {
+                "x": 342,
+                "y": 599,
+                "width": 71,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the 60px website"
+        },
+        {
+            "id": "11FF400F-3045-4F0F-B7C6-33B839DFC8B0",
+            "name": "Rectangle 6",
+            "rect": {
+                "x": 28,
+                "y": 679,
+                "width": 694,
+                "height": 80
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9803921568627451,
+                0.984313725490196,
+                0.9882352941176471,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "437A071E-8C6A-405C-871F-D0AD8BC095EB",
+            "name": "H1, 36PX",
+            "rect": {
+                "x": 60,
+                "y": 692,
+                "width": 155,
+                "height": 54
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the hm 36pxx"
+        },
+        {
+            "id": "DC800DB4-8260-43E0-8DF4-6337607B5DBA",
+            "name": "大模块标题",
+            "rect": {
+                "x": 458,
+                "y": 699,
+                "width": 142,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the chinese restaurant is shown"
+        },
+        {
+            "id": "60A7421C-987C-48F5-A5D9-27FEE3DE4679",
+            "name": "54PX",
+            "rect": {
+                "x": 342,
+                "y": 699,
+                "width": 71,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word 5px is shown in black and white"
+        },
+        {
+            "id": "869253E9-875D-46E7-B612-ADF8EA2C92C8",
+            "name": "Rectangle 6",
+            "rect": {
+                "x": 28,
+                "y": 779,
+                "width": 694,
+                "height": 80
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9803921568627451,
+                0.984313725490196,
+                0.9882352941176471,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and black leather wallet with a zipper"
+        },
+        {
+            "id": "CE1B0484-B673-42EF-B50D-6AB3E77941E6",
+            "name": "H2, 32PX",
+            "rect": {
+                "x": 60,
+                "y": 795,
+                "width": 144,
+                "height": 48
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for h2, 32, 32px"
+        },
+        {
+            "id": "A1D6D334-E013-4E74-A976-0274B7BFA5E6",
+            "name": "常规标题",
+            "rect": {
+                "x": 458,
+                "y": 799,
+                "width": 114,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the chinese characters are written in black and white"
+        },
+        {
+            "id": "A84D96B6-419E-4748-9283-FD9560FAB8E0",
+            "name": "48PX",
+            "rect": {
+                "x": 342,
+                "y": 799,
+                "width": 71,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the 438px website"
+        },
+        {
+            "id": "71959760-BC6E-42F2-9ACA-8A1632DFD449",
+            "name": "Rectangle 6",
+            "rect": {
+                "x": 28,
+                "y": 879,
+                "width": 694,
+                "height": 80
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9803921568627451,
+                0.984313725490196,
+                0.9882352941176471,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "CABE6B49-DD8E-47B7-83CB-3D87568884C8",
+            "name": "H3, 28PX",
+            "rect": {
+                "x": 60,
+                "y": 898,
+                "width": 126,
+                "height": 42
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for h3, 28, 28, 28, 28, 28, 28,"
+        },
+        {
+            "id": "351D2C10-F938-4316-86FD-17CA31D837BF",
+            "name": "正文",
+            "rect": {
+                "x": 458,
+                "y": 899,
+                "width": 57,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the chinese character for the word 'ex'"
+        },
+        {
+            "id": "B3F42E41-E7B3-4BC0-81F6-6F58A3A82F91",
+            "name": "42PX",
+            "rect": {
+                "x": 342,
+                "y": 899,
+                "width": 71,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in blue"
+        },
+        {
+            "id": "1BB49AE6-D7E6-42FD-A050-9320773A75A7",
+            "name": "Rectangle 6",
+            "rect": {
+                "x": 28,
+                "y": 979,
+                "width": 694,
+                "height": 80
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9803921568627451,
+                0.984313725490196,
+                0.9882352941176471,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and black leather wallet with a zipper"
+        },
+        {
+            "id": "51C47715-5D90-48A8-A0CE-535B31819338",
+            "name": "H4, 24PX",
+            "rect": {
+                "x": 60,
+                "y": 1001,
+                "width": 108,
+                "height": 36
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "8ED8CC66-773F-4756-B90A-2E164A82BDAD",
+            "name": "辅助信息、注释",
+            "rect": {
+                "x": 458,
+                "y": 999,
+                "width": 199,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a building with a sign that says \"the building\""
+        },
+        {
+            "id": "2D952134-015E-4506-8289-F9A886B2BE6D",
+            "name": "36PX",
+            "rect": {
+                "x": 342,
+                "y": 999,
+                "width": 71,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the 360px website"
+        },
+        {
+            "id": "874095D6-160F-4C58-A03F-1571959CA6CB",
+            "name": "Rectangle 6",
+            "rect": {
+                "x": 28,
+                "y": 1079,
+                "width": 694,
+                "height": 80
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9803921568627451,
+                0.984313725490196,
+                0.9882352941176471,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "E7C5EFF3-4C31-4820-9E57-17996358079D",
+            "name": "H5, 20PX",
+            "rect": {
+                "x": 60,
+                "y": 1104,
+                "width": 90,
+                "height": 30
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for hs hs hs hs hs hs hs h"
+        },
+        {
+            "id": "5C99614A-65AA-47D0-98C9-C290E79CEA63",
+            "name": "标签",
+            "rect": {
+                "x": 458,
+                "y": 1099,
+                "width": 57,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the chinese characters are written in black and white"
+        },
+        {
+            "id": "CBD6C2C6-D924-4A94-AADF-4DF5FAC5F5BA",
+            "name": "30PX",
+            "rect": {
+                "x": 342,
+                "y": 1099,
+                "width": 71,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the 30px website"
+        },
+        {
+            "id": "ECF35769-4878-45D5-9646-435DE8195142",
+            "name": "Rectangle 5",
+            "rect": {
+                "x": 28,
+                "y": 479,
+                "width": 694,
+                "height": 80
+            },
+            "_class": "rectangle",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a square with a black background and a blue border"
+        },
+        {
+            "id": "8C315029-E58D-4156-8DE9-FABC6E6DBC59",
+            "name": "类型",
+            "rect": {
+                "x": 60,
+                "y": 499,
+                "width": 58,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the chinese character for the word \"chinese\""
+        },
+        {
+            "id": "6114D8CE-073A-4807-BACB-BFFA06F86984",
+            "name": "行高",
+            "rect": {
+                "x": 342,
+                "y": 499,
+                "width": 58,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the chinese character for the word 'love'"
+        },
+        {
+            "id": "A930A290-F890-4B2C-9E1C-B98009DEF1D9",
+            "name": "用途",
+            "rect": {
+                "x": 458,
+                "y": 499,
+                "width": 58,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the chinese character for the word 'love'"
+        }
+    ],
+    "width": 750,
+    "height": 1334,
+    "layer_width": 64,
+    "layer_height": 64
+}

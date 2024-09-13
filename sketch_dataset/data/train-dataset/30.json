@@ -1,0 +1,825 @@
+{
+    "layers": [
+        {
+            "id": "94E2750D-832F-4F72-B08E-018F381C699D",
+            "name": "Photo",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 667
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "three women taking a selfie with their mouths open"
+        },
+        {
+            "id": "6994B9BB-CA56-4875-AF7B-612CD8C9D922",
+            "name": "Placeholder",
+            "rect": {
+                "x": 153,
+                "y": 569,
+                "width": 70,
+                "height": 70
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9882352941176471,
+                0.1411764705882352,
+                0.2862745098039211,
+                1
+            ],
+            "label": 0,
+            "msg": "a red circle with a black background"
+        },
+        {
+            "id": "F73D130C-90D0-4094-A13B-AABFD6660B6D",
+            "name": "Phone Icon",
+            "rect": {
+                "x": 174.0649711574556,
+                "y": 591.0649711574556,
+                "width": 26.870057685088796,
+                "height": 26.870057685088796
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and black logo with a white background"
+        },
+        {
+            "id": "23BC8731-0466-49ED-86C5-2985E8D96FAC",
+            "name": "Layer 1",
+            "rect": {
+                "x": 33,
+                "y": 612,
+                "width": 10,
+                "height": 17
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 1,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "45FD8255-A960-4A34-B918-9B31A72BF253",
+            "name": "Layer 2",
+            "rect": {
+                "x": 30,
+                "y": 623,
+                "width": 16,
+                "height": 9
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white and black logo with a heart"
+        },
+        {
+            "id": "711BA025-8040-4EBE-B7AD-2D76793E6AF9",
+            "name": "Layer 3",
+            "rect": {
+                "x": 37,
+                "y": 630,
+                "width": 2,
+                "height": 7
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8835828586238393,
+                0.9508421389215013,
+                0.9810533588435374,
+                1
+            ],
+            "label": 2,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "FF8DD1A4-4F56-41EF-BB15-791914E0162C",
+            "name": "Layer 4",
+            "rect": {
+                "x": 32,
+                "y": 635,
+                "width": 12,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8835828586238393,
+                0.9508421389215013,
+                0.9810533588435374,
+                1
+            ],
+            "label": 2,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "410D631D-C8CD-4D87-BD29-0FE53EA4821B",
+            "name": "Layer 5",
+            "rect": {
+                "x": 30,
+                "y": 623,
+                "width": 3,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8835828586238393,
+                0.9508421389215013,
+                0.9810533588435374,
+                1
+            ],
+            "label": 2,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "5B84DA86-658C-4541-B0CA-2CE26DD04980",
+            "name": "Layer 6",
+            "rect": {
+                "x": 43,
+                "y": 623,
+                "width": 3,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8835828586238393,
+                0.9508421389215013,
+                0.9810533588435374,
+                1
+            ],
+            "label": 2,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "03CCF53B-6C97-402A-A482-2CD480A1AE9A",
+            "name": "Layer 6",
+            "rect": {
+                "x": 327.99984911287993,
+                "y": 614,
+                "width": 19.000327620522967,
+                "height": 6.0001767334028955
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black and white image of a man sitting in a chair"
+        },
+        {
+            "id": "A85D5DDA-F8F8-4BD6-9C11-384B9CB7D277",
+            "name": "Path",
+            "rect": {
+                "x": 344,
+                "y": 617,
+                "width": 4.5,
+                "height": 4.5
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white logo with a white background"
+        },
+        {
+            "id": "BC036DA3-F0A6-49E0-BB5C-423521537973",
+            "name": "Layer 8",
+            "rect": {
+                "x": 328.9998232665971,
+                "y": 627.9998232665971,
+                "width": 19.000327620522967,
+                "height": 6.0001767334028955
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white and black logo with a v shape"
+        },
+        {
+            "id": "2F3AC829-C62A-446B-96C6-39207479FB49",
+            "name": "Layer 9",
+            "rect": {
+                "x": 329,
+                "y": 628,
+                "width": 5,
+                "height": 5
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a man standing in front of a white background"
+        },
+        {
+            "id": "0E048E13-0576-4248-BB42-ACCE8B664479",
+            "name": "Hallie Parsons",
+            "rect": {
+                "x": 16,
+                "y": 50,
+                "width": 197,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in white"
+        },
+        {
+            "id": "98950455-E23E-4245-9774-125A54A8D7CD",
+            "name": "Placeholder",
+            "rect": {
+                "x": 310,
+                "y": 33,
+                "width": 50,
+                "height": 50
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "95AE207A-6112-427B-A462-C014731F911E",
+            "name": "Path",
+            "rect": {
+                "x": 324.2272727272725,
+                "y": 62.62952769886374,
+                "width": 17.545454545454504,
+                "height": 5.743567510084631
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white icon with a black background"
+        },
+        {
+            "id": "0E66877E-8839-4062-BB37-75935D51F645",
+            "name": "Path",
+            "rect": {
+                "x": 339.7727272727275,
+                "y": 64.50131145390606,
+                "width": 2,
+                "height": 3.8717837550423155
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white icon with a black background"
+        },
+        {
+            "id": "C45D59B9-78F5-4B9B-83FE-31F671E25B6E",
+            "name": "Path",
+            "rect": {
+                "x": 328,
+                "y": 52,
+                "width": 10,
+                "height": 10
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white icon with a black background"
+        },
+        {
+            "id": "660406AB-14B3-4B96-ADDC-3F71EA54B408",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 341,
+                "y": 45,
+                "width": 2,
+                "height": 10
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white cross on a black background"
+        },
+        {
+            "id": "C1522D99-9FF3-43D6-82F6-9D6F23BE6E02",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 337,
+                "y": 49,
+                "width": 10,
+                "height": 2
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white cross on a black background"
+        },
+        {
+            "id": "D0217C63-14E0-42EB-AD43-507C6C587C42",
+            "name": "Sparks Video Call",
+            "rect": {
+                "x": 16,
+                "y": 31,
+                "width": 238,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a barcode with a black background and white text"
+        },
+        {
+            "id": "926602C7-D01A-4086-B3EE-97437CAFE60A",
+            "name": "Photo",
+            "rect": {
+                "x": -2,
+                "y": 381,
+                "width": 159,
+                "height": 197
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a man wearing sunglasses and a green shirt"
+        },
+        {
+            "id": "AC0A9D90-E501-40B1-8D20-CDB51869CC90",
+            "name": "Status Bar",
+            "rect": {
+                "x": 6,
+                "y": 3.5,
+                "width": 363.5,
+                "height": 14.5
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a group of four different types of knives"
+        },
+        {
+            "id": "0CC6CF9E-4E63-4639-B116-45523BF1EE14",
+            "name": "Placeholder",
+            "rect": {
+                "x": -25,
+                "y": -5,
+                "width": 425,
+                "height": 717
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border on it"
+        },
+        {
+            "id": "0E151FD0-4FA5-4661-B87E-D81A19BD71E9",
+            "name": "Contacts/Invite Peoples",
+            "rect": {
+                "x": 20,
+                "y": 84,
+                "width": 318.2890625,
+                "height": 80
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white background with a photo of a woman"
+        },
+        {
+            "id": "B5EE785D-44F2-4C16-B50E-1B28F6A81B5B",
+            "name": "Oval",
+            "rect": {
+                "x": 200,
+                "y": 110,
+                "width": 10,
+                "height": 10
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a green circle with a white light in the center"
+        },
+        {
+            "id": "1578F8A8-A8B8-4B35-A9EE-47AEBF4BCAF9",
+            "name": "Contacts/Invite Peoples",
+            "rect": {
+                "x": 20,
+                "y": 164,
+                "width": 318.2890625,
+                "height": 80
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for madison morris is shown"
+        },
+        {
+            "id": "10756822-13DD-44F0-B9B0-B37CDDBE0B4A",
+            "name": "Oval",
+            "rect": {
+                "x": 264,
+                "y": 190,
+                "width": 10,
+                "height": 10
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a green circle with a white light in the center"
+        },
+        {
+            "id": "6A255D39-0488-481B-88D8-0EA2ED6B696B",
+            "name": "Contacts/Invite Peoples",
+            "rect": {
+                "x": 20,
+                "y": 244,
+                "width": 318.2890625,
+                "height": 80
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white background with a photo of a man with glasses"
+        },
+        {
+            "id": "83D145D1-71EE-4D07-BDE0-7005AC37BDB1",
+            "name": "Contacts/Invite Peoples",
+            "rect": {
+                "x": 20,
+                "y": 324,
+                "width": 318.2890625,
+                "height": 80
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "alex malzone - facebook"
+        },
+        {
+            "id": "095D75EC-A4FF-4B3A-95C9-F31CFDEB35A5",
+            "name": "Oval",
+            "rect": {
+                "x": 222,
+                "y": 350,
+                "width": 10,
+                "height": 10
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black background"
+        },
+        {
+            "id": "0915059C-FA47-4267-ABAC-33D482F215A8",
+            "name": "Oval",
+            "rect": {
+                "x": 279,
+                "y": 270,
+                "width": 10,
+                "height": 10
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black background"
+        },
+        {
+            "id": "19481E95-DEA4-4F91-9B3C-2DF7220A6EA1",
+            "name": "Contacts/Invite Peoples",
+            "rect": {
+                "x": 20,
+                "y": 404,
+                "width": 318.2890625,
+                "height": 80
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white photo of a woman"
+        },
+        {
+            "id": "3112EBA1-ADF5-41ED-8708-A654D2E35899",
+            "name": "Oval",
+            "rect": {
+                "x": 232,
+                "y": 430,
+                "width": 10,
+                "height": 10
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a green circle with a white light in the center"
+        },
+        {
+            "id": "F71A98E2-F3C9-4B6B-9456-70D85FB2A737",
+            "name": "Contacts/Invite Peoples",
+            "rect": {
+                "x": 20,
+                "y": 484,
+                "width": 318.2890625,
+                "height": 80
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white background with the words marissa bush"
+        },
+        {
+            "id": "AA5A3F5C-336C-4155-A53B-AA8255DFA9DD",
+            "name": "Oval",
+            "rect": {
+                "x": 231,
+                "y": 510,
+                "width": 10,
+                "height": 10
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a green circle with a white light in the center"
+        },
+        {
+            "id": "1316FAFD-672E-4C37-913B-A595B840A88E",
+            "name": "Contacts/Invite Peoples",
+            "rect": {
+                "x": 20,
+                "y": 564,
+                "width": 318.2890625,
+                "height": 80
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "michael milan's facebook profile"
+        },
+        {
+            "id": "B2312D02-BC6A-46A4-A308-BDDFDEF719E3",
+            "name": "Oval",
+            "rect": {
+                "x": 233,
+                "y": 589,
+                "width": 10,
+                "height": 10
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black background"
+        },
+        {
+            "id": "57D20276-9DC9-4F9B-9BBC-036FCED7697A",
+            "name": "Add Member to conver",
+            "rect": {
+                "x": 37,
+                "y": 37,
+                "width": 225,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a barcode"
+        },
+        {
+            "id": "6626F785-355D-4B2F-B3E9-4DC01E5F5F95",
+            "name": "Divider",
+            "rect": {
+                "x": 20,
+                "y": 71,
+                "width": 335,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9529411764705882,
+                0.9529411764705882,
+                0.9529411764705882,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "2EC19DE8-9B21-4981-8B08-5E7B99B47335",
+            "name": "Placeholder",
+            "rect": {
+                "x": 315,
+                "y": 26,
+                "width": 34,
+                "height": 34
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9529411764705882,
+                0.9529411764705882,
+                0.9529411764705882,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "D003DE84-5FCD-4F22-8392-69235CB010D5",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 325.6360389693209,
+                "y": 36.63603896932102,
+                "width": 12.72792206135773,
+                "height": 12.727922061357845
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "the x is a black cross on a white background"
+        },
+        {
+            "id": "AD89C541-65B6-4552-9D69-D158EF2FC2EF",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 325.6360389693209,
+                "y": 36.63603896932102,
+                "width": 12.72792206135773,
+                "height": 12.727922061357845
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "the x is a black cross on a white background"
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

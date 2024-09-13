@@ -1,0 +1,787 @@
+{
+    "layers": [
+        {
+            "id": "A417F80B-A120-4454-8488-881AB8390C4A",
+            "name": "wall",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 217
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.958326019012403,
+                0.9694292076920714,
+                0.9842687074829932,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white image"
+        },
+        {
+            "id": "C3F796F1-B2F9-4B0B-BE36-F6BD3BDC2791",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 101.5,
+                "y": 515,
+                "width": 172,
+                "height": 94
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and white button with a white background"
+        },
+        {
+            "id": "933BB548-D680-475E-B959-A9C48E3CDC9C",
+            "name": "Retry",
+            "rect": {
+                "x": 162.5,
+                "y": 540,
+                "width": 50,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in blue"
+        },
+        {
+            "id": "3391A02D-2E13-4308-ACF1-071E6FA1CC3A",
+            "name": "Error!",
+            "rect": {
+                "x": 159.5,
+                "y": 403,
+                "width": 56,
+                "height": 24
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the error message on the screen"
+        },
+        {
+            "id": "8860BC0E-6271-4AA6-80A1-796E18FC2F61",
+            "name": "Something went wrong",
+            "rect": {
+                "x": 58,
+                "y": 442,
+                "width": 259,
+                "height": 50
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person with a blue background"
+        },
+        {
+            "id": "76E30DE2-7562-4331-A4C5-849E8A61CE67",
+            "name": "Shadow",
+            "rect": {
+                "x": -56.62591695100673,
+                "y": 217,
+                "width": 305.1165480772297,
+                "height": 64.80647770177927
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a triangle shaped object with a white background"
+        },
+        {
+            "id": "BE425FBB-0B9B-47D6-BE8D-0D8F94E1A103",
+            "name": "Oval 17 Copy 2",
+            "rect": {
+                "x": -84,
+                "y": 97,
+                "width": 148,
+                "height": 24
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9374770693522437,
+                0.945968820948608,
+                0.9530452806122449,
+                1
+            ],
+            "label": 0,
+            "msg": "a white oval shaped object with a black background"
+        },
+        {
+            "id": "AE007B32-3282-44A3-B23D-0DA22DB07E18",
+            "name": "Oval 18 Copy 3",
+            "rect": {
+                "x": -15.313068000958992,
+                "y": 53.58618687906307,
+                "width": 91.62613600191844,
+                "height": 98.82762624187404
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5108420834101934,
+                0.7621704931972789,
+                0.4536815049074396,
+                1
+            ],
+            "label": 0,
+            "msg": "a green leaf on a black background"
+        },
+        {
+            "id": "55296C52-7310-4B3D-A191-65FAF2C1ED86",
+            "name": "Oval 18",
+            "rect": {
+                "x": -39.03379511097273,
+                "y": -9.3570545840279,
+                "width": 111.06759022194592,
+                "height": 161.7141091680559
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5108420834101934,
+                0.7621704931972789,
+                0.4536815049074396,
+                1
+            ],
+            "label": 0,
+            "msg": "a green paper clip with a black background"
+        },
+        {
+            "id": "CAD8EBE7-E6A4-4076-89E9-47494EA76F7B",
+            "name": "Oval 18 Copy 2",
+            "rect": {
+                "x": -29.366663198767583,
+                "y": -26.37199701139695,
+                "width": 46.733326397535166,
+                "height": 157.7439940227939
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.349983568856281,
+                0.5479113520408163,
+                0.3049680984676363,
+                1
+            ],
+            "label": 0,
+            "msg": "a green water droplet on a black background"
+        },
+        {
+            "id": "802A3330-7D96-44BB-94A3-DBCB3252B5F5",
+            "name": "Oval 18 Copy",
+            "rect": {
+                "x": -85.76468615451813,
+                "y": -10.517466650401959,
+                "width": 93.52937230903581,
+                "height": 160.034933300804
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.4101055833754935,
+                0.6376222363945578,
+                0.3583606035039489,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "D5594146-277C-4530-8676-7D5C0726A424",
+            "name": "Rectangle",
+            "rect": {
+                "x": -83.99999999999955,
+                "y": 108.00000000000006,
+                "width": 148,
+                "height": 130
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white plastic bowl with a black rim"
+        },
+        {
+            "id": "EC9B9748-0C39-409B-A32C-C007619B4833",
+            "name": "Oval 17 Copy",
+            "rect": {
+                "x": -57.999999999999545,
+                "y": 217.00000000000006,
+                "width": 96,
+                "height": 34
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white plastic bowl with a black rim"
+        },
+        {
+            "id": "6ACF006E-6E72-400F-AFEE-F2A7909203BA",
+            "name": "Oval 17",
+            "rect": {
+                "x": -83.99999999999955,
+                "y": 96.00000000000006,
+                "width": 148,
+                "height": 24
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white plastic bowl with a black rim"
+        },
+        {
+            "id": "85A5CEDB-5DFD-4551-B209-EE5E5FAE7DBF",
+            "name": "Path 27",
+            "rect": {
+                "x": 253.0777484583673,
+                "y": 217.40447254663331,
+                "width": 129.72895231333587,
+                "height": 37.814235591984584
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.7872492372723433,
+                0.8231711193642588,
+                0.8610225340136054,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white image of a person holding a knife"
+        },
+        {
+            "id": "707D8F32-5019-4F26-9B4F-4D2472D2B68E",
+            "name": "Path 26",
+            "rect": {
+                "x": 254.11082691805632,
+                "y": 217.6849785394955,
+                "width": 124.96035043467964,
+                "height": 78.94851262410617
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8849071323654542,
+                0.9020643768473976,
+                0.9237616921768708,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic tube with a black handle"
+        },
+        {
+            "id": "D82F5DA9-2E99-49A0-9327-2993F198C18A",
+            "name": "Oval 3",
+            "rect": {
+                "x": 263.38938071602206,
+                "y": 231.9819710062559,
+                "width": 13,
+                "height": 21
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black border"
+        },
+        {
+            "id": "51DCBCEB-AF09-4A35-ACCE-855C9D9E8CDF",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 286.54988135643544,
+                "y": 241.4520953190987,
+                "width": 95.18366725407986,
+                "height": 35.76827512111737
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white line on a black background"
+        },
+        {
+            "id": "EC6263B6-E842-4C3E-8824-515A525E6F25",
+            "name": "Path 27",
+            "rect": {
+                "x": 292.472862143185,
+                "y": 168.1454255775965,
+                "width": 130.05103144756822,
+                "height": 46.458687340437024
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.782497588706608,
+                0.8165279624645323,
+                0.8523862670068028,
+                1
+            ],
+            "label": 0,
+            "msg": "a white triangle with a black background"
+        },
+        {
+            "id": "85557BF2-0C76-4C05-9D95-25194382CACF",
+            "name": "Path 26",
+            "rect": {
+                "x": 291.53545514884263,
+                "y": 168.68582521325416,
+                "width": 130.1509637949457,
+                "height": 87.29910454796803
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8849071323654542,
+                0.9020643768473976,
+                0.9237616921768708,
+                1
+            ],
+            "label": 0,
+            "msg": "a white rectangular box with a black background"
+        },
+        {
+            "id": "F6063F2F-B155-46D3-8D41-D325711051E7",
+            "name": "Oval 3",
+            "rect": {
+                "x": 302.3893807160225,
+                "y": 188.98197100625592,
+                "width": 14.433218602004217,
+                "height": 21.855679214129935
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "8728579F-615A-413A-BA01-D61C905A591C",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 325.2014226910892,
+                "y": 198.36090476355744,
+                "width": 96.08505788237426,
+                "height": 32.074513509564866
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and black image of a person on a skateboard"
+        },
+        {
+            "id": "4C6C9AFD-21D3-4509-BB4B-AF984DA7C0CC",
+            "name": "Rectangle",
+            "rect": {
+                "x": 112,
+                "y": 333,
+                "width": 105.73886779380337,
+                "height": 23.371985978092766
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5241919366598933,
+                0.5738515816773953,
+                0.6736022534013606,
+                0.2000000029802322
+            ],
+            "label": 0,
+            "msg": "a triangle shaped object with a black background"
+        },
+        {
+            "id": "3379F559-6A1F-4EAD-A963-65E687412BA6",
+            "name": "Rectangle Copy",
+            "rect": {
+                "x": 26,
+                "y": 332,
+                "width": 111.34371818981799,
+                "height": 10.832288162505051
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5241919366598933,
+                0.5738515816773953,
+                0.6736022534013606,
+                0.2000000029802322
+            ],
+            "label": 0,
+            "msg": "rainy day icon png"
+        },
+        {
+            "id": "01D7CE89-44B4-4EAE-978E-2E5F90C69F8E",
+            "name": "Path 24",
+            "rect": {
+                "x": 29,
+                "y": 308,
+                "width": 218.7214986384065,
+                "height": 48.74932291036305
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white dog with a black background"
+        },
+        {
+            "id": "A96135D1-131B-410E-8E81-8BE2BC4C57C6",
+            "name": "Path 25",
+            "rect": {
+                "x": 159,
+                "y": 319,
+                "width": 153.9290552302,
+                "height": 35.868201019187666
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1884473406776688,
+                0.1733934261836048,
+                0.282312925170068,
+                1
+            ],
+            "label": 0,
+            "msg": "a large piece of metal with a black background"
+        },
+        {
+            "id": "38F50C6D-998F-46CD-B1A7-FDE6B4E3381D",
+            "name": "Mask",
+            "rect": {
+                "x": 152.26006773091603,
+                "y": 242.500152416476,
+                "width": 124.2754145382155,
+                "height": 95.5678173931081
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9522746598639455,
+                0.9522746598639455,
+                0.9522746598639455,
+                1
+            ],
+            "label": 0,
+            "msg": "a white paper with a black border"
+        },
+        {
+            "id": "5CA622D0-F140-4248-B66C-1934CD176D3B",
+            "name": "Rectangle 16",
+            "rect": {
+                "x": 190.31995248647945,
+                "y": 250.1760624508785,
+                "width": 54.64333326935548,
+                "height": 84.18279343681948
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.752479672768505,
+                0.8392857142857143,
+                0.6342660703012266,
+                1
+            ],
+            "label": 0,
+            "msg": "a green paper note with a crescent moon on it"
+        },
+        {
+            "id": "970EE15E-5651-476D-A487-0FB1436FD21F",
+            "name": "Oval 2",
+            "rect": {
+                "x": 214.29200703487868,
+                "y": 276.8098616490764,
+                "width": 23.860866300071393,
+                "height": 21.48087357412055
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white coffee bean icon on a black background"
+        },
+        {
+            "id": "B97BC557-D913-44BD-9867-3D065AA89745",
+            "name": "Path 2",
+            "rect": {
+                "x": 210.45858135169647,
+                "y": 276.93768598463663,
+                "width": 29.981979909537586,
+                "height": 21.052392134840545
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white coffee bean icon on a black background"
+        },
+        {
+            "id": "A60B716F-7DD6-44A1-A30F-5BDBE844C6E6",
+            "name": "Oval 7 Copy",
+            "rect": {
+                "x": 124.99999999999955,
+                "y": 237.00000000000006,
+                "width": 62.983348213325826,
+                "height": 98.43586747174527
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white round object on a black background"
+        },
+        {
+            "id": "B3086811-427A-4FE1-9C9A-1F868DA3EE71",
+            "name": "Oval 7 Copy 2",
+            "rect": {
+                "x": 131.6744141305312,
+                "y": 244.49629734312822,
+                "width": 48.72548099691858,
+                "height": 82.35992234464953
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9568627450980393,
+                0.9568627450980393,
+                0.9568627450980393,
+                1
+            ],
+            "label": 0,
+            "msg": "a white oval with a black background"
+        },
+        {
+            "id": "940F3682-02AD-492D-B1A7-DADEC2ACD760",
+            "name": "Path 23",
+            "rect": {
+                "x": 72.3430489895618,
+                "y": 263.39274025909333,
+                "width": 117.43234126188418,
+                "height": 80.08876804197803
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5378932823129252,
+                0.3896216918714849,
+                0.3526953348120341,
+                1
+            ],
+            "label": 0,
+            "msg": "a shoe with a white sole and a brown sole"
+        },
+        {
+            "id": "2D6EC377-5D79-4FE5-9908-44D722544EE1",
+            "name": "Oval",
+            "rect": {
+                "x": 126,
+                "y": 331,
+                "width": 7,
+                "height": 2.3333333333333144
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.7634725765306123,
+                0.5664687773916243,
+                0.4690668990355968,
+                1
+            ],
+            "label": 0,
+            "msg": "a man is standing in front of a black background"
+        },
+        {
+            "id": "0019E412-BCBA-4A30-AD5A-1BF9A7EF522A",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 148,
+                "y": 333,
+                "width": 3,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.7634725765306123,
+                0.5664687773916243,
+                0.4690668990355968,
+                1
+            ],
+            "label": 0,
+            "msg": "a brown colored background with a white background"
+        },
+        {
+            "id": "3966C679-06A8-4C70-8A33-328E10D88C3A",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 104,
+                "y": 334,
+                "width": 3,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.7022480867346939,
+                0.5270684143362082,
+                0.4404567387442667,
+                1
+            ],
+            "label": 0,
+            "msg": "a brown background with a white square"
+        },
+        {
+            "id": "06F82325-9CAA-4000-9BA1-BE9E9F13527C",
+            "name": "Path 25 Copy",
+            "rect": {
+                "x": 252.3333523221845,
+                "y": 353.2777208254286,
+                "width": 151.91827022863754,
+                "height": 42.55579840615553
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1884473406776688,
+                0.1733934261836048,
+                0.282312925170068,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white image of a piece of paper"
+        },
+        {
+            "id": "7E742F7E-EE2C-4157-8FFD-F484C853B4C2",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 250,
+                "y": 349,
+                "width": 74,
+                "height": 15
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic cup with a handle"
+        },
+        {
+            "id": "C00CB773-315C-4843-9A73-559DC5111FE8",
+            "name": "Mask",
+            "rect": {
+                "x": 250,
+                "y": 341,
+                "width": 74,
+                "height": 15
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.89084216382408,
+                0.9135814334636355,
+                0.932530824829932,
+                1
+            ],
+            "label": 0,
+            "msg": "a white ball with a black border on a black background"
+        },
+        {
+            "id": "449610A0-B2B9-4226-8615-7A5C82AC48B0",
+            "name": "Oval 7 Copy 3",
+            "rect": {
+                "x": 252,
+                "y": 347,
+                "width": 70,
+                "height": 15
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9362530634590484,
+                0.9525871995314784,
+                0.9661989795918368,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "45682675-5DEC-4402-8843-F94D69B78E82",
+            "name": "Status",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 22
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

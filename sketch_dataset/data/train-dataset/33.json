@@ -1,0 +1,958 @@
+{
+    "layers": [
+        {
+            "id": "E42EA6C4-C597-46B1-95E5-1CDAB5D0ABAD",
+            "name": "Message",
+            "rect": {
+                "x": 60,
+                "y": 168,
+                "width": 253,
+                "height": 55.5
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the text reads, i can't believe you took me from shopping in mall"
+        },
+        {
+            "id": "B8FD280E-9F74-4887-9EE5-E96B4201002B",
+            "name": "😂",
+            "rect": {
+                "x": 64,
+                "y": 96,
+                "width": 61,
+                "height": 79
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a smiling emoticion with tears on it"
+        },
+        {
+            "id": "C30C8C5A-2678-486D-BA05-C842E418A982",
+            "name": "Userpic",
+            "rect": {
+                "x": 20,
+                "y": 103,
+                "width": 36,
+                "height": 36
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1333333333333333,
+                0.1372549019607844,
+                0.1568627450980392,
+                1
+            ],
+            "label": 0,
+            "msg": "a woman with dark hair and a black jacket"
+        },
+        {
+            "id": "76FE1622-12B3-462C-B3B6-F62142EB5390",
+            "name": "Placeholder",
+            "rect": {
+                "x": 60,
+                "y": 392,
+                "width": 230,
+                "height": 62
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9529411764705882,
+                0.9529411764705882,
+                0.9529411764705882,
+                1
+            ],
+            "label": 0,
+            "msg": "the black square is on a white background"
+        },
+        {
+            "id": "669D4803-608A-432A-B8AD-D2DB220FA460",
+            "name": "Map Pin",
+            "rect": {
+                "x": 167,
+                "y": 305,
+                "width": 14,
+                "height": 17
+            },
+            "_class": "group",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "8654E869-A0BC-446B-B904-2C82E3DD8A7A",
+            "name": "South Hailieton",
+            "rect": {
+                "x": 76,
+                "y": 401,
+                "width": 107,
+                "height": 22
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for south hartford, illinois"
+        },
+        {
+            "id": "8DA4A920-8DE7-4AF7-ABCF-72F24671ED51",
+            "name": "843 Sauer Trace Suit",
+            "rect": {
+                "x": 76,
+                "y": 423,
+                "width": 176,
+                "height": 22
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the black and white image shows a man standing in front of a building"
+        },
+        {
+            "id": "302FD139-8A75-4D9D-9E30-5627E0AE180E",
+            "name": "Map",
+            "rect": {
+                "x": 60,
+                "y": 230,
+                "width": 230,
+                "height": 163
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9529411764705882,
+                0.9529411764705882,
+                0.9529411764705882,
+                1
+            ],
+            "label": 0,
+            "msg": "a map of san francisco with a few different locations"
+        },
+        {
+            "id": "6F3C3A1E-1C12-4B0E-8B91-39525768A868",
+            "name": "Stroke 1",
+            "rect": {
+                "x": 159,
+                "y": 296,
+                "width": 31,
+                "height": 36
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a red pin on a black background"
+        },
+        {
+            "id": "5CF694DE-DD46-4331-967D-76B424BF6D11",
+            "name": "Stroke 3",
+            "rect": {
+                "x": 166,
+                "y": 303,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a red pin on a black background"
+        },
+        {
+            "id": "95B52EEB-352C-4B1A-A649-58B0E090FBDB",
+            "name": "Placeholder",
+            "rect": {
+                "x": 121,
+                "y": 598,
+                "width": 230,
+                "height": 41
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9529411764705882,
+                0.9529411764705882,
+                0.9529411764705882,
+                1
+            ],
+            "label": 0,
+            "msg": "the black and white logo for a company"
+        },
+        {
+            "id": "4C175E8B-1232-403F-843C-F20092CE611B",
+            "name": "Map Pin",
+            "rect": {
+                "x": 228,
+                "y": 536,
+                "width": 14,
+                "height": 17
+            },
+            "_class": "group",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "0521FDEC-25D3-4654-80EB-F022EBFFE4C5",
+            "name": "Completed",
+            "rect": {
+                "x": 136,
+                "y": 607,
+                "width": 76,
+                "height": 22
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the completed logo is shown in black and white"
+        },
+        {
+            "id": "0B941C18-322B-4D0A-8CAB-12A292BD4C27",
+            "name": "21 Jul, 10:23 am",
+            "rect": {
+                "x": 229,
+                "y": 607,
+                "width": 109,
+                "height": 22
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the new york times"
+        },
+        {
+            "id": "255E65E4-3C94-4A6B-BDFB-3F8A6FFA467E",
+            "name": "Placeholder",
+            "rect": {
+                "x": 121,
+                "y": 524,
+                "width": 230,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "the white square with a black border"
+        },
+        {
+            "id": "0436D7EA-A454-4E39-99B3-9411160790C0",
+            "name": "$30",
+            "rect": {
+                "x": 229,
+                "y": 542,
+                "width": 55,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word $ 30 is in black on a black background"
+        },
+        {
+            "id": "62A20DAA-C9B3-4DBA-A043-6CADC00680AA",
+            "name": "Oval",
+            "rect": {
+                "x": 187,
+                "y": 548,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "0017EEF7-C2E7-47CF-9B5B-A73C518BCC82",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 196.31801948466057,
+                "y": 561.8180194846605,
+                "width": 6.363961030678979,
+                "height": 6.363961030678865
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a blue tick mark on a black background"
+        },
+        {
+            "id": "C0A4871C-D038-41D7-AE6A-28D6CDEA23D2",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 199.05025253169413,
+                "y": 558.050252531694,
+                "width": 9.899494936611632,
+                "height": 9.899494936611745
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a blue tick mark on a black background"
+        },
+        {
+            "id": "9DE2187B-55FD-466A-AC32-8F52B1F839ED",
+            "name": "My Message",
+            "rect": {
+                "x": 87,
+                "y": 462,
+                "width": 264,
+                "height": 55.5
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a text message that says maybe can send you some money and you're not a"
+        },
+        {
+            "id": "E0D5ED1E-E1D1-4AEF-8213-ADD946CF5203",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 349.0251262658471,
+                "y": 464.5251262658471,
+                "width": 4.949747468305873,
+                "height": 4.949747468305759
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a green check mark on a black background"
+        },
+        {
+            "id": "349E5B47-2BED-40EB-ACE5-D5946670A7DC",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 351.46446609406723,
+                "y": 462.4644660940671,
+                "width": 7.071067811865532,
+                "height": 7.071067811865532
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a green check mark on a black background"
+        },
+        {
+            "id": "E780A6D7-06C7-4FB0-A66C-2AFB403E8B42",
+            "name": "Status Bar White",
+            "rect": {
+                "x": 6,
+                "y": 3.5,
+                "width": 363.5,
+                "height": 14.8203125
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a blue sky and a white cloud"
+        },
+        {
+            "id": "5CE3DE67-20B7-4830-B6E4-5F28B9B54840",
+            "name": "Divider",
+            "rect": {
+                "x": 20,
+                "y": 81,
+                "width": 335,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9529411764705882,
+                0.9529411764705882,
+                0.9529411764705882,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "B9E4A113-B150-474C-A3F2-DBFAF7DFA363",
+            "name": "Video Icon",
+            "rect": {
+                "x": 290,
+                "y": 43,
+                "width": 23,
+                "height": 15
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1647058823529412,
+                0.1647058823529412,
+                0.1647058823529412,
+                1
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black"
+        },
+        {
+            "id": "0B788BF6-43FF-4AAA-9BED-8E1EC89E7B64",
+            "name": "Phone Icon",
+            "rect": {
+                "x": 336.0000000000001,
+                "y": 41,
+                "width": 19,
+                "height": 19
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1647058823529412,
+                0.1647058823529412,
+                0.1647058823529412,
+                1
+            ],
+            "label": 0,
+            "msg": "a black phone on a black background"
+        },
+        {
+            "id": "9BF4CFF2-55F4-4E3F-9129-F58D93416640",
+            "name": "Ann Harrington",
+            "rect": {
+                "x": 46,
+                "y": 33,
+                "width": 181,
+                "height": 35
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "D7D08A7A-9969-427B-A9F5-67CE0BA40BEE",
+            "name": "Oval",
+            "rect": {
+                "x": 233,
+                "y": 47,
+                "width": 10,
+                "height": 10
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a green circle with a white light in the center"
+        },
+        {
+            "id": "8ACF636E-7D41-48ED-816E-DA4411ACDC65",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 23.07573566154889,
+                "y": 40.742295297817236,
+                "width": 11.313708498984795,
+                "height": 11.313708498984738
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black arrow pointing to the right"
+        },
+        {
+            "id": "CEBD0176-59E7-47F0-9AAC-1811093B037C",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 22.792893218813447,
+                "y": 49.547677740598374,
+                "width": 11.596550941719556,
+                "height": 11.596550941719556
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black arrow pointing to the right"
+        },
+        {
+            "id": "1635FB16-F1B1-4255-93BA-462A3661C757",
+            "name": "Misc/Input Message",
+            "rect": {
+                "x": 0,
+                "y": 583,
+                "width": 375,
+                "height": 84
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a screenshot of the app store showing the different types of apps"
+        },
+        {
+            "id": "D45E18D5-5A50-4A07-BAE3-0337D97A6200",
+            "name": "Background",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 667
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.3562925170068027,
+                0.3562925170068027,
+                0.3562925170068027,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a plane flying over a field"
+        },
+        {
+            "id": "0C331534-0C3D-4E1B-853C-9D7956BC37B6",
+            "name": "Placeholder",
+            "rect": {
+                "x": 5,
+                "y": 65,
+                "width": 365,
+                "height": 557
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black background"
+        },
+        {
+            "id": "B3DCF1C6-0754-4DC4-992F-E0E5EEADDA6C",
+            "name": "Layer 1",
+            "rect": {
+                "x": 78,
+                "y": 512,
+                "width": 10,
+                "height": 17
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8352941176470589,
+                0.8352941176470589,
+                0.8352941176470589,
+                1
+            ],
+            "label": 1,
+            "msg": "the white and black square frame is shown"
+        },
+        {
+            "id": "221A8525-455B-4F48-A640-CA51475568FD",
+            "name": "Rectangle",
+            "rect": {
+                "x": 75,
+                "y": 517,
+                "width": 15.556349186104057,
+                "height": 15.556349186103944
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 2,
+            "msg": "a white metal knife with a long handle"
+        },
+        {
+            "id": "97E7F8E0-4179-4786-A2AB-ECC875F066E4",
+            "name": "Rectangle",
+            "rect": {
+                "x": 76,
+                "y": 515.2000122070312,
+                "width": 15.556349186104057,
+                "height": 15.556349186103944
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white arrow pointing down on a black background"
+        },
+        {
+            "id": "26EC308F-CB19-4833-B305-44EF1E6035C1",
+            "name": "Layer 2",
+            "rect": {
+                "x": 75,
+                "y": 523,
+                "width": 16,
+                "height": 9
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white plastic toothbrush with a white handle"
+        },
+        {
+            "id": "A758C81A-1E18-48A2-B323-E2A176603574",
+            "name": "Layer 3",
+            "rect": {
+                "x": 82,
+                "y": 530,
+                "width": 2,
+                "height": 7
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a man is standing on a beach with a surfboard"
+        },
+        {
+            "id": "9B51F938-C216-4E1E-9DF5-7B10CA38AC2D",
+            "name": "Layer 4",
+            "rect": {
+                "x": 77,
+                "y": 535,
+                "width": 12,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "the iphone 5s is a white phone with a black case"
+        },
+        {
+            "id": "06E78C62-7B81-4CDD-85FB-555241BB9C80",
+            "name": "Layer 5",
+            "rect": {
+                "x": 75,
+                "y": 523,
+                "width": 3,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "the person is standing on a white background"
+        },
+        {
+            "id": "26B352A6-82BB-4BF8-A6B8-88D7C2CDAB3B",
+            "name": "Layer 6",
+            "rect": {
+                "x": 88,
+                "y": 523,
+                "width": 3,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "the person is standing on a white background"
+        },
+        {
+            "id": "6C05A220-89D6-45EF-8831-95652C611B49",
+            "name": "Placeholder",
+            "rect": {
+                "x": 153,
+                "y": 429,
+                "width": 70,
+                "height": 70
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9882352941176471,
+                0.1411764705882352,
+                0.2862745098039211,
+                1
+            ],
+            "label": 0,
+            "msg": "a red circle with a black background"
+        },
+        {
+            "id": "B2CA0EAE-2B10-4FFA-ADAA-70BAA40F9888",
+            "name": "Phone Icon",
+            "rect": {
+                "x": 174.0649711574555,
+                "y": 451.0649711574556,
+                "width": 26.870057685088796,
+                "height": 26.870057685088796
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and black logo with a white background"
+        },
+        {
+            "id": "C62BB8A1-D9F9-4113-96F7-7CC464D8FAE5",
+            "name": "Waiting...",
+            "rect": {
+                "x": 155,
+                "y": 375,
+                "width": 65,
+                "height": 24
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the waiting room logo"
+        },
+        {
+            "id": "26D2EAC1-D5FA-4660-AB5D-ED370C703D1E",
+            "name": "Edwin Stephens",
+            "rect": {
+                "x": 105,
+                "y": 297,
+                "width": 230,
+                "height": 69
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "edwin stephens, llc logo"
+        },
+        {
+            "id": "8C45B41B-602F-4733-AA7E-7AE1DF81C948",
+            "name": "Userpic",
+            "rect": {
+                "x": 128,
+                "y": 161,
+                "width": 120,
+                "height": 120
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1333333333333333,
+                0.1372549019607844,
+                0.1568627450980392,
+                1
+            ],
+            "label": 0,
+            "msg": "a man wearing sunglasses and a red shirt"
+        },
+        {
+            "id": "2B5D6024-7CA6-4985-8E07-81ACB0A8BA74",
+            "name": "Placeholder",
+            "rect": {
+                "x": 284,
+                "y": 98,
+                "width": 34,
+                "height": 34
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9529411764705882,
+                0.9529411764705882,
+                0.9529411764705882,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "C18278C3-44DC-4E33-A1A8-6AB3A7FAA68E",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 294.636038969321,
+                "y": 108.63603896932113,
+                "width": 12.727922061357845,
+                "height": 12.727922061357845
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "the x is a black cross on a white background"
+        },
+        {
+            "id": "BC3B5C80-0B2C-4299-8EA7-E16F08EDFE01",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 294.63603896932113,
+                "y": 108.63603896932102,
+                "width": 12.727922061357845,
+                "height": 12.727922061357845
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "the x is a black cross on a white background"
+        },
+        {
+            "id": "C4D29A55-685C-4FE7-98CC-28D37E322796",
+            "name": "Sparks Call",
+            "rect": {
+                "x": 67,
+                "y": 107,
+                "width": 92,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the springs call center"
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

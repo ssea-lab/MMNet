@@ -1,0 +1,540 @@
+{
+    "layers": [
+        {
+            "id": "37FCDC75-2D32-444D-804C-A19F2EB4D9AB",
+            "name": "btn_next",
+            "rect": {
+                "x": -4,
+                "y": 778,
+                "width": 383,
+                "height": 108
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white background with a purple and blue background"
+        },
+        {
+            "id": "2DA2DC54-6B18-4CEC-A0AF-339A50758D57",
+            "name": "Room Preferences",
+            "rect": {
+                "x": 24,
+                "y": 130,
+                "width": 184,
+                "height": 80
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the room preferences logo with a blue background"
+        },
+        {
+            "id": "511EF300-C905-4C85-830F-C66917822A8D",
+            "name": "in_rent",
+            "rect": {
+                "x": 24,
+                "y": 242,
+                "width": 327,
+                "height": 54
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white and blue sign with the words'transmission'"
+        },
+        {
+            "id": "7458AAFD-76A1-43E6-B772-62BBC6510E4F",
+            "name": "in_deposit",
+            "rect": {
+                "x": 24,
+                "y": 312,
+                "width": 327,
+                "height": 54
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white background with a blue and black text"
+        },
+        {
+            "id": "45690082-0DBC-4168-8979-746114EED2A6",
+            "name": "in_moving_date",
+            "rect": {
+                "x": 24,
+                "y": 382,
+                "width": 327,
+                "height": 54
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the new york times"
+        },
+        {
+            "id": "90C3CE42-1B0D-4696-807A-A3DF2D98B048",
+            "name": "Room Type",
+            "rect": {
+                "x": 24,
+                "y": 460,
+                "width": 73,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for room types"
+        },
+        {
+            "id": "7FD096EC-1599-4D31-8ABD-7E3946CCE339",
+            "name": "bg",
+            "rect": {
+                "x": 24,
+                "y": 492,
+                "width": 327,
+                "height": 40
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with blue border on a white background"
+        },
+        {
+            "id": "12762FE2-0E77-43CE-8D7E-A7CF4994E47B",
+            "name": "line",
+            "rect": {
+                "x": 239,
+                "y": 492,
+                "width": 1,
+                "height": 40
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.05882352941176471,
+                0.4509803921568623,
+                0.9333333333333333,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "1AEACE8B-2184-4057-96AF-28DD07E892B8",
+            "name": "bg_active",
+            "rect": {
+                "x": 24,
+                "y": 492,
+                "width": 109,
+                "height": 40
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.05882352941176471,
+                0.4509803921568623,
+                0.9333333333333333,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue square with a black background"
+        },
+        {
+            "id": "CF800DEA-F945-45D3-8F78-8A36FBA22B0A",
+            "name": "Single",
+            "rect": {
+                "x": 59,
+                "y": 504,
+                "width": 40,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word single is in white letters on a black background"
+        },
+        {
+            "id": "D4E04C1C-AFD3-428D-B387-576930EB1DFF",
+            "name": "Double",
+            "rect": {
+                "x": 164,
+                "y": 504,
+                "width": 47,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the double logo is shown in blue"
+        },
+        {
+            "id": "2C108962-8967-44D9-B0A0-EEB25CCB44C6",
+            "name": "Shared",
+            "rect": {
+                "x": 274,
+                "y": 504,
+                "width": 46,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the shared logo"
+        },
+        {
+            "id": "426BAF3E-3339-41AD-AF8C-190B0FD73691",
+            "name": "Furnished or Unfurni",
+            "rect": {
+                "x": 24,
+                "y": 556,
+                "width": 164,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue sky with a few clouds in it"
+        },
+        {
+            "id": "AD9AC2D4-D6B1-46A5-8E34-AAADCD9047BF",
+            "name": "bg",
+            "rect": {
+                "x": 24,
+                "y": 588,
+                "width": 327,
+                "height": 40
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with blue border on a white background"
+        },
+        {
+            "id": "C042FACC-5B5A-40C1-A449-0E8881AD2014",
+            "name": "bg_active",
+            "rect": {
+                "x": 24,
+                "y": 588,
+                "width": 164,
+                "height": 40
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.05882352941176471,
+                0.4509803921568623,
+                0.9333333333333333,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue square with a black background"
+        },
+        {
+            "id": "60E77654-35CA-4668-B307-CC10C339B2FB",
+            "name": "Furnished",
+            "rect": {
+                "x": 74,
+                "y": 600,
+                "width": 65,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word \"futures\" is written in black and white"
+        },
+        {
+            "id": "0F82EE12-9676-48AB-B3C4-F89AF19C8522",
+            "name": "Unfurnished",
+            "rect": {
+                "x": 230,
+                "y": 600,
+                "width": 80,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is blue and white"
+        },
+        {
+            "id": "E35AD6D4-25A2-4E3A-B62B-9A6DD80C3BA2",
+            "name": "Minimum stay",
+            "rect": {
+                "x": 24,
+                "y": 660,
+                "width": 130,
+                "height": 22
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in blue"
+        },
+        {
+            "id": "938AB741-DD4D-45F1-9EE0-401F9805BB0A",
+            "name": "3 - 6 months",
+            "rect": {
+                "x": 264,
+                "y": 663,
+                "width": 89,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in blue"
+        },
+        {
+            "id": "3A180E60-D4F9-4B61-A96F-7A3E505593FE",
+            "name": "No minimum",
+            "rect": {
+                "x": 24,
+                "y": 723,
+                "width": 87,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in this image"
+        },
+        {
+            "id": "99EF2443-BF93-489A-97D1-8CB9FFA0CE15",
+            "name": "Over 12 months",
+            "rect": {
+                "x": 252,
+                "y": 723,
+                "width": 99,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in this image"
+        },
+        {
+            "id": "68BFCBB9-F5AF-42AF-B030-E754EDC7A0EE",
+            "name": "Line",
+            "rect": {
+                "x": 24,
+                "y": 711,
+                "width": 327,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9411764705882353,
+                0.9411764705882353,
+                0.9411764705882353,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "9DDB19A4-E2D9-4D20-B6C0-8B7E23414F6F",
+            "name": "radius Range",
+            "rect": {
+                "x": 106,
+                "y": 711,
+                "width": 81,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.05882352941176471,
+                0.4509803921568623,
+                0.9333333333333333,
+                1
+            ],
+            "label": 0,
+            "msg": "a purple and blue gradient background with a white background"
+        },
+        {
+            "id": "FEF300FD-7949-46E0-9029-2B1A085AEC20",
+            "name": "pin_node",
+            "rect": {
+                "x": 167,
+                "y": 695,
+                "width": 40,
+                "height": 40
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "1F52143D-40EA-41C5-8849-C6D33FA28AED",
+            "name": "pin_node",
+            "rect": {
+                "x": 86,
+                "y": 695,
+                "width": 40,
+                "height": 40
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "68F593D1-33FD-4AEF-BCEB-EDF4220DBC17",
+            "name": "Naviagtion",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 88
+            },
+            "_class": "symbolInstance",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "279E9674-7EEF-4B97-8C1D-69299C8DDAC0",
+            "name": "progress",
+            "rect": {
+                "x": 0,
+                "y": 88,
+                "width": 375,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a purple and blue gradient background"
+        },
+        {
+            "id": "D354421C-BF99-4B0A-BE02-DD8AC1F09483",
+            "name": "progress_incomplete",
+            "rect": {
+                "x": 189,
+                "y": 88,
+                "width": 186,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        }
+    ],
+    "width": 375,
+    "height": 884,
+    "layer_width": 64,
+    "layer_height": 64
+}

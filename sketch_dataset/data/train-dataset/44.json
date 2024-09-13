@@ -1,0 +1,825 @@
+{
+    "layers": [
+        {
+            "id": "51245F9A-168D-47C1-8546-03AD1D5C59A8",
+            "name": "background",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 667
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.4082132550618791,
+                0.4214089767343945,
+                0.5377072704081632,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue background with a white square in the center"
+        },
+        {
+            "id": "A71A312D-F366-43D3-BC09-FC7EC1B0C294",
+            "name": "mask",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 363.1396135874633
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.4082132550618791,
+                0.4214089767343945,
+                0.5377072704081632,
+                1
+            ],
+            "label": 0,
+            "msg": "a silhouette of a person standing on a hill"
+        },
+        {
+            "id": "E7FD02FD-66D2-455E-A0CB-2EED6F0E3AF2",
+            "name": "Oval 3 Copy 4",
+            "rect": {
+                "x": -95,
+                "y": -27,
+                "width": 565,
+                "height": 565
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8705882352941177,
+                0.9176470588235293,
+                0.9568627450980393,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue sphere with a white sun in the middle"
+        },
+        {
+            "id": "F19F915F-1545-47FE-B60E-BEE0315AAFD7",
+            "name": "Oval 3",
+            "rect": {
+                "x": -23,
+                "y": 45,
+                "width": 422,
+                "height": 422
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8705882352941177,
+                0.9176470588235293,
+                0.9568627450980393,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue sphere with a white light"
+        },
+        {
+            "id": "9ACB4CD6-FBF4-4F0E-9E03-A4EACB5A0D1D",
+            "name": "Oval 3 Copy",
+            "rect": {
+                "x": 37,
+                "y": 105,
+                "width": 304,
+                "height": 304
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8705882352941177,
+                0.9176470588235293,
+                0.9568627450980393,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue sphere with a white light coming out of it"
+        },
+        {
+            "id": "B6E22A54-D908-4299-A177-6D6CE0578FBA",
+            "name": "Oval 3 Copy 2",
+            "rect": {
+                "x": 92,
+                "y": 160,
+                "width": 192,
+                "height": 192
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8705882352941177,
+                0.9176470588235293,
+                0.9568627450980393,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue sphere with a white dot on it"
+        },
+        {
+            "id": "9749321D-3075-4A82-9FC5-773D72C7D228",
+            "name": "Oval 3 Copy 3",
+            "rect": {
+                "x": 144,
+                "y": 212,
+                "width": 90,
+                "height": 90
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8705882352941177,
+                0.9176470588235293,
+                0.9568627450980393,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue sphere with a white center"
+        },
+        {
+            "id": "81E7C8EB-F99D-4321-9A0A-13B8476FB5EE",
+            "name": "Oval 4",
+            "rect": {
+                "x": 283,
+                "y": 179,
+                "width": 3,
+                "height": 3
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "D23AB257-1A14-499A-82D6-AB49C2F40901",
+            "name": "Oval 4 Copy 4",
+            "rect": {
+                "x": 36,
+                "y": 50,
+                "width": 3,
+                "height": 3
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "AF0864C0-AEFE-44D5-9294-AB7D19027656",
+            "name": "Oval 4 Copy",
+            "rect": {
+                "x": 202,
+                "y": 79,
+                "width": 2,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "037340E3-F3D2-4A0D-BF1E-255AC8766392",
+            "name": "Oval 4 Copy 5",
+            "rect": {
+                "x": 326,
+                "y": 51,
+                "width": 1,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "DC4C551F-8C09-47FC-AAA0-DE9E76CBD170",
+            "name": "Oval 4 Copy 6",
+            "rect": {
+                "x": 90,
+                "y": 107,
+                "width": 1,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "B1FC738B-8E79-4D77-AA6F-07DFD2987D15",
+            "name": "Oval 4 Copy 9",
+            "rect": {
+                "x": 295,
+                "y": 112,
+                "width": 1,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "219F0E90-6D09-41AB-B419-B282059E6363",
+            "name": "Oval 4 Copy 7",
+            "rect": {
+                "x": 17,
+                "y": 305,
+                "width": 1,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "9FD48CDD-1931-40DA-89B6-488AE1C2E62D",
+            "name": "Oval 4 Copy 2",
+            "rect": {
+                "x": 340,
+                "y": 216,
+                "width": 2,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "72AD91EF-8DDA-4AB9-91E1-6893550D3EC7",
+            "name": "Oval 4 Copy 3",
+            "rect": {
+                "x": 33,
+                "y": 216,
+                "width": 2,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "3F86FD50-ABAA-4837-A477-26B391DA22CA",
+            "name": "shooting star",
+            "rect": {
+                "x": 116.36544934224912,
+                "y": 58.99999999999998,
+                "width": 87.63455065775088,
+                "height": 65.48994037212799
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white line on a black background"
+        },
+        {
+            "id": "05127BA7-F367-44DC-973C-0F933A2BC5C4",
+            "name": "Rectangle",
+            "rect": {
+                "x": 10.867373267063158,
+                "y": 154.98233966681178,
+                "width": 258.6494064291701,
+                "height": 270.38882202580965
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9374770693522437,
+                0.945968820948608,
+                0.9530452806122449,
+                1
+            ],
+            "label": 0,
+            "msg": "a white paper with a white background"
+        },
+        {
+            "id": "C9D67DD4-940B-4FC7-8EA5-BB6B2342D012",
+            "name": "Rectangle Copy",
+            "rect": {
+                "x": 96.8111060648198,
+                "y": 191.11892093373075,
+                "width": 311.786734714713,
+                "height": 311.2326179416134
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9374770693522437,
+                0.945968820948608,
+                0.9530452806122449,
+                1
+            ],
+            "label": 0,
+            "msg": "the logo for the new star wars movie"
+        },
+        {
+            "id": "74D2384F-6398-4A58-ADBE-178D7F9E06ED",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 283.7047879142474,
+                "y": 301.4826715144684,
+                "width": 131.49259837285808,
+                "height": 135.1426687684518
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.7376641041714982,
+                0.7890066428979913,
+                0.8317920918367347,
+                1
+            ],
+            "label": 0,
+            "msg": "a white triangle with a black background"
+        },
+        {
+            "id": "1FE578F8-D389-4A79-AD65-E6DB7FCADADD",
+            "name": "Oval 2",
+            "rect": {
+                "x": 174.3143968956656,
+                "y": 277.14180717399483,
+                "width": 14.107686092133008,
+                "height": 14.10768609213278
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6901882415144484,
+                0.7454096598720589,
+                0.7914275085034014,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black border"
+        },
+        {
+            "id": "C0D5CE70-2B3C-4160-B243-20E3E0144906",
+            "name": "Oval 2 Copy",
+            "rect": {
+                "x": 159.22020529120982,
+                "y": 290.26298775380496,
+                "width": 14.107686092133008,
+                "height": 14.10768609213278
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6901882415144484,
+                0.7454096598720589,
+                0.7914275085034014,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black border"
+        },
+        {
+            "id": "0D2560B9-ADEF-4D15-9D92-E8F1D4EED5F6",
+            "name": "Oval 2 Copy 2",
+            "rect": {
+                "x": 144.12601368675496,
+                "y": 303.3841683336151,
+                "width": 14.107686092133008,
+                "height": 14.10768609213278
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6901882415144484,
+                0.7454096598720589,
+                0.7914275085034014,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue circle with a white border"
+        },
+        {
+            "id": "BED9178B-9AEA-4C8E-83AA-5C12CF1F52B6",
+            "name": "Oval 2 Copy 3",
+            "rect": {
+                "x": 129.0318220822992,
+                "y": 316.5053489134252,
+                "width": 14.107686092133008,
+                "height": 14.10768609213278
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6901882415144484,
+                0.7454096598720589,
+                0.7914275085034014,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a blue border"
+        },
+        {
+            "id": "A13A29AC-72E3-4B3E-AEE5-88FB769D04F1",
+            "name": "Oval 2 Copy 4",
+            "rect": {
+                "x": 113.93763047784341,
+                "y": 329.62652949323535,
+                "width": 14.107686092133008,
+                "height": 14.10768609213278
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6901882415144484,
+                0.7454096598720589,
+                0.7914275085034014,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and white circular shape on a black background"
+        },
+        {
+            "id": "780271C4-AA3F-4247-B8CF-33BC2676E6B3",
+            "name": "Oval",
+            "rect": {
+                "x": 69.85501621781259,
+                "y": 195.8946293339969,
+                "width": 76.1815048975177,
+                "height": 76.1815048975171
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.7376641041714982,
+                0.7890066428979913,
+                0.8317920918367347,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "27DBAAF2-86FB-4923-B872-E1178ECD29DA",
+            "name": "Rectangle 31",
+            "rect": {
+                "x": 128.4640884632745,
+                "y": 129.2725600306619,
+                "width": 59.98216421289271,
+                "height": 52.87932452416965
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6271143692887904,
+                0.7005663783817395,
+                0.8064944727891157,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and white stick with a long handle"
+        },
+        {
+            "id": "2C8CEC5C-A819-492A-9012-DD6DA4EE3BCB",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 147.97481438011255,
+                "y": 129.2725600306619,
+                "width": 57.160858206978446,
+                "height": 55.1178906398668
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.6912089646464646,
+                0.6912089646464646,
+                1
+            ],
+            "label": 0,
+            "msg": "a pink paper kite with a black background"
+        },
+        {
+            "id": "31F9291B-7343-4565-B6C7-DAB47B103123",
+            "name": "Rectangle 32",
+            "rect": {
+                "x": 172.6470054000647,
+                "y": 206.7068612022369,
+                "width": 134.60525330730798,
+                "height": 141.90539409849515
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9374770693522437,
+                0.945968820948608,
+                0.9530452806122449,
+                1
+            ],
+            "label": 0,
+            "msg": "a white paper with a black border"
+        },
+        {
+            "id": "A7A3FC3C-A366-4D7E-838B-A00E85F8F19B",
+            "name": "Rectangle 32 Copy",
+            "rect": {
+                "x": 202.14347617322255,
+                "y": 239.1930319887537,
+                "width": 82.65481630798604,
+                "height": 88.08303343744498
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.7376641041714982,
+                0.7890066428979913,
+                0.8317920918367347,
+                1
+            ],
+            "label": 0,
+            "msg": "a white sheet of paper on a black background"
+        },
+        {
+            "id": "E94D9F3F-F5DC-4438-A178-6230EA2853C5",
+            "name": "sea",
+            "rect": {
+                "x": 0,
+                "y": 320.7286137116482,
+                "width": 375,
+                "height": 357.2703152695923
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.4082132550618791,
+                0.4214089767343945,
+                0.5377072704081632,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue background with a white apple"
+        },
+        {
+            "id": "E126760A-06C2-4639-A6DF-4AED22CC04C1",
+            "name": "Oval 7",
+            "rect": {
+                "x": 121,
+                "y": 447,
+                "width": 192,
+                "height": 192
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8705882352941177,
+                0.9176470588235293,
+                0.9568627450980393,
+                1
+            ],
+            "label": 0,
+            "msg": "a white ball with a black background"
+        },
+        {
+            "id": "299AE387-262F-4C7A-A120-709482743A53",
+            "name": "Oval 7 Copy",
+            "rect": {
+                "x": 155,
+                "y": 481,
+                "width": 125,
+                "height": 125
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8705882352941177,
+                0.9176470588235293,
+                0.9568627450980393,
+                1
+            ],
+            "label": 0,
+            "msg": "a white ball with a black background"
+        },
+        {
+            "id": "E8B4993C-10DA-43E8-94CE-129134C7AD20",
+            "name": "Oval 7 Copy 2",
+            "rect": {
+                "x": 189,
+                "y": 515,
+                "width": 57,
+                "height": 57
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8705882352941177,
+                0.9176470588235293,
+                0.9568627450980393,
+                1
+            ],
+            "label": 0,
+            "msg": "a white ball on a black background"
+        },
+        {
+            "id": "051F8DEA-D751-4F1B-8662-6CD58C7FB24C",
+            "name": "Oval 5",
+            "rect": {
+                "x": 172.26587175971054,
+                "y": 492.406846883918,
+                "width": 262.65771176862927,
+                "height": 201.3574736275957
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a shark is shown in a black background"
+        },
+        {
+            "id": "D05886FF-3918-4397-AE0A-DF03EBB96A79",
+            "name": "Path 63",
+            "rect": {
+                "x": 294.68138791330057,
+                "y": 524.4058946664154,
+                "width": 51.56099188522694,
+                "height": 53.615040715511896
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a shark is shown in a black background"
+        },
+        {
+            "id": "AB7AAD89-73C8-477C-B3A7-32CF712D8C69",
+            "name": "Path 63 Copy",
+            "rect": {
+                "x": 257.45504289082237,
+                "y": 582.1013292143834,
+                "width": 58.70501320114636,
+                "height": 59.62913410123929
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a shark is shown in a black background"
+        },
+        {
+            "id": "6EBD5C1C-5B05-4D2C-A458-CA74DAA0BA79",
+            "name": "Oval 6",
+            "rect": {
+                "x": 182.1817483884479,
+                "y": 463.9805905143094,
+                "width": 258.4365032231044,
+                "height": 136.60819646468275
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8705882352941177,
+                0.9176470588235291,
+                0.9568627450980393,
+                1
+            ],
+            "label": 0,
+            "msg": "a white bird with a blue wing"
+        },
+        {
+            "id": "70F2879D-7C13-416E-ADF5-57E683F9355F",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 25,
+                "y": 543,
+                "width": 167,
+                "height": 94
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white button with a black background"
+        },
+        {
+            "id": "B36C81A9-54FF-4056-94CF-6DF9D9B9E88F",
+            "name": "Refresh",
+            "rect": {
+                "x": 74,
+                "y": 576,
+                "width": 70,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the freshest logo on a black background"
+        },
+        {
+            "id": "DB39D356-93BC-4E07-9C5C-FE483B066AAF",
+            "name": "Hang on a sec..",
+            "rect": {
+                "x": 50,
+                "y": 404,
+                "width": 239,
+                "height": 39
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word 'hannah' is written in white on a black background"
+        },
+        {
+            "id": "25D7F44E-E9DC-42EC-8E3E-57B2B17182F6",
+            "name": "It seems you are in",
+            "rect": {
+                "x": 50,
+                "y": 468,
+                "width": 271,
+                "height": 50
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person standing in front of a white background"
+        },
+        {
+            "id": "47347850-AC9F-4222-85E1-D1FE91A467E8",
+            "name": "status",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 22
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1884473406776688,
+                0.1733934261836048,
+                0.282312925170068,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white text"
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

@@ -1,0 +1,502 @@
+{
+    "layers": [
+        {
+            "id": "6D245338-73CD-4661-A6ED-7156A687F7C7",
+            "name": "Avatar",
+            "rect": {
+                "x": 41,
+                "y": 59,
+                "width": 375,
+                "height": 415
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "7C310E50-8BF5-4BA9-9796-19539452C07B",
+            "name": "862b9735157213.56eb7e8345076",
+            "rect": {
+                "x": 202,
+                "y": -15,
+                "width": 429,
+                "height": 433
+            },
+            "_class": "bitmap",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a large green leaf with a white background"
+        },
+        {
+            "id": "883FE62A-AA80-4838-A948-F0C9B64CCE43",
+            "name": "Explore the latest t",
+            "rect": {
+                "x": 25,
+                "y": 333,
+                "width": 243,
+                "height": 50
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a man with a blue background"
+        },
+        {
+            "id": "55DFE42D-7F9A-4AFE-B3D5-EC9DCB56C815",
+            "name": "Welcome",
+            "rect": {
+                "x": 25,
+                "y": 268,
+                "width": 230,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word welcome is in blue letters on a black background"
+        },
+        {
+            "id": "205B4DF6-95D6-4BCE-96D4-94104CD02CD3",
+            "name": "Input",
+            "rect": {
+                "x": -1,
+                "y": 493,
+                "width": 377,
+                "height": 82
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "83F84178-CC98-4E74-BD71-E4D2EBACDAED",
+            "name": "Input",
+            "rect": {
+                "x": -1,
+                "y": 414,
+                "width": 377,
+                "height": 82
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "A9A986C2-519A-4131-9B3B-679FF726CE23",
+            "name": "Input",
+            "rect": {
+                "x": -1,
+                "y": 550,
+                "width": 377,
+                "height": 82
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "B6B3878F-8557-48C7-B2C1-2BAD071BD01F",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 25,
+                "y": 592,
+                "width": 6.043795620438004,
+                "height": 6
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and blue striped background with a black and white stripe"
+        },
+        {
+            "id": "90D4D7D2-D90C-441D-B997-A5BE0279E128",
+            "name": "Rectangle 4 Copy",
+            "rect": {
+                "x": 37.59124087591249,
+                "y": 592,
+                "width": 6.043795620438004,
+                "height": 6
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and blue striped background with a black and white stripe"
+        },
+        {
+            "id": "62697D70-9F0D-4058-944B-736DC20DC406",
+            "name": "Rectangle 4 Copy 2",
+            "rect": {
+                "x": 50.18248175182475,
+                "y": 592,
+                "width": 6.043795620438004,
+                "height": 6
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and blue striped background with a black and white stripe"
+        },
+        {
+            "id": "2F379A84-C08B-4E4D-9B03-27285B3EDC45",
+            "name": "Rectangle 4 Copy 3",
+            "rect": {
+                "x": 62.77372262773724,
+                "y": 592,
+                "width": 6.043795620438004,
+                "height": 6
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and blue striped background with a black and white stripe"
+        },
+        {
+            "id": "CC9D334A-E45B-480A-8201-D3DF66241A0E",
+            "name": "Rectangle 4 Copy 4",
+            "rect": {
+                "x": 75.3649635036495,
+                "y": 592,
+                "width": 6.043795620438004,
+                "height": 6
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and blue striped background with a black and white stripe"
+        },
+        {
+            "id": "9D44CE87-8AA3-45F5-8AC5-D48C816D0B12",
+            "name": "Rectangle 4 Copy 5",
+            "rect": {
+                "x": 87.956204379562,
+                "y": 592,
+                "width": 6.043795620438004,
+                "height": 6
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and blue striped background with a black and white stripe"
+        },
+        {
+            "id": "894D23B1-40DE-4ABE-9909-454235040CB0",
+            "name": "Email",
+            "rect": {
+                "x": 24,
+                "y": 504,
+                "width": 36,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word email is shown in a black background"
+        },
+        {
+            "id": "B1D21AC2-FB87-48B7-94C9-1BE9733304AA",
+            "name": "Name",
+            "rect": {
+                "x": 25,
+                "y": 432,
+                "width": 33,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white logo with the word name"
+        },
+        {
+            "id": "5C216D50-B8F6-436E-AD7F-629462CBAC95",
+            "name": "hello@harpen.design",
+            "rect": {
+                "x": 26,
+                "y": 519,
+                "width": 172,
+                "height": 23
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "2D83574C-B9C2-4463-93B2-DB6ACDFBB61B",
+            "name": "Kim Yi Hyun",
+            "rect": {
+                "x": 24,
+                "y": 447,
+                "width": 98,
+                "height": 23
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for kim hyun ri"
+        },
+        {
+            "id": "905E5044-4A9E-41D1-A2E7-35A6745470B5",
+            "name": "Password",
+            "rect": {
+                "x": 25,
+                "y": 568,
+                "width": 64,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word password is shown in blue letters"
+        },
+        {
+            "id": "95EB16A4-0EB9-41C2-984C-D17219146798",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 782,
+                "width": 375,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "2DED9AFC-D7B1-467A-B3F1-A929C05696D7",
+            "name": "line",
+            "rect": {
+                "x": 133,
+                "y": 795,
+                "width": 110,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1071216743409998,
+                0.1878404916072689,
+                0.2454028486394558,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white square"
+        },
+        {
+            "id": "7868AB90-F07C-4CDE-80EB-3889A5307F95",
+            "name": "Rectangle 5",
+            "rect": {
+                "x": 285,
+                "y": 692,
+                "width": 90,
+                "height": 90
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.996078431372549,
+                0.4392156862745098,
+                0.7098039215686271,
+                1
+            ],
+            "label": 0,
+            "msg": "a pink background with a white border"
+        },
+        {
+            "id": "5FD46FAC-3A58-4FFC-AB74-139EA583BD9D",
+            "name": "Shape",
+            "rect": {
+                "x": 321,
+                "y": 736,
+                "width": 18,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "CAFBFD08-2F3B-4C14-970D-8EE365E07DA5",
+            "name": "Shape",
+            "rect": {
+                "x": 331,
+                "y": 730,
+                "width": 8,
+                "height": 14
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white arrow pointing down on a black background"
+        },
+        {
+            "id": "AE5A2943-FF9C-40BD-BD13-83E16CBE1B45",
+            "name": "Shape",
+            "rect": {
+                "x": 25,
+                "y": 64,
+                "width": 16,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black background with a white text"
+        },
+        {
+            "id": "6DDE9956-589D-44DE-A220-EF287C681641",
+            "name": "Shape",
+            "rect": {
+                "x": 23.585786437626894,
+                "y": 58.292893218813454,
+                "width": 8.121320343559546,
+                "height": 13.4142135623731
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a dark blue arrow pointing to the left"
+        },
+        {
+            "id": "97EB771A-3653-491E-9727-F65BD913FB36",
+            "name": "iPhone X/Status Bars/Status Bar (White)",
+            "rect": {
+                "x": 21.5,
+                "y": 16.5,
+                "width": 339.3280380056085,
+                "height": 17
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

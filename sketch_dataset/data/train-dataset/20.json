@@ -1,0 +1,692 @@
+{
+    "layers": [
+        {
+            "id": "D35B0EB8-B708-47BD-8B4D-C8D91CE6625E",
+            "name": "photo",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 374.9999999999999,
+                "height": 566.9999999999999
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a woman with long hair and a white top"
+        },
+        {
+            "id": "2A8541D9-DA74-4FC2-A54E-2A09789103FC",
+            "name": "Mask",
+            "rect": {
+                "x": 0,
+                "y": 425,
+                "width": 375.0000000000001,
+                "height": 142
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                0.1000000014901161
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "EF824F7F-6EC7-48AB-A91B-57296B9D9466",
+            "name": "Rectangle 11",
+            "rect": {
+                "x": 37,
+                "y": 465,
+                "width": 3,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "5F8CF5C6-5453-4C17-88EC-164BF2C49869",
+            "name": "Rectangle 11",
+            "rect": {
+                "x": 67,
+                "y": 465,
+                "width": 3,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "CF37FBC6-9686-4DA5-87FC-F777FC535117",
+            "name": "Rectangle 11",
+            "rect": {
+                "x": 127,
+                "y": 465,
+                "width": 3,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "004DC9FD-EC8E-4BE5-98B1-39D01F15B562",
+            "name": "Rectangle 11",
+            "rect": {
+                "x": 157,
+                "y": 465,
+                "width": 3,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "69303226-0C05-445D-8FBF-DD0D404E52F7",
+            "name": "Rectangle 11",
+            "rect": {
+                "x": 217,
+                "y": 465,
+                "width": 3,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "17C3B3FD-3019-4ECB-85A0-48F1278CC796",
+            "name": "Rectangle 11",
+            "rect": {
+                "x": 247,
+                "y": 465,
+                "width": 3,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "00135743-EF64-4A01-8DE0-EFBCFE83C4C5",
+            "name": "Rectangle 11",
+            "rect": {
+                "x": 307,
+                "y": 465,
+                "width": 3,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "FA953AD7-797F-49E4-AD23-F3043DDD8D7A",
+            "name": "Rectangle 11",
+            "rect": {
+                "x": 337,
+                "y": 465,
+                "width": 3,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "183DC75F-87CC-4D0A-BF0E-DAC1DF5C4547",
+            "name": "Rectangle 11",
+            "rect": {
+                "x": 98,
+                "y": 465,
+                "width": 1,
+                "height": 20
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "C6DF06DB-D697-4370-8E3B-AB235A86C326",
+            "name": "Rectangle 11",
+            "rect": {
+                "x": 8,
+                "y": 465,
+                "width": 1,
+                "height": 20
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "E34D2B73-6FD7-47A2-AC19-DCC950846197",
+            "name": "Rectangle 11",
+            "rect": {
+                "x": 368,
+                "y": 465,
+                "width": 1,
+                "height": 20
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "F7878025-415B-48DA-BF38-EB4E2CE549D4",
+            "name": "Rectangle 11",
+            "rect": {
+                "x": 278,
+                "y": 465,
+                "width": 1,
+                "height": 20
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "4B68D06A-F83A-428A-8AE1-E2CBFC6F818B",
+            "name": "Rectangle 2 Copy 3",
+            "rect": {
+                "x": 1,
+                "y": 484,
+                "width": 375,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "DD2C6CC9-0B14-4CFE-8A5C-DF64722DE58F",
+            "name": "Rectangle 11",
+            "rect": {
+                "x": 188,
+                "y": 465,
+                "width": 1,
+                "height": 20
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "84770562-2D32-40C5-8BE1-659A010688E7",
+            "name": "-1",
+            "rect": {
+                "x": 181.5,
+                "y": 440,
+                "width": 12,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "F2260E93-EB60-421B-B634-EB2E1412C291",
+            "name": "0",
+            "rect": {
+                "x": 275.5,
+                "y": 440,
+                "width": 8,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white and black logo with a black outline"
+        },
+        {
+            "id": "90A7DCC0-E0B1-4F4D-A4AD-9B944AFF0367",
+            "name": "+1",
+            "rect": {
+                "x": 360,
+                "y": 440,
+                "width": 15,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white cross with a white background"
+        },
+        {
+            "id": "1699297E-839B-4C80-8C46-A205A2C9127E",
+            "name": "-2",
+            "rect": {
+                "x": 91.5,
+                "y": 440,
+                "width": 12,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "DDD0DD40-BFBB-4BAB-81DE-F9D2DCE83D1B",
+            "name": "-3",
+            "rect": {
+                "x": 1.5,
+                "y": 440,
+                "width": 12,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "DB4E5F36-8E6F-4E4F-9BAB-875CC73629A6",
+            "name": "Rectangle 17 Copy",
+            "rect": {
+                "x": 54,
+                "y": 510,
+                "width": 76,
+                "height": 34
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9686274509803922,
+                0.7450980392156863,
+                0.01176470588235294,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white circle with a white border"
+        },
+        {
+            "id": "1F98C83B-0C96-4DFA-9191-7DDDE9230028",
+            "name": "EV +0.7",
+            "rect": {
+                "x": 72.5,
+                "y": 519,
+                "width": 38,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the new york times"
+        },
+        {
+            "id": "A31081FC-79BB-4FE8-BA19-0C923B2E8039",
+            "name": "Rectangle 17 Copy",
+            "rect": {
+                "x": -42,
+                "y": 510,
+                "width": 76,
+                "height": 34
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black border"
+        },
+        {
+            "id": "E0BE7BE5-9BAE-42ED-9D9D-3B080BB56620",
+            "name": "GRID",
+            "rect": {
+                "x": -17.5,
+                "y": 519,
+                "width": 26,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a man standing in front of a white wall"
+        },
+        {
+            "id": "92792417-0D93-4B06-A50E-8FE06943333A",
+            "name": "Rectangle 17 Copy",
+            "rect": {
+                "x": 150,
+                "y": 510,
+                "width": 76,
+                "height": 34
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9686274509803922,
+                0.7450980392156863,
+                0.01176470588235294,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white circle with a white border"
+        },
+        {
+            "id": "9520A331-51B1-40B1-A053-1047E8BF01DC",
+            "name": "ISO 100",
+            "rect": {
+                "x": 168,
+                "y": 519,
+                "width": 39,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for iso is shown in white"
+        },
+        {
+            "id": "5F92BE49-B392-4534-B81F-F274E419C026",
+            "name": "Rectangle 17 Copy",
+            "rect": {
+                "x": 246,
+                "y": 510,
+                "width": 76,
+                "height": 34
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9686274509803922,
+                0.7450980392156863,
+                0.01176470588235294,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white circle with a white border"
+        },
+        {
+            "id": "DC09DAD6-13B0-47FC-BA4A-E37826A74D78",
+            "name": "S 1/80",
+            "rect": {
+                "x": 267.5,
+                "y": 519,
+                "width": 32,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white and black logo with a dollar sign"
+        },
+        {
+            "id": "4CB69C5C-02BF-40D1-BC7A-8CC521098975",
+            "name": "Rectangle 17 Copy",
+            "rect": {
+                "x": 342,
+                "y": 510,
+                "width": 76,
+                "height": 34
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9686274509803922,
+                0.7450980392156863,
+                0.01176470588235294,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white logo of a person"
+        },
+        {
+            "id": "9AB5F7CF-E182-40AA-AE9D-7F880664278E",
+            "name": "AUTO",
+            "rect": {
+                "x": 363.5,
+                "y": 519,
+                "width": 31,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white building with a large sign on it"
+        },
+        {
+            "id": "973D653C-036F-4343-810B-C2A41226F8AE",
+            "name": "photo",
+            "rect": {
+                "x": 300,
+                "y": 592,
+                "width": 50,
+                "height": 50
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9686274509803922,
+                0.7450980392156863,
+                0.01176470588235294,
+                1
+            ],
+            "label": 0,
+            "msg": "owl eye icon"
+        },
+        {
+            "id": "93228F6B-9492-4647-9C48-CF4070CABC41",
+            "name": "Oval 11",
+            "rect": {
+                "x": 158,
+                "y": 587,
+                "width": 60,
+                "height": 60
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9294117647058824,
+                0.8509803921568627,
+                0.4352941176470588,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "00B4EA3C-E939-41F1-9B24-FB6D73494AF0",
+            "name": "Icons/More",
+            "rect": {
+                "x": 40,
+                "y": 615,
+                "width": 15,
+                "height": 3
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with four squares on it"
+        },
+        {
+            "id": "10BB7ADB-4434-4C23-BD21-A1F8FDDEFAB4",
+            "name": "Icons/Repost",
+            "rect": {
+                "x": 329,
+                "y": 30,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white and black logo with a circle in the middle"
+        },
+        {
+            "id": "1AA9D589-C182-4DF2-BEB5-D87F7A26F462",
+            "name": "Icons/Menu",
+            "rect": {
+                "x": 30,
+                "y": 32,
+                "width": 16,
+                "height": 12
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the e-commerce company e-commerce"
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

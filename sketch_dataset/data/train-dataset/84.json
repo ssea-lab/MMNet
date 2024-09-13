@@ -1,0 +1,1756 @@
+{
+    "layers": [
+        {
+            "id": "292BC19A-69BF-4CC3-BD46-A18007DF087A",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "FBF511B5-434A-4321-933D-F1EAC03B6870",
+            "name": "avatar",
+            "rect": {
+                "x": 24,
+                "y": 132,
+                "width": 57,
+                "height": 57
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a woman smiling in a field with a white background"
+        },
+        {
+            "id": "E1D2B346-D872-4B87-B8B4-3DCC64B1DF10",
+            "name": "Emma Marsh",
+            "rect": {
+                "x": 97,
+                "y": 134,
+                "width": 99,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "C3DAE79B-D778-46F0-B902-DC04B686FD06",
+            "name": "Path",
+            "rect": {
+                "x": 339,
+                "y": 137,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "5E97951A-2EC9-4B92-86CA-74F0593A89A8",
+            "name": "Path",
+            "rect": {
+                "x": 340.6538016813024,
+                "y": 138.8124316384887,
+                "width": 8.690521578799235,
+                "height": 8.664270758461214
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "CDA5488F-7D0A-4879-B02E-8AE8928E0EAC",
+            "name": "Path",
+            "rect": {
+                "x": 325,
+                "y": 137,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "ECE57652-DE42-4C1F-9FD9-745778D77029",
+            "name": "Path",
+            "rect": {
+                "x": 326.6538016813024,
+                "y": 138.8124316384887,
+                "width": 8.690521578799235,
+                "height": 8.664270758461214
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "0FF67F6F-3E77-426E-BD54-6F25DAF6EE4F",
+            "name": "Path",
+            "rect": {
+                "x": 311,
+                "y": 137,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "39CE50ED-8386-4A4C-8490-900F4DFCDED6",
+            "name": "Path",
+            "rect": {
+                "x": 312.6538016813024,
+                "y": 138.8124316384887,
+                "width": 8.690521578799235,
+                "height": 8.664270758461214
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "E6CADF1B-67FF-4A75-999B-95638918D3CE",
+            "name": "Path",
+            "rect": {
+                "x": 297,
+                "y": 137,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "55CC3055-B0C8-4146-8F90-F0309A5067FC",
+            "name": "Path",
+            "rect": {
+                "x": 298.6538016813024,
+                "y": 138.8124316384887,
+                "width": 8.690521578799235,
+                "height": 8.664270758461214
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "440D2A58-4C69-4959-A238-CC7C3EA641AB",
+            "name": "Path",
+            "rect": {
+                "x": 283,
+                "y": 137,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "1607E1D6-835C-4974-A132-6FC048AF76C8",
+            "name": "Path",
+            "rect": {
+                "x": 284.6538016813024,
+                "y": 138.8124316384887,
+                "width": 8.690521578799235,
+                "height": 8.664270758461214
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "E4A1077B-B018-4365-9E26-9447E25DFAA5",
+            "name": "Finally A Top Secret",
+            "rect": {
+                "x": 97,
+                "y": 161,
+                "width": 254,
+                "height": 48
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person"
+        },
+        {
+            "id": "E4AA4898-0633-4286-AA35-7CB7854433F3",
+            "name": "line",
+            "rect": {
+                "x": 24,
+                "y": 233,
+                "width": 351,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "5B9A397E-C006-4F77-83DC-78DD6F605A15",
+            "name": "avatar",
+            "rect": {
+                "x": 24,
+                "y": 258,
+                "width": 57,
+                "height": 57
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a woman with curly hair and a red lipstick"
+        },
+        {
+            "id": "3D59AB5A-1309-4F0D-8B03-6B6CE84879C4",
+            "name": "Rosetta Holmes",
+            "rect": {
+                "x": 97,
+                "y": 260,
+                "width": 120,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is black and white"
+        },
+        {
+            "id": "19E3A2D1-DB18-4A1E-8C9E-03A68080FA4F",
+            "name": "Path",
+            "rect": {
+                "x": 339,
+                "y": 263,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "ADE7ED6D-70A4-4E89-BE0E-7978EFAF311E",
+            "name": "Path",
+            "rect": {
+                "x": 340.6538016813024,
+                "y": 264.8124316384887,
+                "width": 8.690521578799235,
+                "height": 8.6642707584612
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "67EB29AC-1E62-48CB-B5FA-39CCD240C225",
+            "name": "Path",
+            "rect": {
+                "x": 325,
+                "y": 263,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "B5903430-1898-445F-BF00-7E4A6D46610D",
+            "name": "Path",
+            "rect": {
+                "x": 326.6538016813024,
+                "y": 264.8124316384887,
+                "width": 8.690521578799235,
+                "height": 8.6642707584612
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "00666764-9B4F-4BE3-ABFF-33B960747B09",
+            "name": "Path",
+            "rect": {
+                "x": 311,
+                "y": 263,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "8EF95357-F5E0-4632-B819-3D30AF4AB598",
+            "name": "Path",
+            "rect": {
+                "x": 312.6538016813024,
+                "y": 264.8124316384887,
+                "width": 8.690521578799235,
+                "height": 8.6642707584612
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "7353B3C4-4B8A-4F72-97BB-F8953C2D03D1",
+            "name": "Path",
+            "rect": {
+                "x": 297,
+                "y": 263,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "D8F15937-BD55-474B-90D8-99D63F371F3C",
+            "name": "Path",
+            "rect": {
+                "x": 298.6538016813024,
+                "y": 264.8124316384887,
+                "width": 8.690521578799235,
+                "height": 8.6642707584612
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "72846338-CC35-42CA-8C28-F7D31AD2E4D0",
+            "name": "Path",
+            "rect": {
+                "x": 283,
+                "y": 263,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "363C90F8-2D56-471E-9231-829A9BC697C2",
+            "name": "Path",
+            "rect": {
+                "x": 284.6538016813024,
+                "y": 264.8124316384887,
+                "width": 8.690521578799235,
+                "height": 8.6642707584612
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "75AEAE48-0C6A-439D-870D-73C1C1597165",
+            "name": "3 Smart Reasons Why",
+            "rect": {
+                "x": 97,
+                "y": 287,
+                "width": 254,
+                "height": 48
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the american association of university professors"
+        },
+        {
+            "id": "604B42D9-A8CF-4AA2-89F5-EB9F63DCF0E0",
+            "name": "line",
+            "rect": {
+                "x": 24,
+                "y": 359,
+                "width": 351,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "B49F5BFD-D8D3-4AAF-9E78-08E1DEA15042",
+            "name": "avatar",
+            "rect": {
+                "x": 24,
+                "y": 492,
+                "width": 57,
+                "height": 57
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a beautiful blonde woman in a field"
+        },
+        {
+            "id": "E93F0AD4-CEF8-4DE9-9A72-E2CBE4ACF8F0",
+            "name": "Addie Neal",
+            "rect": {
+                "x": 97,
+                "y": 494,
+                "width": 82,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "addie health & wellness - health & wellness"
+        },
+        {
+            "id": "1DB6C1DF-71BB-449A-BC73-CAE9DC3CD36C",
+            "name": "Path",
+            "rect": {
+                "x": 339,
+                "y": 497,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "5B1E2FE1-3181-423B-8F81-D717195922E9",
+            "name": "Path",
+            "rect": {
+                "x": 340.6538016813024,
+                "y": 498.8124316384887,
+                "width": 8.690521578799235,
+                "height": 8.664270758461214
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "9E313D7F-A8E0-4C5E-B381-6ACEA5116A90",
+            "name": "Path",
+            "rect": {
+                "x": 325,
+                "y": 497,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "087FECA7-460D-4774-A870-2A5F4B709E93",
+            "name": "Path",
+            "rect": {
+                "x": 326.6538016813024,
+                "y": 498.8124316384887,
+                "width": 8.690521578799235,
+                "height": 8.664270758461214
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "C89051C6-96D6-4EF1-AFF3-27086B394BA9",
+            "name": "Path",
+            "rect": {
+                "x": 311,
+                "y": 497,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "AD3272E0-9D99-43F7-A205-697CDAEB07BC",
+            "name": "Path",
+            "rect": {
+                "x": 312.6538016813024,
+                "y": 498.8124316384887,
+                "width": 8.690521578799235,
+                "height": 8.664270758461214
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "E924D857-9337-40B4-9578-372C90BA2AEC",
+            "name": "Path",
+            "rect": {
+                "x": 297,
+                "y": 497,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "5BA8DF45-9B11-4013-92D9-278B01F62901",
+            "name": "Path",
+            "rect": {
+                "x": 298.6538016813024,
+                "y": 498.8124316384887,
+                "width": 8.690521578799235,
+                "height": 8.664270758461214
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "92B2BE83-9E85-412C-B224-0E75CC16377C",
+            "name": "Path",
+            "rect": {
+                "x": 283,
+                "y": 497,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "C2D5F692-FE43-4436-84E2-1A3CC94D3EB1",
+            "name": "Path",
+            "rect": {
+                "x": 284.6538016813024,
+                "y": 498.8124316384887,
+                "width": 8.690521578799235,
+                "height": 8.664270758461214
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "4E38E4BC-02C6-429D-A996-E49B114E760A",
+            "name": "Internet Banner Adve",
+            "rect": {
+                "x": 97,
+                "y": 521,
+                "width": 254,
+                "height": 48
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the text reads, \"the best way to get a good night's sleep is to get"
+        },
+        {
+            "id": "62EB9560-C605-4523-90D6-23262CF875A0",
+            "name": "line",
+            "rect": {
+                "x": 24,
+                "y": 593,
+                "width": 351,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "E83A6D0A-5206-4799-A4A6-44D0E141179C",
+            "name": "avatar",
+            "rect": {
+                "x": 24,
+                "y": 726,
+                "width": 57,
+                "height": 57
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a beautiful blonde woman in a field"
+        },
+        {
+            "id": "F4185B4B-E3B6-41DC-ADF5-169D28C829F4",
+            "name": "Addie Neal",
+            "rect": {
+                "x": 97,
+                "y": 728,
+                "width": 82,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "addie health & wellness - health & wellness"
+        },
+        {
+            "id": "F684D40E-21E5-45F9-B128-7DDEF65BB19C",
+            "name": "Path",
+            "rect": {
+                "x": 339,
+                "y": 731,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "F2F13F34-D3B5-4758-A202-5DE31664CC6F",
+            "name": "Path",
+            "rect": {
+                "x": 340.6538016813024,
+                "y": 732.8124316384886,
+                "width": 8.690521578799235,
+                "height": 8.664270758461214
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "69821EBA-6096-44DA-A1D2-17E9485B2313",
+            "name": "Path",
+            "rect": {
+                "x": 325,
+                "y": 731,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "CC007B9B-DA5D-4F76-93A6-DACF1F990D69",
+            "name": "Path",
+            "rect": {
+                "x": 326.6538016813024,
+                "y": 732.8124316384886,
+                "width": 8.690521578799235,
+                "height": 8.664270758461214
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "13FDAC04-ACFC-4E41-A20D-9D74FC9186A7",
+            "name": "Path",
+            "rect": {
+                "x": 311,
+                "y": 731,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "2FB29002-D026-488C-B742-9690B510C26E",
+            "name": "Path",
+            "rect": {
+                "x": 312.6538016813024,
+                "y": 732.8124316384886,
+                "width": 8.690521578799235,
+                "height": 8.664270758461214
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "CAE65F3E-5EE9-49E2-8DA2-3C1C781EF33F",
+            "name": "Path",
+            "rect": {
+                "x": 297,
+                "y": 731,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "A3BBEE15-3857-41E7-A3B4-22A06CDDA400",
+            "name": "Path",
+            "rect": {
+                "x": 298.6538016813024,
+                "y": 732.8124316384886,
+                "width": 8.690521578799235,
+                "height": 8.664270758461214
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "0F98D0ED-2080-42BC-B290-5D4CD546A169",
+            "name": "Path",
+            "rect": {
+                "x": 283,
+                "y": 731,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "FCC3CFEC-ED1F-49A1-9DA0-E461045D8D15",
+            "name": "Path",
+            "rect": {
+                "x": 284.6538016813024,
+                "y": 732.8124316384886,
+                "width": 8.690521578799235,
+                "height": 8.664270758461214
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "5B1E8ADC-B6AF-4DDC-A8C0-38FFB5EE8E13",
+            "name": "Internet Banner Adve",
+            "rect": {
+                "x": 97,
+                "y": 755,
+                "width": 254,
+                "height": 48
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the text reads, \"the best way to get a good night's sleep is to get"
+        },
+        {
+            "id": "1A1DD241-F2A0-4650-8136-C60513D7BD10",
+            "name": "line",
+            "rect": {
+                "x": 24,
+                "y": 827,
+                "width": 351,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "6063E5CC-092A-48DF-A7FE-D4ADCF7F5801",
+            "name": "avatar",
+            "rect": {
+                "x": 24,
+                "y": 384,
+                "width": 57,
+                "height": 57
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a woman with long hair and a blue shirt"
+        },
+        {
+            "id": "1BAE35C0-FC83-4456-A332-6D8DA1BFFDF4",
+            "name": "Polly Tran",
+            "rect": {
+                "x": 97,
+                "y": 386,
+                "width": 74,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for polly trans"
+        },
+        {
+            "id": "7BC3D45A-0FA9-4456-9EA3-422416810432",
+            "name": "Path",
+            "rect": {
+                "x": 339,
+                "y": 389,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "46FF3525-42E3-4696-B4A9-0199BC92D01F",
+            "name": "Path",
+            "rect": {
+                "x": 340.6538016813024,
+                "y": 390.8124316384887,
+                "width": 8.690521578799235,
+                "height": 8.6642707584612
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "4B0D151E-6659-47C7-AA03-430119E9E7DA",
+            "name": "Path",
+            "rect": {
+                "x": 325,
+                "y": 389,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "DA6619BA-4CA8-4A69-93C4-8BE5FD155162",
+            "name": "Path",
+            "rect": {
+                "x": 326.6538016813024,
+                "y": 390.8124316384887,
+                "width": 8.690521578799235,
+                "height": 8.6642707584612
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "1B541BE1-CA80-4D06-A1B5-5BC60C87676A",
+            "name": "Path",
+            "rect": {
+                "x": 311,
+                "y": 389,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "BDBAEC97-0ACC-4FC2-89E5-933B4F4E8551",
+            "name": "Path",
+            "rect": {
+                "x": 312.6538016813024,
+                "y": 390.8124316384887,
+                "width": 8.690521578799235,
+                "height": 8.6642707584612
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "AE4A40F0-0CAF-46B4-8634-E1959DAF13A4",
+            "name": "Path",
+            "rect": {
+                "x": 297,
+                "y": 389,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "03CFA3A0-0719-485A-93A4-DC698FBE3BEE",
+            "name": "Path",
+            "rect": {
+                "x": 298.6538016813024,
+                "y": 390.8124316384887,
+                "width": 8.690521578799235,
+                "height": 8.6642707584612
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "AF6EECF7-E1C9-4839-BE2A-76E924F00E9F",
+            "name": "Path",
+            "rect": {
+                "x": 283,
+                "y": 389,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "F3835698-EDD9-40DB-9399-39B73A1D9B41",
+            "name": "Path",
+            "rect": {
+                "x": 284.6538016813024,
+                "y": 390.8124316384887,
+                "width": 8.690521578799235,
+                "height": 8.6642707584612
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "39F4FDF3-D9E0-4E8C-9F95-E054092A2688",
+            "name": "Free Real Estate Lis",
+            "rect": {
+                "x": 97,
+                "y": 413,
+                "width": 254,
+                "height": 24
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "E8E677BB-7091-46E0-B330-DD689B97B645",
+            "name": "line",
+            "rect": {
+                "x": 24,
+                "y": 467,
+                "width": 351,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "1EB67DDA-897A-458F-A44A-75F8D34EE249",
+            "name": "avatar",
+            "rect": {
+                "x": 24,
+                "y": 618,
+                "width": 57,
+                "height": 57
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a woman with long hair and a blue shirt"
+        },
+        {
+            "id": "CAFB6229-1C76-4F8C-A5B2-989D153EE0EC",
+            "name": "Polly Tran",
+            "rect": {
+                "x": 97,
+                "y": 620,
+                "width": 74,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for polly trans"
+        },
+        {
+            "id": "F0611149-7226-4FB4-BAC5-5FF97496DC00",
+            "name": "Path",
+            "rect": {
+                "x": 339,
+                "y": 623,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "E1857C76-18C8-40AA-9DB2-0D39B633700E",
+            "name": "Path",
+            "rect": {
+                "x": 340.6538016813024,
+                "y": 624.8124316384886,
+                "width": 8.690521578799235,
+                "height": 8.664270758461214
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "DF631E2E-1D46-4775-8B88-9D350710A5E6",
+            "name": "Path",
+            "rect": {
+                "x": 325,
+                "y": 623,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "DD9296E9-B978-46AA-9779-FE077DACAE13",
+            "name": "Path",
+            "rect": {
+                "x": 326.6538016813024,
+                "y": 624.8124316384886,
+                "width": 8.690521578799235,
+                "height": 8.664270758461214
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white star shaped logo"
+        },
+        {
+            "id": "EA7D0C47-0390-431B-97AE-D43047F9BE9B",
+            "name": "Path",
+            "rect": {
+                "x": 311,
+                "y": 623,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "28B69C35-A79D-4838-9AFA-0BC921B4ECA5",
+            "name": "Path",
+            "rect": {
+                "x": 312.6538016813024,
+                "y": 624.8124316384886,
+                "width": 8.690521578799235,
+                "height": 8.664270758461214
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "AB7582B3-4842-4A8B-B914-8C82E8D32F25",
+            "name": "Path",
+            "rect": {
+                "x": 297,
+                "y": 623,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "DAF3FA99-307B-4151-9EA2-8060E25D119C",
+            "name": "Path",
+            "rect": {
+                "x": 298.6538016813024,
+                "y": 624.8124316384886,
+                "width": 8.690521578799235,
+                "height": 8.664270758461214
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "3FD571F9-A77C-4900-8007-F3B53671C929",
+            "name": "Path",
+            "rect": {
+                "x": 283,
+                "y": 623,
+                "width": 12.000375011718916,
+                "height": 12
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "ED381C5D-5242-49C1-9849-214AF647A1D8",
+            "name": "Path",
+            "rect": {
+                "x": 284.6538016813024,
+                "y": 624.8124316384886,
+                "width": 8.690521578799235,
+                "height": 8.664270758461214
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black star with a white background"
+        },
+        {
+            "id": "9CF6DD44-257B-4F4C-8A3F-805ACA7B0E57",
+            "name": "Free Real Estate Lis",
+            "rect": {
+                "x": 97,
+                "y": 647,
+                "width": 254,
+                "height": 24
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "F597D95E-217F-412F-BB72-D70D97038500",
+            "name": "line",
+            "rect": {
+                "x": 24,
+                "y": 701,
+                "width": 351,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "6F934F15-0E1E-487D-9F8A-BE5999237038",
+            "name": "Background",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 116
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                0.8200000000000001
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "6778929C-C200-4F88-89D0-349BC66CBA11",
+            "name": "stt",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 27
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9725490196078431,
+                0.9725490196078431,
+                0.9725490196078431,
+                0.8200000000000001
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "0F05AFCB-5951-4D57-82D4-0BAFD818659F",
+            "name": "base nav",
+            "rect": {
+                "x": 0,
+                "y": 27,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "A829550E-AEA6-447A-B2D6-1EE63485099F",
+            "name": "Reviewer",
+            "rect": {
+                "x": 16,
+                "y": 71,
+                "width": 343,
+                "height": 38
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the reviewer"
+        },
+        {
+            "id": "B44D9F46-FD6C-4578-9469-1D5B5729614E",
+            "name": "ic_close",
+            "rect": {
+                "x": 331,
+                "y": 35,
+                "width": 28,
+                "height": 28
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2901960784313725,
+                0.2901960784313725,
+                0.2901960784313725,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white cross icon"
+        },
+        {
+            "id": "75E11003-AC94-43D7-9347-A5AD2D1F6DB9",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 782,
+                "width": 375,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "DB4B1B93-2DAE-4B6A-8ACB-5D93DC321560",
+            "name": "line",
+            "rect": {
+                "x": 133,
+                "y": 795,
+                "width": 110,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white square"
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

@@ -1,0 +1,654 @@
+{
+    "layers": [
+        {
+            "id": "A6E34118-2946-4B39-B937-FC6FEF47D020",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "F41AC4B2-A6CE-4499-A8A2-F75A264284DF",
+            "name": "base",
+            "rect": {
+                "x": 0,
+                "y": 188,
+                "width": 375,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9725490196078431,
+                0.9725490196078431,
+                0.9725490196078431,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "8EA0A6BC-C932-4A47-9F9D-274CB1886C32",
+            "name": "line",
+            "rect": {
+                "x": 53,
+                "y": 147,
+                "width": 269,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the person is wearing a white shirt and black pants"
+        },
+        {
+            "id": "23846CE3-F9D4-4C7E-8D80-70F27A8041D0",
+            "name": "line",
+            "rect": {
+                "x": 43,
+                "y": 140,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "85D20EB6-3F5A-430C-A3BA-A62D21F5568D",
+            "name": "Billing",
+            "rect": {
+                "x": 30,
+                "y": 160,
+                "width": 42,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for billings, montana"
+        },
+        {
+            "id": "24222197-ADEA-4FE5-97AF-D2AC529D60CB",
+            "name": "Payment",
+            "rect": {
+                "x": 157,
+                "y": 160,
+                "width": 62,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "payments logo with a black background"
+        },
+        {
+            "id": "17529696-EE28-41E3-9F49-F1361C1422C4",
+            "name": "Confirm",
+            "rect": {
+                "x": 294,
+                "y": 160,
+                "width": 56,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "confident logo"
+        },
+        {
+            "id": "9C582569-722E-4B57-9199-246178100840",
+            "name": "line",
+            "rect": {
+                "x": 180,
+                "y": 140,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circular frame with a black border"
+        },
+        {
+            "id": "10250DEA-BE5D-4E5F-9D35-9E55427D082F",
+            "name": "line",
+            "rect": {
+                "x": 314,
+                "y": 140,
+                "width": 16,
+                "height": 16
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circular frame with a black border"
+        },
+        {
+            "id": "A15DB82B-7CBD-497C-89D2-FF97A25190E3",
+            "name": "Background",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 116
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                0.8200000000000001
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "472D39D6-3FCB-4DC5-902A-62465AD99B7B",
+            "name": "stt",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 27
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9725490196078431,
+                0.9725490196078431,
+                0.9725490196078431,
+                0.8200000000000001
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "BF30685F-8B96-4B19-9B92-6B51E1EDE405",
+            "name": "base nav",
+            "rect": {
+                "x": 0,
+                "y": 27,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "C6EC03BB-84FA-4AA8-BB58-1A7BA3640AFA",
+            "name": "Checkout",
+            "rect": {
+                "x": 16,
+                "y": 71,
+                "width": 343,
+                "height": 38
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "checkout the logo for checkout"
+        },
+        {
+            "id": "1A6839E1-F22C-4B5D-A96C-B47EA0C47257",
+            "name": "base nav",
+            "rect": {
+                "x": 0,
+                "y": 27,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "9A3617B5-A109-4DCF-98EA-F22467FD2FF1",
+            "name": "back",
+            "rect": {
+                "x": 16,
+                "y": 38,
+                "width": 28,
+                "height": 21.94474471177591
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2901960784313725,
+                0.2901960784313725,
+                0.2901960784313725,
+                1
+            ],
+            "label": 0,
+            "msg": "a black arrow pointing to the right"
+        },
+        {
+            "id": "52D6A5D8-7245-4E5F-8EA3-C38CC7BC6FA4",
+            "name": "Path",
+            "rect": {
+                "x": 332.75038289625854,
+                "y": 36.74950770481041,
+                "width": 19.2542118588442,
+                "height": 19.25508705029233
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "B5612CB6-A27F-47F8-9140-10BD30D77178",
+            "name": "Path",
+            "rect": {
+                "x": 331,
+                "y": 35,
+                "width": 28,
+                "height": 28
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "E8F82B8E-36CD-458D-9B36-8613BBA9050D",
+            "name": "Billing",
+            "rect": {
+                "x": 32,
+                "y": 229,
+                "width": 192.40625,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the billing logo is shown in black and white"
+        },
+        {
+            "id": "DD922885-7B52-4F68-B1FA-0CEB339BC937",
+            "name": "Full Name",
+            "rect": {
+                "x": 32,
+                "y": 269,
+                "width": 176.1632653061224,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the full name of a company is shown in this image"
+        },
+        {
+            "id": "6443C43F-833D-46C9-BEFD-596BAA004724",
+            "name": "line",
+            "rect": {
+                "x": 32,
+                "y": 304,
+                "width": 311,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "E33649A6-316A-43C7-BEE3-E081D81B15C5",
+            "name": "Address 1",
+            "rect": {
+                "x": 32,
+                "y": 337,
+                "width": 176.1632653061224,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the address book logo"
+        },
+        {
+            "id": "97DB9D01-0F84-4724-BC6B-644BBE4FC446",
+            "name": "line",
+            "rect": {
+                "x": 32,
+                "y": 372,
+                "width": 311,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "52732478-3E17-44FD-A3BD-D1A22AB17B03",
+            "name": "Address 2",
+            "rect": {
+                "x": 32,
+                "y": 405,
+                "width": 176.1632653061224,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the address 2 2 logo"
+        },
+        {
+            "id": "93F21B86-1F2C-4112-A80B-BC1E39B72DDC",
+            "name": "line",
+            "rect": {
+                "x": 32,
+                "y": 440,
+                "width": 311,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "2D96DB77-AA39-4B5D-8A12-A74B8F642573",
+            "name": "City",
+            "rect": {
+                "x": 32,
+                "y": 473,
+                "width": 176.1632653061224,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the city of new york logo"
+        },
+        {
+            "id": "F7DD81D1-46AD-4B56-A30E-B4ADE3A50682",
+            "name": "line",
+            "rect": {
+                "x": 32,
+                "y": 508,
+                "width": 311,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "9736F01B-7705-4DDC-8E67-AC2F320FE036",
+            "name": "State",
+            "rect": {
+                "x": 32,
+                "y": 541,
+                "width": 148,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the state of the union address"
+        },
+        {
+            "id": "2189C277-3B49-4744-B063-6A8101A697C1",
+            "name": "line",
+            "rect": {
+                "x": 32,
+                "y": 576,
+                "width": 148,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "50BC0226-0F5C-4287-BDCC-658EE986C088",
+            "name": "Zip Code",
+            "rect": {
+                "x": 195,
+                "y": 489,
+                "width": 148,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "zip code logo with a black background"
+        },
+        {
+            "id": "00A4C380-33D1-4170-8DE5-00B1199C0042",
+            "name": "line",
+            "rect": {
+                "x": 195,
+                "y": 524,
+                "width": 148,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "72A349FD-9853-4AD6-96E5-9E06A4474A31",
+            "name": "base",
+            "rect": {
+                "x": 33,
+                "y": 702,
+                "width": 309,
+                "height": 48
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock"
+        },
+        {
+            "id": "6E8C2A38-A37F-410A-AD05-163A44007421",
+            "name": "Next",
+            "rect": {
+                "x": 65.44499999999994,
+                "y": 717,
+                "width": 247.20000000000005,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the next logo is shown in black and white"
+        },
+        {
+            "id": "DC51159C-4BF0-4C77-A1A3-5419C3AC55B0",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 782,
+                "width": 375,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "11751042-1371-4F97-82E5-76C2EC7CD965",
+            "name": "line",
+            "rect": {
+                "x": 133,
+                "y": 795,
+                "width": 110,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white square"
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

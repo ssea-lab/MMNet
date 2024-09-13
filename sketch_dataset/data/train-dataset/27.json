@@ -1,0 +1,426 @@
+{
+    "layers": [
+        {
+            "id": "CFBDF405-82AA-4CFE-926B-CE2CBF1BA5DB",
+            "name": "List",
+            "rect": {
+                "x": 0,
+                "y": 304,
+                "width": 375,
+                "height": 80
+            },
+            "_class": "group",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "BEF314C2-2FB0-4FE1-B3CF-817856D22ABF",
+            "name": "Divider",
+            "rect": {
+                "x": 30,
+                "y": 388.63603896932113,
+                "width": 325,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9529411764705882,
+                0.9529411764705882,
+                0.9529411764705882,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white striped shirt"
+        },
+        {
+            "id": "D3250C49-342F-4DCB-B958-BA3888C489D5",
+            "name": "What is Sparks?",
+            "rect": {
+                "x": 28,
+                "y": 159,
+                "width": 175,
+                "height": 32
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "what is spanish?"
+        },
+        {
+            "id": "275044F3-EFB6-448A-8DC0-E4DD9288F868",
+            "name": "Setting",
+            "rect": {
+                "x": 28,
+                "y": 201,
+                "width": 1786,
+                "height": 170
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person"
+        },
+        {
+            "id": "C502A270-5C94-4139-9A52-09A0016DAAE9",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 337.79289321881356,
+                "y": 173.79289321881356,
+                "width": 7.778174593051972,
+                "height": 7.778174593051972
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black triangle with a white background"
+        },
+        {
+            "id": "560C68B8-0261-45B7-B6C3-C0935DE2A98D",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 332.79289321881356,
+                "y": 173.79289321881333,
+                "width": 7.778174593051972,
+                "height": 7.778174593051972
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black triangle with a white background"
+        },
+        {
+            "id": "2B7D5AD6-D724-47D8-B52B-DC7A69C916DB",
+            "name": "Divider",
+            "rect": {
+                "x": 30,
+                "y": 692.6360389693209,
+                "width": 325,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9529411764705882,
+                0.9529411764705882,
+                0.9529411764705882,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "16F6BD0D-C97E-476D-91B7-B771E9670D60",
+            "name": "How is Sparks differ",
+            "rect": {
+                "x": 28,
+                "y": 463,
+                "width": 391,
+                "height": 64
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "9A9A4A6F-8FD9-4744-B103-C11C72D58B82",
+            "name": "Setting",
+            "rect": {
+                "x": 28,
+                "y": 537,
+                "width": 2028,
+                "height": 170
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a text that says, \"the best way to get a"
+        },
+        {
+            "id": "4958BE7C-521E-462E-81F5-ACCDD640A3E8",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 337.79289321881356,
+                "y": 477.79289321881356,
+                "width": 7.778174593051972,
+                "height": 7.778174593051972
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black triangle with a white background"
+        },
+        {
+            "id": "F6B0D6FF-52F0-4E5A-99E6-DAEB47E6A86F",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 332.79289321881356,
+                "y": 477.79289321881333,
+                "width": 7.778174593051972,
+                "height": 7.778174593051972
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black triangle with a white background"
+        },
+        {
+            "id": "967D28B4-5C1C-4CB2-8A6B-28B8DB7340C9",
+            "name": "Divider",
+            "rect": {
+                "x": 30,
+                "y": 449,
+                "width": 325,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9529411764705882,
+                0.9529411764705882,
+                0.9529411764705882,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "FC70F1F2-1D86-4DBD-899D-4CC1E75D0DCE",
+            "name": "Who is Sparks for?",
+            "rect": {
+                "x": 28,
+                "y": 403,
+                "width": 204,
+                "height": 32
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "74DAA86E-8224-42D2-BE32-8E523FB10ECF",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 332.79289321881356,
+                "y": 417.79289321881356,
+                "width": 7.778174593051972,
+                "height": 7.778174593051972
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a v"
+        },
+        {
+            "id": "A0C34644-6882-4E91-949E-82798C0D706E",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 337.79289321881356,
+                "y": 417.79289321881356,
+                "width": 7.778174593051972,
+                "height": 7.778174593051972
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a v"
+        },
+        {
+            "id": "EE33C9E6-554B-48E5-9F22-145A2035F80F",
+            "name": "Divider",
+            "rect": {
+                "x": 20,
+                "y": 141,
+                "width": 335,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9529411764705882,
+                0.9529411764705882,
+                0.9529411764705882,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "CADA55AE-5E81-4F83-BEAE-1FDEDA3709C4",
+            "name": "Input Field",
+            "rect": {
+                "x": 47,
+                "y": 83,
+                "width": 306,
+                "height": 40
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the north face the north face the north face the north face the north face the north face"
+        },
+        {
+            "id": "2F66B311-143C-499F-A347-155EC5BAB48F",
+            "name": "🇺🇸",
+            "rect": {
+                "x": 325,
+                "y": 34,
+                "width": 31,
+                "height": 39
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "an american flag on a black background"
+        },
+        {
+            "id": "2D1C9419-51BC-4384-8A5B-1D5F7907AE16",
+            "name": "F.A.Q.",
+            "rect": {
+                "x": 47,
+                "y": 33,
+                "width": 68,
+                "height": 35
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the faq logo is shown in black"
+        },
+        {
+            "id": "B8AFF73F-7051-42CB-9AB9-2A3923D04943",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 23.075735661548833,
+                "y": 40.74229529781746,
+                "width": 11.313708498984852,
+                "height": 11.313708498984852
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black arrow pointing to the right"
+        },
+        {
+            "id": "38411987-C445-4FF5-9FAB-2C7CC51167F3",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 22.79289321881356,
+                "y": 49.5476777405986,
+                "width": 11.596550941719443,
+                "height": 11.59655094171967
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black arrow pointing to the right"
+        },
+        {
+            "id": "19321E77-EEBE-4A88-B387-0F09A372B48B",
+            "name": "Status Bar",
+            "rect": {
+                "x": 6,
+                "y": 3.5,
+                "width": 363.5,
+                "height": 14.8203125
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a blue sky and a white cloud"
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

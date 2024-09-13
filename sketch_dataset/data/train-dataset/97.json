@@ -1,0 +1,521 @@
+{
+    "layers": [
+        {
+            "id": "F49C41D8-86BB-4D3C-A737-616D29596FE9",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "4EBFF496-0EE0-4D7D-AD86-4E3E9DE09444",
+            "name": "map",
+            "rect": {
+                "x": 0,
+                "y": 131,
+                "width": 375,
+                "height": 667
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a map of new york city with a large area marked"
+        },
+        {
+            "id": "944B8916-2E72-4DC3-9888-8E3FD6D0EEA5",
+            "name": "line",
+            "rect": {
+                "x": 16,
+                "y": 562,
+                "width": 327,
+                "height": 204
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "6CE24AEE-E9A3-45D1-8109-3FAF003E4263",
+            "name": "img",
+            "rect": {
+                "x": 28,
+                "y": 574,
+                "width": 303,
+                "height": 132
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the person is wearing a white shirt and black pants"
+        },
+        {
+            "id": "B7CE11CC-E23E-4979-876A-A9144E17AB64",
+            "name": "artificial-photography-119298",
+            "rect": {
+                "x": 24,
+                "y": 548,
+                "width": 307,
+                "height": 205
+            },
+            "_class": "bitmap",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "clothes are hanging on a rack in a store"
+        },
+        {
+            "id": "B0B363B0-2BCD-4DFB-B0D2-112DE498881B",
+            "name": "Imba Grand Star Stor",
+            "rect": {
+                "x": 28,
+                "y": 716,
+                "width": 303,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "0452A3C2-2196-4AE6-93D3-B5A67DF26392",
+            "name": "88 Abelardo Village",
+            "rect": {
+                "x": 28,
+                "y": 738,
+                "width": 303,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a barcode is shown on a black background"
+        },
+        {
+            "id": "25ED761C-CA62-448A-A546-E503DCC4ECCB",
+            "name": "line",
+            "rect": {
+                "x": 359,
+                "y": 562,
+                "width": 327,
+                "height": 204
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "F023FF3A-6F64-4E4F-A901-6CE6212704E0",
+            "name": "img",
+            "rect": {
+                "x": 371,
+                "y": 574,
+                "width": 303,
+                "height": 132
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the north face women's alpine jacket"
+        },
+        {
+            "id": "56E26B32-266B-4BBB-89F5-F344625F7F0B",
+            "name": "Imba Grand Star Stor",
+            "rect": {
+                "x": 371,
+                "y": 716,
+                "width": 303,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white background"
+        },
+        {
+            "id": "2360416A-7608-427A-AD12-5D5A9EB382FC",
+            "name": "88 Abelardo Village",
+            "rect": {
+                "x": 371,
+                "y": 738,
+                "width": 303,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a gray metal piece with a black background"
+        },
+        {
+            "id": "FD330E4B-3A66-472C-8D00-93C6B9A5FB99",
+            "name": "base",
+            "rect": {
+                "x": 303,
+                "y": 482,
+                "width": 56,
+                "height": 56
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "3D23E6D7-5DB4-41DE-B4FB-11DF67641E58",
+            "name": "Path",
+            "rect": {
+                "x": 318.9562666666666,
+                "y": 497.96186666666654,
+                "width": 24.086533333333364,
+                "height": 24.077199999999948
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a crosshair icon with a white background"
+        },
+        {
+            "id": "1A0EA355-63C8-46B5-92C6-F208431FDD73",
+            "name": "Path",
+            "rect": {
+                "x": 317,
+                "y": 496,
+                "width": 28,
+                "height": 28
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a crosshair icon with a white background"
+        },
+        {
+            "id": "2375EFD8-65AA-4243-818C-DDEC8F94B8FF",
+            "name": "Line",
+            "rect": {
+                "x": 42.49427539638634,
+                "y": 386.5071064292358,
+                "width": 154.08359442670735,
+                "height": 86.55330567437784
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue arrow pointing to a black background"
+        },
+        {
+            "id": "1EACE042-DD37-41C2-BAFA-C1978B76E6D9",
+            "name": "base",
+            "rect": {
+                "x": 174,
+                "y": 369,
+                "width": 40,
+                "height": 40
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a woman with long hair and a flower crown"
+        },
+        {
+            "id": "610C4AAD-78BE-4588-9CC9-67BFC8501F25",
+            "name": "base",
+            "rect": {
+                "x": 25,
+                "y": 450,
+                "width": 40,
+                "height": 40
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white circle with a white dot in the center"
+        },
+        {
+            "id": "A64AD5AB-F276-4222-AB5B-CAB5029ED082",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 782,
+                "width": 375,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "F994A23D-5794-4D7D-81A2-67917AD12965",
+            "name": "line",
+            "rect": {
+                "x": 133,
+                "y": 795,
+                "width": 110,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white square"
+        },
+        {
+            "id": "20BBC5DD-33A1-4C0B-8583-9B2614C8C0D7",
+            "name": "Background",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 116
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                0.8200000000000001
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "2B7636E0-AFD7-4426-A9A2-C389234F2BF0",
+            "name": "stt",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 27
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9725490196078431,
+                0.9725490196078431,
+                0.9725490196078431,
+                0.8200000000000001
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "8C425F49-5DC6-4C69-9F31-25532A7D6D44",
+            "name": "base nav",
+            "rect": {
+                "x": 0,
+                "y": 27,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "C3036523-F1C8-4093-831A-AD93510937D3",
+            "name": "Maps",
+            "rect": {
+                "x": 16,
+                "y": 71,
+                "width": 343,
+                "height": 38
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for maps, with a black background"
+        },
+        {
+            "id": "1C99F843-A325-449C-B90B-0BA051785C09",
+            "name": "base nav",
+            "rect": {
+                "x": 0,
+                "y": 27,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "585596EE-F81C-4530-9FF3-85909C7A907C",
+            "name": "back",
+            "rect": {
+                "x": 16,
+                "y": 38,
+                "width": 28,
+                "height": 21.94474471177591
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2901960784313725,
+                0.2901960784313725,
+                0.2901960784313725,
+                1
+            ],
+            "label": 0,
+            "msg": "a black arrow pointing to the right"
+        },
+        {
+            "id": "A75AA13E-08C9-46BC-AA63-B11D408498B4",
+            "name": "Path",
+            "rect": {
+                "x": 332.75038289625854,
+                "y": 36.74950770481041,
+                "width": 19.2542118588442,
+                "height": 19.255087050292218
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a magnifying glass icon on a black background"
+        },
+        {
+            "id": "5E8D4E18-EC54-4524-8326-463C5FD4F2C2",
+            "name": "Path",
+            "rect": {
+                "x": 331,
+                "y": 35,
+                "width": 28,
+                "height": 28
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a magnifying glass icon on a black background"
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

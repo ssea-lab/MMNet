@@ -1,0 +1,407 @@
+{
+    "layers": [
+        {
+            "id": "EEC71CF3-A53E-40FB-8FE1-C8A32037267E",
+            "name": "List",
+            "rect": {
+                "x": 0,
+                "y": 304,
+                "width": 375,
+                "height": 80
+            },
+            "_class": "group",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "EC31A965-07F6-4EAE-BC4E-55A5F725A7AF",
+            "name": "Contacts/Invite Peoples",
+            "rect": {
+                "x": 0,
+                "y": 304,
+                "width": 375,
+                "height": 80
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white photo of a man"
+        },
+        {
+            "id": "C1721B65-81D9-4B29-B535-F0C0EE7FD7A0",
+            "name": "Contacts/Invite Peoples",
+            "rect": {
+                "x": 0,
+                "y": 384,
+                "width": 375,
+                "height": 80
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white background with a picture of a woman"
+        },
+        {
+            "id": "DEAA6D88-6263-4443-B469-26DD5CAF077A",
+            "name": "Contacts/Invite Peoples",
+            "rect": {
+                "x": 0,
+                "y": 464,
+                "width": 375,
+                "height": 80
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white photo of a woman"
+        },
+        {
+            "id": "1F3CE4E2-E92C-42AA-B033-0F0BE65885B1",
+            "name": "Contacts/Invite Peoples",
+            "rect": {
+                "x": 0,
+                "y": 544,
+                "width": 375,
+                "height": 80
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a woman is wearing a white shirt with the words \"veronica bush\" on it"
+        },
+        {
+            "id": "687F80F0-3B50-4803-BFC2-766B6960FBDC",
+            "name": "Contacts/Invite Peoples",
+            "rect": {
+                "x": 0,
+                "y": 624,
+                "width": 375,
+                "height": 80
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "michael michael michael michael michael michael michael michael michael"
+        },
+        {
+            "id": "597A31E2-4F83-4425-8830-CF65178E0E2D",
+            "name": "Misc/Contact",
+            "rect": {
+                "x": 18,
+                "y": 252,
+                "width": 98,
+                "height": 42
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for carrie is shown"
+        },
+        {
+            "id": "04B0A68D-5797-4517-9B2B-A5F0067DFA10",
+            "name": "Misc/Contact",
+            "rect": {
+                "x": 126,
+                "y": 252,
+                "width": 129.63265306122446,
+                "height": 42
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a woman's face is shown in a white circle"
+        },
+        {
+            "id": "12B95EEB-5EC8-4C45-805E-F35CF81DC101",
+            "name": "Misc/Contact",
+            "rect": {
+                "x": 261,
+                "y": 252,
+                "width": 175.9183673469388,
+                "height": 42
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a person is taking a selfie with a camera"
+        },
+        {
+            "id": "13A96FDA-47FF-4BE6-95F7-724CD8C867AE",
+            "name": "Divider",
+            "rect": {
+                "x": 20,
+                "y": 181,
+                "width": 335,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9529411764705882,
+                0.9529411764705882,
+                0.9529411764705882,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "D8466827-8D0F-4368-9A05-4ACB4A2AA088",
+            "name": "Enter Channel Name",
+            "rect": {
+                "x": 118,
+                "y": 118,
+                "width": 215,
+                "height": 32
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in white"
+        },
+        {
+            "id": "63C88F70-B127-45A1-89AD-4CE33D8E3C46",
+            "name": "Name",
+            "rect": {
+                "x": 118,
+                "y": 97,
+                "width": 39,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the name of a company is shown in black letters"
+        },
+        {
+            "id": "DD8ED54F-70EA-4614-BD18-B09D78FAB09D",
+            "name": "Placeholder",
+            "rect": {
+                "x": 29,
+                "y": 87,
+                "width": 70,
+                "height": 70
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a circle with a black background and white text"
+        },
+        {
+            "id": "C23B0EAE-0F60-4702-912D-1D8C7AA87A29",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 63,
+                "y": 112,
+                "width": 2,
+                "height": 20
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a cross with four lines on it"
+        },
+        {
+            "id": "02595580-E40D-47FB-8645-57B05EAF36BB",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 54,
+                "y": 121,
+                "width": 20,
+                "height": 2
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a cross with four lines on it"
+        },
+        {
+            "id": "74015FC7-3E1A-4619-9046-5DCED95D4379",
+            "name": "Done",
+            "rect": {
+                "x": 310,
+                "y": 40,
+                "width": 43,
+                "height": 24
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for done"
+        },
+        {
+            "id": "E83121BF-17A1-4F8E-9E43-B8A04FC2564E",
+            "name": "New Channel",
+            "rect": {
+                "x": 47,
+                "y": 33,
+                "width": 151,
+                "height": 35
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the new channel logo"
+        },
+        {
+            "id": "03DB9CF3-7065-402A-A7FA-560B5B74D9F8",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 23.075735661548944,
+                "y": 40.742295297817236,
+                "width": 11.313708498984756,
+                "height": 11.313708498984852
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black arrow pointing to the right"
+        },
+        {
+            "id": "A009F364-2ED4-4471-97AB-118AC308C993",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 22.792893218813454,
+                "y": 49.547677740598374,
+                "width": 11.59655094171955,
+                "height": 11.59655094171967
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black arrow pointing to the right"
+        },
+        {
+            "id": "86FD773A-FB4A-4070-A225-34FD5FE50255",
+            "name": "Status Bar",
+            "rect": {
+                "x": 6,
+                "y": 3.5,
+                "width": 363.5,
+                "height": 14.8203125
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a blue sky and a white cloud"
+        },
+        {
+            "id": "56720FB2-7F7F-489A-A147-53A52D01490A",
+            "name": "Invite people",
+            "rect": {
+                "x": 18,
+                "y": 207,
+                "width": 137,
+                "height": 32
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the white people"
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

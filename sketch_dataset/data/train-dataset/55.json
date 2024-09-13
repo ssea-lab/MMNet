@@ -1,0 +1,1490 @@
+{
+    "layers": [
+        {
+            "id": "3463932F-2C38-447E-A964-F3A99F8358E4",
+            "name": "Oh oh!",
+            "rect": {
+                "x": 154.5,
+                "y": 403,
+                "width": 66,
+                "height": 24
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word ohh is shown in a black background"
+        },
+        {
+            "id": "F75C553A-F2DF-4233-9FA3-B46DB24B29C9",
+            "name": "The file you are loo",
+            "rect": {
+                "x": 58,
+                "y": 442,
+                "width": 259,
+                "height": 50
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person with a black hat"
+        },
+        {
+            "id": "20AAEB68-D383-4845-BFFD-1B0385101DE1",
+            "name": "wall",
+            "rect": {
+                "x": 166.34862064941535,
+                "y": -92.44239439657025,
+                "width": 391.6513793505842,
+                "height": 499.1689568965697
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9292127569541074,
+                0.9446198443527845,
+                0.9651626275510204,
+                1
+            ],
+            "label": 0,
+            "msg": "a white box with a black background"
+        },
+        {
+            "id": "E5D16EA2-84D1-4A9F-9DC8-48FCAA17CA0B",
+            "name": "wall",
+            "rect": {
+                "x": -113,
+                "y": -98,
+                "width": 292,
+                "height": 435.5
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.958326019012403,
+                0.9694292076920714,
+                0.9842687074829932,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "EF80AEBB-B8AD-49AC-8187-E97FEAF24E78",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 101.5,
+                "y": 515,
+                "width": 172,
+                "height": 94
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.4385832094010854,
+                0.4375869508773561,
+                0.8565848214285714,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue button with a black background"
+        },
+        {
+            "id": "8975084C-D1AB-4467-B658-2B9AE9EFE44E",
+            "name": "Go Back",
+            "rect": {
+                "x": 153,
+                "y": 540,
+                "width": 69,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "go back to the future logo"
+        },
+        {
+            "id": "C75E1FA0-EAFB-4481-8600-390DCA59B86C",
+            "name": "Shadow",
+            "rect": {
+                "x": 79,
+                "y": 200,
+                "width": 328.3569444605282,
+                "height": 189.20352486008494
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1884473406776688,
+                0.1733934261836048,
+                0.282312925170068,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue sky with a white cloud in the middle"
+        },
+        {
+            "id": "1478A03C-7900-4E57-8E3C-AC2F6C22A4AB",
+            "name": "side",
+            "rect": {
+                "x": 78.00000000000045,
+                "y": 153,
+                "width": 88.35791858792254,
+                "height": 140.1064830200787
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6220871849272379,
+                0.6762381077697415,
+                0.7303890306122449,
+                1
+            ],
+            "label": 0,
+            "msg": "a large white window with a black frame"
+        },
+        {
+            "id": "BA9EF4AB-FFBB-4FC5-ADA6-F2B606300795",
+            "name": "side",
+            "rect": {
+                "x": 166,
+                "y": 153,
+                "width": 117.17633672780084,
+                "height": 137.1064830200787
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6916547062421086,
+                0.7553837725505738,
+                0.8138020833333334,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue wall with a white border"
+        },
+        {
+            "id": "1EAEB153-8564-4623-A6B5-73FE6078EC6A",
+            "name": "Triangle",
+            "rect": {
+                "x": 149.03765763309138,
+                "y": 151.49737767031945,
+                "width": 42.14249753542845,
+                "height": 43.95968475933793
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7953048625639462,
+                0.5618884154040404,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and white circle with a white dot in the middle"
+        },
+        {
+            "id": "34F765B1-9612-4797-A4AD-5B3D3E5B28EE",
+            "name": "Triangle Copy 2",
+            "rect": {
+                "x": 159.2307311610416,
+                "y": 162.12997718914863,
+                "width": 21.75635047952801,
+                "height": 22.694485721679854
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9852784863945578,
+                0.6478603470064379,
+                0.5059737807932911,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue circle with an orange dot in the center"
+        },
+        {
+            "id": "924170F0-F1FB-4C58-96C4-024C9C22F99D",
+            "name": "Triangle Copy",
+            "rect": {
+                "x": 197.57739919248343,
+                "y": 151.49737767031945,
+                "width": 42.1424975354289,
+                "height": 43.95968475933793
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7953048625639462,
+                0.5618884154040404,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and white circle with a white object in it"
+        },
+        {
+            "id": "614DD6D8-BFBA-4AB9-9D29-94FF33803A5B",
+            "name": "Triangle Copy 2",
+            "rect": {
+                "x": 208.00960660902092,
+                "y": 162.1299771891486,
+                "width": 21.75635047952801,
+                "height": 22.69448572167991
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9852784863945578,
+                0.6478603470064379,
+                0.5059737807932911,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue circle with an orange dot in the center"
+        },
+        {
+            "id": "CFDB1436-CA30-4701-A6F4-04CC4E235392",
+            "name": "Oval",
+            "rect": {
+                "x": 152.10441988950288,
+                "y": 172.1947499053597,
+                "width": 85.33314917127063,
+                "height": 60.77538879947235
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7523830247961957,
+                0.515625,
+                1
+            ],
+            "label": 0,
+            "msg": "an egg with a blue shell and a white beak"
+        },
+        {
+            "id": "6110779A-893E-46C3-B647-512ADC246772",
+            "name": "Path 2",
+            "rect": {
+                "x": 181.66804158227114,
+                "y": 177.90874043870798,
+                "width": 2.024110270614983,
+                "height": 5.537373025780454
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black"
+        },
+        {
+            "id": "E175295F-C250-434A-8C05-DBA455D0CDDA",
+            "name": "Path 2 Copy",
+            "rect": {
+                "x": 176.48851186651336,
+                "y": 178.16518312310728,
+                "width": 2.3065264845313322,
+                "height": 5.648644802862123
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the black and white logo of a company"
+        },
+        {
+            "id": "5FC24381-BBEA-4839-BCB1-C5C924BB9A51",
+            "name": "Path 2",
+            "rect": {
+                "x": 205.19891968273714,
+                "y": 177.92795699780862,
+                "width": 2.024110270614983,
+                "height": 5.5373730257804255
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black"
+        },
+        {
+            "id": "616CFD29-8677-4BAD-B421-CD380E1C0463",
+            "name": "Path 2 Copy",
+            "rect": {
+                "x": 210.09603318457857,
+                "y": 178.18439968220792,
+                "width": 2.3065264845313322,
+                "height": 5.648644802862123
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black"
+        },
+        {
+            "id": "82690534-B844-4E3E-9E81-82A27CE1ED8E",
+            "name": "Path 3",
+            "rect": {
+                "x": 183.6255871890744,
+                "y": 165.05162541483426,
+                "width": 11.58407788137265,
+                "height": 12.481182581010984
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.8235294117647058,
+                0.6235294117647059,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue and green circle"
+        },
+        {
+            "id": "C9B5E61B-4332-41EA-A96F-2E5AB8A80CA6",
+            "name": "Path 3 Copy 6",
+            "rect": {
+                "x": 189.46041583481565,
+                "y": 164.58599725000892,
+                "width": 13.163039374420805,
+                "height": 13.412438910661706
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.8235294117647058,
+                0.6235294117647059,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue and green circle"
+        },
+        {
+            "id": "BAB4B073-EDC1-4756-9418-5F46CE8F1F9C",
+            "name": "Path 3",
+            "rect": {
+                "x": 152.40657935754825,
+                "y": 188.42782831216195,
+                "width": 10.189941040923259,
+                "height": 8.742882261633213
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue and green circle"
+        },
+        {
+            "id": "2749E28C-22B7-475F-8FF8-20683C40570E",
+            "name": "Path 3 Copy",
+            "rect": {
+                "x": 150.05796057301814,
+                "y": 193.8613471742525,
+                "width": 10.189941040923259,
+                "height": 8.742882261633213
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue and green circle"
+        },
+        {
+            "id": "9021592E-845D-4F88-B7F5-5016678A7DD8",
+            "name": "Path 3 Copy 2",
+            "rect": {
+                "x": 147.2531856259859,
+                "y": 197.19739912007464,
+                "width": 16.77623926611318,
+                "height": 13.302503912133886
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue circle"
+        },
+        {
+            "id": "037C7DB6-448B-4437-B896-EAE150399A00",
+            "name": "Path 3 Copy 5",
+            "rect": {
+                "x": 144.9192089840567,
+                "y": 205.61283063412236,
+                "width": 12.991285662995324,
+                "height": 12.325026664073164
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue circle with a yellow candle"
+        },
+        {
+            "id": "8BE7A74D-50F4-4011-BF60-20196F3937DE",
+            "name": "Path 3 Copy 4",
+            "rect": {
+                "x": 145.19018229816902,
+                "y": 211.5260117477685,
+                "width": 12.991285662995324,
+                "height": 12.325026664073164
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue circle with a candle"
+        },
+        {
+            "id": "9B0CEEB7-C4A3-4C4C-A756-7DB6F2647528",
+            "name": "Path 3 Copy 3",
+            "rect": {
+                "x": 145.70031331604605,
+                "y": 213.9295642707345,
+                "width": 17.772583618319914,
+                "height": 17.184751379047498
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue circle"
+        },
+        {
+            "id": "07C8BD65-E379-4AF2-AD67-73A56B1EACB5",
+            "name": "Path 3 Copy 5",
+            "rect": {
+                "x": 160.53745427730155,
+                "y": 208.16266451597502,
+                "width": 13.114835837764076,
+                "height": 13.399646651270103
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue and green apple"
+        },
+        {
+            "id": "7DA75328-6261-4C8C-B572-670FA4C301E3",
+            "name": "Path 3 Copy 4",
+            "rect": {
+                "x": 163.46342131689062,
+                "y": 213.308328156651,
+                "width": 13.114835837764076,
+                "height": 13.399646651270075
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue apple"
+        },
+        {
+            "id": "CFB2266E-9D01-4AFF-B67A-FEFAC5688F67",
+            "name": "Path 3 Copy 3",
+            "rect": {
+                "x": 167.29750104094273,
+                "y": 214.2322632925063,
+                "width": 15.004553066232802,
+                "height": 17.531131645126976
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue circle with a green dot"
+        },
+        {
+            "id": "3C783180-FDE0-4092-8456-B0E9E948DC28",
+            "name": "Path 3 Copy 5",
+            "rect": {
+                "x": 173.18923019611702,
+                "y": 223.2560404246189,
+                "width": 10.075962825727856,
+                "height": 11.307547270865882
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue circle"
+        },
+        {
+            "id": "C444D8A9-2BE0-4768-BD51-654EEDB79955",
+            "name": "Path 3 Copy 4",
+            "rect": {
+                "x": 178.24300586693425,
+                "y": 226.33800228174812,
+                "width": 10.075962825727856,
+                "height": 11.307547270865882
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue and green circle"
+        },
+        {
+            "id": "6E4B80EC-DE92-4959-8D60-3A0E9EC1150E",
+            "name": "Path 3 Copy 3",
+            "rect": {
+                "x": 183.15361563866145,
+                "y": 224.4109188513532,
+                "width": 11.513099537629387,
+                "height": 15.757625520978195
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue and green circle"
+        },
+        {
+            "id": "DE1C3949-89E3-46A1-B849-B2C3634FBFA2",
+            "name": "Path 3",
+            "rect": {
+                "x": 226.4034796015285,
+                "y": 188.42782831216195,
+                "width": 10.189941040923259,
+                "height": 8.742882261633213
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue and green circle"
+        },
+        {
+            "id": "3A4B7CF0-AB45-409B-BA5D-3144279A7B0F",
+            "name": "Path 3 Copy",
+            "rect": {
+                "x": 228.7520983860586,
+                "y": 193.8613471742525,
+                "width": 10.189941040923259,
+                "height": 8.742882261633213
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue and green circle"
+        },
+        {
+            "id": "7072D04E-8309-4CB6-8F2B-CCC4D296CDD4",
+            "name": "Path 3 Copy 2",
+            "rect": {
+                "x": 224.97057510790137,
+                "y": 197.19739912007464,
+                "width": 16.776239266112952,
+                "height": 13.302503912133886
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue circle"
+        },
+        {
+            "id": "879652C3-ED35-4B91-84EF-44F564788340",
+            "name": "Path 3 Copy 5",
+            "rect": {
+                "x": 231.08950535294798,
+                "y": 205.61283063412236,
+                "width": 12.991285662995324,
+                "height": 12.325026664073164
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue circle"
+        },
+        {
+            "id": "483AE9D7-71CC-4A48-850E-D328DA75CEE8",
+            "name": "Path 3 Copy 4",
+            "rect": {
+                "x": 230.81853203883566,
+                "y": 211.5260117477685,
+                "width": 12.991285662995324,
+                "height": 12.325026664073164
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue circle with a candle"
+        },
+        {
+            "id": "E60DD48E-01D0-4275-8C82-6EB5B60F047B",
+            "name": "Path 3 Copy 3",
+            "rect": {
+                "x": 225.52710306563404,
+                "y": 213.9295642707345,
+                "width": 17.772583618319914,
+                "height": 17.184751379047498
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue circle with a yellow object"
+        },
+        {
+            "id": "7F356358-7F1D-4927-B8BF-AA75484BA037",
+            "name": "Path 3 Copy 5",
+            "rect": {
+                "x": 218.94016887090766,
+                "y": 208.16219884621617,
+                "width": 13.114835837764076,
+                "height": 13.399646651270103
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue and green circle"
+        },
+        {
+            "id": "925F097F-33CC-4FD4-997B-4C9ACFA8C93C",
+            "name": "Path 3 Copy 4",
+            "rect": {
+                "x": 216.01420183131813,
+                "y": 213.30786248689225,
+                "width": 13.114835837764076,
+                "height": 13.399646651270103
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue and green circle"
+        },
+        {
+            "id": "716D33E9-CA64-417E-BF8A-03CE58DDCDC8",
+            "name": "Path 3 Copy 3",
+            "rect": {
+                "x": 210.2904048787973,
+                "y": 214.23179762274748,
+                "width": 15.004553066232802,
+                "height": 17.531131645126948
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue circle with a yellow dot"
+        },
+        {
+            "id": "3198C7A3-58BD-403C-B736-45F998E385D3",
+            "name": "Path 3 Copy 5",
+            "rect": {
+                "x": 209.32830021990003,
+                "y": 223.2543117172213,
+                "width": 10.075962825727856,
+                "height": 11.307547270865882
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel style image of a blue circle"
+        },
+        {
+            "id": "93053EFE-9042-4D6F-B54F-51F210C173AE",
+            "name": "Path 3 Copy 4",
+            "rect": {
+                "x": 204.2745245490828,
+                "y": 226.33627357435046,
+                "width": 10.075962825727856,
+                "height": 11.307547270865882
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue and green circle"
+        },
+        {
+            "id": "D68F9F82-D99A-4E03-ADAA-365E9384ACF3",
+            "name": "Path 3 Copy 3",
+            "rect": {
+                "x": 197.92677806545453,
+                "y": 224.40919014395553,
+                "width": 11.513099537629387,
+                "height": 15.757625520978195
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7529411764705882,
+                0.5137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel art image of a blue circle with a hand"
+        },
+        {
+            "id": "18320F44-663B-4C6A-99A6-6185B78928FA",
+            "name": "Oval 30",
+            "rect": {
+                "x": 172.45911602209935,
+                "y": 185.26733810407268,
+                "width": 18.006077348066356,
+                "height": 17.852990546868114
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue circle with a white circle in the center"
+        },
+        {
+            "id": "DA1A63EB-F226-495D-BECE-A414CDDAEB24",
+            "name": "Path 18",
+            "rect": {
+                "x": 177.9419369085149,
+                "y": 193.02577452960006,
+                "width": 7.705911782249132,
+                "height": 3.842502349622663
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixelated image of a blue and green pixelated object"
+        },
+        {
+            "id": "9DC07F07-C05F-468D-A8C3-F5AE5315EC57",
+            "name": "Oval 30 Copy",
+            "rect": {
+                "x": 199.07679558011023,
+                "y": 185.26733810407268,
+                "width": 18.006077348066356,
+                "height": 17.852990546868114
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue circular object with a white circle in the center"
+        },
+        {
+            "id": "5454ACCB-BCE3-40A7-B916-632F24E298CD",
+            "name": "Path 18 Copy",
+            "rect": {
+                "x": 204.55961646652622,
+                "y": 193.02577452960006,
+                "width": 7.705911782249132,
+                "height": 3.842502349622663
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixelated blue and green pixelated object"
+        },
+        {
+            "id": "CBDE08BA-FFD7-471A-A811-7895E538A5FE",
+            "name": "Oval 2",
+            "rect": {
+                "x": 189.332495139784,
+                "y": 203.5705044972136,
+                "width": 4.98684187679055,
+                "height": 4.337432664183638
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixel style image of a blue and green circle"
+        },
+        {
+            "id": "BC8FDFEC-9707-433E-8EE6-7445991D2C98",
+            "name": "Oval 2 Copy",
+            "rect": {
+                "x": 195.40331491712686,
+                "y": 203.5705044972136,
+                "width": 4.98684187679055,
+                "height": 4.337432664183638
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixelated image of a blue and green circle"
+        },
+        {
+            "id": "1E72E685-8222-4C66-BA6D-4FBDAEE69845",
+            "name": "Path 19 Copy",
+            "rect": {
+                "x": 194.28610451741997,
+                "y": 203.13088976694735,
+                "width": 6.838533448041744,
+                "height": 5.205309324206183
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixelated image of a blue and green ball"
+        },
+        {
+            "id": "C159A86E-04E6-407E-833E-BD6F1F617441",
+            "name": "Path 19",
+            "rect": {
+                "x": 188.64860928337384,
+                "y": 203.13088976694735,
+                "width": 6.838533448041744,
+                "height": 5.205309324206183
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixelated image of a blue and green star"
+        },
+        {
+            "id": "623EBABC-6779-4FDB-A23E-A3ED7BF286A6",
+            "name": "Line 2",
+            "rect": {
+                "x": 191.9552375690605,
+                "y": 202.88405883912066,
+                "width": 5.650302744512828,
+                "height": 1.4039999999999964
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a red and white flag"
+        },
+        {
+            "id": "331E7F8C-8272-4C48-BEC6-C977E4B484BA",
+            "name": "Path 2",
+            "rect": {
+                "x": 167.6403582067469,
+                "y": 206.478322734781,
+                "width": 15.244696574415684,
+                "height": 1.3799999713897932
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixelated image of a blue and green cross"
+        },
+        {
+            "id": "AB43493E-0373-4788-B1C6-15C1C5475433",
+            "name": "Path 2 Copy",
+            "rect": {
+                "x": 173.00300697878993,
+                "y": 209.367882861244,
+                "width": 9.838107927601868,
+                "height": 3.380011724820548
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixelated image of a blue and green cross"
+        },
+        {
+            "id": "28D3329A-92A0-4386-AEE5-5B33C4059815",
+            "name": "Path 2",
+            "rect": {
+                "x": 207.43980709729067,
+                "y": 206.478322734781,
+                "width": 15.244696574415684,
+                "height": 1.3799999713897932
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixelated image of a blue and green cross"
+        },
+        {
+            "id": "B891A13C-828A-444E-B87B-609D8737D581",
+            "name": "Path 2 Copy",
+            "rect": {
+                "x": 207.48374697206145,
+                "y": 209.367882861244,
+                "width": 9.838107927601868,
+                "height": 3.380011724820548
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixelated image of a blue and green cross"
+        },
+        {
+            "id": "664A6C54-7E5E-4D18-9286-2458655039CD",
+            "name": "side",
+            "rect": {
+                "x": 78,
+                "y": 183,
+                "width": 117.17633672780084,
+                "height": 142.1064830200787
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8720817872603587,
+                0.9178801729024942,
+                0.9566326530612245,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "4991C093-7884-4862-86E5-45B4FFBD122C",
+            "name": "side",
+            "rect": {
+                "x": 78,
+                "y": 183,
+                "width": 117.17633672780084,
+                "height": 144.1064830200787
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8720817872603587,
+                0.9178801729024942,
+                0.9566326530612245,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white image of a person on a skateboard"
+        },
+        {
+            "id": "711639D9-B405-43C4-B7B3-80E07F7EA647",
+            "name": "4",
+            "rect": {
+                "x": 96.52124656677233,
+                "y": 247.82890753466745,
+                "width": 19.470000000000027,
+                "height": 36.1418429563912
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2688182348,
+                0.3056029998,
+                0.4176764456,
+                1
+            ],
+            "label": 0,
+            "msg": "the number 4 is shown in a black background"
+        },
+        {
+            "id": "F2563182-98E7-4936-BC2D-C05CB7457FB4",
+            "name": "4 copy",
+            "rect": {
+                "x": 151.52124656677233,
+                "y": 262.6276441281266,
+                "width": 19.4699999999998,
+                "height": 36.44725914969524
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2688182348,
+                0.3056029998,
+                0.4176764456,
+                1
+            ],
+            "label": 0,
+            "msg": "the number 4 is shown in a black background"
+        },
+        {
+            "id": "72432862-42EA-43C0-91A7-E26475DE2F77",
+            "name": "Path",
+            "rect": {
+                "x": 125.29096858830371,
+                "y": 254.53155452871408,
+                "width": 17.930555956937496,
+                "height": 37.65346558948255
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the letter o is shown in a dark background"
+        },
+        {
+            "id": "61D258AB-417F-4701-ACEF-96C55E514210",
+            "name": "Path",
+            "rect": {
+                "x": 130.90334060658233,
+                "y": 259.8925193699987,
+                "width": 6.705811920380711,
+                "height": 26.968629888975272
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the letter o is shown in a dark background"
+        },
+        {
+            "id": "2938FA4D-00F1-43C5-A0DC-D67AF377ED1E",
+            "name": "side",
+            "rect": {
+                "x": 195,
+                "y": 180,
+                "width": 89.35791858792254,
+                "height": 145.1064830200787
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8217245560777577,
+                0.8706836203549773,
+                0.9152582908163265,
+                1
+            ],
+            "label": 0,
+            "msg": "a white window with a black frame and a white window"
+        },
+        {
+            "id": "4D6C5433-4E3C-4C73-8950-E03089470C1C",
+            "name": "side",
+            "rect": {
+                "x": 195,
+                "y": 180,
+                "width": 89.35791858792254,
+                "height": 147.1064830200787
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8720817872603587,
+                0.9178801729024942,
+                0.9566326530612245,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person standing on a ledge"
+        },
+        {
+            "id": "B6E878FF-28BE-495E-B318-DCD2AA6CCA26",
+            "name": "lid",
+            "rect": {
+                "x": 194.75999450683594,
+                "y": 179.91902975361285,
+                "width": 120.4666628209934,
+                "height": 79.24670566204907
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8705882352941177,
+                0.9176470588235293,
+                0.9568627450980393,
+                1
+            ],
+            "label": 0,
+            "msg": "a white paper with a black border"
+        },
+        {
+            "id": "035B1C34-40E9-46BB-8C14-F8FF60F659BE",
+            "name": "Path 4",
+            "rect": {
+                "x": 199.4831403124631,
+                "y": 243.16258435199524,
+                "width": 9.86152545160985,
+                "height": 67.70322146353806
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6742646141264567,
+                0.7326650328863876,
+                0.7942442602040817,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and white square with a white background"
+        },
+        {
+            "id": "E29CD0DF-DFFC-4D20-9759-0D42A24D129A",
+            "name": "Path 4 Copy",
+            "rect": {
+                "x": 205.85749715511565,
+                "y": 263.20404238023195,
+                "width": 8.013965166398975,
+                "height": 33.74277838508311
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6742646141264567,
+                0.7326650328863876,
+                0.7942442602040817,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and white airplane flying over a black background"
+        },
+        {
+            "id": "D39AC503-C3C0-4531-9D92-0B3F26A703E3",
+            "name": "Path 4 Copy 2",
+            "rect": {
+                "x": 212.2338472178385,
+                "y": 249.4200568698426,
+                "width": 4.709443444730823,
+                "height": 61.56202218363774
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6742646141264567,
+                0.7326650328863876,
+                0.7942442602040817,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and blue sign with the words \"100\" on it"
+        },
+        {
+            "id": "97E73F2E-7E7A-40DA-85F0-DF6CFF0FA13A",
+            "name": "Mask",
+            "rect": {
+                "x": 49,
+                "y": 182,
+                "width": 147,
+                "height": 76
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8717456912778132,
+                0.9105858940538964,
+                0.9461894132653061,
+                1
+            ],
+            "label": 0,
+            "msg": "a white paper with a black border"
+        },
+        {
+            "id": "AAAE9576-ED4A-422B-B691-DEF9C1C4E6C9",
+            "name": "Path 4",
+            "rect": {
+                "x": 97.96753536801202,
+                "y": 167.59295302035383,
+                "width": 43.858435355035226,
+                "height": 57.65053998709658
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6742646141264567,
+                0.7326650328863876,
+                0.7942442602040817,
+                1
+            ],
+            "label": 0,
+            "msg": "a long, thin, white, pointed stick with a black handle"
+        },
+        {
+            "id": "382F0DE0-361B-4515-82C8-B2C32D729BB8",
+            "name": "Path 4 Copy",
+            "rect": {
+                "x": 104.81373899180608,
+                "y": 176.66676117563514,
+                "width": 24.165742096387703,
+                "height": 28.53404093468518
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6742646141264567,
+                0.7326650328863876,
+                0.7942442602040817,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and blue knife with a black handle"
+        },
+        {
+            "id": "F410F4E4-11BC-4631-A132-36C4C0A4565A",
+            "name": "Path 4 Copy 2",
+            "rect": {
+                "x": 96.46904200183053,
+                "y": 161.04815510536605,
+                "width": 32.97578065438961,
+                "height": 54.55138992634056
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6742646141264567,
+                0.7326650328863876,
+                0.7942442602040817,
+                1
+            ],
+            "label": 0,
+            "msg": "a long white and blue knife with a black handle"
+        },
+        {
+            "id": "D52AE977-4554-4B74-9E67-F292A651E2D6",
+            "name": "Path 12",
+            "rect": {
+                "x": 135.35409596572686,
+                "y": 117.3384556354017,
+                "width": 9.410542734136015,
+                "height": 15.277970929130916
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7231879755756443,
+                0.5127446338383839,
+                1
+            ],
+            "label": 0,
+            "msg": "a pink and orange slice of pizza"
+        },
+        {
+            "id": "08B186CB-6D60-4B27-A4C1-2C33D995202E",
+            "name": "Path 9",
+            "rect": {
+                "x": 81.99727238392575,
+                "y": 113.53074282825406,
+                "width": 62.71712380846702,
+                "height": 65.38342925948172
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.8745161281848719,
+                0.5293955176767677,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow sticky note with a black background"
+        },
+        {
+            "id": "AE31FD8E-DB89-4DF8-BC09-F7AC8E9D5FED",
+            "name": "Path 10",
+            "rect": {
+                "x": 232.04795113490718,
+                "y": 204.84838168197274,
+                "width": 86.17217404071471,
+                "height": 86.1312631381731
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.587890625,
+                0.7390720533288042,
+                1
+            ],
+            "label": 0,
+            "msg": "a pink sticky note on a black background"
+        },
+        {
+            "id": "1A4FA51E-8EED-4680-A7B0-F65DE696BDB1",
+            "name": "Path 11",
+            "rect": {
+                "x": 272.087745576629,
+                "y": 236.49103919982664,
+                "width": 38.41914134892022,
+                "height": 40.085758770236424
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9569515306122449,
+                0.4274829053750999,
+                0.6258537931592615,
+                1
+            ],
+            "label": 0,
+            "msg": "the pink and white logo of a company"
+        },
+        {
+            "id": "B5FE1E12-F3BB-4BF9-9166-5E32D15C5CDF",
+            "name": "status bar",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 22
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9789017280385165,
+                0.9815812280911385,
+                0.9867665816326531,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white image"
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

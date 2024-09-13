@@ -1,0 +1,407 @@
+{
+    "layers": [
+        {
+            "id": "AD0A7882-AC9A-45A4-9CD7-9BDB03EB1298",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "A0BA0DBC-8725-4175-93CE-A28AEA1A2FA3",
+            "name": "Result For Your Size",
+            "rect": {
+                "x": 24,
+                "y": 353,
+                "width": 193,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a barcode is shown on a black background"
+        },
+        {
+            "id": "45A3B240-7A99-4EAA-BEC6-B3C8BDFFB2E4",
+            "name": "XL",
+            "rect": {
+                "x": 24,
+                "y": 404,
+                "width": 83,
+                "height": 76
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the xlxlxlxlxlxlxl"
+        },
+        {
+            "id": "8AA89F0B-C9B8-43F9-824C-1943DADB99D9",
+            "name": "base",
+            "rect": {
+                "x": 33,
+                "y": 702,
+                "width": 309,
+                "height": 48
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock"
+        },
+        {
+            "id": "5CDE4FD7-8ED7-47B5-80B8-71EBD5028A98",
+            "name": "Find My Size",
+            "rect": {
+                "x": 65.44500000000016,
+                "y": 717,
+                "width": 247.19999999999982,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word \"prod my size\" is written in white letters"
+        },
+        {
+            "id": "C1DB6A7C-935F-4ECB-A001-089EB866F805",
+            "name": "Height",
+            "rect": {
+                "x": 24,
+                "y": 201,
+                "width": 176.1632653061224,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the height logo with a black background"
+        },
+        {
+            "id": "24239725-6E63-405D-9E35-DF8C0EE68977",
+            "name": "line",
+            "rect": {
+                "x": 24,
+                "y": 236,
+                "width": 327,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "096063A3-D58E-4BB8-8725-CB1FA9D5DE6D",
+            "name": "Weight",
+            "rect": {
+                "x": 24,
+                "y": 269,
+                "width": 176.1632653061224,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "weight loss tips for women"
+        },
+        {
+            "id": "B2BD61CE-40C2-48A4-BF44-850664E31497",
+            "name": "line",
+            "rect": {
+                "x": 24,
+                "y": 304,
+                "width": 327,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "F5EFC530-0EA8-4325-AF16-006EE7790186",
+            "name": "line",
+            "rect": {
+                "x": 0,
+                "y": 168,
+                "width": 375,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "92CC26E4-EC2E-4905-BBCC-AF31640E8631",
+            "name": "line",
+            "rect": {
+                "x": 229,
+                "y": 167,
+                "width": 70,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "F84971CF-E9A8-4BD1-A7A3-104D5D66812A",
+            "name": "Inch",
+            "rect": {
+                "x": 88,
+                "y": 132,
+                "width": 64,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "C55E3D12-C45B-4E3B-9DD1-E7D5492ABA0F",
+            "name": "CM",
+            "rect": {
+                "x": 225,
+                "y": 132,
+                "width": 77,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the cms logo is shown in black and white"
+        },
+        {
+            "id": "2DCD6313-EDE8-4BBE-9DC7-76DF74978B43",
+            "name": "Background",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 116
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                0.8200000000000001
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "C9E0715B-29BE-4EC8-8C8A-60016DFFCB85",
+            "name": "stt",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 27
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9725490196078431,
+                0.9725490196078431,
+                0.9725490196078431,
+                0.8200000000000001
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "6803A2B2-F65C-4C09-94FB-A726A6CF3D5C",
+            "name": "base nav",
+            "rect": {
+                "x": 0,
+                "y": 27,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "2726730E-F8A1-4891-94E9-DC9E40290BA9",
+            "name": "Size Guide",
+            "rect": {
+                "x": 16,
+                "y": 71,
+                "width": 343,
+                "height": 38
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the size guide logo"
+        },
+        {
+            "id": "FEFE0AE4-8032-41B1-B7D5-F77361FB82E2",
+            "name": "back",
+            "rect": {
+                "x": 16,
+                "y": 41,
+                "width": 20.41491053480331,
+                "height": 16
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2901960784313725,
+                0.2901960784313725,
+                0.2901960784313725,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "0FF12CEE-193C-4E8A-A5DD-0AC6BB00F51B",
+            "name": "ic_close",
+            "rect": {
+                "x": 331,
+                "y": 35,
+                "width": 28,
+                "height": 28
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2901960784313725,
+                0.2901960784313725,
+                0.2901960784313725,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white cross icon"
+        },
+        {
+            "id": "61330B5E-333F-45CA-8B3C-B67A1B07CC28",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 782,
+                "width": 375,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "9C328DDB-8BCD-4CA0-9945-9D072D78F00D",
+            "name": "line",
+            "rect": {
+                "x": 133,
+                "y": 795,
+                "width": 110,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white square"
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

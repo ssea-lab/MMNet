@@ -1,0 +1,749 @@
+{
+    "layers": [
+        {
+            "id": "7EF15259-0FFA-4764-B86E-776DEC0E0CEF",
+            "name": "Mask",
+            "rect": {
+                "x": 0,
+                "y": 96,
+                "width": 375,
+                "height": 716
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9723107993197279,
+                0.9723107993197279,
+                0.9723107993197279,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "DFC90581-3F33-4CE1-B51C-70F7CA761CE0",
+            "name": "Ekran Resmi 2018-09-20 23.04.01",
+            "rect": {
+                "x": -40,
+                "y": 79,
+                "width": 448,
+                "height": 741
+            },
+            "_class": "bitmap",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a map of toronto with a red line on it"
+        },
+        {
+            "id": "ED81D32E-CA99-45E5-97B2-0963C2FF9388",
+            "name": "Submenu 1",
+            "rect": {
+                "x": -14,
+                "y": 720,
+                "width": 403,
+                "height": 108
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue and white background with a blue and white sign"
+        },
+        {
+            "id": "271AF227-F6A6-4467-BFE4-65485235EA08",
+            "name": "Rectangle 11",
+            "rect": {
+                "x": 78,
+                "y": 491,
+                "width": 34,
+                "height": 24
+            },
+            "_class": "rectangle",
+            "color": [
+                0.196078431372549,
+                0.2117647058823529,
+                0.2627450980392157,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "F756DDAB-D27F-4C66-A014-A0B7A1C58303",
+            "name": "Page Title Copy 10",
+            "rect": {
+                "x": 85,
+                "y": 496,
+                "width": 20,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 4 is shown in white on a black background"
+        },
+        {
+            "id": "1C255CA8-6918-4FA7-9FEF-226661135A09",
+            "name": "Rectangle 11",
+            "rect": {
+                "x": 124,
+                "y": 416,
+                "width": 34,
+                "height": 24
+            },
+            "_class": "rectangle",
+            "color": [
+                0.02352941176470593,
+                0.8339034526854217,
+                0.8705882352941177,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "F870AC5E-B2E6-44CB-987A-195BA0598528",
+            "name": "Page Title Copy 10",
+            "rect": {
+                "x": 131,
+                "y": 421,
+                "width": 20,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 4 is shown in white on a black background"
+        },
+        {
+            "id": "1964E20C-99AC-4BDB-B1DB-E2494D9227DD",
+            "name": "Rectangle 11",
+            "rect": {
+                "x": 306,
+                "y": 424,
+                "width": 34,
+                "height": 24
+            },
+            "_class": "rectangle",
+            "color": [
+                0.196078431372549,
+                0.2117647058823529,
+                0.2627450980392157,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "0F3F4866-85D1-408D-AC76-9D531D37E64F",
+            "name": "Page Title Copy 10",
+            "rect": {
+                "x": 313,
+                "y": 429,
+                "width": 20,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 4 is shown in white on a black background"
+        },
+        {
+            "id": "99C4A846-7721-4641-8F32-FD452EEFAB49",
+            "name": "Rectangle 11",
+            "rect": {
+                "x": 263,
+                "y": 518,
+                "width": 34,
+                "height": 24
+            },
+            "_class": "rectangle",
+            "color": [
+                0.196078431372549,
+                0.2117647058823529,
+                0.2627450980392157,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "B3538340-7CE3-4E12-BBC6-F9C0A4DC3118",
+            "name": "Page Title Copy 10",
+            "rect": {
+                "x": 270,
+                "y": 523,
+                "width": 20,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 4 is shown in white on a black background"
+        },
+        {
+            "id": "15880069-6AAF-4267-81A3-544C2661D515",
+            "name": "Rectangle 11",
+            "rect": {
+                "x": 273,
+                "y": 334,
+                "width": 34,
+                "height": 24
+            },
+            "_class": "rectangle",
+            "color": [
+                0.196078431372549,
+                0.2117647058823529,
+                0.2627450980392157,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "99010FF4-D62E-4AC5-BDB7-7F19DD55C806",
+            "name": "Page Title Copy 10",
+            "rect": {
+                "x": 280,
+                "y": 339,
+                "width": 20,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 4 is shown in white on a black background"
+        },
+        {
+            "id": "C1024428-E721-40B6-80A8-1688713E15D4",
+            "name": "Background",
+            "rect": {
+                "x": 286,
+                "y": 595,
+                "width": 308,
+                "height": 138
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black background"
+        },
+        {
+            "id": "7A30E2AE-DCE2-4754-AE77-7CCB1C4EAE8A",
+            "name": "Mask",
+            "rect": {
+                "x": 300,
+                "y": 607,
+                "width": 100,
+                "height": 110
+            },
+            "_class": "rectangle",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the person is wearing a white shirt and black pants"
+        },
+        {
+            "id": "CEC5C5A5-8DBF-474C-93D8-221DF9B04AD2",
+            "name": "fan-lyu-1334759-unsplash",
+            "rect": {
+                "x": 298,
+                "y": 583,
+                "width": 90.37022132796778,
+                "height": 135
+            },
+            "_class": "bitmap",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white room with a green plant and pillows"
+        },
+        {
+            "id": "F6DB531C-509D-4F4B-BB43-7AD8AE60C7BB",
+            "name": "Text",
+            "rect": {
+                "x": 471,
+                "y": 695,
+                "width": 49,
+                "height": 13
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "FDAC7A8E-1510-4445-BD16-D1FF8E3A9A44",
+            "name": "Price",
+            "rect": {
+                "x": 409,
+                "y": 688,
+                "width": 52,
+                "height": 21
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "63DE81E5-5CB9-4E82-A8A2-E692E897BDCD",
+            "name": "Seperator",
+            "rect": {
+                "x": 410,
+                "y": 681,
+                "width": 160,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "color": [
+                0.8475499574829932,
+                0.8475499574829932,
+                0.8475499574829932,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "DC3272B2-97E1-4EAB-B1A7-795F11E3E5D8",
+            "name": "Text",
+            "rect": {
+                "x": 410,
+                "y": 662,
+                "width": 78,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "95938A11-96F2-4669-9982-EA57EFB56090",
+            "name": "Text",
+            "rect": {
+                "x": 423,
+                "y": 639,
+                "width": 83,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "6837AAF2-F1EF-476B-8A97-45646E0BD4AB",
+            "name": "Shape",
+            "rect": {
+                "x": 409.5,
+                "y": 639.5000000596046,
+                "width": 9,
+                "height": 10.777777718173184
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "07471975-2D68-4FAE-AB0A-78B35A06C81F",
+            "name": "Hotel Name",
+            "rect": {
+                "x": 410,
+                "y": 617,
+                "width": 147,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "056B2384-ADA1-4736-95BB-2EC0CBE3FCE1",
+            "name": "Background",
+            "rect": {
+                "x": -4,
+                "y": 595,
+                "width": 308,
+                "height": 138
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white mouse pad with a black background"
+        },
+        {
+            "id": "46237CA7-391D-40A6-8E96-D6C094BD5557",
+            "name": "Mask",
+            "rect": {
+                "x": 9.999999999999998,
+                "y": 607,
+                "width": 100,
+                "height": 110
+            },
+            "_class": "rectangle",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the person is wearing a black shirt and white pants"
+        },
+        {
+            "id": "56F07ECF-0125-4DB7-9563-60B41A3356FA",
+            "name": "alesia-kazantceva-362296-unsplash",
+            "rect": {
+                "x": 10,
+                "y": 565,
+                "width": 109.3333333333333,
+                "height": 165
+            },
+            "_class": "bitmap",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a bike is parked in the hallway of a house"
+        },
+        {
+            "id": "7A008958-6997-4058-8A7C-7CD2FB33D0D2",
+            "name": "Text",
+            "rect": {
+                "x": 175,
+                "y": 695,
+                "width": 23,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the bed and breakfast logo"
+        },
+        {
+            "id": "B733CB5D-A374-4133-8C06-07A5CCF1723C",
+            "name": "Price",
+            "rect": {
+                "x": 119,
+                "y": 688,
+                "width": 52,
+                "height": 21
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word $ 200 is in the middle of a black background"
+        },
+        {
+            "id": "3EFBA3BA-61F6-4656-93D9-A6C420FD306B",
+            "name": "Seperator",
+            "rect": {
+                "x": 120,
+                "y": 681,
+                "width": 160,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "color": [
+                0.8475499574829932,
+                0.8475499574829932,
+                0.8475499574829932,
+                1
+            ],
+            "label": 0,
+            "msg": "the person is wearing a black shirt and jeans"
+        },
+        {
+            "id": "CDCB3A87-BC99-450E-9729-8D67A07A1FD8",
+            "name": "Text",
+            "rect": {
+                "x": 120,
+                "y": 662,
+                "width": 81,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a barcode is shown on a black background"
+        },
+        {
+            "id": "D44F8C93-FA8E-4A30-83D6-ED1FA70CFB06",
+            "name": "Text",
+            "rect": {
+                "x": 133,
+                "y": 639,
+                "width": 83,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "95AFBEF5-FC7F-4D53-A36E-A9A927B11E33",
+            "name": "Shape",
+            "rect": {
+                "x": 119.5,
+                "y": 639.5000000596046,
+                "width": 9,
+                "height": 10.777777718173184
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a green and white logo with a circle in the middle"
+        },
+        {
+            "id": "2154E2C4-696E-4541-BF8C-B871CC91C3B3",
+            "name": "Hotel Name",
+            "rect": {
+                "x": 120,
+                "y": 617,
+                "width": 140,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "28E1F1B3-C905-43E3-80A1-354A85475225",
+            "name": "Search box / 2",
+            "rect": {
+                "x": -4,
+                "y": 94,
+                "width": 383,
+                "height": 88
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white envelope with a black background"
+        },
+        {
+            "id": "36D68D6C-2269-4571-A419-612EABAD9E42",
+            "name": "Shape",
+            "rect": {
+                "x": 325,
+                "y": 58,
+                "width": 16,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white square in the middle"
+        },
+        {
+            "id": "C9A1B10F-0A10-4F25-A146-3E72DD3CBCCE",
+            "name": "Shape",
+            "rect": {
+                "x": 325,
+                "y": 52,
+                "width": 20,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white square"
+        },
+        {
+            "id": "E97034EC-FA9B-4FBC-8677-F5106454EC30",
+            "name": "Shape",
+            "rect": {
+                "x": 325,
+                "y": 64,
+                "width": 12,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white square in the middle"
+        },
+        {
+            "id": "F7B40AD9-AEBB-45AB-A804-AC19B07CB120",
+            "name": "Page Title",
+            "rect": {
+                "x": 173,
+                "y": 53,
+                "width": 31,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a map"
+        },
+        {
+            "id": "8BE9B239-3C8B-41A1-BCC4-0B245A9816B8",
+            "name": "Shape",
+            "rect": {
+                "x": 34,
+                "y": 50,
+                "width": 10,
+                "height": 18
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black arrow pointing down on a black background"
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

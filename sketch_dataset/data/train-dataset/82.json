@@ -1,0 +1,996 @@
+{
+    "layers": [
+        {
+            "id": "9F0BE1BC-F203-46D2-A49E-94755C8E9EEC",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 1192
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "5A5B8FBD-3C69-4B2F-ACE3-42BEB740E144",
+            "name": "img",
+            "rect": {
+                "x": 16,
+                "y": 908,
+                "width": 144,
+                "height": 184
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6588235294117647,
+                0.6588235294117647,
+                0.6588235294117647,
+                1
+            ],
+            "label": 0,
+            "msg": "the black and red dress is made from a soft fabric"
+        },
+        {
+            "id": "0D1548F6-D5BC-4360-BC17-84A4D80B3E6C",
+            "name": "Length Tent Dress",
+            "rect": {
+                "x": 16,
+                "y": 1100,
+                "width": 144,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown"
+        },
+        {
+            "id": "A753BF28-274C-4D3F-B291-A05DD9DA7634",
+            "name": "$99.69",
+            "rect": {
+                "x": 16,
+                "y": 1120,
+                "width": 80,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the radio station is shown"
+        },
+        {
+            "id": "D9ED9856-D1CF-4293-A6A5-DCB6F270E6DB",
+            "name": "img",
+            "rect": {
+                "x": 176,
+                "y": 908,
+                "width": 144,
+                "height": 184
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6588235294117647,
+                0.6588235294117647,
+                0.6588235294117647,
+                1
+            ],
+            "label": 0,
+            "msg": "the black sweatshirt dress is long and has a zipper on the side"
+        },
+        {
+            "id": "7843B88A-974D-4506-B1A7-6C543C7C500A",
+            "name": "Full Length Dress",
+            "rect": {
+                "x": 176,
+                "y": 1100,
+                "width": 144,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown"
+        },
+        {
+            "id": "9B5AEE44-BBB3-4D5F-AF4B-B37F28934775",
+            "name": "$99.69",
+            "rect": {
+                "x": 176,
+                "y": 1120,
+                "width": 80,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the radio station is shown"
+        },
+        {
+            "id": "CF17B2C9-A291-4167-8E68-324A461A4105",
+            "name": "img",
+            "rect": {
+                "x": 336,
+                "y": 908,
+                "width": 144,
+                "height": 184
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6588235294117647,
+                0.6588235294117647,
+                0.6588235294117647,
+                1
+            ],
+            "label": 0,
+            "msg": "a woman is holding a pen in her hand"
+        },
+        {
+            "id": "F8772986-DEB8-479C-A7A3-058CE8084742",
+            "name": "White Dressrosa",
+            "rect": {
+                "x": 336,
+                "y": 1100,
+                "width": 144,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the white house logo"
+        },
+        {
+            "id": "128F8DEA-A07D-4869-BDDF-115F1B18220C",
+            "name": "$99.69",
+            "rect": {
+                "x": 336,
+                "y": 1120,
+                "width": 80,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the radio station is shown"
+        },
+        {
+            "id": "AE0C567C-4980-4F1E-8013-DBEE4CDE3422",
+            "name": "May you like it",
+            "rect": {
+                "x": 16,
+                "y": 873,
+                "width": 136,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a barcode is shown on a black background"
+        },
+        {
+            "id": "FC0CD0BD-6B6C-400D-8835-0C6611C1EA2C",
+            "name": "base",
+            "rect": {
+                "x": 0,
+                "y": 1112,
+                "width": 375,
+                "height": 80
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "D990CB0C-A2BB-42C0-8229-D19F3FB8786E",
+            "name": "base",
+            "rect": {
+                "x": 16,
+                "y": 1128,
+                "width": 343,
+                "height": 48
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "09ED9BDD-5FA5-4E2B-AA41-13D779DF5F3A",
+            "name": "Add to cart",
+            "rect": {
+                "x": 108,
+                "y": 1143,
+                "width": 160,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white logo with the words 'do it yourself '"
+        },
+        {
+            "id": "922F5A0B-B6B6-4EFD-BCC3-0BFA98B5BD43",
+            "name": "line",
+            "rect": {
+                "x": 0,
+                "y": 693,
+                "width": 375,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "5932F287-BDA3-4B6F-AFBE-D4AD86C372EE",
+            "name": "Information Details",
+            "rect": {
+                "x": 24,
+                "y": 710,
+                "width": 192.40625,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person"
+        },
+        {
+            "id": "BF29A35A-1F29-4F87-9000-AE419554F405",
+            "name": "Fill 1",
+            "rect": {
+                "x": 351,
+                "y": 711,
+                "width": 8,
+                "height": 13.72602271940741
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6078431372549019,
+                0.6078431372549019,
+                0.6078431372549019,
+                1
+            ],
+            "label": 0,
+            "msg": "a grey and white arrow pointing to the right"
+        },
+        {
+            "id": "01D8A6D1-087E-4FC3-A4E5-0814B020EFA3",
+            "name": "line",
+            "rect": {
+                "x": 24,
+                "y": 742,
+                "width": 351,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "6C09A895-78C1-4B98-B0D4-A4F7252D424E",
+            "name": "line",
+            "rect": {
+                "x": 24,
+                "y": 791,
+                "width": 351,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "11841C1D-1379-4E0E-95A5-0E8C655F0C01",
+            "name": "Reviewer",
+            "rect": {
+                "x": 24,
+                "y": 759,
+                "width": 192.40625,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the website reviewer"
+        },
+        {
+            "id": "A065EB9E-3956-48E1-8D88-9E6A7713FE31",
+            "name": "Fill 1",
+            "rect": {
+                "x": 351,
+                "y": 760,
+                "width": 8,
+                "height": 13.72602271940741
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6078431372549019,
+                0.6078431372549019,
+                0.6078431372549019,
+                1
+            ],
+            "label": 0,
+            "msg": "a grey and white arrow pointing to the right"
+        },
+        {
+            "id": "6A659E38-3664-454C-B31D-5B147B24BA52",
+            "name": "line",
+            "rect": {
+                "x": 0,
+                "y": 840,
+                "width": 375,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "578313AE-96F8-4BB2-8EE1-14EC85A28493",
+            "name": "Size Guide",
+            "rect": {
+                "x": 24,
+                "y": 808,
+                "width": 192.40625,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the size guide logo"
+        },
+        {
+            "id": "159E3311-6E63-45BA-A920-77D850148AA2",
+            "name": "Fill 1",
+            "rect": {
+                "x": 351,
+                "y": 809,
+                "width": 8,
+                "height": 13.72602271940741
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6078431372549019,
+                0.6078431372549019,
+                0.6078431372549019,
+                1
+            ],
+            "label": 0,
+            "msg": "a grey and white arrow pointing to the right"
+        },
+        {
+            "id": "1295DE6B-3B56-49E5-A42B-17E59987397D",
+            "name": "line",
+            "rect": {
+                "x": 16,
+                "y": 611,
+                "width": 343,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "2F82174B-BD78-4A4F-A439-147704065438",
+            "name": "line",
+            "rect": {
+                "x": 187,
+                "y": 624,
+                "width": 1,
+                "height": 32
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "0816D65C-F2F1-476D-A233-CFF11298578C",
+            "name": "line",
+            "rect": {
+                "x": 16,
+                "y": 668,
+                "width": 343,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "43D8A17D-00A1-4F1B-90CA-BF014FB45EEE",
+            "name": "bg",
+            "rect": {
+                "x": 16,
+                "y": 628,
+                "width": 32,
+                "height": 24
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black square with a white circle in the middle"
+        },
+        {
+            "id": "B2F05B49-9804-4F1B-811F-91E07BC160E0",
+            "name": "Fill 1",
+            "rect": {
+                "x": 157,
+                "y": 636,
+                "width": 13.72602271940741,
+                "height": 8
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2901960784313725,
+                0.2901960784313725,
+                0.2901960784313725,
+                1
+            ],
+            "label": 0,
+            "msg": "the v logo in black and white"
+        },
+        {
+            "id": "175A2D79-1CF5-4374-987F-17523C420F96",
+            "name": "Size",
+            "rect": {
+                "x": 204,
+                "y": 631,
+                "width": 109,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the size logo is shown in white and black"
+        },
+        {
+            "id": "89B105DA-33DA-4980-A6D1-547AA98BB4FE",
+            "name": "Fill 1",
+            "rect": {
+                "x": 345,
+                "y": 636,
+                "width": 13.72602271940741,
+                "height": 8
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2901960784313725,
+                0.2901960784313725,
+                0.2901960784313725,
+                1
+            ],
+            "label": 0,
+            "msg": "the v logo in black and white"
+        },
+        {
+            "id": "7719910E-60EF-4626-B505-61F7F0C9E22B",
+            "name": "Mini Cami Skater Dre",
+            "rect": {
+                "x": 24,
+                "y": 544,
+                "width": 192.40625,
+                "height": 48
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the american institute of medical science"
+        },
+        {
+            "id": "4D1EA430-FC9A-4245-B9AC-F97E836EE5D4",
+            "name": "$19.99",
+            "rect": {
+                "x": 242,
+                "y": 547,
+                "width": 109,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the price of a car is shown in black"
+        },
+        {
+            "id": "60012E36-4116-454D-AA95-A971474643E3",
+            "name": "line",
+            "rect": {
+                "x": 0,
+                "y": 519,
+                "width": 375,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "CFA828DE-5A2F-44BD-A917-DE174992A791",
+            "name": "line",
+            "rect": {
+                "x": 124.66666666666652,
+                "y": 479,
+                "width": 1,
+                "height": 32
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "the north face women's black and white striped hoodie"
+        },
+        {
+            "id": "04508C97-4238-4AAF-AB71-E484FA7F67A7",
+            "name": "Page 1",
+            "rect": {
+                "x": 53,
+                "y": 486,
+                "width": 18,
+                "height": 17.252859169022315
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black heart with a green arrow in the middle"
+        },
+        {
+            "id": "57F217E2-9CB9-4EB0-962C-7F26C8C2615A",
+            "name": "Path",
+            "rect": {
+                "x": 180,
+                "y": 486,
+                "width": 14.143362262937899,
+                "height": 18
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black triangle with a white arrow pointing to it"
+        },
+        {
+            "id": "A0BC8BE6-58AD-4B4B-9A17-5C308D04AD53",
+            "name": "Path",
+            "rect": {
+                "x": 181.28576020572154,
+                "y": 488.14207650273227,
+                "width": 10.286081645773038,
+                "height": 13.715204114432652
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black triangle with a white arrow pointing to it"
+        },
+        {
+            "id": "415A51C3-CDE9-4346-B1D4-A685BDFB4AC7",
+            "name": "Path",
+            "rect": {
+                "x": 308.81777272727277,
+                "y": 486,
+                "width": 6.546272727272708,
+                "height": 13.090909090909093
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black and white icon with a arrow pointing up"
+        },
+        {
+            "id": "C21E088D-3AD3-44ED-B302-7AFEDE19B7C4",
+            "name": "Path",
+            "rect": {
+                "x": 305,
+                "y": 490.3636363636364,
+                "width": 14.181818181818244,
+                "height": 13.091454545454553
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white icon with a arrow pointing up"
+        },
+        {
+            "id": "FD72134B-967B-4827-8114-911A44EC9F34",
+            "name": "line",
+            "rect": {
+                "x": 249,
+                "y": 479,
+                "width": 1,
+                "height": 32
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "7D03614D-3CD5-48D2-A58D-B23009EAB1DF",
+            "name": "img",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 470.1166180758017
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6588235294117647,
+                0.6588235294117647,
+                0.6588235294117647,
+                1
+            ],
+            "label": 0,
+            "msg": "a woman in a black dress posing for a photo"
+        },
+        {
+            "id": "008B1E9A-150E-47D2-86ED-4B9092CEC609",
+            "name": "Oval",
+            "rect": {
+                "x": 154,
+                "y": 447.1865889212828,
+                "width": 4.37317784256561,
+                "height": 4.37317784256561
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black border"
+        },
+        {
+            "id": "F7B53F3D-9894-4755-BA79-21B266DD0C85",
+            "name": "Oval",
+            "rect": {
+                "x": 173.67930029154513,
+                "y": 445,
+                "width": 8.74635568513122,
+                "height": 8.74635568513122
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "FED39001-8A39-43AE-B55D-ED5B53856BD3",
+            "name": "Oval",
+            "rect": {
+                "x": 197.73177842565588,
+                "y": 447.1865889212828,
+                "width": 4.37317784256561,
+                "height": 4.37317784256561
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic bottle with a label on it"
+        },
+        {
+            "id": "051955FB-4444-44A1-8AFD-37396DA55096",
+            "name": "Oval",
+            "rect": {
+                "x": 217.41107871720124,
+                "y": 447.1865889212828,
+                "width": 4.37317784256561,
+                "height": 4.37317784256561
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "521872E9-CC1C-4BCF-8967-237788A72A51",
+            "name": "Background",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 116
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                0.8200000000000001
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "90266F85-6600-4E48-98A5-73AE8BD938A7",
+            "name": "base nav",
+            "rect": {
+                "x": 0,
+                "y": 27,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "39B21A6D-906F-4D23-922C-D132DCB5EA9E",
+            "name": "base nav",
+            "rect": {
+                "x": 0,
+                "y": 27,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "3022E74D-1E9D-4E59-86A9-5CA3E99728F2",
+            "name": "back",
+            "rect": {
+                "x": 16,
+                "y": 38,
+                "width": 28,
+                "height": 21.94474471177591
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2901960784313725,
+                0.2901960784313725,
+                0.2901960784313725,
+                1
+            ],
+            "label": 0,
+            "msg": "a black arrow pointing to the right"
+        },
+        {
+            "id": "34069D9A-365D-4C84-BF87-D28D8C649749",
+            "name": "Path",
+            "rect": {
+                "x": 332.75038289625854,
+                "y": 36.74950770481041,
+                "width": 19.2542118588442,
+                "height": 19.255087050292275
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "2EDED3F1-A5EE-45E1-8842-3064E8A32335",
+            "name": "Path",
+            "rect": {
+                "x": 331,
+                "y": 35,
+                "width": 28,
+                "height": 28
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        }
+    ],
+    "width": 375,
+    "height": 1192,
+    "layer_width": 64,
+    "layer_height": 64
+}

@@ -1,0 +1,445 @@
+{
+    "layers": [
+        {
+            "id": "1AE8F3F9-8D92-49F8-BA82-12C3CCB34498",
+            "name": "img",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "bitmap",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a woman wearing a white t - shirt with a qr code on it"
+        },
+        {
+            "id": "5D59DC6B-A42D-49C3-8D2F-09D6F20407FC",
+            "name": "Rectangle 10",
+            "rect": {
+                "x": 82,
+                "y": 73,
+                "width": 1,
+                "height": 667
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "325DB3C6-A797-4BD1-96D2-D3A08451CFB1",
+            "name": "Rectangle 10",
+            "rect": {
+                "x": 292,
+                "y": 73,
+                "width": 1,
+                "height": 667
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "188220DD-C20A-464B-BA8D-AC0B6FE3D7F1",
+            "name": "photo",
+            "rect": {
+                "x": 293,
+                "y": 0,
+                "width": 82,
+                "height": 812
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "4C67838A-982D-472A-BB9A-D47A1E693173",
+            "name": "photo",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 82,
+                "height": 812
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "D2E96C49-97D4-429E-A521-22F3674D8539",
+            "name": "photo",
+            "rect": {
+                "x": 82,
+                "y": 515,
+                "width": 211,
+                "height": 297
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "925B5A14-B8BE-4E49-8C9E-DE7FE473BF61",
+            "name": "photo",
+            "rect": {
+                "x": 82,
+                "y": -3,
+                "width": 211,
+                "height": 303
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "6605E5E4-884C-42FF-BED7-0934735A87E8",
+            "name": "photo",
+            "rect": {
+                "x": 0,
+                "y": 299,
+                "width": 375,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "49556C4E-291E-4B38-8482-D459D3176D1C",
+            "name": "photo",
+            "rect": {
+                "x": 0,
+                "y": 515,
+                "width": 375,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "47A8DC74-3664-48CA-ADED-6A3387959986",
+            "name": "line",
+            "rect": {
+                "x": 81,
+                "y": 0,
+                "width": 1,
+                "height": 812
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "517C2B64-E195-47B5-8778-6C9924D97AFD",
+            "name": "line",
+            "rect": {
+                "x": 292,
+                "y": 0,
+                "width": 1,
+                "height": 812
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "0232442F-E3E0-492C-A00A-89206FEBA8CF",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 78,
+                "y": 297,
+                "width": 24,
+                "height": 4
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a square with a black background and white text"
+        },
+        {
+            "id": "741CDBDC-922C-4BF4-B9AF-68F114ECD430",
+            "name": "Rectangle 2 Copy",
+            "rect": {
+                "x": 78,
+                "y": 297,
+                "width": 4,
+                "height": 24
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a square with a black background and white text"
+        },
+        {
+            "id": "B5B4285F-707B-4E29-8856-A650B0D1614A",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 78,
+                "y": 511,
+                "width": 24,
+                "height": 4
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black square with a white background"
+        },
+        {
+            "id": "8976833A-1ED9-4AC5-BB5C-37CFD8999843",
+            "name": "Rectangle 2 Copy",
+            "rect": {
+                "x": 78,
+                "y": 491,
+                "width": 4,
+                "height": 24
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black square with a white background"
+        },
+        {
+            "id": "AFA468B9-B3C6-4A9F-B8D2-CEDE7B955BBC",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 273,
+                "y": 297,
+                "width": 24,
+                "height": 4
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black square with a white border"
+        },
+        {
+            "id": "70BEFE4E-3605-4FC1-A0F4-5555459143AA",
+            "name": "Rectangle 2 Copy",
+            "rect": {
+                "x": 293,
+                "y": 297,
+                "width": 4,
+                "height": 24
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black square with a white border"
+        },
+        {
+            "id": "B7D23E40-AC53-4BF0-88BF-48827A77650B",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": 273,
+                "y": 511,
+                "width": 24,
+                "height": 4
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a square black rectangle with a white border"
+        },
+        {
+            "id": "FD218050-D8D7-4A3B-BECC-972AC6375FDA",
+            "name": "Rectangle 2 Copy",
+            "rect": {
+                "x": 293,
+                "y": 491,
+                "width": 4,
+                "height": 24
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a square black rectangle with a white border"
+        },
+        {
+            "id": "1395F56E-BA34-46DD-83D8-9949C132311C",
+            "name": "stt",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 27
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9725490196078431,
+                0.9725490196078431,
+                0.9725490196078431,
+                0.8200000000000001
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "0F1E0E0C-481A-435E-8DA4-FFE94DC7617E",
+            "name": "back",
+            "rect": {
+                "x": 16,
+                "y": 38,
+                "width": 28,
+                "height": 21.94474471177591
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white arrow pointing in the direction of the arrow"
+        },
+        {
+            "id": "FAE2B27D-7047-482D-A62A-1292A08DA37D",
+            "name": "Rectangle 38",
+            "rect": {
+                "x": 327,
+                "y": 33,
+                "width": 32,
+                "height": 32
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "B4B82636-3CDA-4962-ABA0-4C299380D016",
+            "name": "Path 3",
+            "rect": {
+                "x": 336.9981844182489,
+                "y": 39.99994114825358,
+                "width": 12.003630912443441,
+                "height": 18.0020709186183
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white arrow with a black background"
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

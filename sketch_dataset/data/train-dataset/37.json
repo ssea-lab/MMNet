@@ -1,0 +1,521 @@
+{
+    "layers": [
+        {
+            "id": "7A9BAC80-5558-474B-928D-D7B379D0F09E",
+            "name": "Facebook",
+            "rect": {
+                "x": 50,
+                "y": 229,
+                "width": 104,
+                "height": 32
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the facebook logo"
+        },
+        {
+            "id": "85622156-B2A3-42B8-8294-68E9459EC681",
+            "name": "Bages/Grey",
+            "rect": {
+                "x": 163,
+                "y": 235,
+                "width": 22,
+                "height": 22
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white circle with the number four on it"
+        },
+        {
+            "id": "6C6D35CC-4BCF-47B6-A36A-C13F946E2547",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 345.79289321881345,
+                "y": 243.79289321881345,
+                "width": 7.778174593052029,
+                "height": 7.778174593052029
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black triangle with a white background"
+        },
+        {
+            "id": "35F864AE-7EA2-4741-9072-5AAB105ECFB0",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 340.7928932188135,
+                "y": 243.79289321881345,
+                "width": 7.778174593052029,
+                "height": 7.778174593052029
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black triangle with a white background"
+        },
+        {
+            "id": "7E665742-A673-4A54-A839-C1CB70C568B8",
+            "name": "fa-facebook-square",
+            "rect": {
+                "x": 16.5,
+                "y": 232,
+                "width": 27,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue square with a question mark on it"
+        },
+        {
+            "id": "CC80ADD4-A3DB-4683-B3BC-07380D74BC44",
+            "name": "Contacts/Invite Peoples",
+            "rect": {
+                "x": 30,
+                "y": 261,
+                "width": 345,
+                "height": 80
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a message with a blue checkmark and a blue checkmark"
+        },
+        {
+            "id": "99CF45D0-DE91-492E-A4AE-67984B0AD8AF",
+            "name": "Contacts/Invite Peoples",
+            "rect": {
+                "x": 30,
+                "y": 341,
+                "width": 345,
+                "height": 80
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white background with a photo of a man and a woman"
+        },
+        {
+            "id": "D1937A4E-04F9-45C7-AC4A-405B184D8FB3",
+            "name": "Contacts/Invite Peoples",
+            "rect": {
+                "x": 30,
+                "y": 421,
+                "width": 345,
+                "height": 80
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a message from a woman with a phone number"
+        },
+        {
+            "id": "F09CE7AB-E4D5-47C8-B2C2-D98621A8CB80",
+            "name": "Contacts/Invite Peoples",
+            "rect": {
+                "x": 30,
+                "y": 501,
+                "width": 345,
+                "height": 80
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a woman is using the facebook app to send a message"
+        },
+        {
+            "id": "E1D1411E-B3F6-4D91-98BB-74684C2DD816",
+            "name": "Divider",
+            "rect": {
+                "x": 49,
+                "y": 579,
+                "width": 306,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "D8DC3455-C0B0-4114-A3AB-13724F3A9279",
+            "name": "Contacts",
+            "rect": {
+                "x": 50,
+                "y": 601,
+                "width": 95,
+                "height": 32
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for contacts, a company that sells contact lenses"
+        },
+        {
+            "id": "E26B6388-B67A-4AF2-B5DF-4CE144B9E43F",
+            "name": "Bages/Grey",
+            "rect": {
+                "x": 155,
+                "y": 607,
+                "width": 33,
+                "height": 22
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white button with the number 98 on it"
+        },
+        {
+            "id": "D30DF7F6-4492-445B-96A2-ECF67F7280B5",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 345.79289321881345,
+                "y": 615.7928932188134,
+                "width": 7.778174593052029,
+                "height": 7.778174593052086
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black triangle with a white background"
+        },
+        {
+            "id": "5301642C-DEC8-4170-9ADA-85B2913704DF",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 340.7928932188135,
+                "y": 615.7928932188134,
+                "width": 7.778174593052029,
+                "height": 7.778174593051972
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black triangle with a white background"
+        },
+        {
+            "id": "8B1BE83E-FA5E-4119-A361-05125E8D62D5",
+            "name": "Background",
+            "rect": {
+                "x": 20,
+                "y": 606,
+                "width": 21,
+                "height": 21
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1666932397959184,
+                0.1629409318215035,
+                0.1629409318215035,
+                1
+            ],
+            "label": 0,
+            "msg": "a green button with a black background"
+        },
+        {
+            "id": "B1C3234D-C1AD-49DB-BF30-879B9E4B71EC",
+            "name": "Phone Icon",
+            "rect": {
+                "x": 23.74882812500001,
+                "y": 609.7524801437692,
+                "width": 13.401515790343936,
+                "height": 13.39510368266076
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white phone icon on a black background"
+        },
+        {
+            "id": "7C2C9C31-AA17-4375-BC56-5D2A955343F0",
+            "name": "Invite via e-mail",
+            "rect": {
+                "x": 50,
+                "y": 167,
+                "width": 168,
+                "height": 32
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the american express credit card"
+        },
+        {
+            "id": "05A06C6C-8686-4530-99B2-4F66629F7CCF",
+            "name": "Placeholder",
+            "rect": {
+                "x": 20,
+                "y": 173,
+                "width": 22,
+                "height": 22
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a circular logo with a white background"
+        },
+        {
+            "id": "039443FA-63C7-4F97-A198-8E1F6603B3A5",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 30,
+                "y": 180,
+                "width": 2,
+                "height": 8
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white cross on a black background"
+        },
+        {
+            "id": "CA74EE55-E323-4AAE-85EF-27A72C1A17C8",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 27,
+                "y": 183,
+                "width": 8,
+                "height": 2
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white cross on a black background"
+        },
+        {
+            "id": "29A5F271-0B96-454C-812D-ED37301DCB8B",
+            "name": "Divider",
+            "rect": {
+                "x": 20,
+                "y": 141,
+                "width": 335,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9529411764705882,
+                0.9529411764705882,
+                0.9529411764705882,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "5B0FE22E-E5F0-4B66-917F-2C886D32A357",
+            "name": "Invite People",
+            "rect": {
+                "x": 47,
+                "y": 33,
+                "width": 146,
+                "height": 35
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the people's people"
+        },
+        {
+            "id": "7217F348-0F94-4046-9248-64805B3A3D79",
+            "name": "Add 3 Contacts",
+            "rect": {
+                "x": 230,
+                "y": 40,
+                "width": 123,
+                "height": 24
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is blue and white"
+        },
+        {
+            "id": "E5BC034D-A89B-45DD-B193-15E1189C5AC7",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 23.075735661548944,
+                "y": 40.742295297817186,
+                "width": 11.313708498984756,
+                "height": 11.31370849898476
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black arrow pointing to the right"
+        },
+        {
+            "id": "C807D337-5CBD-4BC3-9458-6D09A8069E95",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 22.792893218813454,
+                "y": 49.54767774059838,
+                "width": 11.59655094171955,
+                "height": 11.596550941719542
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black arrow pointing to the right"
+        },
+        {
+            "id": "5EB984A9-E7B9-428F-9D13-A3EFE267BA9F",
+            "name": "Status Bar",
+            "rect": {
+                "x": 6,
+                "y": 3.5,
+                "width": 363.5,
+                "height": 14.8203125
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a blue sky and a white cloud"
+        },
+        {
+            "id": "1BF5522D-6DEA-4005-9C4A-A11D3899F6F8",
+            "name": "Input Field",
+            "rect": {
+                "x": 47,
+                "y": 83,
+                "width": 306,
+                "height": 40
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the north face the north face the north face the north face the north face the north face"
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

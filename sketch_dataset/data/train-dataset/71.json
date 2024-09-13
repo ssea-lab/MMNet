@@ -1,0 +1,1053 @@
+{
+    "layers": [
+        {
+            "id": "B5C15C38-F0D3-4BC1-8264-442B0819376D",
+            "name": "Buttons / Color Button / long",
+            "rect": {
+                "x": 20,
+                "y": 1007,
+                "width": 335,
+                "height": 50
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "B256E319-3C75-4CB5-A64D-157A554D97B2",
+            "name": "Rectangle",
+            "rect": {
+                "x": 20,
+                "y": 947,
+                "width": 61,
+                "height": 30
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "3DDB7D29-1406-466B-8D58-356298119438",
+            "name": "Text",
+            "rect": {
+                "x": 33,
+                "y": 953,
+                "width": 34,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "EDE52826-9BA7-4B2F-9B3F-8EF89477B775",
+            "name": "Rectangle",
+            "rect": {
+                "x": 91,
+                "y": 947,
+                "width": 64,
+                "height": 30
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "4F56D2B5-0FA0-4841-B743-931F3986E744",
+            "name": "Text",
+            "rect": {
+                "x": 104,
+                "y": 953,
+                "width": 37,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "BC84A30D-CA2F-42B3-87D7-6FC806322C8E",
+            "name": "Title",
+            "rect": {
+                "x": 20,
+                "y": 913,
+                "width": 71,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "57A8579B-0FB9-4355-8F41-96D27F35F92C",
+            "name": "Seperator",
+            "rect": {
+                "x": 20,
+                "y": 882,
+                "width": 335,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "F6C3AAE4-0E59-40DB-8811-BCFC849B2155",
+            "name": "Rectangle",
+            "rect": {
+                "x": 20,
+                "y": 782,
+                "width": 114,
+                "height": 30
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "the white and black square button on a black background"
+        },
+        {
+            "id": "52885510-6629-4E0B-BB39-AB5443F46390",
+            "name": "Text",
+            "rect": {
+                "x": 33,
+                "y": 788,
+                "width": 86,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "DAD6EE22-47B9-47E4-AF0D-E789CF8A3C89",
+            "name": "Rectangle",
+            "rect": {
+                "x": 144,
+                "y": 782,
+                "width": 114,
+                "height": 30
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "the white and black square button on a black background"
+        },
+        {
+            "id": "992C50FD-2119-437A-9EA8-0E3EA3DC408A",
+            "name": "Text",
+            "rect": {
+                "x": 157,
+                "y": 788,
+                "width": 88,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "san francisco, ca - san francisco, ca - san francisco, ca -"
+        },
+        {
+            "id": "EC570312-6181-4B99-9613-7073FB5A57A6",
+            "name": "Rectangle",
+            "rect": {
+                "x": 20,
+                "y": 822,
+                "width": 95,
+                "height": 30
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "71A1FABF-4ED1-4935-B94D-7967CA9AEB0C",
+            "name": "Text",
+            "rect": {
+                "x": 33,
+                "y": 828,
+                "width": 70,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "980703A3-BD12-4611-889A-79BCD3A7FBD6",
+            "name": "Title",
+            "rect": {
+                "x": 20,
+                "y": 748,
+                "width": 86,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word furniture is written in black letters on a black background"
+        },
+        {
+            "id": "01832A42-6FC3-4932-A63E-6AFEB3EB6A02",
+            "name": "Seperator",
+            "rect": {
+                "x": 20,
+                "y": 717,
+                "width": 335,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the person is wearing a black shirt and jeans"
+        },
+        {
+            "id": "DB70165B-A677-4F79-9036-3AB210BD2515",
+            "name": "Buttons / White Button",
+            "rect": {
+                "x": 10,
+                "y": 629,
+                "width": 355,
+                "height": 70
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white laptop with a blue logo on it"
+        },
+        {
+            "id": "1E95A175-3A4D-4B24-B6E3-450058E423AE",
+            "name": "Title",
+            "rect": {
+                "x": 20,
+                "y": 603,
+                "width": 112,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word \"property time\" is written in black and white"
+        },
+        {
+            "id": "AB2F5F8E-7D15-405C-8DDE-6F21B70AF852",
+            "name": "Seperator",
+            "rect": {
+                "x": 20,
+                "y": 572,
+                "width": 335,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the person is wearing a black shirt and jeans"
+        },
+        {
+            "id": "175029A9-D75C-4CFA-B249-6DF153D74B49",
+            "name": "Rectangle",
+            "rect": {
+                "x": 225,
+                "y": 513,
+                "width": 82,
+                "height": 30
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white square with a white border"
+        },
+        {
+            "id": "7631F017-03B8-4CED-B8BE-4D128070126B",
+            "name": "Text",
+            "rect": {
+                "x": 236,
+                "y": 519,
+                "width": 55,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for breakfast club"
+        },
+        {
+            "id": "F0E67E7D-5E15-4545-B604-9F18A52377FB",
+            "name": "Rectangle",
+            "rect": {
+                "x": 166,
+                "y": 513,
+                "width": 49,
+                "height": 30
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue square with a black border"
+        },
+        {
+            "id": "08F53B5C-632F-45B5-ADCD-897EC1C712F5",
+            "name": "Text",
+            "rect": {
+                "x": 179,
+                "y": 519,
+                "width": 24,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the spa logo is shown in blue"
+        },
+        {
+            "id": "30496503-A785-4EBD-8EF5-DCDCFC411246",
+            "name": "Rectangle",
+            "rect": {
+                "x": 107,
+                "y": 513,
+                "width": 49,
+                "height": 30
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white square with a white border"
+        },
+        {
+            "id": "DC4C3EBE-E130-40EB-9018-F37B3DD1843E",
+            "name": "Text",
+            "rect": {
+                "x": 119,
+                "y": 519,
+                "width": 25,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the pooler logo"
+        },
+        {
+            "id": "61C251CF-9238-4F10-BE6D-B3574E2F8FF6",
+            "name": "Rectangle",
+            "rect": {
+                "x": 20,
+                "y": 513,
+                "width": 77,
+                "height": 30
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white square button with a white border"
+        },
+        {
+            "id": "5BD97E84-DA28-4735-B1AC-FA75E8EE79E5",
+            "name": "Text",
+            "rect": {
+                "x": 33,
+                "y": 519,
+                "width": 51,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for free wi - fi"
+        },
+        {
+            "id": "A88BE541-D351-4973-A79A-412029B8E2A2",
+            "name": "Title",
+            "rect": {
+                "x": 20,
+                "y": 479,
+                "width": 70,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for features"
+        },
+        {
+            "id": "A32E2983-4C19-467D-99A1-4F1D77A76715",
+            "name": "Seperator",
+            "rect": {
+                "x": 20,
+                "y": 448,
+                "width": 335,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the person is wearing a black shirt and jeans"
+        },
+        {
+            "id": "C1456B48-5571-467B-A01E-B799C506AEBE",
+            "name": "Text",
+            "rect": {
+                "x": 262,
+                "y": 401,
+                "width": 52,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "83C1D825-708E-4DDC-B53A-11C02CAA8BDA",
+            "name": "Line",
+            "rect": {
+                "x": 20,
+                "y": 407,
+                "width": 230,
+                "height": 3
+            },
+            "_class": "rectangle",
+            "color": [
+                0.02352941176470593,
+                0.8339034526854217,
+                0.8705882352941177,
+                1
+            ],
+            "label": 0,
+            "msg": "a man is standing on a platform with a sign that says \"no smoking\""
+        },
+        {
+            "id": "9116CC4F-81D7-477D-873D-9332A1215CAB",
+            "name": "Oval",
+            "rect": {
+                "x": 62,
+                "y": 381,
+                "width": 58,
+                "height": 58
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "82713010-EA91-413D-A358-ACE4A5B754E8",
+            "name": "Title",
+            "rect": {
+                "x": 20,
+                "y": 363,
+                "width": 208,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a barcode with many different colors"
+        },
+        {
+            "id": "A3D3CE6A-E9A4-47DC-AEAB-25551CB73BB1",
+            "name": "Seperator",
+            "rect": {
+                "x": 20,
+                "y": 332,
+                "width": 335,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the person is wearing a black shirt and jeans"
+        },
+        {
+            "id": "A27CD2CF-B3BF-49B2-80E8-D2D1EF27267B",
+            "name": "Rectangle",
+            "rect": {
+                "x": 217,
+                "y": 276,
+                "width": 34,
+                "height": 26
+            },
+            "_class": "rectangle",
+            "color": [
+                0.02352941176470593,
+                0.8339034526854217,
+                0.8705882352941177,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "39977F29-2739-4809-92CD-3B60B13A4C08",
+            "name": "Text",
+            "rect": {
+                "x": 219.5,
+                "y": 282,
+                "width": 31,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word \"8 5\" is in white on a black background"
+        },
+        {
+            "id": "4FCE483D-4B23-419E-922E-653B8CB6D2F2",
+            "name": "Rectangle",
+            "rect": {
+                "x": 168,
+                "y": 276,
+                "width": 34,
+                "height": 26
+            },
+            "_class": "rectangle",
+            "color": [
+                0.02352941176470593,
+                0.8339034526854217,
+                0.8705882352941177,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "D4CF7755-F6A1-4014-B3E8-E7E087D17FB7",
+            "name": "Text",
+            "rect": {
+                "x": 175,
+                "y": 282,
+                "width": 23,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white number 8 and a white number 8"
+        },
+        {
+            "id": "AB8E1EDF-6383-45A9-A410-8A3B62A062A2",
+            "name": "Rectangle",
+            "rect": {
+                "x": 119,
+                "y": 276,
+                "width": 34,
+                "height": 26
+            },
+            "_class": "rectangle",
+            "color": [
+                0.8475499574829932,
+                0.8475499574829932,
+                0.8475499574829932,
+                1
+            ],
+            "label": 0,
+            "msg": "the white circle is on a black background"
+        },
+        {
+            "id": "8F92DAD8-43FB-400F-AF8C-60B03971EFFF",
+            "name": "Text",
+            "rect": {
+                "x": 122.5,
+                "y": 282,
+                "width": 29,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word 7 + is shown in white on a black background"
+        },
+        {
+            "id": "0268900F-ED36-40FF-9CB0-D0DBD352225E",
+            "name": "Rectangle",
+            "rect": {
+                "x": 70,
+                "y": 276,
+                "width": 34,
+                "height": 26
+            },
+            "_class": "rectangle",
+            "color": [
+                0.8475499574829932,
+                0.8475499574829932,
+                0.8475499574829932,
+                1
+            ],
+            "label": 0,
+            "msg": "the white circle is on a black background"
+        },
+        {
+            "id": "B368D246-2B43-4CB9-9876-99143B759893",
+            "name": "Text",
+            "rect": {
+                "x": 77,
+                "y": 282,
+                "width": 22,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white and black logo with the number 7"
+        },
+        {
+            "id": "A44C8940-6889-483A-A251-42DB39C3215D",
+            "name": "Rectangle",
+            "rect": {
+                "x": 21,
+                "y": 276,
+                "width": 34,
+                "height": 26
+            },
+            "_class": "rectangle",
+            "color": [
+                0.8475499574829932,
+                0.8475499574829932,
+                0.8475499574829932,
+                1
+            ],
+            "label": 0,
+            "msg": "the white circle is on a black background"
+        },
+        {
+            "id": "52F258BB-B0A3-461D-BC11-700ACDED0A78",
+            "name": "Text",
+            "rect": {
+                "x": 28,
+                "y": 282,
+                "width": 23,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white sign with the number 0 and a plus sign"
+        },
+        {
+            "id": "376E9FC8-E02A-4DDC-A315-0631E64174C0",
+            "name": "Title",
+            "rect": {
+                "x": 20,
+                "y": 242,
+                "width": 51,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the rating agency"
+        },
+        {
+            "id": "E26B4A7C-0682-4DF9-8E5E-6F75872562A6",
+            "name": "Seperator",
+            "rect": {
+                "x": 20,
+                "y": 212,
+                "width": 335,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the person is wearing a black shirt and jeans"
+        },
+        {
+            "id": "AE03465F-1949-43E3-9739-A39321573313",
+            "name": "Text",
+            "rect": {
+                "x": 262,
+                "y": 164,
+                "width": 57,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "8F12FFF3-5A76-453C-A8B7-ACE3E28066E0",
+            "name": "Line",
+            "rect": {
+                "x": 20,
+                "y": 170,
+                "width": 230,
+                "height": 3
+            },
+            "_class": "rectangle",
+            "color": [
+                0.02352941176470593,
+                0.8339034526854217,
+                0.8705882352941177,
+                1
+            ],
+            "label": 0,
+            "msg": "a man is standing on a platform with a sign that says \"no smoking\""
+        },
+        {
+            "id": "061098F0-5A9C-49EF-A606-5E46C60FA92D",
+            "name": "Oval",
+            "rect": {
+                "x": 154,
+                "y": 144,
+                "width": 58,
+                "height": 58
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "1CA8F6D1-E238-48A5-8FE6-54BDD2F6BB52",
+            "name": "Title",
+            "rect": {
+                "x": 20,
+                "y": 126,
+                "width": 102,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white text that says \"the prince of persia\""
+        },
+        {
+            "id": "9C1C8AE0-2870-4E9F-911C-AC33F55EB10D",
+            "name": "Line",
+            "rect": {
+                "x": 0,
+                "y": 95,
+                "width": 375,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "color": [
+                0.8352941176470589,
+                0.8352941176470589,
+                0.8352941176470589,
+                1
+            ],
+            "label": 0,
+            "msg": "the person is wearing a white shirt and black pants"
+        },
+        {
+            "id": "2CA1A4B2-1A7E-49D9-B7A7-E19288858650",
+            "name": "Shape",
+            "rect": {
+                "x": 331,
+                "y": 54,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black and white image of a person holding a long black stick"
+        },
+        {
+            "id": "42B83737-ADEE-4057-9071-65540A001FCE",
+            "name": "Shape",
+            "rect": {
+                "x": 331,
+                "y": 54,
+                "width": 14,
+                "height": 14
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a black and white striped tie"
+        },
+        {
+            "id": "A5A5835F-A238-4632-83AC-076781F92F56",
+            "name": "Page Title",
+            "rect": {
+                "x": 161,
+                "y": 53,
+                "width": 55,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word filters is shown in black letters on a black background"
+        },
+        {
+            "id": "633D5ADD-2766-49AA-B22F-6C3776782F1F",
+            "name": "Shape",
+            "rect": {
+                "x": 34,
+                "y": 50,
+                "width": 10,
+                "height": 18
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black arrow pointing down on a black background"
+        },
+        {
+            "id": "5524855E-A043-45EF-A611-6F79E19DD363",
+            "name": "Submenu 1",
+            "rect": {
+                "x": -14,
+                "y": 720,
+                "width": 403,
+                "height": 108
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue and white background with a blue and white sign"
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

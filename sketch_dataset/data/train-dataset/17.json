@@ -1,0 +1,1756 @@
+{
+    "layers": [
+        {
+            "id": "38F4AF01-57B2-4D27-97F5-7A012059ACEB",
+            "name": "小程序框架 / 白底",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 1334
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the iphone is showing a message that says \"you have a new message\""
+        },
+        {
+            "id": "EEE8DC1B-9A7A-4C71-AAA1-69211EBC317D",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 128,
+                "width": 750,
+                "height": 1206
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9725490196078431,
+                0.9725490196078431,
+                0.9725490196078431,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "65C61780-DEF2-4C88-BC95-7151811B3072",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": -100,
+                "y": 282,
+                "width": 950,
+                "height": 3345
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border on it"
+        },
+        {
+            "id": "B1126F10-FCE1-4EFB-A853-93C291B405BB",
+            "name": "page / title",
+            "rect": {
+                "x": 60,
+                "y": 202.66666666666652,
+                "width": 120,
+                "height": 93.33333333333348
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the chinese character for 'the' is written on the side of the screen"
+        },
+        {
+            "id": "0EBC8F85-7D2F-493E-94D7-4D6FFEC1F2B9",
+            "name": "主色",
+            "rect": {
+                "x": 40,
+                "y": 404,
+                "width": 64,
+                "height": 45
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a chinese character with a blue background"
+        },
+        {
+            "id": "A56B7A2B-9ECA-49A0-8519-C9092B3146AD",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 0,
+                "y": 402,
+                "width": 28,
+                "height": 64
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9803921568627451,
+                0.4982749893435636,
+                0.1568627450980392,
+                1
+            ],
+            "label": 0,
+            "msg": "a pixelated blue and white button"
+        },
+        {
+            "id": "E490A1AE-D189-42E9-A69A-F4F9DBD06667",
+            "name": "辅助色",
+            "rect": {
+                "x": 28,
+                "y": 795,
+                "width": 96,
+                "height": 45
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the chinese word for 'chinese' is written in black and white"
+        },
+        {
+            "id": "705A1200-C881-469A-AF7A-FC801DE99067",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": -12,
+                "y": 793,
+                "width": 28,
+                "height": 64
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9803921568627451,
+                0.4982749893435636,
+                0.1568627450980392,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and white square with a black background"
+        },
+        {
+            "id": "B10FA27D-72E9-4C2C-BD66-6ECA59C743AA",
+            "name": "中性色",
+            "rect": {
+                "x": 28,
+                "y": 1452,
+                "width": 96,
+                "height": 45
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the chinese characters are written in black and white"
+        },
+        {
+            "id": "F7900965-2E41-4F12-8DCE-D22EE1AD1627",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": -12,
+                "y": 1450,
+                "width": 28,
+                "height": 64
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9803921568627451,
+                0.4982749893435636,
+                0.1568627450980392,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and white square with a black background"
+        },
+        {
+            "id": "C64D0997-2133-4EA2-BC56-DA81D6BBF94B",
+            "name": "其他色",
+            "rect": {
+                "x": 28,
+                "y": 2641,
+                "width": 96,
+                "height": 45
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the chinese word for 'love' in black and white"
+        },
+        {
+            "id": "EE0EE586-0C9C-4194-8A1B-4D6585B1E22B",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": -12,
+                "y": 2639,
+                "width": 28,
+                "height": 64
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9803921568627451,
+                0.4982749893435636,
+                0.1568627450980392,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and white square with a black background"
+        },
+        {
+            "id": "76ABB375-A809-499A-8B92-4ACF052CABF1",
+            "name": "Oval",
+            "rect": {
+                "x": 70,
+                "y": 499,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "color": [
+                0.4666666666666667,
+                0.6313725490196078,
+                0.9686274509803922,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "8DD92099-1444-447A-97EA-406DB8636FFA",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 95,
+                "y": 524,
+                "width": 100,
+                "height": 100
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "EA36F853-BE4E-429A-9E61-368AC5562C96",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 113,
+                "y": 542,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a circle with a blue outline on a black background"
+        },
+        {
+            "id": "6F6A3E48-7A23-4B05-9D48-7D3264C6EBC3",
+            "name": "Light Blue #78A4FA",
+            "rect": {
+                "x": 97,
+                "y": 669,
+                "width": 97,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "light blue 784a fa"
+        },
+        {
+            "id": "88C0570F-1E43-4CF2-BD76-B1F8D597163C",
+            "name": "Oval",
+            "rect": {
+                "x": 300,
+                "y": 499,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "color": [
+                0.3764705882352941,
+                0.5529411764705883,
+                0.8980392156862745,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "D2FBFCCD-2299-4EA1-AEFD-DE7EC65C687E",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 325,
+                "y": 524,
+                "width": 100,
+                "height": 100
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "9718ACC2-DD00-4F34-BF0F-D39232954B47",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 343,
+                "y": 542,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "26B69636-8B50-48F8-9942-F4504A43509F",
+            "name": "Blue #6190E8",
+            "rect": {
+                "x": 335,
+                "y": 669,
+                "width": 81,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "blue logo with the words blue 60901es"
+        },
+        {
+            "id": "7BBFB153-2C06-40CD-A4A3-224318EEB153",
+            "name": "Oval",
+            "rect": {
+                "x": 530,
+                "y": 499,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "color": [
+                0.196078431372549,
+                0.4235294117647059,
+                0.7490196078431373,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "ABE51054-E7F9-4CFB-9E46-CDE8DA38EB79",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 555,
+                "y": 524,
+                "width": 100,
+                "height": 100
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "F45B17FB-5724-4ED2-BC2C-8F57595C3AA1",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 573,
+                "y": 542,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "DF6D37C4-5C84-4156-A6DA-E5E3A97BC32E",
+            "name": "Dark Blue #346FC2",
+            "rect": {
+                "x": 559,
+                "y": 669,
+                "width": 93,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "dark blue - fc2"
+        },
+        {
+            "id": "AA9A734E-9824-45BE-BE94-907C9AF5EDA6",
+            "name": "Oval",
+            "rect": {
+                "x": 70,
+                "y": 890,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "color": [
+                0.4666666666666667,
+                0.6313725490196078,
+                0.9686274509803922,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "438085A3-1FDC-47C2-B7D3-9B6ACCBEB57C",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 95,
+                "y": 915,
+                "width": 100,
+                "height": 100
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "D43DC1B0-5E65-474D-B539-57F0B49154D1",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 113,
+                "y": 933,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a circle with a blue outline on a black background"
+        },
+        {
+            "id": "89062C6D-765F-46B8-8437-21A049D6463A",
+            "name": "Blue - Info #78A4FA",
+            "rect": {
+                "x": 93.5,
+                "y": 1060,
+                "width": 104,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "blue-info 778-afaa"
+        },
+        {
+            "id": "1EF143DB-BC52-44C2-8003-8C0A11BBB23F",
+            "name": "Oval",
+            "rect": {
+                "x": 300,
+                "y": 890,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "color": [
+                0,
+                0.8235294117647058,
+                0.4509803921568628,
+                1
+            ],
+            "label": 1,
+            "msg": "a green circle with a black background"
+        },
+        {
+            "id": "B6D1B29B-0588-4129-BD27-FA560CD7EB68",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 325,
+                "y": 915,
+                "width": 100,
+                "height": 100
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "08F182A0-BA58-4B04-8F90-F096D10B8CA0",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 343,
+                "y": 933,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a green circle with a black background"
+        },
+        {
+            "id": "047780D6-B7DD-4A81-8D02-914DB534DB76",
+            "name": "Green - Positive #13",
+            "rect": {
+                "x": 297,
+                "y": 1060,
+                "width": 157,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for green prairie is shown"
+        },
+        {
+            "id": "0A61CFF5-4F05-4322-9A30-712C5058E203",
+            "name": "Oval",
+            "rect": {
+                "x": 533,
+                "y": 890,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                0.2784313725490196,
+                0.2862745098039216,
+                1
+            ],
+            "label": 1,
+            "msg": "a red circle with a black background"
+        },
+        {
+            "id": "1E82CEAE-47CD-47A9-9AC4-2FB885070F7B",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 558,
+                "y": 915,
+                "width": 100,
+                "height": 100
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "BA6A186F-FAF7-4644-89F9-10A9FF22CB0B",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 576,
+                "y": 933,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a red circle with a black background"
+        },
+        {
+            "id": "88B69260-15BE-48B5-8DD6-C3BDF9252020",
+            "name": "Red - Negative #FF49",
+            "rect": {
+                "x": 535.5,
+                "y": 1060,
+                "width": 146,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a sign that says red negative"
+        },
+        {
+            "id": "D0BA8084-1B85-4EE1-8CDC-E1D1811D07A7",
+            "name": "Oval",
+            "rect": {
+                "x": 70,
+                "y": 1156,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                0.796078431372549,
+                0.2941176470588235,
+                1
+            ],
+            "label": 1,
+            "msg": "a yellow circle with a black background"
+        },
+        {
+            "id": "D2E63F23-0E3F-4205-A35A-C7252A27FBB8",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 95,
+                "y": 1181,
+                "width": 100,
+                "height": 100
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "F97777DF-D451-45E9-88B3-8EA22E9BCD34",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 113,
+                "y": 1199,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a yellow circle with a black background"
+        },
+        {
+            "id": "73F568F1-4A57-46D8-BA94-35BAFE3934A1",
+            "name": "Yellow - Warning #FF",
+            "rect": {
+                "x": 62.5,
+                "y": 1326,
+                "width": 166,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person with a white background"
+        },
+        {
+            "id": "C2260791-44DF-4B14-BD4A-B49A115A226D",
+            "name": "Oval",
+            "rect": {
+                "x": 70,
+                "y": 1547,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "color": [
+                0.2,
+                0.2,
+                0.2,
+                1
+            ],
+            "label": 1,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "5FC9EC2D-9CFC-4A3C-9F1B-50D00B8556F5",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 95,
+                "y": 1572,
+                "width": 100,
+                "height": 100
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "43C5B0E9-34AF-46A3-904F-92E560A5A2A4",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 113,
+                "y": 1590,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black circle with a white line through it"
+        },
+        {
+            "id": "0A5D30E6-ED1E-41A7-A326-1B27C7FC49DB",
+            "name": "黑色 0 #333333",
+            "rect": {
+                "x": 103.5,
+                "y": 1717,
+                "width": 84,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white picture of a number"
+        },
+        {
+            "id": "E145B15B-05DC-4DC0-8C27-4B9F0ABD845F",
+            "name": "Oval",
+            "rect": {
+                "x": 300,
+                "y": 1547,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "color": [
+                0.4980392156862745,
+                0.4980392156862745,
+                0.4980392156862745,
+                1
+            ],
+            "label": 1,
+            "msg": "a gray circle with a black background"
+        },
+        {
+            "id": "0324A80F-110E-4332-A431-A2F9A8B39285",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 325,
+                "y": 1572,
+                "width": 100,
+                "height": 100
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "33E945EC-F611-4DF2-B557-1E30C37123E2",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 343,
+                "y": 1590,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white circle with a white line through it"
+        },
+        {
+            "id": "DB4A87D3-F886-44A5-ACA2-4F3C618FD7FA",
+            "name": "黑色 1 #7F7F7F",
+            "rect": {
+                "x": 335.5,
+                "y": 1717,
+                "width": 80,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word 7f7f is written in chinese"
+        },
+        {
+            "id": "1C9A77F2-17F9-4A61-A657-3A02931AFBE9",
+            "name": "Oval",
+            "rect": {
+                "x": 530,
+                "y": 1547,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "color": [
+                0.6980392156862745,
+                0.6980392156862745,
+                0.6980392156862745,
+                1
+            ],
+            "label": 1,
+            "msg": "a grey circle with a black background"
+        },
+        {
+            "id": "8E7EA3A2-EFEB-412B-8D37-F40396C61D0F",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 555,
+                "y": 1572,
+                "width": 100,
+                "height": 100
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "D06C5802-C2A7-457F-AE02-2BC83A45A032",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 573,
+                "y": 1590,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white image of a circle"
+        },
+        {
+            "id": "84E460FC-A9B9-4EB6-A79D-CD2671E59695",
+            "name": "黑色 2 #B2B2B2",
+            "rect": {
+                "x": 560.5,
+                "y": 1717,
+                "width": 90,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white picture of a computer with the words b2b2b2b"
+        },
+        {
+            "id": "A272A98D-A02E-4CB5-ABE4-04FB52527597",
+            "name": "Oval",
+            "rect": {
+                "x": 70,
+                "y": 2736,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "color": [
+                0.7725490196078432,
+                0.8470588235294118,
+                0.9058823529411765,
+                1
+            ],
+            "label": 1,
+            "msg": "a light blue circle with a black background"
+        },
+        {
+            "id": "CDD16054-26E2-4D96-9E8A-83B150994CE5",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 95,
+                "y": 2761,
+                "width": 100,
+                "height": 100
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "453E123A-8998-4F24-A15A-08D8D51FC3FD",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 113,
+                "y": 2779,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a circle with a black background and white text"
+        },
+        {
+            "id": "7E428F38-D90D-4AEB-BD39-9B5FA455C341",
+            "name": "边框可选色 #C5D9E8",
+            "rect": {
+                "x": 95.5,
+                "y": 2906,
+                "width": 100,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white logo with the words'ccsdg9 '"
+        },
+        {
+            "id": "62C8A68A-1EF4-4AB9-8E51-D45F869E9496",
+            "name": "Oval",
+            "rect": {
+                "x": 300,
+                "y": 2736,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "color": [
+                0.9215686274509803,
+                0.9607843137254902,
+                0.9921568627450981,
+                1
+            ],
+            "label": 1,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "A26DE312-17F8-417D-90FC-56ED726B66AA",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 325,
+                "y": 2761,
+                "width": 100,
+                "height": 100
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "E0B8C658-20FD-40DF-AD6E-2573718CDAE0",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 343,
+                "y": 2779,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black circle with a white outline"
+        },
+        {
+            "id": "5E7FE0D1-5D6B-4D46-9F00-C1D16A151EA5",
+            "name": "背景色 0 #ECF5FD",
+            "rect": {
+                "x": 330.5,
+                "y": 2906,
+                "width": 90,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white picture with the words ecfsf in japanese"
+        },
+        {
+            "id": "B87ABEDF-8DFF-41C5-97D3-8484AE3F92A1",
+            "name": "Oval",
+            "rect": {
+                "x": 530,
+                "y": 2736,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "color": [
+                0.9803921568627451,
+                0.984313725490196,
+                0.9882352941176471,
+                1
+            ],
+            "label": 1,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "AF420FED-0A3B-4B58-BB62-4E2DE17B7FD8",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 555,
+                "y": 2761,
+                "width": 100,
+                "height": 100
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "675293B3-E695-4634-9AEC-80F2A22B11AD",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 573,
+                "y": 2779,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black circle with a white outline"
+        },
+        {
+            "id": "F4C4ED6F-69BE-4F8B-B3B7-C5AEE02E0A8A",
+            "name": "背景色 1 #FAFBFC",
+            "rect": {
+                "x": 561,
+                "y": 2906,
+                "width": 89,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the fafbfc is shown"
+        },
+        {
+            "id": "EA0601AF-B41D-429B-B529-8F41F0C22698",
+            "name": "Oval",
+            "rect": {
+                "x": 70,
+                "y": 1813,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "color": [
+                0.2,
+                0.2,
+                0.2,
+                1
+            ],
+            "label": 1,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "B0D97DCE-A6C3-43B3-96B0-D06FA581C2C3",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 95,
+                "y": 1838,
+                "width": 100,
+                "height": 100
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "B187A600-9A41-4C15-B080-2DBE28B96C6D",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 113,
+                "y": 1856,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black circle with a white line through it"
+        },
+        {
+            "id": "91EA27FB-808F-4B77-90D1-79CBCEC66C22",
+            "name": "灰色 0 #333333",
+            "rect": {
+                "x": 103.5,
+                "y": 1983,
+                "width": 84,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a chinese character"
+        },
+        {
+            "id": "1453F3D6-BA83-4799-84A0-BB1216188A46",
+            "name": "Oval",
+            "rect": {
+                "x": 300,
+                "y": 1813,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "color": [
+                0.4,
+                0.4,
+                0.4,
+                1
+            ],
+            "label": 1,
+            "msg": "a gray circle with a black background"
+        },
+        {
+            "id": "8486D5AC-12CA-45F8-87EB-850EF40C4CD1",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 325,
+                "y": 1838,
+                "width": 100,
+                "height": 100
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "F3323717-D4D3-4822-8323-528158EA6427",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 343,
+                "y": 1856,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white circle with a white line through it"
+        },
+        {
+            "id": "707A72B2-0E5E-4965-87A2-DF68DD6C6C98",
+            "name": "灰色 1 #666666",
+            "rect": {
+                "x": 333.5,
+                "y": 1983,
+                "width": 84,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the chinese characters for the word \"chinese\""
+        },
+        {
+            "id": "628B467D-B517-45D1-A35F-B8AD1732B5FD",
+            "name": "Oval",
+            "rect": {
+                "x": 530,
+                "y": 1813,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "color": [
+                0.4,
+                0.4,
+                0.4,
+                1
+            ],
+            "label": 1,
+            "msg": "a gray circle with a black background"
+        },
+        {
+            "id": "86AB084F-4066-4C59-AC47-64B7A7114959",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 555,
+                "y": 1838,
+                "width": 100,
+                "height": 100
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "29DB283A-0598-445F-9308-98541386DF6B",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 573,
+                "y": 1856,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white circle with a white line through it"
+        },
+        {
+            "id": "B1377145-A444-4CC8-88E7-F4F16FAE1D1B",
+            "name": "灰色 2 #999999",
+            "rect": {
+                "x": 563.5,
+                "y": 1983,
+                "width": 84,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white picture of a chinese character"
+        },
+        {
+            "id": "F96EBCB9-0274-43A8-8043-596ACF198A48",
+            "name": "Oval",
+            "rect": {
+                "x": 70,
+                "y": 2079,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "color": [
+                0.8,
+                0.8,
+                0.8,
+                1
+            ],
+            "label": 1,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "22979756-53C9-4F54-B502-5592C88D812F",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 95,
+                "y": 2104,
+                "width": 100,
+                "height": 100
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "4DFCA33C-3CD4-479F-8A96-0F1628DCD0C9",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 113,
+                "y": 2122,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white circle with a white line through it"
+        },
+        {
+            "id": "C21D25C4-F3B7-468E-A930-059098F7876C",
+            "name": "灰色 3 #CCCCCC",
+            "rect": {
+                "x": 95.5,
+                "y": 2249,
+                "width": 100,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white picture of a computer with the words cccccccccccccc"
+        },
+        {
+            "id": "5FDC9CE0-E3AF-42A1-878E-44DCB743A24F",
+            "name": "Oval",
+            "rect": {
+                "x": 300,
+                "y": 2079,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "color": [
+                0.8980392156862745,
+                0.8980392156862745,
+                0.8980392156862745,
+                1
+            ],
+            "label": 1,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "010FD007-08D4-490D-A46C-1ED952E477B3",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 325,
+                "y": 2104,
+                "width": 100,
+                "height": 100
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "47B6714E-2998-4712-96B3-6FAE7A8BEDB8",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 343,
+                "y": 2122,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white circle with a white line through it"
+        },
+        {
+            "id": "E24890F9-C249-4848-8621-E2BB644F7B47",
+            "name": "灰色 4 #E5E5E5",
+            "rect": {
+                "x": 332,
+                "y": 2249,
+                "width": 87,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white picture of a sign that says e5s"
+        },
+        {
+            "id": "E2899AB1-2190-482D-A456-5915B5571BE4",
+            "name": "Oval",
+            "rect": {
+                "x": 530,
+                "y": 2079,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "color": [
+                0.9411764705882353,
+                0.9411764705882353,
+                0.9411764705882353,
+                1
+            ],
+            "label": 1,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "B8F837C1-AEF5-4EF6-AD2D-C155C128AA48",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 555,
+                "y": 2104,
+                "width": 100,
+                "height": 100
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "9D0B8FCA-CF61-40BB-88FC-C0B7917908DD",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 573,
+                "y": 2122,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white circle with a white line through it"
+        },
+        {
+            "id": "CFB905CF-9281-47FC-AC0F-BF3954D89381",
+            "name": "灰色 5 #F0F0F0",
+            "rect": {
+                "x": 564,
+                "y": 2249,
+                "width": 83,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word fofo is written in chinese"
+        },
+        {
+            "id": "7C2F6050-85F4-43C8-B972-0E87008441B7",
+            "name": "Oval",
+            "rect": {
+                "x": 71,
+                "y": 2345,
+                "width": 150,
+                "height": 150
+            },
+            "_class": "oval",
+            "color": [
+                0.9411764705882353,
+                0.9411764705882353,
+                0.9411764705882353,
+                1
+            ],
+            "label": 1,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "7081DB70-600A-4C3C-AA5C-E89E9D6309C4",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 96,
+                "y": 2370,
+                "width": 100,
+                "height": 100
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "20D2BFDC-36DA-4DD8-A044-D09B432F9B97",
+            "name": "Oval Copy 2",
+            "rect": {
+                "x": 114,
+                "y": 2388,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white circle with a white line through it"
+        },
+        {
+            "id": "8E5BF74E-5242-4A60-A200-B54E113DC38A",
+            "name": "灰色 6 #F7F7F7",
+            "rect": {
+                "x": 106.5,
+                "y": 2515,
+                "width": 80,
+                "height": 56
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white picture of a chinese character"
+        }
+    ],
+    "width": 750,
+    "height": 3501,
+    "layer_width": 64,
+    "layer_height": 64
+}

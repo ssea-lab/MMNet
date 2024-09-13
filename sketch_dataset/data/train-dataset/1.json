@@ -1,0 +1,1091 @@
+{
+    "layers": [
+        {
+            "id": "7D0BBF5A-59E9-4118-97A2-5142F77D13F1",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5637727975845337,
+                0.07292387634515762,
+                0.9950678944587708,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "4CF9D755-AE4D-4672-A00F-5F3E67F6A34F",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 782,
+                "width": 375,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "E6B34419-B7C8-410F-9C58-E4236D3BBB6D",
+            "name": "line",
+            "rect": {
+                "x": 133,
+                "y": 795,
+                "width": 110,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1071216743409998,
+                0.1878404916072689,
+                0.2454028486394558,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white square"
+        },
+        {
+            "id": "F884D563-C53D-427E-97F4-1CDDAB20F8B5",
+            "name": "Background",
+            "rect": {
+                "x": 0,
+                "y": 521,
+                "width": 375,
+                "height": 291
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8235294117647058,
+                0.8352941176470589,
+                0.8588235294117647,
+                0.9
+            ],
+            "label": 0,
+            "msg": "a white and black cat is sitting on a white surface"
+        },
+        {
+            "id": "B6BD0256-FEDF-4D7E-8FD9-3F6F30AD6908",
+            "name": "iPhone X/Home Indicator/Home Indicator - On Light",
+            "rect": {
+                "x": 121,
+                "y": 798,
+                "width": 134,
+                "height": 5
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "734D1FAB-B392-4F42-892A-4E61B98743D4",
+            "name": "Shape_1_copy_2",
+            "rect": {
+                "x": 303.2669322102429,
+                "y": 702.3846153846152,
+                "width": 19.8485191689864,
+                "height": 16.615384615384528
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black and white image of a square with an x in it"
+        },
+        {
+            "id": "693CB8CA-C212-45B4-8D41-F104015A2B92",
+            "name": "Shape_1_copy_2",
+            "rect": {
+                "x": 301.88231682562764,
+                "y": 701,
+                "width": 22.61768317437179,
+                "height": 18
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a square with an x in it"
+        },
+        {
+            "id": "49A38611-4082-4B6F-A2A9-B96F2745C0F6",
+            "name": "Shape_1_copy_2-2-path",
+            "rect": {
+                "x": 311.94061538461483,
+                "y": 706.4599999999998,
+                "width": 7.06430769230758,
+                "height": 7.0661538461538385
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a square with an x in it"
+        },
+        {
+            "id": "66B80ECD-EFAA-4068-AAF8-0B4B1906B0E3",
+            "name": "Shape_1_copy_2-2-path",
+            "rect": {
+                "x": 317.97913454206355,
+                "y": 706.2809230764196,
+                "width": 1.1922089577415136,
+                "height": 1.1935384625451206
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a square with an x in it"
+        },
+        {
+            "id": "E2328B66-D00E-4805-AD25-6395DCF7D8B9",
+            "name": "Shape_1_copy_2-2-path",
+            "rect": {
+                "x": 311.7612883882174,
+                "y": 712.4932307687272,
+                "width": 1.1922089577415136,
+                "height": 1.1935384625451206
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a square with an x in it"
+        },
+        {
+            "id": "FCDBF9E4-C26E-4744-8C62-F65F05FC1CF9",
+            "name": "Shape_1_copy_2-2-path",
+            "rect": {
+                "x": 311.93230769230706,
+                "y": 706.4646153846152,
+                "width": 7.070769230769201,
+                "height": 7.056923076923113
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a square with an x in it"
+        },
+        {
+            "id": "1E70A14A-54A3-4B1C-9FE3-4EEF14ACD061",
+            "name": "Shape_1_copy_2-2-path",
+            "rect": {
+                "x": 317.99046153511256,
+                "y": 712.4957161158557,
+                "width": 1.1907692374657017,
+                "height": 1.1921293338236865
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a square with an x in it"
+        },
+        {
+            "id": "88D94A2D-4965-4D96-87E7-D91DB2452E5D",
+            "name": "Shape_1_copy_2-2-path",
+            "rect": {
+                "x": 311.7726153812664,
+                "y": 706.283408423548,
+                "width": 1.1907692374657017,
+                "height": 1.1921293338236865
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a square with an x in it"
+        },
+        {
+            "id": "F4FDD862-31CC-4AAF-ACF8-DC11C54CE5BB",
+            "name": "Key Background",
+            "rect": {
+                "x": 129,
+                "y": 688,
+                "width": 117,
+                "height": 47
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "EB2D3818-DA05-49BD-B97D-4C0843014F84",
+            "name": "#",
+            "rect": {
+                "x": 129,
+                "y": 696,
+                "width": 117,
+                "height": 30
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person in a circle"
+        },
+        {
+            "id": "C7E86BFF-52CE-4670-B8C0-F1328D4AF852",
+            "name": "Key Background",
+            "rect": {
+                "x": 252,
+                "y": 634,
+                "width": 117,
+                "height": 48
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "4CB44D77-5D64-4C66-A85A-2B1D6700B6B5",
+            "name": "ABC",
+            "rect": {
+                "x": 252,
+                "y": 664,
+                "width": 117,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the black background shows a black background with a white text"
+        },
+        {
+            "id": "78409C06-A429-4D37-8ED9-307D02071B72",
+            "name": "#",
+            "rect": {
+                "x": 252,
+                "y": 635.5,
+                "width": 117,
+                "height": 30
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 9 is shown in black on a black background"
+        },
+        {
+            "id": "D7D370E3-A59F-4AF2-B2B0-36200BB0A5F2",
+            "name": "Key Background",
+            "rect": {
+                "x": 129,
+                "y": 634,
+                "width": 117,
+                "height": 48
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "956C80E2-0ACE-49AC-915E-6DC1A7E506D5",
+            "name": "ABC",
+            "rect": {
+                "x": 129,
+                "y": 664,
+                "width": 117,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word vu is written in black on a black background"
+        },
+        {
+            "id": "E58DE954-EB7F-4F50-86BA-95B4C959FB33",
+            "name": "#",
+            "rect": {
+                "x": 129,
+                "y": 635.5,
+                "width": 117,
+                "height": 30
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 8 is shown in black on a black background"
+        },
+        {
+            "id": "D600C878-E14F-4614-BCC4-5F9CE847A23D",
+            "name": "Rectangle",
+            "rect": {
+                "x": 6,
+                "y": 634,
+                "width": 117,
+                "height": 48
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "754047A7-2798-48E6-8875-5E3517BBE462",
+            "name": "ABC",
+            "rect": {
+                "x": 6,
+                "y": 664,
+                "width": 117,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word \"pros\" is written in black on a black background"
+        },
+        {
+            "id": "F67ED0FA-0249-4E78-B59F-22AC4F065628",
+            "name": "#",
+            "rect": {
+                "x": 6,
+                "y": 635.5,
+                "width": 117,
+                "height": 30
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white text that says \"the z\""
+        },
+        {
+            "id": "886A39B2-4DDF-4625-8036-C3B038027024",
+            "name": "Key Background",
+            "rect": {
+                "x": 252,
+                "y": 580,
+                "width": 117,
+                "height": 48
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "E15530E8-092C-45D7-9AFC-911A3F293C02",
+            "name": "ABC",
+            "rect": {
+                "x": 252,
+                "y": 610,
+                "width": 117,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word \"nomo\" is written in black on a black background"
+        },
+        {
+            "id": "3ADD0BD4-2F5C-47CB-9B7E-955D40DAEF7C",
+            "name": "#",
+            "rect": {
+                "x": 252,
+                "y": 581.5,
+                "width": 117,
+                "height": 30
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 6 is shown in black on a black background"
+        },
+        {
+            "id": "6D0B39C8-914C-4A8E-823D-64A06EF235CB",
+            "name": "Key Background",
+            "rect": {
+                "x": 129,
+                "y": 580,
+                "width": 117,
+                "height": 48
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "6B5F1853-760A-4A79-974F-78E7CB2CC3D6",
+            "name": "ABC",
+            "rect": {
+                "x": 129,
+                "y": 610,
+                "width": 117,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for jklm is shown on a black background"
+        },
+        {
+            "id": "42A80EE2-4432-4F6A-9F0F-951015848F8C",
+            "name": "#",
+            "rect": {
+                "x": 129,
+                "y": 581.5,
+                "width": 117,
+                "height": 30
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 5 is shown in black on a black background"
+        },
+        {
+            "id": "D84A3D58-6C8B-426F-96C1-B5FF41A9DA8A",
+            "name": "Key Background",
+            "rect": {
+                "x": 6,
+                "y": 580,
+                "width": 117,
+                "height": 48
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "DC8F6A44-B031-4F73-AA00-5BB369AD72C2",
+            "name": "ABC",
+            "rect": {
+                "x": 6,
+                "y": 610,
+                "width": 117,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for highland is shown on a black background"
+        },
+        {
+            "id": "EE4F5810-BFD3-46DD-8689-E287B5C4B91C",
+            "name": "#",
+            "rect": {
+                "x": 6,
+                "y": 581.5,
+                "width": 117,
+                "height": 30
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a number four"
+        },
+        {
+            "id": "408B297C-0202-406C-B6EF-EF6658828DA6",
+            "name": "Key Background",
+            "rect": {
+                "x": 252,
+                "y": 527,
+                "width": 117,
+                "height": 47
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "292A6A86-A564-4CD4-8F45-5EF756E177BC",
+            "name": "ABC",
+            "rect": {
+                "x": 252,
+                "y": 556,
+                "width": 117,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word def is written in black on a black background"
+        },
+        {
+            "id": "E0EF35FC-B7D6-4FED-959F-9C6BC5E68A6C",
+            "name": "#",
+            "rect": {
+                "x": 252,
+                "y": 528,
+                "width": 117,
+                "height": 30
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 3 is shown in black on a black background"
+        },
+        {
+            "id": "6F1C3BF2-815E-46C1-B6C5-090822C399C6",
+            "name": "Key Background",
+            "rect": {
+                "x": 129,
+                "y": 527,
+                "width": 117,
+                "height": 47
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "D2F0967D-5A0E-44FC-B475-DAAF584B6C97",
+            "name": "ABC",
+            "rect": {
+                "x": 129,
+                "y": 556,
+                "width": 117,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word abc is written in black on a black background"
+        },
+        {
+            "id": "328FE2E4-A4F5-4083-8832-C5FD92F0EE73",
+            "name": "#",
+            "rect": {
+                "x": 129,
+                "y": 528,
+                "width": 117,
+                "height": 30
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 2 is shown in black on a black background"
+        },
+        {
+            "id": "DD331AAC-5F48-4899-9EC7-315E0CDF1E44",
+            "name": "Key Background",
+            "rect": {
+                "x": 6,
+                "y": 527,
+                "width": 117,
+                "height": 47
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "3C1B8294-E8BF-4CE2-99DE-505EAF2C77D4",
+            "name": "#",
+            "rect": {
+                "x": 6,
+                "y": 528,
+                "width": 117,
+                "height": 30
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white background"
+        },
+        {
+            "id": "34DD4C05-7B31-4AFE-8703-36A502F51DCB",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 782,
+                "width": 375,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8392156862745098,
+                0.8509803921568627,
+                0.8705882352941177,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and black cat is sitting on a white surface"
+        },
+        {
+            "id": "F41F06DC-641C-4812-BD3F-7BF406818585",
+            "name": "line",
+            "rect": {
+                "x": 133,
+                "y": 795,
+                "width": 110,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1071216743409998,
+                0.1878404916072689,
+                0.2454028486394558,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white square"
+        },
+        {
+            "id": "3FF9E743-E175-4D7F-A68C-B4212750E1D4",
+            "name": "Dictation-path",
+            "rect": {
+                "x": 329.99998879621717,
+                "y": 773.1666666666665,
+                "width": 14.99701120378461,
+                "height": 13.833333333333258
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a microphone icon on a black background"
+        },
+        {
+            "id": "BD882A17-2097-48A6-A192-64017E303512",
+            "name": "Dictation-path",
+            "rect": {
+                "x": 330.0000000000016,
+                "y": 772.333333333333,
+                "width": 1.6666666666666288,
+                "height": 1.6666666666667425
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a microphone icon on a black background"
+        },
+        {
+            "id": "19CD3EC6-D010-44E7-AC8C-D182F088AE23",
+            "name": "Dictation-path",
+            "rect": {
+                "x": 343.33333333333496,
+                "y": 772.333333333333,
+                "width": 1.6666666666666288,
+                "height": 1.6666666666667425
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a microphone icon on a black background"
+        },
+        {
+            "id": "9DDF733E-834F-46E1-8DC8-7061C4B37E83",
+            "name": "Dictation-path",
+            "rect": {
+                "x": 332.66666666666833,
+                "y": 785.333333333333,
+                "width": 1.6666666666666288,
+                "height": 1.6666666666667425
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a microphone icon on a black background"
+        },
+        {
+            "id": "C4BD4278-7EFB-4A54-839D-7E716CE025B8",
+            "name": "Dictation-path",
+            "rect": {
+                "x": 340.66666666666833,
+                "y": 785.333333333333,
+                "width": 1.6666666666666288,
+                "height": 1.6666666666667425
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a microphone icon on a black background"
+        },
+        {
+            "id": "64EE4A2B-F1A7-4263-963D-2EEDC96348DD",
+            "name": "Dictation-path",
+            "rect": {
+                "x": 332.99987540011705,
+                "y": 762.0026045680443,
+                "width": 9.007457933218006,
+                "height": 17.994017937966873
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a microphone icon on a black background"
+        },
+        {
+            "id": "8B2AC523-6E58-4001-8F20-2406C64429B1",
+            "name": "Dictation-path",
+            "rect": {
+                "x": 334.666133333335,
+                "y": 763.669993195696,
+                "width": 5.673438185255236,
+                "height": 14.666680275274075
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a microphone icon on a black background"
+        },
+        {
+            "id": "128AE42A-3959-427A-802C-D1818FC73FC0",
+            "name": "Skip",
+            "rect": {
+                "x": 314,
+                "y": 52,
+                "width": 35,
+                "height": 23
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for skip the dishes"
+        },
+        {
+            "id": "8269FC1A-9AFC-429A-B0F8-A081E7D58845",
+            "name": "To continue, Enter y",
+            "rect": {
+                "x": 25,
+                "y": 112,
+                "width": 335,
+                "height": 150
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a text that says to continue, enter your phone number"
+        },
+        {
+            "id": "C734246A-E445-4344-A7DC-5A1DFDA02FE9",
+            "name": "iPhone X/Status Bars/Status Bar (White)",
+            "rect": {
+                "x": 21.5,
+                "y": 16.5,
+                "width": 339.3280380056083,
+                "height": 17
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "3BBF9DCC-BD35-44FC-AFCC-459633AFF0EE",
+            "name": "+1",
+            "rect": {
+                "x": 25,
+                "y": 327,
+                "width": 22,
+                "height": 23
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a plus sign"
+        },
+        {
+            "id": "45D7F7E2-B30B-450E-982A-6CB4D92DD4A6",
+            "name": "Triangle",
+            "rect": {
+                "x": 51,
+                "y": 337,
+                "width": 6,
+                "height": 6
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1058823529411765,
+                0.188235294117647,
+                0.2470588235294118,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white image of a person"
+        },
+        {
+            "id": "5A451570-EACE-4B32-B7B7-CC0E56758FF3",
+            "name": "Shape",
+            "rect": {
+                "x": 25,
+                "y": 64,
+                "width": 16,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black background with a white text"
+        },
+        {
+            "id": "C9949764-C1C6-4A19-86B7-D8EEBBDA8251",
+            "name": "Shape",
+            "rect": {
+                "x": 23.585786437626894,
+                "y": 58.29289321881356,
+                "width": 8.12132034355966,
+                "height": 13.414213562372879
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a dark blue arrow pointing to the left"
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

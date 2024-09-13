@@ -1,0 +1,1414 @@
+{
+    "layers": [
+        {
+            "id": "8A05E5F6-420A-4F6E-B949-CB4A510BA3FC",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "BCAFEE29-8EEE-42D2-BAC8-8871E45AB0D5",
+            "name": "line",
+            "rect": {
+                "x": 0,
+                "y": 168,
+                "width": 375,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "7052E536-078B-4C8D-AF7C-C5B96F033547",
+            "name": "line",
+            "rect": {
+                "x": 125,
+                "y": 167,
+                "width": 125,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "86F27200-0F8B-4FB2-84C3-158E3C1C590E",
+            "name": "Man",
+            "rect": {
+                "x": 31,
+                "y": 132,
+                "width": 64,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the man logo in black and white"
+        },
+        {
+            "id": "818A533F-B3EC-4E79-A984-BA05183EE99F",
+            "name": "Kids",
+            "rect": {
+                "x": 281,
+                "y": 132,
+                "width": 64,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "kids' clothing store in the heart of the city"
+        },
+        {
+            "id": "33F1D3FE-C911-4DB2-A2BE-D74F2DF9EBCF",
+            "name": "Woman",
+            "rect": {
+                "x": 149,
+                "y": 132,
+                "width": 77,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word woman is written in black letters on a black background"
+        },
+        {
+            "id": "2D6BB8C9-AD6E-43FD-B945-9F425253201A",
+            "name": "img",
+            "rect": {
+                "x": 16,
+                "y": 185,
+                "width": 164,
+                "height": 200
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a woman with a ponytail and a braid"
+        },
+        {
+            "id": "F335B5B4-2F30-48F1-8889-E84F5F878747",
+            "name": "Dress",
+            "rect": {
+                "x": 33,
+                "y": 265,
+                "width": 130.1020408163265,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word dress is in white letters on a black background"
+        },
+        {
+            "id": "979D0380-A0D6-42AC-ACCB-1B055ED962D9",
+            "name": "113 items",
+            "rect": {
+                "x": 67,
+                "y": 290,
+                "width": 63.411078717201235,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the website for the company"
+        },
+        {
+            "id": "517DBDB0-6983-4A46-AA1B-92C1612E8CC8",
+            "name": "img",
+            "rect": {
+                "x": 16,
+                "y": 401,
+                "width": 164,
+                "height": 200
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a woman wearing a t - shirt with the words \"smokey loves\""
+        },
+        {
+            "id": "F27D59E6-22CA-4D98-89BF-EAA5B6E646AD",
+            "name": "Jeans",
+            "rect": {
+                "x": 33,
+                "y": 481,
+                "width": 130.1020408163265,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word jeans is written in white letters on a black background"
+        },
+        {
+            "id": "DC9B0B40-7236-452D-B2CC-B4ADCD64E8D0",
+            "name": "113 items",
+            "rect": {
+                "x": 67,
+                "y": 506,
+                "width": 63.411078717201235,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the website for the company"
+        },
+        {
+            "id": "5997025F-4B8D-45D0-9996-E081485266BA",
+            "name": "img",
+            "rect": {
+                "x": 16,
+                "y": 617,
+                "width": 164,
+                "height": 200
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the back view of a woman wearing a black lace bodysuit"
+        },
+        {
+            "id": "AEB568F0-E0CE-43F7-A13A-8DC074DE925C",
+            "name": "Dress",
+            "rect": {
+                "x": 33,
+                "y": 697,
+                "width": 130.1020408163265,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word dress is in white letters on a black background"
+        },
+        {
+            "id": "D4BAEB87-54D0-4D50-91DA-F877E5A8137C",
+            "name": "113 items",
+            "rect": {
+                "x": 67,
+                "y": 722,
+                "width": 63.411078717201235,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the website for the company"
+        },
+        {
+            "id": "F1EB577A-E70A-4A4D-81EF-CA2D74CF630F",
+            "name": "img",
+            "rect": {
+                "x": 195,
+                "y": 185,
+                "width": 164,
+                "height": 200
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a woman with colorful hair and a black choker"
+        },
+        {
+            "id": "6A9C6829-1F2E-4A58-864A-5E6065F29B14",
+            "name": "T-Shirt",
+            "rect": {
+                "x": 212,
+                "y": 265,
+                "width": 130.1020408163265,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the t-shirt logo is shown in white"
+        },
+        {
+            "id": "7420B854-E5F1-4239-9A1A-3F9FF0EBA88D",
+            "name": "113 items",
+            "rect": {
+                "x": 246,
+                "y": 290,
+                "width": 63.411078717201235,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in white"
+        },
+        {
+            "id": "F00E54A6-0F37-4BCB-A95B-3FBAD0886EC4",
+            "name": "img",
+            "rect": {
+                "x": 195,
+                "y": 401,
+                "width": 164,
+                "height": 200
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the back of a woman wearing a denim dress"
+        },
+        {
+            "id": "C95F38EA-3209-4698-B50A-EC0D83E1535D",
+            "name": "Bodysuit",
+            "rect": {
+                "x": 212,
+                "y": 481,
+                "width": 130.1020408163265,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the body suit logo is shown in white"
+        },
+        {
+            "id": "2E50D27C-42BF-4083-BE6D-AC756D79583B",
+            "name": "113 items",
+            "rect": {
+                "x": 246,
+                "y": 506,
+                "width": 63.411078717201235,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the website for the company"
+        },
+        {
+            "id": "B5BBBDED-85FB-423D-903B-C09CBF6E65CE",
+            "name": "img",
+            "rect": {
+                "x": 195,
+                "y": 617,
+                "width": 164,
+                "height": 200
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the model is wearing ripped jeans and a yellow sweater"
+        },
+        {
+            "id": "F0A9FCFA-9CEF-4725-840F-2011E0F45E32",
+            "name": "Dress",
+            "rect": {
+                "x": 212,
+                "y": 697,
+                "width": 130.1020408163265,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word dress is in white letters on a black background"
+        },
+        {
+            "id": "545EE9E5-0C2D-4723-8893-BE55DD50C09D",
+            "name": "113 items",
+            "rect": {
+                "x": 246,
+                "y": 722,
+                "width": 63.411078717201235,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the website for the company"
+        },
+        {
+            "id": "3109F30C-0C6E-477C-A3C2-2C6BB317A16E",
+            "name": "Bar",
+            "rect": {
+                "x": 0,
+                "y": 733,
+                "width": 375,
+                "height": 49
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "03F1416F-D441-4DE7-BAE5-ED6A3E7C6880",
+            "name": "Path",
+            "rect": {
+                "x": 317,
+                "y": 747.1078673469387,
+                "width": 21.892132653061253,
+                "height": 21.892132653061253
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "the logo for the company is shown in a circle"
+        },
+        {
+            "id": "CF4C60DF-3189-4C2E-AD4C-9CDE63E048FE",
+            "name": "Path",
+            "rect": {
+                "x": 321.5751020408163,
+                "y": 751.5557443002131,
+                "width": 12.746586734693892,
+                "height": 16.35340365897082
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "the logo for the company is shown in a circle"
+        },
+        {
+            "id": "AEF220A6-7489-424B-9E23-30A11425B072",
+            "name": "Path",
+            "rect": {
+                "x": 318.1001122448979,
+                "y": 748.2079795918366,
+                "width": 19.692132653061208,
+                "height": 16.567290816326476
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "the logo for the company is shown in a circle"
+        },
+        {
+            "id": "4B4526FB-ED01-4A64-B7EB-9C2595BE810E",
+            "name": "Path",
+            "rect": {
+                "x": 129,
+                "y": 746,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "BDD0492F-DFA9-406E-87AA-83DE155981ED",
+            "name": "Path",
+            "rect": {
+                "x": 137.20669427547523,
+                "y": 752.0775121404558,
+                "width": 5.100269547346443,
+                "height": 1.583738015191102
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "1E71C40E-80B0-4DEA-9898-EF98C0E0DA77",
+            "name": "Path",
+            "rect": {
+                "x": 130.0410724059941,
+                "y": 751.3177686464949,
+                "width": 19.515289840853484,
+                "height": 15.539845598306556
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "72178E10-4F52-4ADE-9503-C9894F0E104F",
+            "name": "Path",
+            "rect": {
+                "x": 136.12212250462153,
+                "y": 753.4141451873988,
+                "width": 15.836867054291588,
+                "height": 15.539845598306556
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "1952252A-C192-4B18-8DF8-6DF3110FD0E9",
+            "name": "Path",
+            "rect": {
+                "x": 228.25,
+                "y": 753.0004687353521,
+                "width": 12.5,
+                "height": 9.999687509765408
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a gray and white image of a computer monitor"
+        },
+        {
+            "id": "7D7EB7D8-D895-4B19-9DFA-E9F300D9AC09",
+            "name": "Path",
+            "rect": {
+                "x": 228.25,
+                "y": 764.250117183838,
+                "width": 12.5,
+                "height": 2.4999218774412384
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a gray and white image of a computer monitor"
+        },
+        {
+            "id": "B7F7195F-A2C7-4E24-B9A3-048AD86338D2",
+            "name": "Path",
+            "rect": {
+                "x": 232,
+                "y": 749.2505859191901,
+                "width": 5,
+                "height": 2.499296896972055
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a gray and white image of a computer monitor"
+        },
+        {
+            "id": "6C1C6E64-AFC1-4D3C-99A5-9DDC46784D57",
+            "name": "Path",
+            "rect": {
+                "x": 227,
+                "y": 748,
+                "width": 15,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a gray and white image of a computer monitor"
+        },
+        {
+            "id": "28239A0F-BA4A-4784-9230-11D98A11BA0E",
+            "name": "Path",
+            "rect": {
+                "x": 36,
+                "y": 748,
+                "width": 22,
+                "height": 19.208418471597952
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a grey and white icon of a building"
+        },
+        {
+            "id": "8856C563-6909-4207-94CC-48ACDF460479",
+            "name": "Path",
+            "rect": {
+                "x": 37.56897221087047,
+                "y": 749.0834235798939,
+                "width": 18.86228034327746,
+                "height": 4.4996832856559195
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a grey and white icon of a building"
+        },
+        {
+            "id": "B6889599-8789-45A3-A34E-FA33B77D9EB2",
+            "name": "Path",
+            "rect": {
+                "x": 47.57539844707799,
+                "y": 754.6575398447078,
+                "width": 4.081788925214596,
+                "height": 1.7081579485084148
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a grey and white icon of a building"
+        },
+        {
+            "id": "6FD947CC-5CDE-4085-A2E9-A9AAC9F6F789",
+            "name": "Path",
+            "rect": {
+                "x": 42.34281262770742,
+                "y": 754.6575398447078,
+                "width": 4.086396608091491,
+                "height": 1.7081579485084148
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a grey and white icon of a building"
+        },
+        {
+            "id": "D93AB57B-A84D-4BDF-95A5-C5B158ED06C5",
+            "name": "Path",
+            "rect": {
+                "x": 37.11483449121374,
+                "y": 754.6575398447078,
+                "width": 4.086171843073089,
+                "height": 1.7081793004228985
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a grey and white icon of a building"
+        },
+        {
+            "id": "19698B21-95B1-496F-A610-1AC985E7B740",
+            "name": "Path",
+            "rect": {
+                "x": 41.960655905189924,
+                "y": 759.5393798528812,
+                "width": 3.10630874540243,
+                "height": 6.590222721700002
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a grey and white icon of a building"
+        },
+        {
+            "id": "30656982-D446-4AEC-BF27-8D8DDB827206",
+            "name": "Path",
+            "rect": {
+                "x": 38.966954434000854,
+                "y": 756.0555220678382,
+                "width": 16.0617082141398,
+                "height": 10.078463424601523
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a grey and white icon of a building"
+        },
+        {
+            "id": "CE968C36-0F56-4181-A8E6-A10F5668D670",
+            "name": "Path",
+            "rect": {
+                "x": 52.80337658357166,
+                "y": 754.6619789538211,
+                "width": 4.086396608091491,
+                "height": 1.708326522272273
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a grey and white icon of a building"
+        },
+        {
+            "id": "256D0A5C-B4AF-4F5D-9F70-A2CAC1DDBF87",
+            "name": "Path",
+            "rect": {
+                "x": 317,
+                "y": 747.1078673469387,
+                "width": 21.892132653061253,
+                "height": 21.892132653061253
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "3DACFB5A-BD60-4B40-A1BA-F4C0D6933FAA",
+            "name": "Path",
+            "rect": {
+                "x": 321.5751020408163,
+                "y": 751.5557443002131,
+                "width": 12.746586734693892,
+                "height": 16.35340365897082
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "CCA17CC9-7A5C-42D5-A196-9C15AE96A562",
+            "name": "Path",
+            "rect": {
+                "x": 318.1001122448979,
+                "y": 748.2079795918366,
+                "width": 19.692132653061208,
+                "height": 16.567290816326476
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "4F6702AF-8ABE-42F9-ABA9-960E0851AF90",
+            "name": "Path",
+            "rect": {
+                "x": 129,
+                "y": 746,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black and white image of a shirt"
+        },
+        {
+            "id": "6A24A0E2-0716-4FEF-8904-22387491E1B4",
+            "name": "Path",
+            "rect": {
+                "x": 137.20669427547523,
+                "y": 752.0775121404558,
+                "width": 5.100269547346443,
+                "height": 1.583738015191102
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a shirt"
+        },
+        {
+            "id": "47BF2431-B0E2-4FA7-BADD-1660B72DBECC",
+            "name": "Path",
+            "rect": {
+                "x": 130.0410724059941,
+                "y": 751.3177686464949,
+                "width": 19.515289840853484,
+                "height": 15.539845598306556
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a shirt"
+        },
+        {
+            "id": "6D76A3CA-08DD-4E42-8D62-4E2B6209C646",
+            "name": "Path",
+            "rect": {
+                "x": 136.12212250462153,
+                "y": 753.4141451873988,
+                "width": 15.836867054291588,
+                "height": 15.539845598306556
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a shirt"
+        },
+        {
+            "id": "B8DBD804-9E6A-495A-9AAE-BCA6FCF39AB9",
+            "name": "Path",
+            "rect": {
+                "x": 228.25,
+                "y": 753.0004687353521,
+                "width": 12.5,
+                "height": 9.999687509765408
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "AC0CBAE1-A41A-406E-88FC-D9E80134039C",
+            "name": "Path",
+            "rect": {
+                "x": 228.25,
+                "y": 764.250117183838,
+                "width": 12.5,
+                "height": 2.4999218774412384
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "136012BC-3640-46EE-BEDD-4B7F7364F597",
+            "name": "Path",
+            "rect": {
+                "x": 232,
+                "y": 749.2505859191901,
+                "width": 5,
+                "height": 2.499296896972055
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "89230F24-5284-4BFA-960E-782C7ED47DD4",
+            "name": "Path",
+            "rect": {
+                "x": 227,
+                "y": 748,
+                "width": 15,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "F49C00EF-206A-42D2-9543-EF4963C376C9",
+            "name": "Path",
+            "rect": {
+                "x": 36,
+                "y": 748,
+                "width": 22,
+                "height": 19.208418471597952
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "5FB18159-BE7C-4941-9A96-CB0589701787",
+            "name": "Path",
+            "rect": {
+                "x": 37.56897221087047,
+                "y": 749.0834235798939,
+                "width": 18.86228034327746,
+                "height": 4.4996832856559195
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "461F2FF2-CCF3-4CFD-8958-2E0B5722E6D7",
+            "name": "Path",
+            "rect": {
+                "x": 47.57539844707799,
+                "y": 754.6575398447078,
+                "width": 4.081788925214596,
+                "height": 1.7081579485084148
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "6D9C07F7-6E7F-4264-8B29-697DD58F3798",
+            "name": "Path",
+            "rect": {
+                "x": 42.34281262770742,
+                "y": 754.6575398447078,
+                "width": 4.086396608091491,
+                "height": 1.7081579485084148
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "8162C2FB-816D-4E37-A9DA-201A4BE87BED",
+            "name": "Path",
+            "rect": {
+                "x": 37.11483449121374,
+                "y": 754.6575398447078,
+                "width": 4.086171843073089,
+                "height": 1.7081793004228985
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "E56560F2-5799-4F25-AD9C-5263C6294BC3",
+            "name": "Path",
+            "rect": {
+                "x": 41.960655905189924,
+                "y": 759.5393798528812,
+                "width": 3.10630874540243,
+                "height": 6.590222721700002
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "000FB22E-2A5E-4DFC-9EC4-494EE381F695",
+            "name": "Path",
+            "rect": {
+                "x": 38.966954434000854,
+                "y": 756.0555220678382,
+                "width": 16.0617082141398,
+                "height": 10.078463424601523
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "DDAE3072-C568-4E97-A81D-E97ED8AD1DE3",
+            "name": "Path",
+            "rect": {
+                "x": 52.80337658357166,
+                "y": 754.6619789538211,
+                "width": 4.086396608091491,
+                "height": 1.708326522272273
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "DBB5E330-1296-491C-90F0-B13C204148F4",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 782,
+                "width": 375,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "B684B586-E6F6-427C-907B-70AD381116F5",
+            "name": "line",
+            "rect": {
+                "x": 133,
+                "y": 795,
+                "width": 110,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white square"
+        },
+        {
+            "id": "342F5049-C901-4AC1-9904-C3FC3CF52E7A",
+            "name": "Background",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 116
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                0.8200000000000001
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "E45E67CA-B69A-4E2E-8D3A-396F24D8D2E9",
+            "name": "stt",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 27
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9725490196078431,
+                0.9725490196078431,
+                0.9725490196078431,
+                0.8200000000000001
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "A8F9C2DE-0356-4145-82F4-ED2A54E8349A",
+            "name": "Categories",
+            "rect": {
+                "x": 16,
+                "y": 71,
+                "width": 343,
+                "height": 38
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for categories"
+        },
+        {
+            "id": "C7F23BE2-8134-4319-A247-E3D1408F9200",
+            "name": "base nav",
+            "rect": {
+                "x": 0,
+                "y": 27,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "9ED54596-9F75-40CF-B2A2-32E3D15768DA",
+            "name": "Path",
+            "rect": {
+                "x": 16,
+                "y": 57.22969230769229,
+                "width": 28,
+                "height": 1.75
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "the logo for the egyptian airline"
+        },
+        {
+            "id": "E50E516B-2707-42F1-BBFE-414E5E2E2676",
+            "name": "Path",
+            "rect": {
+                "x": 16,
+                "y": 40,
+                "width": 28,
+                "height": 1.75
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "the logo for the egyptian airline"
+        },
+        {
+            "id": "B969FE45-E349-4D5C-BF45-3AEF1BC8698C",
+            "name": "Path",
+            "rect": {
+                "x": 16,
+                "y": 48.6148461538462,
+                "width": 21,
+                "height": 1.75
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "the logo for the egyptian airline"
+        },
+        {
+            "id": "8CD4E816-BAAE-4125-A63C-03577EACA444",
+            "name": "Path",
+            "rect": {
+                "x": 332.75038289625854,
+                "y": 36.74950770481041,
+                "width": 19.2542118588442,
+                "height": 19.255087050292218
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a magnifying glass icon on a black background"
+        },
+        {
+            "id": "73B0F565-9EF7-416B-A542-EB0DBEB64CAF",
+            "name": "Path",
+            "rect": {
+                "x": 331,
+                "y": 35,
+                "width": 28,
+                "height": 28
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a magnifying glass icon on a black background"
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

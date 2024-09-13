@@ -1,0 +1,1794 @@
+{
+    "layers": [
+        {
+            "id": "031D1C69-D6BB-481B-8D0B-5402CF1729F8",
+            "name": "kym-ellis-1067872-unsplash",
+            "rect": {
+                "x": -90,
+                "y": -6,
+                "width": 601,
+                "height": 902
+            },
+            "_class": "bitmap",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a plane is parked on the beach near a resort"
+        },
+        {
+            "id": "850CA2E0-938D-4518-ACA8-222CE44E7278",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 414,
+                "height": 896
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9607843137254902,
+                0.9686274509803922,
+                0.9686274509803922,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers with a white sole"
+        },
+        {
+            "id": "84FA9A3B-A4CE-4EB0-8D57-CC422BEDF765",
+            "name": "Rectangle",
+            "rect": {
+                "x": -47,
+                "y": 800,
+                "width": 508,
+                "height": 102
+            },
+            "_class": "rectangle",
+            "color": [
+                0.207843137254902,
+                0.2313725490196079,
+                0.3137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a black square with a white square in the middle"
+        },
+        {
+            "id": "3ECC39AB-0F6B-496D-A113-020C5AE52414",
+            "name": "Search Now",
+            "rect": {
+                "x": 143.5,
+                "y": 841,
+                "width": 128,
+                "height": 29
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for search news is shown"
+        },
+        {
+            "id": "A24E6577-1F75-4952-A1E8-7BBB4B505832",
+            "name": "Rectangle",
+            "rect": {
+                "x": 255,
+                "y": 476,
+                "width": 129,
+                "height": 57
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                0.7140794836956522
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "C0B826B0-9070-495E-912B-0F697F6E384D",
+            "name": "Rectangle",
+            "rect": {
+                "x": 345,
+                "y": 492,
+                "width": 22,
+                "height": 22
+            },
+            "_class": "rectangle",
+            "color": [
+                0.207843137254902,
+                0.2313725490196079,
+                0.3137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a dark blue circle with a white background"
+        },
+        {
+            "id": "0EC3A35F-61A5-44AD-A291-31BBBEABE307",
+            "name": "6A",
+            "rect": {
+                "x": 350.4456162529932,
+                "y": 500.5543837470067,
+                "width": 11,
+                "height": 5.891232505986579
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white v logo on a black background"
+        },
+        {
+            "id": "F322F382-58B5-4CD3-A049-407260BDE60C",
+            "name": "Rectangle",
+            "rect": {
+                "x": 30,
+                "y": 476,
+                "width": 205,
+                "height": 57
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                0.7140794836956522
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "A97E1D4B-E39F-4BAE-86C7-4A8D8A3470CE",
+            "name": "Rectangle",
+            "rect": {
+                "x": 193,
+                "y": 494,
+                "width": 22,
+                "height": 22
+            },
+            "_class": "rectangle",
+            "color": [
+                0.207843137254902,
+                0.2313725490196079,
+                0.3137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a dark blue circle with a white background"
+        },
+        {
+            "id": "73F6DA18-4978-4707-8DE7-C851B7231596",
+            "name": "6A",
+            "rect": {
+                "x": 198.4456162529932,
+                "y": 502.5543837470067,
+                "width": 11,
+                "height": 5.891232505986579
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white v logo on a black background"
+        },
+        {
+            "id": "35B536EE-7BF1-4740-B2A4-7816858D793F",
+            "name": "Passengers",
+            "rect": {
+                "x": 45,
+                "y": 492,
+                "width": 83,
+                "height": 10
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in blue"
+        },
+        {
+            "id": "A7272801-CF22-4D4B-9674-E06B0D7E9DF8",
+            "name": "2 Adults, 2 Children",
+            "rect": {
+                "x": 45,
+                "y": 499,
+                "width": 124,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a man and woman"
+        },
+        {
+            "id": "68832CB6-0590-4741-9212-0141ACF50E76",
+            "name": "Rooms",
+            "rect": {
+                "x": 285,
+                "y": 492,
+                "width": 60,
+                "height": 10
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for acme is shown in blue"
+        },
+        {
+            "id": "FFD32F0F-BF03-482F-B059-A338D4C115B2",
+            "name": "3",
+            "rect": {
+                "x": 285,
+                "y": 499,
+                "width": 41,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 3 is shown in a black background"
+        },
+        {
+            "id": "C9FE8A26-605F-4562-9DAE-51A59721106D",
+            "name": "Rectangle",
+            "rect": {
+                "x": 30,
+                "y": 407,
+                "width": 354,
+                "height": 57
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                0.7140794836956522
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "B08CEC90-B038-43EC-9323-124FC8C3361D",
+            "name": "Shape",
+            "rect": {
+                "x": 208.15641785327534,
+                "y": 428.007399577167,
+                "width": 6.311689784974078,
+                "height": 13.992600422832993
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 1,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "419448B4-0375-4547-A2E6-73E189591229",
+            "name": "Shape",
+            "rect": {
+                "x": 200,
+                "y": 428,
+                "width": 6.30984508080428,
+                "height": 13.997040169133243
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "EBCCC2E2-2ABF-4711-93F5-3676781A8942",
+            "name": "Path",
+            "rect": {
+                "x": 260.5074764413266,
+                "y": 433.0001004974625,
+                "width": 16.000452238581147,
+                "height": 10.492437565951434
+            },
+            "_class": "shapePath",
+            "color": [
+                0.1036275699734688,
+                0.09916233271360397,
+                0.0975116714835167,
+                1
+            ],
+            "label": 1,
+            "msg": "a calendar icon with a black background"
+        },
+        {
+            "id": "945A10D0-EA4A-4D8A-AFAB-951A7FE8937B",
+            "name": "Path",
+            "rect": {
+                "x": 260.5074764413266,
+                "y": 428.41440128636754,
+                "width": 15.999633773715232,
+                "height": 3.0782372745088082
+            },
+            "_class": "shapePath",
+            "color": [
+                0.1036275699734688,
+                0.09916233271360397,
+                0.0975116714835167,
+                1
+            ],
+            "label": 2,
+            "msg": "a calendar icon with a black background"
+        },
+        {
+            "id": "4A494B8F-D668-403B-BFC8-3ED85C572B3E",
+            "name": "Path",
+            "rect": {
+                "x": 258.99998557874505,
+                "y": 425,
+                "width": 19.017430369262,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "color": [
+                0.1036275699734688,
+                0.09916233271360397,
+                0.0975116714835167,
+                1
+            ],
+            "label": 2,
+            "msg": "a calendar icon with a black background"
+        },
+        {
+            "id": "287EB523-D72F-4A6F-99C8-9516572BE396",
+            "name": "Check-in",
+            "rect": {
+                "x": 285,
+                "y": 423,
+                "width": 83,
+                "height": 10
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in blue"
+        },
+        {
+            "id": "1BC55B33-68F4-406C-9395-EC81E3787577",
+            "name": "12 Nov, 2018",
+            "rect": {
+                "x": 285,
+                "y": 430,
+                "width": 84,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the new york times"
+        },
+        {
+            "id": "C792AA6B-A858-4F91-A593-1FD7F9FECC8E",
+            "name": "Path",
+            "rect": {
+                "x": 46.50747644132662,
+                "y": 433.0001004974625,
+                "width": 16.00045223858092,
+                "height": 10.492437565951434
+            },
+            "_class": "shapePath",
+            "color": [
+                0.1036275699734688,
+                0.09916233271360397,
+                0.0975116714835167,
+                1
+            ],
+            "label": 1,
+            "msg": "a calendar icon with a black background"
+        },
+        {
+            "id": "6F5B8A5D-6D82-4C00-8687-0ECEB1F2612A",
+            "name": "Path",
+            "rect": {
+                "x": 46.50747644132662,
+                "y": 428.41440128636754,
+                "width": 15.999633773715232,
+                "height": 3.0782372745088082
+            },
+            "_class": "shapePath",
+            "color": [
+                0.1036275699734688,
+                0.09916233271360397,
+                0.0975116714835167,
+                1
+            ],
+            "label": 2,
+            "msg": "a calendar icon with a black background"
+        },
+        {
+            "id": "ABECDF61-9537-43E9-AA0D-3E1A9991C595",
+            "name": "Path",
+            "rect": {
+                "x": 44.99998557874528,
+                "y": 425,
+                "width": 19.017430369262,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "color": [
+                0.1036275699734688,
+                0.09916233271360397,
+                0.0975116714835167,
+                1
+            ],
+            "label": 2,
+            "msg": "a calendar icon with a black background"
+        },
+        {
+            "id": "0EE79367-26AD-4DD5-A56E-AADF132D727F",
+            "name": "Check-in",
+            "rect": {
+                "x": 71,
+                "y": 423,
+                "width": 83,
+                "height": 10
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in blue"
+        },
+        {
+            "id": "37446AB3-6CF9-43BB-B94C-6F6D22E0AC4D",
+            "name": "12 Nov, 2018",
+            "rect": {
+                "x": 71,
+                "y": 430,
+                "width": 84,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the new york times"
+        },
+        {
+            "id": "90B51AF4-C598-4AFC-9521-19CD087C11F6",
+            "name": "Select Your Interest",
+            "rect": {
+                "x": 30,
+                "y": 132,
+                "width": 138,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in blue"
+        },
+        {
+            "id": "BB977575-1EBE-4982-A59D-11ABD8DE4255",
+            "name": "Rectangle 11 Copy 3",
+            "rect": {
+                "x": 30,
+                "y": 173,
+                "width": 64,
+                "height": 74
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                0.7140794836956522
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "D4C509F5-AB0C-45E1-A9B7-91A0821DB5FD",
+            "name": "cup-3-path",
+            "rect": {
+                "x": 45,
+                "y": 192,
+                "width": 35.71428571428578,
+                "height": 25
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 1,
+            "msg": "a cup of coffee icon on a black background"
+        },
+        {
+            "id": "C0AEB953-E54B-4DAF-A9FE-C523E59D6AAD",
+            "name": "cup-3-path",
+            "rect": {
+                "x": 73.57142857142867,
+                "y": 196.76190476190476,
+                "width": 4.761904761904816,
+                "height": 5.952380952380963
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a cup of coffee icon on a black background"
+        },
+        {
+            "id": "25CFCF64-8A9E-4E00-9D73-2854A2C91929",
+            "name": "cup-3-path",
+            "rect": {
+                "x": 47.380952380952294,
+                "y": 194.38095238095238,
+                "width": 25,
+                "height": 3.5714285714285836
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a cup of coffee icon on a black background"
+        },
+        {
+            "id": "DBFB33DE-8C4B-41E6-B9D2-DF5764BB61EC",
+            "name": "cup-3-path",
+            "rect": {
+                "x": 47.380952380952294,
+                "y": 209.85714285714286,
+                "width": 25,
+                "height": 4.761904761904759
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a cup of coffee icon on a black background"
+        },
+        {
+            "id": "3165A414-0F2D-4246-A36B-74E0C89CB07D",
+            "name": "Cafe",
+            "rect": {
+                "x": 53,
+                "y": 226,
+                "width": 19,
+                "height": 11
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in blue"
+        },
+        {
+            "id": "548BF5EF-2FA9-4199-B0D0-0388494B65FA",
+            "name": "Rectangle 11 Copy 3",
+            "rect": {
+                "x": 103,
+                "y": 173,
+                "width": 64,
+                "height": 74
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                0.7140794836956522
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "7A64B84B-D3FD-4589-B2E8-A6E2D3C2B0CA",
+            "name": "Shape",
+            "rect": {
+                "x": 127,
+                "y": 207.76923076923077,
+                "width": 16.17647058823536,
+                "height": 9.230812588034155
+            },
+            "_class": "shapePath",
+            "color": [
+                0.3205218289239722,
+                0.3452001318690607,
+                0.4315741921768708,
+                1
+            ],
+            "label": 1,
+            "msg": "a black and white image of a large black object"
+        },
+        {
+            "id": "87DAB530-001C-41E4-BA5F-6B78C83623FC",
+            "name": "Shape",
+            "rect": {
+                "x": 127,
+                "y": 207.76923076923075,
+                "width": 16.17647058823536,
+                "height": 9.230770736969447
+            },
+            "_class": "shapePath",
+            "color": [
+                0.207843137254902,
+                0.2313725490196079,
+                0.3137254901960784,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white image of a black and white cat"
+        },
+        {
+            "id": "FA560825-5DA4-47B9-8404-53DD74EF3EE4",
+            "name": "Shape",
+            "rect": {
+                "x": 128.88098495212034,
+                "y": 192,
+                "width": 13.16689466484263,
+                "height": 15.384615384615387
+            },
+            "_class": "shapePath",
+            "color": [
+                0.207843137254902,
+                0.2313725490196079,
+                0.3137254901960784,
+                1
+            ],
+            "label": 2,
+            "msg": "a dark blue heart with a black outline"
+        },
+        {
+            "id": "FF544E38-4707-4692-B849-F918CBAAE23D",
+            "name": "Culture",
+            "rect": {
+                "x": 120,
+                "y": 226,
+                "width": 29,
+                "height": 11
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "BED7AD54-364A-4D47-8546-68CBA1ACD3AD",
+            "name": "Rectangle 11 Copy 3",
+            "rect": {
+                "x": 175,
+                "y": 173,
+                "width": 64,
+                "height": 74
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                0.7140794836956522
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "99AC1557-F8A5-4361-B3BB-71026EB4F52F",
+            "name": "Nature",
+            "rect": {
+                "x": 194,
+                "y": 226,
+                "width": 27,
+                "height": 11
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for nature's way"
+        },
+        {
+            "id": "F982746D-D291-4160-A307-48AC54DFAD47",
+            "name": "Shape",
+            "rect": {
+                "x": 197.0298662183477,
+                "y": 192,
+                "width": 18.69645995417841,
+                "height": 24.974452697831794
+            },
+            "_class": "shapePath",
+            "color": [
+                0.207843137254902,
+                0.2313725490196079,
+                0.3137254901960784,
+                1
+            ],
+            "label": 1,
+            "msg": "the logo for a company that makes a product"
+        },
+        {
+            "id": "1153DA2E-0E9C-4AE9-8038-32C652B02355",
+            "name": "Shape",
+            "rect": {
+                "x": 197.0298662183477,
+                "y": 192,
+                "width": 17.36633443954679,
+                "height": 24.7059289790742
+            },
+            "_class": "shapePath",
+            "color": [
+                0.2877627611078364,
+                0.3184040107180375,
+                0.4256483843537415,
+                1
+            ],
+            "label": 2,
+            "msg": "a blue bird with a long tail on a black background"
+        },
+        {
+            "id": "2BF391C1-A3FF-401B-8118-5EAEC6F977D4",
+            "name": "Oval",
+            "rect": {
+                "x": 197.72404605263182,
+                "y": 199.83727013316422,
+                "width": 1.3603618421052488,
+                "height": 1.3658251426759591
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white and black logo with a black background"
+        },
+        {
+            "id": "EB2AE9F0-086C-487A-BA89-3AC991B8FE30",
+            "name": "Oval",
+            "rect": {
+                "x": 200.05605263157895,
+                "y": 199.3494966708941,
+                "width": 0.9716447368418812,
+                "height": 0.9755469245402537
+            },
+            "_class": "oval",
+            "color": [
+                0.207843137254902,
+                0.2313725490196079,
+                0.3137254901960784,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white image of a plane flying over a dark background"
+        },
+        {
+            "id": "1EFBF5C3-F196-4AD3-8337-C87803E9C0A0",
+            "name": "Oval",
+            "rect": {
+                "x": 198.89009868421044,
+                "y": 193.9839390456563,
+                "width": 2.429111842105158,
+                "height": 2.4388673113506627
+            },
+            "_class": "oval",
+            "color": [
+                0.207843137254902,
+                0.2313725490196079,
+                0.3137254901960784,
+                1
+            ],
+            "label": 2,
+            "msg": "a person is standing in front of a black background"
+        },
+        {
+            "id": "5B944338-5E41-4A8A-9CBD-EEE69F579FEC",
+            "name": "Oval",
+            "rect": {
+                "x": 203.45685855263173,
+                "y": 197.5934923906151,
+                "width": 0.77733552631571,
+                "height": 0.7804573557387471
+            },
+            "_class": "oval",
+            "color": [
+                0.207843137254902,
+                0.2313725490196079,
+                0.3137254901960784,
+                1
+            ],
+            "label": 2,
+            "msg": "a man is standing in front of a large building"
+        },
+        {
+            "id": "B9958F93-ED0B-49A0-A744-D08D58B7592F",
+            "name": "Oval",
+            "rect": {
+                "x": 205.9835690789473,
+                "y": 194.66680207672795,
+                "width": 2.2348026315789866,
+                "height": 2.243777742549156
+            },
+            "_class": "oval",
+            "color": [
+                0.207843137254902,
+                0.2313725490196079,
+                0.3137254901960784,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white image of a person in a dark room"
+        },
+        {
+            "id": "6C875BC5-6A4F-41F4-9D6C-3A8609A2FDC5",
+            "name": "Rectangle 11 Copy 3",
+            "rect": {
+                "x": 244,
+                "y": 170,
+                "width": 76,
+                "height": 86
+            },
+            "_class": "rectangle",
+            "color": [
+                0.207843137254902,
+                0.2313725490196079,
+                0.3137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a dark blue square with a green border"
+        },
+        {
+            "id": "7E045D39-F788-459B-AF03-4091AE1F8567",
+            "name": "Landscape",
+            "rect": {
+                "x": 258,
+                "y": 226,
+                "width": 44,
+                "height": 11
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "B688231C-0CAA-43F1-8807-131136581F92",
+            "name": "Shape",
+            "rect": {
+                "x": 276.8450704225352,
+                "y": 202.74446680080484,
+                "width": 13.883299798792905,
+                "height": 14.245472837022135
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                0.4749490489130435
+            ],
+            "label": 1,
+            "msg": "a pyramid shaped building with a white background"
+        },
+        {
+            "id": "2AD07668-CFAD-47DF-83E4-BAC5B211AE91",
+            "name": "Shape",
+            "rect": {
+                "x": 283.76659959758535,
+                "y": 202.74446680080484,
+                "width": 6.961770623742268,
+                "height": 14.245472837022135
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                0.6587126358695652
+            ],
+            "label": 2,
+            "msg": "a black and white image of a mountain"
+        },
+        {
+            "id": "9121353A-2E6E-4E1B-B05F-BDDDE346D0C9",
+            "name": "Shape",
+            "rect": {
+                "x": 279.82293762575455,
+                "y": 204.43460764587525,
+                "width": 7.927565392354154,
+                "height": 10.100603621730386
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                0.3981544384057971
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "D66C7295-24DA-4CCF-B998-60AE764581E1",
+            "name": "Shape",
+            "rect": {
+                "x": 283.76659959758535,
+                "y": 204.43460764587525,
+                "width": 3.9839034205233474,
+                "height": 10.100603621730386
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                0.461814990942029
+            ],
+            "label": 2,
+            "msg": "a white and black logo with a black background"
+        },
+        {
+            "id": "96F17515-3D97-4AB6-A5FE-80FEB3A63394",
+            "name": "Shape",
+            "rect": {
+                "x": 266.1810865191146,
+                "y": 196.0241448692153,
+                "width": 20.563380281690115,
+                "height": 20.96579476861166
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                0.7850713315217391
+            ],
+            "label": 2,
+            "msg": "a pyramid with a white background"
+        },
+        {
+            "id": "DECCB1B1-7D32-49F5-9380-1C1C5902CF27",
+            "name": "Shape",
+            "rect": {
+                "x": 276.52313883299803,
+                "y": 196.0241448692153,
+                "width": 10.342052313883414,
+                "height": 20.96579476861166
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                0.1094316123188406
+            ],
+            "label": 2,
+            "msg": "a black and white image of a person on a skateboard"
+        },
+        {
+            "id": "B0F4DBCC-233B-48B8-A5C5-844FA490A24D",
+            "name": "Shape",
+            "rect": {
+                "x": 270.6478873239439,
+                "y": 198.4788732394366,
+                "width": 11.710261569416616,
+                "height": 14.889336016096593
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                0.2281759510869565
+            ],
+            "label": 2,
+            "msg": "a white square with a diamond shape in the middle"
+        },
+        {
+            "id": "CE58E101-65FA-44AA-A88A-D7AE4BDD4975",
+            "name": "Shape",
+            "rect": {
+                "x": 276.52313883299803,
+                "y": 198.4788732394366,
+                "width": 5.835010060362038,
+                "height": 14.889336016096593
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                0.05548007246376811
+            ],
+            "label": 2,
+            "msg": "a white and black image of a person standing in front of a black background"
+        },
+        {
+            "id": "F42BBB02-4D98-4015-B404-E405DEF13A82",
+            "name": "Shape",
+            "rect": {
+                "x": 271.45271629778654,
+                "y": 196.0241448692153,
+                "width": 10.100603621730443,
+                "height": 11.629778672032188
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                0.3152740036231884
+            ],
+            "label": 2,
+            "msg": "a white christmas tree with a white background"
+        },
+        {
+            "id": "A2E31AAD-A04A-4FDE-AB65-3695B4812E28",
+            "name": "Shape",
+            "rect": {
+                "x": 276.52313883299803,
+                "y": 196.0241448692153,
+                "width": 5.030181086518951,
+                "height": 11.629778672032188
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white and black logo of a person standing in front of a building"
+        },
+        {
+            "id": "5F49D069-348D-4EBB-B861-78F4A2CAB372",
+            "name": "Oval",
+            "rect": {
+                "x": 275.9597585513079,
+                "y": 192,
+                "width": 1.1267605633802305,
+                "height": 1.1267605633802873
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                0.505264945652174
+            ],
+            "label": 2,
+            "msg": "a white glass with a black background"
+        },
+        {
+            "id": "D081AB53-A3BF-456D-AB78-F0414EAB3FC6",
+            "name": "Shape",
+            "rect": {
+                "x": 276.0804828973842,
+                "y": 193.3682092555332,
+                "width": 0.8048289738430867,
+                "height": 4.0241448692152915
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                0.5401098278985508
+            ],
+            "label": 2,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "DA2730EA-082F-407E-BB68-28DA6DBE4C79",
+            "name": "Shape",
+            "rect": {
+                "x": 276.48289738430594,
+                "y": 193.3682092555332,
+                "width": 0.402414486921316,
+                "height": 4.0241448692152915
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                0.3887850996376812
+            ],
+            "label": 2,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "0EBBC950-674A-4204-8731-72F45A1D0B1D",
+            "name": "Shape",
+            "rect": {
+                "x": 276.0804828973842,
+                "y": 192.20120724346077,
+                "width": 0.9859154929577016,
+                "height": 0.9859154929577585
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a black and white image of a man standing in front of a white background"
+        },
+        {
+            "id": "F1FF3DF3-DBED-4DC9-A19F-9E4CCED5F47B",
+            "name": "Oval",
+            "rect": {
+                "x": 275.8914621252952,
+                "y": 191.88752713787105,
+                "width": 0.6093210286285284,
+                "height": 0.6092793862733004
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white and black image of a person standing in front of a black background"
+        },
+        {
+            "id": "14D8EB2B-CC03-4842-929B-CECD3226F194",
+            "name": "Shape",
+            "rect": {
+                "x": 278.49496981891343,
+                "y": 194.45472837022135,
+                "width": 4.547283702213463,
+                "height": 1.6096579476861166
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                0.8268795289855072
+            ],
+            "label": 2,
+            "msg": "a black and white image of a person standing on a white background"
+        },
+        {
+            "id": "6FE00503-ABC0-4A7F-93D8-4066C915E015",
+            "name": "Shape",
+            "rect": {
+                "x": 278.49496981891343,
+                "y": 194.45472837022135,
+                "width": 4.547283702213463,
+                "height": 1.6096579476861166
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                0.2470844655797101
+            ],
+            "label": 2,
+            "msg": "a black and white image of a man standing on a hill"
+        },
+        {
+            "id": "E8B2EC7A-7F07-4D1D-B46F-0646CEE7C4E0",
+            "name": "Rectangle-path",
+            "rect": {
+                "x": 276.88531187122726,
+                "y": 193.64989939637826,
+                "width": 3.219315895372347,
+                "height": 1.2072434607645732
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                0.5448086503623188
+            ],
+            "label": 2,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "6C6A4DC9-0C11-4F2E-9175-1497955968FB",
+            "name": "Shape",
+            "rect": {
+                "x": 276.88531187122726,
+                "y": 193.64989939637826,
+                "width": 3.219315895372347,
+                "height": 1.2072434607645732
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                0.7561424365942029
+            ],
+            "label": 2,
+            "msg": "a white and black logo with a black background"
+        },
+        {
+            "id": "2A9394B8-5FDA-418E-A009-5B1193FAD1F5",
+            "name": "Rectangle-path",
+            "rect": {
+                "x": 266.02012072434627,
+                "y": 216.1851106639839,
+                "width": 24.94969818913478,
+                "height": 0.8048289738430583
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "8518A266-C00D-429A-A826-A6827FE324D8",
+            "name": "Rectangle 11 Copy 3",
+            "rect": {
+                "x": 320,
+                "y": 173,
+                "width": 64,
+                "height": 74
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                0.7140794836956522
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "2C826530-125C-4E71-A0D8-DC95551C6A4E",
+            "name": "Nightclub",
+            "rect": {
+                "x": 333,
+                "y": 226,
+                "width": 38,
+                "height": 11
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the night club"
+        },
+        {
+            "id": "523B132C-461B-45E3-90A4-D0C9B439D7D0",
+            "name": "Shape",
+            "rect": {
+                "x": 340.0219144583948,
+                "y": 191.99997860209726,
+                "width": 22.53672984914101,
+                "height": 24.954693398651386
+            },
+            "_class": "shapePath",
+            "color": [
+                0.207843137254902,
+                0.2313725490196079,
+                0.3137254901960784,
+                1
+            ],
+            "label": 1,
+            "msg": "the four of hearts icon"
+        },
+        {
+            "id": "384A9144-1364-48E2-BDFE-4791371F8833",
+            "name": "Shape",
+            "rect": {
+                "x": 356.49115660325333,
+                "y": 206.39483407204668,
+                "width": 4.767243828180199,
+                "height": 4.8683958549606245
+            },
+            "_class": "shapePath",
+            "color": [
+                0.2627450980392157,
+                0.2941176470588235,
+                0.4,
+                1
+            ],
+            "label": 2,
+            "msg": "a blue and white logo with a black background"
+        },
+        {
+            "id": "722CD62F-90C9-40D0-BB88-0CB489285CD4",
+            "name": "Rectangle 11 Copy 3",
+            "rect": {
+                "x": 30,
+                "y": 570,
+                "width": 94,
+                "height": 35
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                0.9491055253623188
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "8DDFC157-F7E3-42A3-8DF6-682C45F6602C",
+            "name": "Rome",
+            "rect": {
+                "x": 51.69230769230762,
+                "y": 580.5,
+                "width": 46.27692307692314,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in blue"
+        },
+        {
+            "id": "6E516794-33D7-4CD4-927C-4BA3884AFB90",
+            "name": "Rectangle 11 Copy 3",
+            "rect": {
+                "x": 141,
+                "y": 570,
+                "width": 94,
+                "height": 35
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "C4F5B3DF-BE2C-49F1-AEEE-E74BCB645FB0",
+            "name": "Milan",
+            "rect": {
+                "x": 168.47692307692296,
+                "y": 580.5,
+                "width": 40.492307692307804,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for milano, italy"
+        },
+        {
+            "id": "F8848E08-F571-4683-95BC-88B20341C78B",
+            "name": "Rectangle 11 Copy 3",
+            "rect": {
+                "x": 290,
+                "y": 570,
+                "width": 94,
+                "height": 35
+            },
+            "_class": "rectangle",
+            "color": [
+                0.207843137254902,
+                0.2313725490196079,
+                0.3137254901960784,
+                1
+            ],
+            "label": 0,
+            "msg": "a dark blue square with a white border"
+        },
+        {
+            "id": "1C7771A7-84F1-42AB-B090-77C44A70E7B6",
+            "name": "Less",
+            "rect": {
+                "x": 303,
+                "y": 580,
+                "width": 40.492307692307804,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white logo with the words lg on it"
+        },
+        {
+            "id": "816DD6A2-05AC-455E-902B-E163BFF4EE61",
+            "name": "6A",
+            "rect": {
+                "x": 350.4456162529932,
+                "y": 584.5543837470067,
+                "width": 11,
+                "height": 5.891232505986636
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white logo with a black background"
+        },
+        {
+            "id": "100CBA99-BFEF-4E5A-8547-698498E2B0B4",
+            "name": "Border",
+            "rect": {
+                "x": 356,
+                "y": 16.5,
+                "width": 24,
+                "height": 11.5
+            },
+            "_class": "rectangle",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 1,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "D3A7C1BE-836E-475C-BA54-7C4C53CFDB51",
+            "name": "Oval 2",
+            "rect": {
+                "x": 378.5,
+                "y": 20.436991257415627,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "oval",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "8E7857D2-F426-4515-B7B9-26614B7A216D",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 378.5,
+                "y": 20.436991257415627,
+                "width": 2.5,
+                "height": 4
+            },
+            "_class": "rectangle",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "05B48478-1BDA-4FF1-8724-8C900FDD8DEC",
+            "name": "Charge",
+            "rect": {
+                "x": 358,
+                "y": 18.5,
+                "width": 20,
+                "height": 7.5
+            },
+            "_class": "rectangle",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "1D0DF7F4-4935-43D2-B910-C8DD8C006B7E",
+            "name": "100%",
+            "rect": {
+                "x": 320,
+                "y": 15.5,
+                "width": 33,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word 100% is written in black on a black background"
+        },
+        {
+            "id": "1D7D1167-2EF1-488C-9D1D-53C142EA7FA9",
+            "name": "Bluetooth",
+            "rect": {
+                "x": 311.1621376857415,
+                "y": 15.932479193674446,
+                "width": 7.097369932065703,
+                "height": 12.135041612651108
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "069BF545-8484-4FEC-BB3C-9642521A1139",
+            "name": "Signal",
+            "rect": {
+                "x": 31,
+                "y": 15.5,
+                "width": 79.67043723534675,
+                "height": 14
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white text on it"
+        },
+        {
+            "id": "0443D512-155E-45DE-9421-A49127BB921A",
+            "name": "Rectangle",
+            "rect": {
+                "x": 30,
+                "y": 338,
+                "width": 354,
+                "height": 57
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                0.7140794836956522
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "E0DC2762-8694-4F2B-A5B4-55AA71AF7114",
+            "name": "Oval 2",
+            "rect": {
+                "x": 45,
+                "y": 357,
+                "width": 17.4013114172551,
+                "height": 20.712612999999976
+            },
+            "_class": "shapePath",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 1,
+            "msg": "a map pin with a heart on it"
+        },
+        {
+            "id": "D1606915-463D-4B1E-93A1-A26BA5A448C7",
+            "name": "Path",
+            "rect": {
+                "x": 51.525248076877006,
+                "y": 363.20456643403435,
+                "width": 4.35307005844993,
+                "height": 3.8872402728212023
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a map pin with a heart on it"
+        },
+        {
+            "id": "82355498-0618-4A3C-BA45-C83CEF69092D",
+            "name": "Search destination",
+            "rect": {
+                "x": 75,
+                "y": 357,
+                "width": 147,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person"
+        },
+        {
+            "id": "B6A58B53-A392-4BE7-B99C-61FC2B65498C",
+            "name": "Shape",
+            "rect": {
+                "x": 29,
+                "y": 68.5,
+                "width": 27,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black square with a white border"
+        },
+        {
+            "id": "BC58408C-ACBB-4D25-B7F2-57641B0FA3BA",
+            "name": "Shape",
+            "rect": {
+                "x": 29,
+                "y": 58.999999862277676,
+                "width": 11.375000137722282,
+                "height": 21.00000027544465
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a dark blue arrow pointing to the right"
+        }
+    ],
+    "width": 414,
+    "height": 896,
+    "layer_width": 64,
+    "layer_height": 64
+}

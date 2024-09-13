@@ -1,0 +1,597 @@
+{
+    "layers": [
+        {
+            "id": "D2F8948E-54CE-4ED5-9164-A6E845875C3F",
+            "name": "小程序框架 / 白底",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 750,
+                "height": 1334
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the iphone is showing a message that says \"you have a new message\""
+        },
+        {
+            "id": "8D26B47B-0815-4F97-BE9B-435CDF6E3EDC",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 128,
+                "width": 750,
+                "height": 1206
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9725490196078431,
+                0.9725490196078431,
+                0.9725490196078431,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "64C63EFF-6E6F-49AE-898F-CD1C329133DC",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": -100,
+                "y": 282,
+                "width": 950,
+                "height": 3345
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "BD5493DB-6F02-4BF4-BFA9-B849B3C3054D",
+            "name": "page / title",
+            "rect": {
+                "x": 60,
+                "y": 202.66666666666652,
+                "width": 120,
+                "height": 93.33333333333348
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a blue and white logo"
+        },
+        {
+            "id": "CECB8C15-2FBB-4C42-BF6D-4692AF2D7013",
+            "name": "ICON",
+            "rect": {
+                "x": 28,
+                "y": 404,
+                "width": 80,
+                "height": 45
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the icon logo is shown in black and white"
+        },
+        {
+            "id": "6AC010B7-0915-4B9A-9B52-4ABCECA8D4C4",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": -12,
+                "y": 402,
+                "width": 28,
+                "height": 64
+            },
+            "_class": "rectangle",
+            "color": [
+                0.9803921568627451,
+                0.4982749893435636,
+                0.1568627450980392,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and white square with a black background"
+        },
+        {
+            "id": "B77B6612-22E3-4677-9109-F662E1CC5AF7",
+            "name": "24x24",
+            "rect": {
+                "x": 98,
+                "y": 513,
+                "width": 80,
+                "height": 80
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "50C9B734-B3D8-43D5-A94A-F4B9DA197F7C",
+            "name": "Shape-path",
+            "rect": {
+                "x": 114.65882337768062,
+                "y": 529.6588233776811,
+                "width": 46.68235324463831,
+                "height": 46.68235324463831
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 1,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "88F107EE-DC7B-4D0C-9CED-1FA6D2DB63F5",
+            "name": "Shape-path",
+            "rect": {
+                "x": 118,
+                "y": 533,
+                "width": 40,
+                "height": 40.00897077488662
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "1E0E22CC-C9FA-454B-83E6-10AD0D099E32",
+            "name": "Shape-path",
+            "rect": {
+                "x": 128,
+                "y": 543,
+                "width": 20,
+                "height": 20
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "06380CA7-98A5-4A00-AA22-DCE407E1FAE5",
+            "name": "24x24",
+            "rect": {
+                "x": 318,
+                "y": 517,
+                "width": 72,
+                "height": 72
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "B0F53E78-16A6-4B35-A550-AF90D2E6EA1E",
+            "name": "Combined-Shape-path",
+            "rect": {
+                "x": 346.5,
+                "y": 545.5,
+                "width": 15,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 1,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "EB2DDCF9-7140-4604-9594-5B931407DB70",
+            "name": "Combined-Shape-path",
+            "rect": {
+                "x": 346.5,
+                "y": 557.5,
+                "width": 15,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "F543FF86-B9E6-48D9-B955-1D32C7C453DE",
+            "name": "Combined-Shape-path",
+            "rect": {
+                "x": 339,
+                "y": 551.5,
+                "width": 30,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "006AF8BD-0A6E-4122-BCE5-CA569C9FB652",
+            "name": "Combined-Shape-path",
+            "rect": {
+                "x": 339,
+                "y": 563.5,
+                "width": 30,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "6868D538-1D06-4F47-A0FD-1DA3879DE912",
+            "name": "Combined-Shape-path",
+            "rect": {
+                "x": 339,
+                "y": 539.5,
+                "width": 30,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "AA38A9B1-6938-46AA-AACE-DE6A3C3824BB",
+            "name": "24x24",
+            "rect": {
+                "x": 212,
+                "y": 517,
+                "width": 72,
+                "height": 72
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "A0B42554-4F43-453D-A33E-EEDE1E16DF78",
+            "name": "Combined-Shape-path",
+            "rect": {
+                "x": 233,
+                "y": 545.5,
+                "width": 15,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 1,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "88B68FE1-BAF7-4E80-9933-4F9B0A225D90",
+            "name": "Combined-Shape-path",
+            "rect": {
+                "x": 233,
+                "y": 557.5,
+                "width": 15,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "4D3F4E47-B165-4819-9211-BF70A624FC84",
+            "name": "Combined-Shape-path",
+            "rect": {
+                "x": 233,
+                "y": 551.5,
+                "width": 30,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "6EB37648-F280-4483-839D-7BA9A29BBCF3",
+            "name": "Combined-Shape-path",
+            "rect": {
+                "x": 233,
+                "y": 563.5,
+                "width": 30,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "2565C1B7-DD48-47F0-AF35-834B6214CB1D",
+            "name": "Combined-Shape-path",
+            "rect": {
+                "x": 233,
+                "y": 539.5,
+                "width": 30,
+                "height": 3
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "412F6A22-5103-4697-9A3F-CB4B88FFBACE",
+            "name": "a-path",
+            "rect": {
+                "x": 110,
+                "y": 634,
+                "width": 56,
+                "height": 56
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 1,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "6316013B-70CF-4ECB-827E-5ABA4E2200E9",
+            "name": "a-path",
+            "rect": {
+                "x": 114.00000001333319,
+                "y": 638.0000000133332,
+                "width": 48,
+                "height": 48
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "37A9E9DC-398E-414E-B0BE-8301AF700E1F",
+            "name": "a-path",
+            "rect": {
+                "x": 126.64000000444457,
+                "y": 650.7600000088887,
+                "width": 22.920000040000104,
+                "height": 22.159999991110908
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "BAED2BBF-117D-4BCF-BD19-428F57533661",
+            "name": "a-path",
+            "rect": {
+                "x": 237,
+                "y": 634,
+                "width": 101,
+                "height": 101
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 1,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "C0988F3F-FC10-487C-8821-D589F398EAAD",
+            "name": "a-path",
+            "rect": {
+                "x": 244.21428573833327,
+                "y": 641.2142857383333,
+                "width": 86.57142846722218,
+                "height": 86.57142846722218
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "5E91FCD5-85EC-42AF-83E6-C4EE7DB4E02F",
+            "name": "a-path",
+            "rect": {
+                "x": 267.0114285794443,
+                "y": 664.227857158889,
+                "width": 41.337857214999985,
+                "height": 39.96714284111113
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "610EF238-DBE4-42B7-8BA2-3F7BDDAAB57B",
+            "name": "a-path",
+            "rect": {
+                "x": 437,
+                "y": 634,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 1,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "6C53BF1F-EB42-4040-810A-DCA1F520B580",
+            "name": "a-path",
+            "rect": {
+                "x": 439.14285715000005,
+                "y": 636.14285715,
+                "width": 25.7142856833334,
+                "height": 25.7142856833334
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "563CD0E6-D940-48A7-9708-E80C0E2FBA41",
+            "name": "a-path",
+            "rect": {
+                "x": 445.91428571666665,
+                "y": 642.9785714333334,
+                "width": 12.278571450000072,
+                "height": 11.87142856666651
+            },
+            "_class": "shapePath",
+            "color": [
+                0,
+                0,
+                0,
+                1
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        }
+    ],
+    "width": 750,
+    "height": 1334,
+    "layer_width": 64,
+    "layer_height": 64
+}

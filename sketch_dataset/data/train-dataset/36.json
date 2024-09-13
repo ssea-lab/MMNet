@@ -1,0 +1,559 @@
+{
+    "layers": [
+        {
+            "id": "6CC45EDC-B293-41FD-A759-030330E3E47B",
+            "name": "Edit Name",
+            "rect": {
+                "x": 40,
+                "y": 328,
+                "width": 110,
+                "height": 32
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word \"edit\" in black and white"
+        },
+        {
+            "id": "D33B85D9-A241-4C73-9905-876ABD3C3920",
+            "name": "Notifications",
+            "rect": {
+                "x": 40,
+                "y": 380,
+                "width": 135,
+                "height": 32
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the notifiers logo"
+        },
+        {
+            "id": "DCB4EE28-120E-445F-8842-DA555E4DE126",
+            "name": "Checkboxes/Checkbox 1",
+            "rect": {
+                "x": 321,
+                "y": 380,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue circle with a check mark on it"
+        },
+        {
+            "id": "EAEE6F12-5174-4250-8040-E1C4F0262691",
+            "name": "Shared Media",
+            "rect": {
+                "x": 40,
+                "y": 432,
+                "width": 145,
+                "height": 32
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the shared media website"
+        },
+        {
+            "id": "9C6946F7-0D09-44CA-81D1-939323794254",
+            "name": "23",
+            "rect": {
+                "x": 325,
+                "y": 438,
+                "width": 21,
+                "height": 24
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 23 is shown in black on a black background"
+        },
+        {
+            "id": "5E5BF8FD-E870-43A6-AD3D-E217FF91527C",
+            "name": "2",
+            "rect": {
+                "x": 335,
+                "y": 490,
+                "width": 11,
+                "height": 24
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number two is shown in black on a white background"
+        },
+        {
+            "id": "E21890C1-F7DB-4E15-8CF7-2E6E1D78DD03",
+            "name": "Groups",
+            "rect": {
+                "x": 40,
+                "y": 484,
+                "width": 78,
+                "height": 32
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "groups logo with a black background"
+        },
+        {
+            "id": "7A66F8FC-79CC-416B-A5E6-0B7DCD321E49",
+            "name": "Block",
+            "rect": {
+                "x": 40,
+                "y": 536,
+                "width": 60,
+                "height": 32
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the block logo is shown in black and white"
+        },
+        {
+            "id": "2EE13FAF-8BFB-400A-A68C-046EC5AAC4A3",
+            "name": "Delete",
+            "rect": {
+                "x": 40,
+                "y": 586,
+                "width": 68,
+                "height": 32
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the delete logo"
+        },
+        {
+            "id": "A25C082C-C833-47F4-BC42-2A3D1959B751",
+            "name": "Divider",
+            "rect": {
+                "x": 40,
+                "y": 193,
+                "width": 335,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9529411764705882,
+                0.9529411764705882,
+                0.9529411764705882,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "C32DD93F-6ED2-4F3D-8F1A-AB4C996DC893",
+            "name": "Userpic",
+            "rect": {
+                "x": 40,
+                "y": 87,
+                "width": 80,
+                "height": 80
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1333333333333333,
+                0.1372549019607844,
+                0.1568627450980392,
+                1
+            ],
+            "label": 0,
+            "msg": "a man with glasses and a mustache smoking a pipe"
+        },
+        {
+            "id": "F58EFFE7-200B-44D8-99BA-C5129D6CF94E",
+            "name": "+3 320-697-8644",
+            "rect": {
+                "x": 136,
+                "y": 110,
+                "width": 191,
+                "height": 32
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person standing in front of a black background"
+        },
+        {
+            "id": "B082858D-17F9-43D9-8746-6C892867C0D1",
+            "name": "Last Seen at 15:30",
+            "rect": {
+                "x": 136,
+                "y": 91,
+                "width": 134,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a barcode is shown on a black background"
+        },
+        {
+            "id": "D6D5A854-0D72-49EC-AA11-2C70EAB718DF",
+            "name": "@justindixon99",
+            "rect": {
+                "x": 136,
+                "y": 143,
+                "width": 193,
+                "height": 22
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "D0668172-68D8-4D82-AE8A-BCC8902A6637",
+            "name": "Justin Dixon",
+            "rect": {
+                "x": 46,
+                "y": 33,
+                "width": 138,
+                "height": 35
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "justin bieber's logo"
+        },
+        {
+            "id": "DA164E13-D861-41CB-BF86-D7F0534D0E7C",
+            "name": "Video Icon",
+            "rect": {
+                "x": 290,
+                "y": 43,
+                "width": 23,
+                "height": 15
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1647058823529412,
+                0.1647058823529412,
+                0.1647058823529412,
+                1
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black"
+        },
+        {
+            "id": "E6A0D494-8C0F-4FFE-AA89-95F5F9D377FA",
+            "name": "Phone Icon",
+            "rect": {
+                "x": 336.0000000000002,
+                "y": 41,
+                "width": 18.999999999999773,
+                "height": 19
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1647058823529412,
+                0.1647058823529412,
+                0.1647058823529412,
+                1
+            ],
+            "label": 0,
+            "msg": "a black phone on a black background"
+        },
+        {
+            "id": "778B1976-ED1D-427D-9F93-7901BA0AC6DA",
+            "name": "Oval",
+            "rect": {
+                "x": 191,
+                "y": 47,
+                "width": 10,
+                "height": 10
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black background"
+        },
+        {
+            "id": "29E2883A-C24A-480E-85B8-61AEDC041729",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 23.075735661548833,
+                "y": 40.742295297817186,
+                "width": 11.313708498984852,
+                "height": 11.31370849898476
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black arrow pointing to the right"
+        },
+        {
+            "id": "69622F0D-D676-40B4-A693-73EACDE345B3",
+            "name": "Rectangle 3",
+            "rect": {
+                "x": 22.79289321881356,
+                "y": 49.54767774059838,
+                "width": 11.596550941719443,
+                "height": 11.596550941719542
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black arrow pointing to the right"
+        },
+        {
+            "id": "A704F400-B314-4E5A-B4D6-87E73AE2B922",
+            "name": "Status Bar",
+            "rect": {
+                "x": 6,
+                "y": 3.5,
+                "width": 363.5,
+                "height": 14.8203125
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a blue sky and a white cloud"
+        },
+        {
+            "id": "8034306F-6F49-4560-81C7-354EB90C3B5E",
+            "name": "Background",
+            "rect": {
+                "x": 30,
+                "y": 218,
+                "width": 110,
+                "height": 90
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1088701105442177,
+                0.1088701105442177,
+                0.1088701105442177,
+                1
+            ],
+            "label": 0,
+            "msg": "a square button with a blue background"
+        },
+        {
+            "id": "867BB675-756E-455C-A83A-EB92E7B1A93D",
+            "name": "Chat",
+            "rect": {
+                "x": 69,
+                "y": 248,
+                "width": 34,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the chat logo is shown in white on a black background"
+        },
+        {
+            "id": "83FF7661-8138-44F4-ABF7-880241847089",
+            "name": "Background",
+            "rect": {
+                "x": 126,
+                "y": 218,
+                "width": 110,
+                "height": 90
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue square button with a black background"
+        },
+        {
+            "id": "604ABDFA-53FC-41ED-B39A-F89A758EEE24",
+            "name": "Secret Chat",
+            "rect": {
+                "x": 159,
+                "y": 240,
+                "width": 45,
+                "height": 34
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the secret chat logo"
+        },
+        {
+            "id": "54A27F2B-8025-48C8-9A61-7E5E52DA0A49",
+            "name": "Background",
+            "rect": {
+                "x": 222,
+                "y": 218,
+                "width": 110,
+                "height": 90
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.4090909090909091,
+                0.4090909090909091,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue square button with a white background"
+        },
+        {
+            "id": "B6FF022B-7C73-48B2-A64B-E35A50F3CE32",
+            "name": "Call",
+            "rect": {
+                "x": 264,
+                "y": 249,
+                "width": 26,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the call logo on a black background"
+        },
+        {
+            "id": "A80F13F7-1F5F-42BF-BCCE-81D97FCA4B2C",
+            "name": "Background",
+            "rect": {
+                "x": 319,
+                "y": 218,
+                "width": 110,
+                "height": 90
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pink button with a purple background"
+        },
+        {
+            "id": "F708BC70-32D6-42A2-8BD6-6F782F7B36A6",
+            "name": "Video Call",
+            "rect": {
+                "x": 353,
+                "y": 240,
+                "width": 42,
+                "height": 34
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "victory car wash logo"
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

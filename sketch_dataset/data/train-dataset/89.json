@@ -1,0 +1,597 @@
+{
+    "layers": [
+        {
+            "id": "3F5E1A0D-5869-4258-A0FA-000091023354",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "91F11688-C065-44EF-AF92-CB423725C400",
+            "name": "line",
+            "rect": {
+                "x": 38.999999999999886,
+                "y": 270,
+                "width": 2.000000000000057,
+                "height": 391
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the person is wearing a white shirt and black pants"
+        },
+        {
+            "id": "E4C8BF52-50B8-4EB8-9C2A-A2764D656828",
+            "name": "line",
+            "rect": {
+                "x": 38.99999999999994,
+                "y": 270,
+                "width": 2,
+                "height": 93
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "live camera from the beach, lake charles, la 70904"
+        },
+        {
+            "id": "B6136A33-8353-4907-88AA-B505D61BAC63",
+            "name": "line",
+            "rect": {
+                "x": 33.99999999999994,
+                "y": 260,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "995459FA-6E14-4BCA-B087-C91C0EF79129",
+            "name": "line",
+            "rect": {
+                "x": 33.99999999999994,
+                "y": 358.75,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "D65DBE9D-3C9B-4E89-AACB-4FC0FFE422C9",
+            "name": "line",
+            "rect": {
+                "x": 33.99999999999994,
+                "y": 457.5,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circular shape with a black background"
+        },
+        {
+            "id": "C333DB62-7188-466A-9AD2-1B32F1CB0413",
+            "name": "line",
+            "rect": {
+                "x": 33.99999999999994,
+                "y": 556.25,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circular shape with a black border"
+        },
+        {
+            "id": "E957D778-F34C-4B69-AE83-8713D058CB48",
+            "name": "line",
+            "rect": {
+                "x": 33.99999999999994,
+                "y": 655,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black border"
+        },
+        {
+            "id": "4083A66B-FEB3-4EEF-8960-83ABF1F7922B",
+            "name": "Order Placed",
+            "rect": {
+                "x": 60,
+                "y": 257,
+                "width": 144,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "order placed logo"
+        },
+        {
+            "id": "B525683C-584B-4789-B71E-12BCA2558B0E",
+            "name": "We have received you",
+            "rect": {
+                "x": 60,
+                "y": 284,
+                "width": 280,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "EFEE4DFD-3FD8-413D-91BE-CAF84561676E",
+            "name": "Order Shipped",
+            "rect": {
+                "x": 60,
+                "y": 454,
+                "width": 144,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the order shipped company"
+        },
+        {
+            "id": "34A489C1-7F77-4AD2-8AF1-ECDD2A1DE980",
+            "name": "Estimated for 29 Sep",
+            "rect": {
+                "x": 60,
+                "y": 481,
+                "width": 280,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "25500364-29F5-4680-82E5-354E5B527DDF",
+            "name": "Confirmed",
+            "rect": {
+                "x": 60,
+                "y": 356,
+                "width": 144,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "confirmed - the best of the best"
+        },
+        {
+            "id": "DEADCD7D-4E43-4170-A500-DC157984863A",
+            "name": "Your order has been",
+            "rect": {
+                "x": 60,
+                "y": 383,
+                "width": 280,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a barcode with a black background and white text"
+        },
+        {
+            "id": "A3279D1A-D497-4812-B71F-7592EC81B482",
+            "name": "Out for Delivery",
+            "rect": {
+                "x": 60,
+                "y": 553,
+                "width": 144,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "FDF0F765-431D-4526-A059-E5AB0DEC3CFE",
+            "name": "Estimated for 29 Sep",
+            "rect": {
+                "x": 60,
+                "y": 580,
+                "width": 280,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "82C63A5C-5900-48A0-B57A-1DE88A3348C4",
+            "name": "Delivered",
+            "rect": {
+                "x": 60,
+                "y": 651,
+                "width": 144,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for delivered"
+        },
+        {
+            "id": "A9C5720C-C31F-4338-A9D0-EACE356F48E0",
+            "name": "Estimated for 29 Sep",
+            "rect": {
+                "x": 60,
+                "y": 678,
+                "width": 280,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "29CEC4BF-8CD2-4BD0-9D16-05F7BA970553",
+            "name": "base",
+            "rect": {
+                "x": 0,
+                "y": 132,
+                "width": 375,
+                "height": 96
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "47E1B536-503B-40EC-854C-91A48BB836F1",
+            "name": "Your order Code: #IB",
+            "rect": {
+                "x": 72,
+                "y": 156,
+                "width": 232,
+                "height": 24
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a barcode"
+        },
+        {
+            "id": "DC649F45-6CF6-4305-B82B-D0D57F22B786",
+            "name": "2 items $69.99",
+            "rect": {
+                "x": 125.5,
+                "y": 189,
+                "width": 124,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in white"
+        },
+        {
+            "id": "7987714B-622A-4EAB-BC28-ABBC1331642C",
+            "name": "Background",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 116
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                0.8200000000000001
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "994DADBA-CFCD-466A-8D1A-AAB4E4D74AB0",
+            "name": "stt",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 27
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9725490196078431,
+                0.9725490196078431,
+                0.9725490196078431,
+                0.8200000000000001
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "56E0E271-BB0D-4029-9143-60C5A746D5BD",
+            "name": "base nav",
+            "rect": {
+                "x": 0,
+                "y": 27,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "434F8248-1890-4395-8DFD-8FE0A37277C8",
+            "name": "Maps",
+            "rect": {
+                "x": 16,
+                "y": 71,
+                "width": 343,
+                "height": 38
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for maps, with a black background"
+        },
+        {
+            "id": "F8077D7C-68C3-446E-8C22-69D8C42E34E5",
+            "name": "base nav",
+            "rect": {
+                "x": 0,
+                "y": 27,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "7F10E89E-3F4D-4B98-9E10-51FD131B2132",
+            "name": "back",
+            "rect": {
+                "x": 16,
+                "y": 38,
+                "width": 28,
+                "height": 21.94474471177591
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2901960784313725,
+                0.2901960784313725,
+                0.2901960784313725,
+                1
+            ],
+            "label": 0,
+            "msg": "a black arrow pointing to the right"
+        },
+        {
+            "id": "FDF14ED7-9B30-41A4-85B8-00DFBB3174AF",
+            "name": "Path",
+            "rect": {
+                "x": 332.75038289625854,
+                "y": 36.74950770481041,
+                "width": 19.254211858844087,
+                "height": 19.25508705029233
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a magnifying glass icon on a black background"
+        },
+        {
+            "id": "D0D352F0-6BD0-4273-8777-F57BD531F47D",
+            "name": "Path",
+            "rect": {
+                "x": 331,
+                "y": 35,
+                "width": 28,
+                "height": 28
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a magnifying glass icon on a black background"
+        },
+        {
+            "id": "6053D5FF-C80D-4E1C-AE10-A57FA19270D8",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 782,
+                "width": 375,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "D286E2B4-62A9-4D52-897D-A0B173DEE29C",
+            "name": "line",
+            "rect": {
+                "x": 133,
+                "y": 795,
+                "width": 110,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white square"
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

@@ -1,0 +1,806 @@
+{
+    "layers": [
+        {
+            "id": "7708D36D-255D-4B4D-9279-CC8AEB341858",
+            "name": "bg",
+            "rect": {
+                "x": 283,
+                "y": 576,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.592156862745098,
+                0,
+                1
+            ],
+            "label": 0,
+            "msg": "a large orange circle with a black background"
+        },
+        {
+            "id": "598975CC-84D6-4FB1-8368-7D8F0F06E14A",
+            "name": "-",
+            "rect": {
+                "x": 313,
+                "y": 590,
+                "width": 14,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black laptop with a white background"
+        },
+        {
+            "id": "575E73B2-5FDA-42F6-B53C-BC6B48353FDF",
+            "name": "bg",
+            "rect": {
+                "x": 283,
+                "y": 487,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.592156862745098,
+                0,
+                1
+            ],
+            "label": 0,
+            "msg": "a large orange circle with a black background"
+        },
+        {
+            "id": "B715935E-E99E-445E-8D77-E1DB04D794CF",
+            "name": "+",
+            "rect": {
+                "x": 307,
+                "y": 501,
+                "width": 26,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white cross on a black background"
+        },
+        {
+            "id": "07DD60DB-D6E9-4BB0-B035-106813CB2143",
+            "name": "bg",
+            "rect": {
+                "x": 283,
+                "y": 398,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.592156862745098,
+                0,
+                1
+            ],
+            "label": 0,
+            "msg": "a large orange circle with a black background"
+        },
+        {
+            "id": "D16EA0CB-E9EC-4864-B2E3-E16ECD248592",
+            "name": "－",
+            "rect": {
+                "x": 305,
+                "y": 421,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "AA757E37-F88F-4679-A967-2728CFD10C46",
+            "name": "bg",
+            "rect": {
+                "x": 283,
+                "y": 309,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.592156862745098,
+                0,
+                1
+            ],
+            "label": 0,
+            "msg": "a large orange circle with a black background"
+        },
+        {
+            "id": "9E16ADFB-A128-42A0-A42B-D981F951002C",
+            "name": "×",
+            "rect": {
+                "x": 307,
+                "y": 323,
+                "width": 26,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "x icon on a black background"
+        },
+        {
+            "id": "51585202-AE6E-4843-A09F-128066C7C4D2",
+            "name": "bg",
+            "rect": {
+                "x": 283,
+                "y": 220,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.592156862745098,
+                0,
+                1
+            ],
+            "label": 0,
+            "msg": "a large orange circle with a black background"
+        },
+        {
+            "id": "23975CD1-1CCF-465C-B1B2-3F952218BE1A",
+            "name": "÷",
+            "rect": {
+                "x": 307,
+                "y": 231,
+                "width": 26,
+                "height": 48
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white cross with a black background"
+        },
+        {
+            "id": "1BC8C982-6C62-4013-A55A-C9F023879D57",
+            "name": "bg",
+            "rect": {
+                "x": 194,
+                "y": 576,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2,
+                0.196078431372549,
+                0.203921568627451,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "9E22E10C-BE41-4108-8742-7D5278E6C5EB",
+            "name": ".",
+            "rect": {
+                "x": 225.5,
+                "y": 596,
+                "width": 11,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white square with a black background"
+        },
+        {
+            "id": "009D5518-2F6E-4877-8E5F-C832C018F5E7",
+            "name": "bg",
+            "rect": {
+                "x": 16,
+                "y": 576,
+                "width": 165,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2,
+                0.196078431372549,
+                0.203921568627451,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "279D397D-D9B1-4F83-B972-7B9D125BFBC4",
+            "name": "0",
+            "rect": {
+                "x": 40.5,
+                "y": 593,
+                "width": 23,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "9C837E65-1764-4911-872E-8F8A9E3B8E0D",
+            "name": "bg",
+            "rect": {
+                "x": 194,
+                "y": 487,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2,
+                0.196078431372549,
+                0.203921568627451,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "099222EE-716D-45B1-B353-22FFC6AAED3B",
+            "name": "3",
+            "rect": {
+                "x": 220,
+                "y": 503,
+                "width": 22,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white number three on a black background"
+        },
+        {
+            "id": "40180408-459E-41E2-A2DF-343852D87612",
+            "name": "bg",
+            "rect": {
+                "x": 105,
+                "y": 487,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2,
+                0.196078431372549,
+                0.203921568627451,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "DAFDCDBC-4175-4139-91EB-3F36E3E25A4B",
+            "name": "2",
+            "rect": {
+                "x": 131,
+                "y": 504,
+                "width": 22,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number two is shown in white on a black background"
+        },
+        {
+            "id": "C69C0F38-6209-41B4-A797-A210B2946C02",
+            "name": "bg",
+            "rect": {
+                "x": 16,
+                "y": 487,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2,
+                0.196078431372549,
+                0.203921568627451,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "D2E4B634-9039-4646-8537-CD864926D705",
+            "name": "1",
+            "rect": {
+                "x": 43.5,
+                "y": 504,
+                "width": 17,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white and black logo with a black background"
+        },
+        {
+            "id": "9329B757-EB58-4111-B066-D53E02EF0421",
+            "name": "bg",
+            "rect": {
+                "x": 194,
+                "y": 398,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2,
+                0.196078431372549,
+                0.203921568627451,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "3DE5470B-9FD1-4DEC-A23E-44FBC7EA33D0",
+            "name": "6",
+            "rect": {
+                "x": 219.5,
+                "y": 414,
+                "width": 23,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white number six on a black background"
+        },
+        {
+            "id": "B65DE035-5FC8-4D97-81C2-6181D76891D3",
+            "name": "bg",
+            "rect": {
+                "x": 105,
+                "y": 398,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2,
+                0.196078431372549,
+                0.203921568627451,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "0B3D2891-9EC0-4693-9229-9B808CFAA842",
+            "name": "5",
+            "rect": {
+                "x": 131,
+                "y": 415,
+                "width": 22,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number five is shown in white on a black background"
+        },
+        {
+            "id": "296305BE-5871-43F7-89A2-94CA6B6FCE3A",
+            "name": "bg",
+            "rect": {
+                "x": 16,
+                "y": 398,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2,
+                0.196078431372549,
+                0.203921568627451,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "BC248D31-3015-4A55-84E7-4B8A22A87377",
+            "name": "4",
+            "rect": {
+                "x": 40.5,
+                "y": 415,
+                "width": 23,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white number four is shown on a black background"
+        },
+        {
+            "id": "39172FF6-6B34-4D52-ADF6-B12BC6054604",
+            "name": "bg",
+            "rect": {
+                "x": 194,
+                "y": 309,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2,
+                0.196078431372549,
+                0.203921568627451,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "8B05A21B-4272-4744-9679-1C641BBAE85F",
+            "name": "9",
+            "rect": {
+                "x": 219.5,
+                "y": 325,
+                "width": 23,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 9 in white on a black background"
+        },
+        {
+            "id": "5D42A203-AACA-4145-A235-A8D45F597271",
+            "name": "bg",
+            "rect": {
+                "x": 105,
+                "y": 309,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2,
+                0.196078431372549,
+                0.203921568627451,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "12E7773A-8C90-4D05-A80A-3490123C498A",
+            "name": "8",
+            "rect": {
+                "x": 130.5,
+                "y": 326,
+                "width": 23,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white number eight on a black background"
+        },
+        {
+            "id": "7D85C5A2-151C-4A8F-9FB8-73C26A833679",
+            "name": "bg",
+            "rect": {
+                "x": 16,
+                "y": 309,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2,
+                0.196078431372549,
+                0.203921568627451,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "77706CB9-E934-4345-8381-89722E80263A",
+            "name": "7",
+            "rect": {
+                "x": 42,
+                "y": 326,
+                "width": 20,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the seven seven hotel"
+        },
+        {
+            "id": "1C2443A9-791D-4771-B2FA-C323A75EC7FB",
+            "name": "bg",
+            "rect": {
+                "x": 194,
+                "y": 220,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6431372549019608,
+                0.6549019607843137,
+                0.6509803921568628,
+                1
+            ],
+            "label": 0,
+            "msg": "the circle is a grey color and has a black border"
+        },
+        {
+            "id": "2CEB38C2-9027-4911-85BE-82607181D9BC",
+            "name": "%",
+            "rect": {
+                "x": 219,
+                "y": 239,
+                "width": 24,
+                "height": 36
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "2276DB15-070E-42D3-818A-3CB15393BD4E",
+            "name": "bg",
+            "rect": {
+                "x": 105,
+                "y": 220,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6431372549019608,
+                0.6549019607843137,
+                0.6509803921568628,
+                1
+            ],
+            "label": 0,
+            "msg": "the circle is a grey color and has a black border"
+        },
+        {
+            "id": "216C352B-670D-44B2-99F8-033F88E58D88",
+            "name": "–",
+            "rect": {
+                "x": 149,
+                "y": 245,
+                "width": 16,
+                "height": 36
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "6E92A9AB-B9AA-4877-9EED-4AF89F554CC7",
+            "name": "/",
+            "rect": {
+                "x": 137,
+                "y": 239,
+                "width": 10,
+                "height": 36
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "216C8F62-7450-4658-9700-5F1E12DDB1D4",
+            "name": "+",
+            "rect": {
+                "x": 117.5,
+                "y": 233,
+                "width": 19,
+                "height": 36
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "1FE7BC55-CE6B-4BB2-A3DE-F9148ADA5297",
+            "name": "bg",
+            "rect": {
+                "x": 16,
+                "y": 220,
+                "width": 75,
+                "height": 75
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6431372549019608,
+                0.6549019607843137,
+                0.6509803921568628,
+                1
+            ],
+            "label": 0,
+            "msg": "the circle is a grey color and has a black border"
+        },
+        {
+            "id": "39A298F2-3A9B-4D1F-9336-155760500E3B",
+            "name": "AC",
+            "rect": {
+                "x": 32,
+                "y": 239,
+                "width": 42,
+                "height": 36
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "44BD5D6E-53B5-4DDE-8979-C1BE8A0636B4",
+            "name": "123",
+            "rect": {
+                "x": 219,
+                "y": 101,
+                "width": 126,
+                "height": 110
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 12 is shown in white on a black background"
+        },
+        {
+            "id": "2C6E94C3-1336-4612-AD3A-C619186F903A",
+            "name": "status bar white",
+            "rect": {
+                "x": 6,
+                "y": 4,
+                "width": 364,
+                "height": 14
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a green and white light bulb is shown"
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

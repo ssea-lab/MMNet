@@ -1,0 +1,1072 @@
+{
+    "layers": [
+        {
+            "id": "D9418C71-3FB3-4304-ADDE-C9D0FE7C6A84",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 0,
+                "y": 502,
+                "width": 375,
+                "height": 165
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9607843137254902,
+                0.9607843137254902,
+                0.9607843137254902,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "A2628A98-5BC7-461B-8294-C7916CBD9F4B",
+            "name": "The Happy Lemon",
+            "rect": {
+                "x": 105.5,
+                "y": 375,
+                "width": 165,
+                "height": 23
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the happy leopard logo"
+        },
+        {
+            "id": "2A8B0254-5DEA-42CA-AC58-A90433B74E01",
+            "name": "Kurt Yamashita",
+            "rect": {
+                "x": 144,
+                "y": 408,
+                "width": 87,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a man with a gun"
+        },
+        {
+            "id": "E6EE2197-8CF8-4FC9-A5B8-AE51E25ABBE1",
+            "name": "Timer",
+            "rect": {
+                "x": 282,
+                "y": 47,
+                "width": 44,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "timberland boots logo on black background"
+        },
+        {
+            "id": "92CEFB01-440A-4AFC-BC17-5A97C4D3D1E8",
+            "name": "Stopwatch",
+            "rect": {
+                "x": 40,
+                "y": 48,
+                "width": 81,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word stopwatch is shown in a black background"
+        },
+        {
+            "id": "6721475D-14CC-4B12-9A07-B8AC76F2B9EF",
+            "name": "Rectangle 17",
+            "rect": {
+                "x": 282,
+                "y": 69,
+                "width": 43,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue sky with a plane flying in the air"
+        },
+        {
+            "id": "5B85A0D8-5753-4D55-9B7E-593E718BB08B",
+            "name": "Oval 8 Copy 3",
+            "rect": {
+                "x": 241.5,
+                "y": 543.5,
+                "width": 83,
+                "height": 83
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "E1D5DA84-46E4-495B-BAA9-CDEBF65B9373",
+            "name": "Oval 8 Copy",
+            "rect": {
+                "x": 246,
+                "y": 548,
+                "width": 74,
+                "height": 74
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "84B27AE5-FBFC-409F-AC75-14D9FEA82822",
+            "name": "Pause",
+            "rect": {
+                "x": 261,
+                "y": 578,
+                "width": 45,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the pause logo on a black background"
+        },
+        {
+            "id": "CECC15B2-782E-4850-87E7-592CDC3E84F2",
+            "name": "Oval 8",
+            "rect": {
+                "x": 55,
+                "y": 548,
+                "width": 74,
+                "height": 74
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "E091037C-12B6-49D0-9082-3BC17EF491DC",
+            "name": "Oval 8 Copy 2",
+            "rect": {
+                "x": 50.5,
+                "y": 543.5,
+                "width": 83,
+                "height": 83
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "0C988738-4793-468E-ACA4-E727C9A11E5F",
+            "name": "Start",
+            "rect": {
+                "x": 75,
+                "y": 578,
+                "width": 34,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word start is written in white letters on a black background"
+        },
+        {
+            "id": "0F844D60-880D-4212-B1E0-DC2363A2042B",
+            "name": "Line 4",
+            "rect": {
+                "x": 167.5,
+                "y": 585.5,
+                "width": 41,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and black pair of sneakers"
+        },
+        {
+            "id": "BABC7401-51BB-4052-8722-6A12DC1AB5B7",
+            "name": "Add thought",
+            "rect": {
+                "x": 238,
+                "y": 470,
+                "width": 74,
+                "height": 10
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for add on the internet"
+        },
+        {
+            "id": "C9B377A3-836D-4EB3-881D-ED3BAC2021EA",
+            "name": "Line",
+            "rect": {
+                "x": 320,
+                "y": 474,
+                "width": 9,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue sky with a plane flying in the air"
+        },
+        {
+            "id": "376DD696-F130-439E-B508-7D9C8383889C",
+            "name": "Path 3",
+            "rect": {
+                "x": 326.67621193709874,
+                "y": 471.6189996189996,
+                "width": 4.104850076177627,
+                "height": 5.768235441005345
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue arrow pointing to a black arrow"
+        },
+        {
+            "id": "380A7AF8-5896-4FB9-9AB7-227CD3528996",
+            "name": "Add quote",
+            "rect": {
+                "x": 56.5,
+                "y": 470,
+                "width": 61,
+                "height": 10
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the words \"the best quote\" are in blue letters"
+        },
+        {
+            "id": "CD91F042-B472-484D-A815-763819D3AF90",
+            "name": "Line",
+            "rect": {
+                "x": 123,
+                "y": 474,
+                "width": 9,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue sky with a plane flying in the air"
+        },
+        {
+            "id": "50A69A15-688B-4D30-8F91-109DD8C803B4",
+            "name": "Path 3",
+            "rect": {
+                "x": 129.67621193709874,
+                "y": 471.6189996189996,
+                "width": 4.104850076177627,
+                "height": 5.768235441005345
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue arrow pointing to a black arrow"
+        },
+        {
+            "id": "299ACE31-3B8F-4818-8438-7A43CBF5A8CE",
+            "name": "Line 2",
+            "rect": {
+                "x": 187.5,
+                "y": 458.5,
+                "width": 1,
+                "height": 31
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a black square with a white border"
+        },
+        {
+            "id": "5E72CC62-2B59-4D2E-A85B-40A21461E3AF",
+            "name": "Line 3",
+            "rect": {
+                "x": 0,
+                "y": 445,
+                "width": 376,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "0FBBE0BC-0FA6-45F0-B6D9-9E37922A5195",
+            "name": "Bars/Status/Black",
+            "rect": {
+                "x": 6,
+                "y": 3.5,
+                "width": 363.5,
+                "height": 14
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white text"
+        },
+        {
+            "id": "844022FA-1FC6-4A46-B618-B49EB0977784",
+            "name": "body",
+            "rect": {
+                "x": 0,
+                "y": 114.5,
+                "width": 375,
+                "height": 215.5
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "27DACBE6-1C14-4D5F-9F41-E15E9C661120",
+            "name": "1993",
+            "rect": {
+                "x": 268,
+                "y": 307,
+                "width": 44,
+                "height": 5
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "85CF2D83-37A8-4D2F-9077-001BAEDF85FF",
+            "name": "5",
+            "rect": {
+                "x": 204,
+                "y": 307,
+                "width": 12,
+                "height": 5
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "D7B0BADD-16BE-4D4C-B2EF-819E0F45D577",
+            "name": "May",
+            "rect": {
+                "x": 75,
+                "y": 307,
+                "width": 16,
+                "height": 5
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "84C1F297-A88B-49B4-B3F5-6AAFCA14E8B5",
+            "name": "1992",
+            "rect": {
+                "x": 267,
+                "y": 293,
+                "width": 46,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "0540AF54-470C-4789-B3ED-B3ED390CCE3F",
+            "name": "4",
+            "rect": {
+                "x": 203,
+                "y": 294,
+                "width": 12,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "3060B87A-8F23-489B-A839-E8E49DAFB70E",
+            "name": "April",
+            "rect": {
+                "x": 70,
+                "y": 294,
+                "width": 27,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "44168CF7-2705-4A4D-A38F-6C29B327C0B5",
+            "name": "1991",
+            "rect": {
+                "x": 267,
+                "y": 272,
+                "width": 46,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "E7269FAE-353A-401E-89A6-B2DDFEB4F908",
+            "name": "3",
+            "rect": {
+                "x": 202,
+                "y": 273,
+                "width": 13,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "E77A4C52-560E-49DD-A369-0D57801DA2B4",
+            "name": "March",
+            "rect": {
+                "x": 67,
+                "y": 273,
+                "width": 47,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "8EA677D1-3B31-4DDB-AF34-9D58B14F1054",
+            "name": "1990",
+            "rect": {
+                "x": 266,
+                "y": 243,
+                "width": 50,
+                "height": 23
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "A801CA18-9940-4A93-8222-5E7781263F84",
+            "name": "2",
+            "rect": {
+                "x": 201,
+                "y": 243,
+                "width": 13,
+                "height": 23
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "EDF26BC9-24FE-4F3C-849D-8A06EE2E0A42",
+            "name": "February",
+            "rect": {
+                "x": 64,
+                "y": 243,
+                "width": 82,
+                "height": 23
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "DABA4146-9353-4759-A23A-A06C62BB50D3",
+            "name": "line",
+            "rect": {
+                "x": 0,
+                "y": 239.5,
+                "width": 375,
+                "height": 0.49883720930210984
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person"
+        },
+        {
+            "id": "B0C76B81-0212-47EB-B585-3E8D498BE20E",
+            "name": "line",
+            "rect": {
+                "x": 0,
+                "y": 205,
+                "width": 375,
+                "height": 0.49883720930210984
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person"
+        },
+        {
+            "id": "013D518C-D0B7-456A-B2AA-9C4EFBE1FDE7",
+            "name": "1989",
+            "rect": {
+                "x": 264,
+                "y": 209,
+                "width": 53,
+                "height": 28
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "64D55623-182C-4ED8-811B-22780F909118",
+            "name": "1",
+            "rect": {
+                "x": 202,
+                "y": 209,
+                "width": 11,
+                "height": 28
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "A536432E-8B4F-4632-B819-BAF92A0901A9",
+            "name": "January",
+            "rect": {
+                "x": 58,
+                "y": 209,
+                "width": 82,
+                "height": 28
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "15E15676-FD34-4EB9-94C3-A0620949E747",
+            "name": "1988",
+            "rect": {
+                "x": 266,
+                "y": 180,
+                "width": 50,
+                "height": 23
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "B72E4C44-F098-4F31-BD10-DFF277E9017E",
+            "name": "31",
+            "rect": {
+                "x": 201,
+                "y": 180,
+                "width": 23,
+                "height": 23
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "F99F8ACD-43F6-49CB-8527-7EE8315FCE39",
+            "name": "December",
+            "rect": {
+                "x": 64,
+                "y": 180,
+                "width": 95,
+                "height": 23
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "AC02E511-829A-45F4-BA16-042C38A17C6C",
+            "name": "1987",
+            "rect": {
+                "x": 267,
+                "y": 155,
+                "width": 46,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "49B2A10E-655E-476E-81B4-7D63A7097175",
+            "name": "30",
+            "rect": {
+                "x": 202,
+                "y": 155,
+                "width": 25,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "58CC1663-6690-4265-96FC-59A8E68BB6F6",
+            "name": "November",
+            "rect": {
+                "x": 67,
+                "y": 155,
+                "width": 76,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "6DDB0EED-E95A-4984-80A1-647AFBF235B7",
+            "name": "1986",
+            "rect": {
+                "x": 266,
+                "y": 138,
+                "width": 47,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "693ECAB6-1488-4D6D-84E2-0575512A7F8B",
+            "name": "29",
+            "rect": {
+                "x": 203,
+                "y": 138,
+                "width": 24,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "1C9202A0-DC22-4270-AC8B-C02909076D51",
+            "name": "October",
+            "rect": {
+                "x": 70,
+                "y": 138,
+                "width": 45,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "788D48E8-7FF0-4F59-9771-0E0E59B1DC51",
+            "name": "1985",
+            "rect": {
+                "x": 268,
+                "y": 133,
+                "width": 44,
+                "height": 5
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "675448D0-9753-4AC6-8016-1BDB69D4CB9A",
+            "name": "28",
+            "rect": {
+                "x": 204,
+                "y": 133,
+                "width": 23,
+                "height": 5
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "917F5CB0-943E-44E4-A5AF-93DA4C02B614",
+            "name": "September",
+            "rect": {
+                "x": 75,
+                "y": 133,
+                "width": 44,
+                "height": 5
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "FBE3EAFF-EF62-4CCD-8F12-BB997F3E19D6",
+            "name": "bottom overlay",
+            "rect": {
+                "x": 0,
+                "y": 239.70930232558158,
+                "width": 375,
+                "height": 89.79069767441842
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5803921568627451,
+                0.5803921568627451,
+                0.5803921568627451,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "4C0FC8BE-0335-4B45-886B-EF31543FE794",
+            "name": "top overlay",
+            "rect": {
+                "x": 0,
+                "y": 115,
+                "width": 375,
+                "height": 89.79069767441842
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5803921568627451,
+                0.5803921568627451,
+                0.5803921568627451,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "78BA38B8-BE8B-43B6-864D-F5A813566849",
+            "name": "Line 3",
+            "rect": {
+                "x": -0.5,
+                "y": 354.5,
+                "width": 376,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "6BC9D94B-6675-4DDC-825D-6CBFB98678EE",
+            "name": "Line 3 Copy",
+            "rect": {
+                "x": -0.5,
+                "y": 88,
+                "width": 376,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

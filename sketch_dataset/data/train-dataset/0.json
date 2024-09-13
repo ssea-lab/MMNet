@@ -1,0 +1,540 @@
+{
+    "layers": [
+        {
+            "id": "F52FD7C8-A281-4D5D-9233-DA9FB8A39427",
+            "name": "Avatar",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 415
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "9CD4B338-C115-4517-920C-472419622439",
+            "name": "Input",
+            "rect": {
+                "x": -1,
+                "y": 356,
+                "width": 377,
+                "height": 82
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "DF6B7E4D-D429-4740-BBF9-FBD0737CFA46",
+            "name": "Input",
+            "rect": {
+                "x": -1,
+                "y": 277,
+                "width": 377,
+                "height": 82
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "3B5BE5DE-0AA7-4127-B1CC-87A0503FDDC1",
+            "name": "Input",
+            "rect": {
+                "x": -1,
+                "y": 413,
+                "width": 377,
+                "height": 82
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "FE2F659A-0328-4F76-8D03-C94C9F76A80D",
+            "name": "?",
+            "rect": {
+                "x": 342,
+                "y": 442,
+                "width": 9,
+                "height": 23
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the question mark icon on a black background"
+        },
+        {
+            "id": "7EF2EA84-71F3-4C53-879E-E1FA16EBB227",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 25,
+                "y": 455,
+                "width": 6.043795620438004,
+                "height": 6
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and blue striped background with a black and white stripe"
+        },
+        {
+            "id": "87D972AC-08E8-4186-9F8D-420DFD6519DB",
+            "name": "Rectangle 4 Copy",
+            "rect": {
+                "x": 37.59124087591249,
+                "y": 455,
+                "width": 6.043795620438004,
+                "height": 6
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and blue striped background with a black and white stripe"
+        },
+        {
+            "id": "70A799E3-73C6-4465-979A-4D9326CBF5D4",
+            "name": "Rectangle 4 Copy 2",
+            "rect": {
+                "x": 50.18248175182475,
+                "y": 455,
+                "width": 6.043795620438004,
+                "height": 6
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and blue striped background with a black and white stripe"
+        },
+        {
+            "id": "E753E121-6AB0-4E76-82FB-F48B7DA4AD39",
+            "name": "Rectangle 4 Copy 3",
+            "rect": {
+                "x": 62.77372262773724,
+                "y": 455,
+                "width": 6.043795620438004,
+                "height": 6
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and blue striped background with a black and white stripe"
+        },
+        {
+            "id": "7CE487CC-2641-4699-809F-50812ACEE7C0",
+            "name": "Rectangle 4 Copy 4",
+            "rect": {
+                "x": 75.3649635036495,
+                "y": 455,
+                "width": 6.043795620438004,
+                "height": 6
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and blue striped background with a black and white stripe"
+        },
+        {
+            "id": "C959E230-C500-407C-BC1A-7FC8281F24EE",
+            "name": "Rectangle 4 Copy 5",
+            "rect": {
+                "x": 87.956204379562,
+                "y": 455,
+                "width": 6.043795620438004,
+                "height": 6
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and blue striped background with a black and white stripe"
+        },
+        {
+            "id": "3D750E77-8837-4CA3-815E-A81B7EA6BA4B",
+            "name": "Email",
+            "rect": {
+                "x": 25,
+                "y": 367,
+                "width": 31,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for email"
+        },
+        {
+            "id": "11403A36-6BAD-4631-878A-1325350931C8",
+            "name": "Name",
+            "rect": {
+                "x": 25,
+                "y": 295,
+                "width": 32,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the name of the company is written in blue letters"
+        },
+        {
+            "id": "95C32331-E5D6-4DCC-8D52-9402042D9D42",
+            "name": "hello@harpen.design",
+            "rect": {
+                "x": 24,
+                "y": 382,
+                "width": 172,
+                "height": 23
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a man sitting on a chair"
+        },
+        {
+            "id": "AD05481B-0271-4811-84B3-EA303285EDDF",
+            "name": "Olive Carson",
+            "rect": {
+                "x": 24,
+                "y": 310,
+                "width": 102,
+                "height": 23
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the olive carlson logo"
+        },
+        {
+            "id": "E2896D29-9E87-4BA2-AE17-9C392629263D",
+            "name": "Password",
+            "rect": {
+                "x": 25,
+                "y": 431,
+                "width": 53,
+                "height": 15
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the password is the most important part of your online security"
+        },
+        {
+            "id": "DF8EA4F1-1D60-4DDF-B791-FFC7E6672E9B",
+            "name": "Avatar",
+            "rect": {
+                "x": 28,
+                "y": 108,
+                "width": 160,
+                "height": 160
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the model wears a yellow bra top and yellow shorts"
+        },
+        {
+            "id": "5B705D52-F6F9-432D-BD7C-EB638238BBDE",
+            "name": "Sign In",
+            "rect": {
+                "x": 64,
+                "y": 49,
+                "width": 76,
+                "height": 32
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the sign in the sky logo"
+        },
+        {
+            "id": "CA5781D6-A8B6-466D-A88F-EE95B1B0AF17",
+            "name": "iPhone X/Status Bars/Status Bar (White)",
+            "rect": {
+                "x": 21.5,
+                "y": 16.5,
+                "width": 339.3280380056085,
+                "height": 17
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "441CED9B-453B-49EA-84D1-E8895C442589",
+            "name": "Buttons/ArrowWhite",
+            "rect": {
+                "x": 25,
+                "y": 665,
+                "width": 325,
+                "height": 65
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a pink background with the word coraline written in white"
+        },
+        {
+            "id": "1A4E42DC-1EC2-4EDA-B93A-61047AD7552B",
+            "name": "Box Copy 2",
+            "rect": {
+                "x": 109,
+                "y": 547,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1877685189247132,
+                0.6553538441658022,
+                0.895715057849884,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "CE2DDA3D-9D29-449E-80C4-7B8838194D57",
+            "name": "Shape",
+            "rect": {
+                "x": 127,
+                "y": 570,
+                "width": 26,
+                "height": 22
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white paper airplane flying in the air"
+        },
+        {
+            "id": "39733A00-7052-477F-A65E-F2E390309148",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 782,
+                "width": 375,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "C1D50AB6-FDEC-4082-BD53-A2BCB3CE84E2",
+            "name": "line",
+            "rect": {
+                "x": 133,
+                "y": 795,
+                "width": 110,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1071216743409998,
+                0.1878404916072689,
+                0.2454028486394558,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white square"
+        },
+        {
+            "id": "C4CBDBA5-8B44-4115-8AB4-902F0F4EABEA",
+            "name": "Box",
+            "rect": {
+                "x": 204,
+                "y": 547,
+                "width": 65,
+                "height": 65
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.185120414231132,
+                0.3447709553012778,
+                0.7748458758503401,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue background with a white square"
+        },
+        {
+            "id": "448C4D7A-6489-41DC-B85E-DB8ACD40BB85",
+            "name": "Shape",
+            "rect": {
+                "x": 231,
+                "y": 566,
+                "width": 12,
+                "height": 26
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white cross with a black background"
+        },
+        {
+            "id": "67DFC700-0B94-4B73-B675-D8472360DB29",
+            "name": "Shape",
+            "rect": {
+                "x": 25,
+                "y": 64,
+                "width": 16,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black background with a white text"
+        },
+        {
+            "id": "28F7385D-D6AC-474A-A280-92210C219693",
+            "name": "Shape",
+            "rect": {
+                "x": 23.585786437626894,
+                "y": 58.29289321881356,
+                "width": 8.121320343559546,
+                "height": 13.414213562372879
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a dark blue arrow pointing to the left"
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

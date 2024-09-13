@@ -1,0 +1,806 @@
+{
+    "layers": [
+        {
+            "id": "36C4F3D0-9BCB-4A03-90D1-4CF042D74F86",
+            "name": "Location Access",
+            "rect": {
+                "x": 107,
+                "y": 406,
+                "width": 161,
+                "height": 24
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in blue"
+        },
+        {
+            "id": "73165F8F-63CA-426C-9F48-1DF1E42767FA",
+            "name": "Please enable locati",
+            "rect": {
+                "x": 58,
+                "y": 445,
+                "width": 259,
+                "height": 50
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person"
+        },
+        {
+            "id": "CB649167-53F2-459F-8952-7F64103F4D6E",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 126.5,
+                "y": 530,
+                "width": 122,
+                "height": 44
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.5960194684457087,
+                0.3452690972222222,
+                1
+            ],
+            "label": 0,
+            "msg": "a large orange circle with a black background"
+        },
+        {
+            "id": "38D8B694-D1E2-4ED8-9F4B-5F271E19D2BF",
+            "name": "Enable",
+            "rect": {
+                "x": 157.5,
+                "y": 543,
+                "width": 60,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word nable is shown in black and white"
+        },
+        {
+            "id": "BBAD3E01-5040-4536-A17F-A08A3954A17A",
+            "name": "shadow",
+            "rect": {
+                "x": 119.43295296804172,
+                "y": 190.1858589050903,
+                "width": 150.0939040428666,
+                "height": 154.1945263046182
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8705882352941177,
+                0.9176470588235293,
+                0.9568627450980393,
+                1
+            ],
+            "label": 0,
+            "msg": "a white paper triangle with a black background"
+        },
+        {
+            "id": "D99BAEF1-8D00-47CD-985D-72A04CD837F2",
+            "name": "Rectangle 47 Copy 5",
+            "rect": {
+                "x": 94.28184757368945,
+                "y": 191.20512580273513,
+                "width": 79.17352447800567,
+                "height": 153.69046772766873
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue square with a white outline"
+        },
+        {
+            "id": "9BF4B2FE-ECE5-47AD-8A3D-A05CE9BFDCBA",
+            "name": "Rectangle 47 Copy 4",
+            "rect": {
+                "x": 185.42042066168005,
+                "y": 176.77019391221697,
+                "width": 79.17352447800567,
+                "height": 153.69046772766873
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue square with a white outline"
+        },
+        {
+            "id": "B3D62E9F-DAD4-4A6A-B73B-D6A5085861A7",
+            "name": "Rectangle 47 Copy 3",
+            "rect": {
+                "x": 139.85113411768452,
+                "y": 183.98765985747602,
+                "width": 79.17352447800567,
+                "height": 153.69046772766873
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue square with a white outline"
+        },
+        {
+            "id": "B0BDF867-BCF3-49E1-A731-02A6CD97C7A1",
+            "name": "Rectangle 47",
+            "rect": {
+                "x": 99.31617424138904,
+                "y": 196.24044254406863,
+                "width": 69.10487114260013,
+                "height": 143.61983424500107
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6788287991421712,
+                0.882922436921698,
+                0.9465880102040817,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue sheet of paper with a black border"
+        },
+        {
+            "id": "5FD41C54-EBF6-4CA0-9B35-566DDB7FBDF5",
+            "name": "Rectangle 47 Copy 6",
+            "rect": {
+                "x": 110.62673398553306,
+                "y": 268.4562268318665,
+                "width": 57.79244253084153,
+                "height": 71.42550334107563
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6784313725490198,
+                0.9450980392156862,
+                0.6871723145780052,
+                1
+            ],
+            "label": 0,
+            "msg": "a green square with a black border"
+        },
+        {
+            "id": "DFE12D88-8C18-4EFF-99AE-61978C7A1483",
+            "name": "Rectangle 47 Copy 2",
+            "rect": {
+                "x": 190.4547473293801,
+                "y": 181.80551065355039,
+                "width": 69.10487114260013,
+                "height": 143.61983424500104
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6788287991421712,
+                0.882922436921698,
+                0.9465880102040817,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue sheet of paper with a black border"
+        },
+        {
+            "id": "523037E4-4BA8-4A13-A2C9-B88D37B14FB6",
+            "name": "Rectangle 47 Copy 8",
+            "rect": {
+                "x": 204.5697410492744,
+                "y": 271.25954674149824,
+                "width": 55.37193402170578,
+                "height": 54.17638994107335
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6784313725490198,
+                0.9450980392156862,
+                0.6862745098039217,
+                1
+            ],
+            "label": 0,
+            "msg": "a green folder with a white background"
+        },
+        {
+            "id": "62D10D50-90CB-4DAC-92E9-511F0A4CEEA0",
+            "name": "Rectangle 47 Copy",
+            "rect": {
+                "x": 144.88546078538457,
+                "y": 189.02297659880955,
+                "width": 69.10487114259968,
+                "height": 143.6198342450011
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6041271875775049,
+                0.8394296113627742,
+                0.9118303571428571,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue square with a black background"
+        },
+        {
+            "id": "AD208478-6E96-411B-8598-51CE126C707A",
+            "name": "Rectangle 47 Copy 7",
+            "rect": {
+                "x": 152.55832480096024,
+                "y": 237.431354985425,
+                "width": 61.56695382692442,
+                "height": 95.21255569394947
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6041271875775049,
+                0.9118303571428571,
+                0.61363839288676,
+                1
+            ],
+            "label": 0,
+            "msg": "a green folder with a black background"
+        },
+        {
+            "id": "AA22B4C0-2433-4C19-AF8C-ED1B8E8042B2",
+            "name": "Path 2",
+            "rect": {
+                "x": 102.45272885471513,
+                "y": 224.1792021756728,
+                "width": 155.34177990063563,
+                "height": 83.61344419712134
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and black image of a musical note"
+        },
+        {
+            "id": "419DFA3F-0D99-47DB-B4D8-28FBA6D15DDB",
+            "name": "Path 3",
+            "rect": {
+                "x": 123.27767300384949,
+                "y": 198.93427264147337,
+                "width": 27.58683150141951,
+                "height": 56.68929868162232
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white line on a black background"
+        },
+        {
+            "id": "DEA4304A-4045-4232-B0BA-B22F0B9A5688",
+            "name": "Path 4",
+            "rect": {
+                "x": 130.58327784278163,
+                "y": 270.55310835208616,
+                "width": 84.7154825790808,
+                "height": 69.18623993229778
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white line on a black background"
+        },
+        {
+            "id": "DD45FFF0-D645-4367-9B53-D050B89F557C",
+            "name": "Path 5",
+            "rect": {
+                "x": 182.6233285178928,
+                "y": 207.24394512899673,
+                "width": 68.1798612062953,
+                "height": 41.084763641117945
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a white line with a small arrow pointing up"
+        },
+        {
+            "id": "28CF3FEB-9D0D-4919-A5BA-BE3901B74BF5",
+            "name": "shadow",
+            "rect": {
+                "x": 175.2450172886165,
+                "y": 192.18347574868596,
+                "width": 85.11529404408066,
+                "height": 99.72072255523409
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue kite flying in the air"
+        },
+        {
+            "id": "DB3366A3-F914-46BB-9E88-B03F9BB55700",
+            "name": "Line",
+            "rect": {
+                "x": 104.21898898703967,
+                "y": 137.32578296430606,
+                "width": 22.41486105399963,
+                "height": 25.21645508547809
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9228050595238095,
+                0.9228050595238095,
+                0.9228050595238095,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic toothbrush with a small hole in it"
+        },
+        {
+            "id": "0BF44D47-A4C1-4510-97CF-51B7B17237D8",
+            "name": "Line Copy",
+            "rect": {
+                "x": 95.40286159689686,
+                "y": 153.3894925312221,
+                "width": 25.241584737570065,
+                "height": 23.827021287574667
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9228050595238095,
+                0.9228050595238095,
+                0.9228050595238095,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic plate with a black background"
+        },
+        {
+            "id": "233DB2B1-A2C9-4C5A-A23A-2A1E1BF1CD8C",
+            "name": "Line Copy 2",
+            "rect": {
+                "x": 122.74475790221186,
+                "y": 128.02038931541716,
+                "width": 14.29166861695694,
+                "height": 21.352216483649272
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9228050595238095,
+                0.9228050595238095,
+                0.9228050595238095,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic tube with a hole in it"
+        },
+        {
+            "id": "7E8FA705-554C-4C6E-9E76-C7336B1D26A0",
+            "name": "Line",
+            "rect": {
+                "x": 254.1867185861929,
+                "y": 145.66568097139609,
+                "width": 24.360559569853194,
+                "height": 25.069568404737907
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9228050595238095,
+                0.9228050595238095,
+                0.9228050595238095,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic object with a hole in it"
+        },
+        {
+            "id": "725EDA5D-ED36-4A81-97E1-29DB72256BD3",
+            "name": "Line Copy",
+            "rect": {
+                "x": 257.9028867144316,
+                "y": 164.00117047681073,
+                "width": 25.019431529693065,
+                "height": 21.543119005411057
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9228050595238095,
+                0.9228050595238095,
+                0.9228050595238095,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic bottle with a hole in the top"
+        },
+        {
+            "id": "23F7F9EE-CBFE-4CF1-9880-5E4F9E85E346",
+            "name": "Line Copy 2",
+            "rect": {
+                "x": 245.70635489831875,
+                "y": 132.51045575966123,
+                "width": 17.697915941904284,
+                "height": 23.38158496479582
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9228050595238095,
+                0.9228050595238095,
+                0.9228050595238095,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic tube with a small hole in it"
+        },
+        {
+            "id": "2E017917-065C-4D2C-8DDE-CAD18308C790",
+            "name": "Rectangle 14",
+            "rect": {
+                "x": 146.07262329546938,
+                "y": 186.740401018642,
+                "width": 72.60879667759127,
+                "height": 67.51495723986551
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the pink phone number is shown on a black background"
+        },
+        {
+            "id": "6B15E0E2-1B4A-4EEA-865F-9514D1B1E029",
+            "name": "Oval",
+            "rect": {
+                "x": 141.1795282658518,
+                "y": 155.7679202741469,
+                "width": 75.94315019560327,
+                "height": 76.91392684047378
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the pink phone number is shown on a black background"
+        },
+        {
+            "id": "08126CF4-2F7A-4DFB-A6EF-8C2506E058AD",
+            "name": "Oval 2",
+            "rect": {
+                "x": 160.69519166285863,
+                "y": 177.0922493846313,
+                "width": 37.29481850813636,
+                "height": 37.38451344744348
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the pink phone number is shown on a black background"
+        },
+        {
+            "id": "94F24AD4-81DF-4270-86AA-F4B7BA75B360",
+            "name": "Rectangle",
+            "rect": {
+                "x": 176.09529413943665,
+                "y": 151.46670110321483,
+                "width": 47.04992404578161,
+                "height": 112.39418224662373
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the pink phone number is shown on a black background"
+        },
+        {
+            "id": "A7635409-28B8-4765-ABB3-36F51BE4018F",
+            "name": "Rectangle 14",
+            "rect": {
+                "x": 138.1561959959049,
+                "y": 186.96023820697422,
+                "width": 72.72835555354686,
+                "height": 68.48868614418942
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the pink arrow is shown on a black background"
+        },
+        {
+            "id": "492FD1F4-ACF0-4915-9C90-E87961E48CFA",
+            "name": "Oval",
+            "rect": {
+                "x": 133.37345352867987,
+                "y": 156.8865069598183,
+                "width": 75.8327976332107,
+                "height": 76.01517734313506
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the pink arrow is shown on a black background"
+        },
+        {
+            "id": "039320E2-B163-4E7C-B23A-180F9A86175A",
+            "name": "Oval 2",
+            "rect": {
+                "x": 152.77876436329416,
+                "y": 177.31208657296347,
+                "width": 37.29481850813636,
+                "height": 37.38451344744348
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the pink arrow is shown on a black background"
+        },
+        {
+            "id": "01A34A47-AF90-4E9B-931C-633D00243C40",
+            "name": "Rectangle",
+            "rect": {
+                "x": 168.17886683987217,
+                "y": 151.6865382915481,
+                "width": 47.04992404578161,
+                "height": 112.39418224662361
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the pink arrow is shown on a black background"
+        },
+        {
+            "id": "716B1ECD-84B7-4F52-BEF1-E6A9D4AA691B",
+            "name": "Rectangle 14",
+            "rect": {
+                "x": 159.23008696183024,
+                "y": 187.30864056277358,
+                "width": 70.62390442675269,
+                "height": 65.2081206157161
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the pink arrow is shown on a black background"
+        },
+        {
+            "id": "A4E73AAC-C406-4C66-8393-BC0A2A7F9D65",
+            "name": "Oval",
+            "rect": {
+                "x": 160.00478176730348,
+                "y": 157.81184713104938,
+                "width": 73.53016555697332,
+                "height": 73.27338646479353
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the pink arrow is shown on a black background"
+        },
+        {
+            "id": "EEA7967A-DC3C-4803-B17C-06148CC5BDCC",
+            "name": "Oval 2",
+            "rect": {
+                "x": 178.60604282289842,
+                "y": 177.04460624710478,
+                "width": 36.19128215959836,
+                "height": 36.36648486585162
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the pink arrow is shown on a black background"
+        },
+        {
+            "id": "4CA53B3C-8C4E-4267-8A95-6B347FEC0D15",
+            "name": "Rectangle",
+            "rect": {
+                "x": 155.2193918232988,
+                "y": 151.9760993652415,
+                "width": 43.33153022882652,
+                "height": 111.69153103311419
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the pink arrow is shown on a black background"
+        },
+        {
+            "id": "DD0673BA-D233-4FB5-95A7-EF8ABFBE57C7",
+            "name": "Rectangle 14",
+            "rect": {
+                "x": 166.3551347525795,
+                "y": 188.42810850239766,
+                "width": 70.7337858915671,
+                "height": 66.46407150564738
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a pink arrow with a black background"
+        },
+        {
+            "id": "206300C5-CC9E-4AD0-BBC4-D6354794FF3E",
+            "name": "Oval",
+            "rect": {
+                "x": 167.2397110228667,
+                "y": 158.25951564156864,
+                "width": 73.58894039118331,
+                "height": 73.94518589389827
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a pink arrow with a black background"
+        },
+        {
+            "id": "A2BDEC3E-C657-41D7-9E2B-34E2B35129CF",
+            "name": "Oval 2",
+            "rect": {
+                "x": 185.84097207846162,
+                "y": 178.16407418672875,
+                "width": 36.19128215959836,
+                "height": 36.36648486585162
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a pink arrow with a black background"
+        },
+        {
+            "id": "38F1ABEA-F90F-48B7-AF8D-A693B3D9F2D3",
+            "name": "Rectangle",
+            "rect": {
+                "x": 162.454321078862,
+                "y": 153.09556730486568,
+                "width": 43.33153022882652,
+                "height": 111.69153103311405
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a pink arrow with a black background"
+        },
+        {
+            "id": "88ABD9AB-BA29-471D-B19E-5FB79016C912",
+            "name": "status bar",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 22
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9789017280385165,
+                0.9815812280911385,
+                0.9867665816326531,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white image"
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

@@ -1,0 +1,445 @@
+{
+    "layers": [
+        {
+            "id": "A925DF1A-4A74-48E7-B3CA-C196E42457BB",
+            "name": "Payment Failed",
+            "rect": {
+                "x": 112.5,
+                "y": 406,
+                "width": 150,
+                "height": 24
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for payment failed"
+        },
+        {
+            "id": "BC0C87DE-C27E-400F-801A-70C919DFEFF5",
+            "name": "Your card was reject",
+            "rect": {
+                "x": 58,
+                "y": 445,
+                "width": 259,
+                "height": 50
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person"
+        },
+        {
+            "id": "461E477D-4C0F-40CB-B260-A5DEB3288180",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 126.5,
+                "y": 530,
+                "width": 122,
+                "height": 44
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.5960194684457087,
+                0.3452690972222222,
+                1
+            ],
+            "label": 0,
+            "msg": "a pink circle with a black background"
+        },
+        {
+            "id": "D2B9C54F-3EB0-41B7-B0FE-A975E60CF315",
+            "name": "Back",
+            "rect": {
+                "x": 166.5,
+                "y": 543,
+                "width": 42,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "back to back logo"
+        },
+        {
+            "id": "0CC9D44E-D68C-4847-87F7-7394C6BA7019",
+            "name": "circle",
+            "rect": {
+                "x": 132,
+                "y": 138,
+                "width": 114,
+                "height": 114
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "D17E3810-5ABD-4E33-BE32-7BF7262E652E",
+            "name": "circle",
+            "rect": {
+                "x": 89,
+                "y": 95,
+                "width": 200,
+                "height": 200
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a circle with a black background and a white dot in the middle"
+        },
+        {
+            "id": "A456B65F-DF01-4949-AD9D-B151BBDA8486",
+            "name": "!",
+            "rect": {
+                "x": 178,
+                "y": 153,
+                "width": 27,
+                "height": 79
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue square with a black background"
+        },
+        {
+            "id": "79F51BD8-34D1-4A33-B8A4-A09E915B6B45",
+            "name": "shadow",
+            "rect": {
+                "x": 74.25892718683554,
+                "y": 337,
+                "width": 184.8310691510551,
+                "height": 10
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and white circular object with a black background"
+        },
+        {
+            "id": "A45EE8C3-BA8C-4485-9466-2CE3DE75473B",
+            "name": "Mask",
+            "rect": {
+                "x": 75.01597063999816,
+                "y": 185.24897612655866,
+                "width": 115.19989716114742,
+                "height": 123.22388446577037
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0,
+                0.7196447580603232,
+                0.8554953231292517,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue folder icon on a black background"
+        },
+        {
+            "id": "8054D9F2-1913-4D96-9DF7-C68711E1211A",
+            "name": "Oval",
+            "rect": {
+                "x": 115.95863193158311,
+                "y": 269.9340051777859,
+                "width": 21.262816780437788,
+                "height": 21.26281678043756
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "F5593566-79C6-4904-903F-34959F73E2CB",
+            "name": "Oval Copy",
+            "rect": {
+                "x": 124.11540201491334,
+                "y": 266.1304408221196,
+                "width": 21.262816780437788,
+                "height": 21.26281678043756
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "F010CA71-4C6B-4C20-A321-00D65D5D36A0",
+            "name": "Rectangle 28",
+            "rect": {
+                "x": 84.31357239829413,
+                "y": 203.24829826784347,
+                "width": 84.70436187300311,
+                "height": 50.84609510228654
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0,
+                0.5422315622920366,
+                0.5934311224489796,
+                1
+            ],
+            "label": 0,
+            "msg": "a teal colored banner with a black background"
+        },
+        {
+            "id": "54FA0A23-F72B-449E-925B-EFACD6432AA4",
+            "name": "Mask",
+            "rect": {
+                "x": 190.46912453351797,
+                "y": 226.21130913087026,
+                "width": 110.74913535889209,
+                "height": 121.14846015275523
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0,
+                0.7196447580603232,
+                0.8554953231292517,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue paper with a green outline"
+        },
+        {
+            "id": "30B68721-DF22-4C71-9A45-5B9041D6CE9E",
+            "name": "Rectangle 28 Copy",
+            "rect": {
+                "x": 219.90460527962477,
+                "y": 248.05186262350972,
+                "width": 72.01605285449023,
+                "height": 44.929439437916784
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0,
+                0.5422315622920366,
+                0.5934311224489796,
+                1
+            ],
+            "label": 0,
+            "msg": "a teal colored rectangle with a black background"
+        },
+        {
+            "id": "50706B83-A6DA-44D8-A27A-291185D144B1",
+            "name": "Rectangle 29",
+            "rect": {
+                "x": 221.4875775489145,
+                "y": 299.5843833743422,
+                "width": 38.365402790169355,
+                "height": 21.43626940481124
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2862745098039216,
+                1,
+                0.9372549019607842,
+                1
+            ],
+            "label": 0,
+            "msg": "a green and blue striped line on a black background"
+        },
+        {
+            "id": "E70F931B-4BE3-4439-AD2C-65665E9D5350",
+            "name": "Rectangle 29 Copy",
+            "rect": {
+                "x": 233.99755335990812,
+                "y": 315.3482821690046,
+                "width": 22.051862623509805,
+                "height": 13.829140693478621
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2862745098039216,
+                1,
+                0.9372549019607842,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue line with a white background"
+        },
+        {
+            "id": "8B92BA6F-BD31-467A-9104-1888A84AC163",
+            "name": "Line",
+            "rect": {
+                "x": 312.7733773433556,
+                "y": 242.29815727903093,
+                "width": 14.092176961006771,
+                "height": 9.41612104436254
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9228050595238095,
+                0.9228050595238095,
+                0.9228050595238095,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and white object on a black background"
+        },
+        {
+            "id": "318A7557-A0FF-4179-91A2-3DDF803C3536",
+            "name": "Line Copy",
+            "rect": {
+                "x": 300.1562481131714,
+                "y": 227.4091333044134,
+                "width": 16.50590116534204,
+                "height": 14.203610740549664
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9228050595238095,
+                0.9228050595238095,
+                0.9228050595238095,
+                1
+            ],
+            "label": 0,
+            "msg": "a person is standing on a skateboard"
+        },
+        {
+            "id": "8D873DAB-393D-4211-AF93-C8B75699AECF",
+            "name": "Line Copy 2",
+            "rect": {
+                "x": 315.36508707508165,
+                "y": 254.96468387874498,
+                "width": 16.63491784742746,
+                "height": 14.779479630128748
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9228050595238095,
+                0.9228050595238095,
+                0.9228050595238095,
+                1
+            ],
+            "label": 0,
+            "msg": "a person in a blue shirt"
+        },
+        {
+            "id": "523BB8DF-B8EA-4677-8E36-7E3E7068A1E7",
+            "name": "Line",
+            "rect": {
+                "x": 48.30694535943894,
+                "y": 201.9330261696495,
+                "width": 14.39523620048476,
+                "height": 9.891019071704875
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9228050595238095,
+                0.9228050595238095,
+                0.9228050595238095,
+                1
+            ],
+            "label": 0,
+            "msg": "a large blue and white object on a black background"
+        },
+        {
+            "id": "72FC4172-F467-4417-879A-E5AE90D802B8",
+            "name": "Line Copy",
+            "rect": {
+                "x": 59.05370376141764,
+                "y": 187.53889173337555,
+                "width": 16.58050990502852,
+                "height": 14.50037842408804
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9228050595238095,
+                0.9228050595238095,
+                0.9228050595238095,
+                1
+            ],
+            "label": 0,
+            "msg": "a long thin object"
+        },
+        {
+            "id": "34AF0303-9E2A-446F-A0C7-DD0F3D1A17BA",
+            "name": "Line Copy 2",
+            "rect": {
+                "x": 42.81793695535907,
+                "y": 214.83238311989325,
+                "width": 16.58050990502852,
+                "height": 14.500378424088012
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9228050595238095,
+                0.9228050595238095,
+                0.9228050595238095,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and white square with a black background"
+        },
+        {
+            "id": "1C45EB96-AA35-40D9-8A00-606830418DA6",
+            "name": "status",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 22
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9789017280385165,
+                0.9815812280911385,
+                0.9867665816326531,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white image"
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

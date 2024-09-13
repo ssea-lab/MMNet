@@ -1,0 +1,825 @@
+{
+    "layers": [
+        {
+            "id": "FAE79AFC-F16E-4A82-8781-9918CDAC4417",
+            "name": "Mask",
+            "rect": {
+                "x": -4,
+                "y": 694,
+                "width": 383,
+                "height": 278
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "C3F82BFA-C63F-45DD-98AD-E42BEC691BC2",
+            "name": "trent-szmolnik-1271248-unsplash",
+            "rect": {
+                "x": -18,
+                "y": 659,
+                "width": 383,
+                "height": 255.33333333333326
+            },
+            "_class": "bitmap",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a woman is sitting in front of a window looking out"
+        },
+        {
+            "id": "9B2AC923-2E95-401B-A413-88CF3CA50CE4",
+            "name": "White Background",
+            "rect": {
+                "x": -4,
+                "y": 867,
+                "width": 383,
+                "height": 101
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "D5DA56F8-E0CE-42AE-9630-E56823E128D9",
+            "name": "Text",
+            "rect": {
+                "x": 321,
+                "y": 926,
+                "width": 23,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "D104DCD1-24F9-4044-8911-E64E6ED741EE",
+            "name": "Price",
+            "rect": {
+                "x": 281,
+                "y": 898,
+                "width": 63,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "F090CD95-3B72-4C12-B310-E9FBAE3A9B32",
+            "name": "Text",
+            "rect": {
+                "x": 43,
+                "y": 931,
+                "width": 83,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "014F4976-30D2-49EC-A00A-383D6244A21E",
+            "name": "Shape",
+            "rect": {
+                "x": 29.5,
+                "y": 931.5000000596046,
+                "width": 9,
+                "height": 10.777777718173184
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "0B405E07-0483-47E6-AE4D-6C1BB9127A99",
+            "name": "Hotel Name",
+            "rect": {
+                "x": 30,
+                "y": 897,
+                "width": 140,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "AAA949FC-8BFF-4E15-A754-B07F14A2446A",
+            "name": "Rectangle",
+            "rect": {
+                "x": 30,
+                "y": 849,
+                "width": 110,
+                "height": 24
+            },
+            "_class": "rectangle",
+            "color": [
+                0.4940741921768708,
+                0.4940741921768708,
+                0.4940741921768708,
+                0.7
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "2AFBE55D-83DD-4CD9-9F3D-6CA6BC63D8A8",
+            "name": "Text",
+            "rect": {
+                "x": 38,
+                "y": 851,
+                "width": 92,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "99C67C57-4FA4-4F15-9891-B479C943BA3E",
+            "name": "Oval",
+            "rect": {
+                "x": 320,
+                "y": 714,
+                "width": 36,
+                "height": 36
+            },
+            "_class": "oval",
+            "color": [
+                0.196078431372549,
+                0.2117647058823529,
+                0.2627450980392157,
+                0.2
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "BF4C3BA1-58E6-44D3-97DD-FBC2BE501EB8",
+            "name": "Shape",
+            "rect": {
+                "x": 328.4599475017508,
+                "y": 723.8367049939988,
+                "width": 19.521729857191644,
+                "height": 17.28255971188355
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white heart shape on a black background"
+        },
+        {
+            "id": "B0C41B73-2282-4971-B285-17F337D7C1A5",
+            "name": "Submenu 1",
+            "rect": {
+                "x": -14,
+                "y": 720,
+                "width": 403,
+                "height": 108
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue and white background with a blue and white sign"
+        },
+        {
+            "id": "642A578C-582C-4BBE-8C3B-6693468396A4",
+            "name": "Mask",
+            "rect": {
+                "x": -4,
+                "y": 434,
+                "width": 383,
+                "height": 278
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black background"
+        },
+        {
+            "id": "BD87F944-4C67-49DE-BEEB-1C07D5F294FD",
+            "name": "naomi-hebert-188443-unsplash",
+            "rect": {
+                "x": 0,
+                "y": 417,
+                "width": 365,
+                "height": 242.28358208955228
+            },
+            "_class": "bitmap",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a kitchen with white cabinets and black counter tops"
+        },
+        {
+            "id": "4518CE9F-D30C-4C41-877C-B9C991629E2C",
+            "name": "White Background",
+            "rect": {
+                "x": -4,
+                "y": 607,
+                "width": 383,
+                "height": 101
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "the north face women's alpine jacket"
+        },
+        {
+            "id": "33ACFB51-BC46-47ED-96FA-9756F0606515",
+            "name": "Text",
+            "rect": {
+                "x": 321,
+                "y": 666,
+                "width": 23,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the bed logo is shown in gray"
+        },
+        {
+            "id": "DC18B777-93E8-4379-9A77-93EA21693D1A",
+            "name": "Price",
+            "rect": {
+                "x": 281,
+                "y": 638,
+                "width": 63,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company's website"
+        },
+        {
+            "id": "0DBAD7E2-B9B2-4308-930F-ED5AA2F622A0",
+            "name": "Text",
+            "rect": {
+                "x": 43,
+                "y": 671,
+                "width": 81,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "55118D6B-A4C1-452C-A90F-8BE97BA93DBF",
+            "name": "Shape",
+            "rect": {
+                "x": 29.5,
+                "y": 671.5000000596046,
+                "width": 9,
+                "height": 10.777777718173184
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a green and white logo with a circle in the middle"
+        },
+        {
+            "id": "FBA1970F-81A2-47D2-A334-B796233E6674",
+            "name": "Hotel Name",
+            "rect": {
+                "x": 30,
+                "y": 638,
+                "width": 140,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "17CC658E-0164-4BA4-AF8F-60A57FECDA13",
+            "name": "Rectangle",
+            "rect": {
+                "x": 30,
+                "y": 589,
+                "width": 110,
+                "height": 24
+            },
+            "_class": "rectangle",
+            "color": [
+                0.4940741921768708,
+                0.4940741921768708,
+                0.4940741921768708,
+                0.7
+            ],
+            "label": 0,
+            "msg": "the person is wearing a gray shirt and jeans"
+        },
+        {
+            "id": "919B9884-50E5-44C3-AE11-DB2859370B86",
+            "name": "Text",
+            "rect": {
+                "x": 38,
+                "y": 591,
+                "width": 92,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the american association of university women"
+        },
+        {
+            "id": "84EFE76C-87CF-4C79-AE08-CD15B920DB8E",
+            "name": "Oval",
+            "rect": {
+                "x": 320,
+                "y": 454,
+                "width": 36,
+                "height": 36
+            },
+            "_class": "oval",
+            "color": [
+                1,
+                1,
+                1,
+                0.5
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "ED5B4C0C-2442-405F-B8E6-BB888421FBDD",
+            "name": "Shape",
+            "rect": {
+                "x": 328.4599475017508,
+                "y": 463.83670499399875,
+                "width": 19.521729857191644,
+                "height": 17.28255971188355
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a heart shaped icon on a black background"
+        },
+        {
+            "id": "CA8D6F7E-86E6-406F-AE91-BD99EDADD645",
+            "name": "Mask",
+            "rect": {
+                "x": -4,
+                "y": 174,
+                "width": 383,
+                "height": 278
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black background"
+        },
+        {
+            "id": "C579B31A-2979-46CC-86EB-F3C32CA56C49",
+            "name": "gabriel-beaudry-93843-unsplash",
+            "rect": {
+                "x": 0,
+                "y": 156,
+                "width": 365,
+                "height": 243.33333333333326
+            },
+            "_class": "bitmap",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a bedroom with a bed, desk and chair"
+        },
+        {
+            "id": "B4A96177-F854-4024-ABAF-2B5C5D550A20",
+            "name": "White Background",
+            "rect": {
+                "x": -4,
+                "y": 347,
+                "width": 383,
+                "height": 101
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "the north face women's alpine jacket"
+        },
+        {
+            "id": "5EBBE71D-7F10-4F6B-B9D5-3EBD08640972",
+            "name": "Text",
+            "rect": {
+                "x": 321,
+                "y": 406,
+                "width": 23,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the bed logo is shown in gray"
+        },
+        {
+            "id": "938B0D54-DCC4-4E52-8C7C-DDB0607FE197",
+            "name": "Price",
+            "rect": {
+                "x": 281,
+                "y": 378,
+                "width": 63,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the new york times"
+        },
+        {
+            "id": "18A17FA1-FC5F-4673-AC3A-E8E6F2F0E3B4",
+            "name": "Text",
+            "rect": {
+                "x": 43,
+                "y": 411,
+                "width": 83,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "9C60D69A-FEE3-4475-89FB-636A8392FE17",
+            "name": "Shape",
+            "rect": {
+                "x": 29.5,
+                "y": 411.50000005960464,
+                "width": 9,
+                "height": 10.777777718173127
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a green and white logo with a circle in the middle"
+        },
+        {
+            "id": "CF979A6F-BB1C-4C96-BD1C-8DCD76E5DB0C",
+            "name": "Hotel Name",
+            "rect": {
+                "x": 30,
+                "y": 377,
+                "width": 140,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "F8D38A2B-93C3-4620-AA00-274E3DE4642D",
+            "name": "Rectangle",
+            "rect": {
+                "x": 30,
+                "y": 329,
+                "width": 110,
+                "height": 24
+            },
+            "_class": "rectangle",
+            "color": [
+                0.4940741921768708,
+                0.4940741921768708,
+                0.4940741921768708,
+                0.7
+            ],
+            "label": 0,
+            "msg": "the person is wearing a gray shirt and jeans"
+        },
+        {
+            "id": "6A0CCA54-4D48-4811-AE5A-A4680B99D705",
+            "name": "Text",
+            "rect": {
+                "x": 38,
+                "y": 331,
+                "width": 92,
+                "height": 20
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the american association of university women"
+        },
+        {
+            "id": "E659C38D-9F21-4926-8848-793D3DE6A5C8",
+            "name": "Oval",
+            "rect": {
+                "x": 320,
+                "y": 194,
+                "width": 36,
+                "height": 36
+            },
+            "_class": "oval",
+            "color": [
+                0.196078431372549,
+                0.2117647058823529,
+                0.2627450980392157,
+                0.2
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "917059B3-C3A9-4DD9-84DF-FF9BA0D5B96C",
+            "name": "Shape",
+            "rect": {
+                "x": 328.4599475017508,
+                "y": 203.83670499399878,
+                "width": 19.521729857191644,
+                "height": 17.28255971188358
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white heart shape on a black background"
+        },
+        {
+            "id": "D6C1C26C-6A14-4E75-8210-A9121832B70F",
+            "name": "Shape",
+            "rect": {
+                "x": 323,
+                "y": 48.99852235144791,
+                "width": 22,
+                "height": 20.18477347892236
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black and white logo with a line through it"
+        },
+        {
+            "id": "2F67C336-CFEB-4AB9-8EB8-A862808A3362",
+            "name": "Shape",
+            "rect": {
+                "x": 329.3636363636364,
+                "y": 49,
+                "width": 2,
+                "height": 16.545454545454533
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white photo of a person on a skateboard"
+        },
+        {
+            "id": "EF14FB2D-D99E-4A8C-9C92-EA9191D438A2",
+            "name": "Shape",
+            "rect": {
+                "x": 336.6363636363636,
+                "y": 52.63636363636364,
+                "width": 2,
+                "height": 16.545454545454547
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black and white image of a person sitting on a chair"
+        },
+        {
+            "id": "37711D80-39E7-4D45-8FE7-AF09784E6F34",
+            "name": "Page Title",
+            "rect": {
+                "x": 173,
+                "y": 53,
+                "width": 31,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the list logo on a black background"
+        },
+        {
+            "id": "AE74A630-EA04-4D30-B801-2B2177097AF1",
+            "name": "Shape",
+            "rect": {
+                "x": 34,
+                "y": 50,
+                "width": 10,
+                "height": 18
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black arrow pointing down on a black background"
+        },
+        {
+            "id": "00530B77-A276-40CA-8167-D1A3420E625F",
+            "name": "Search box / 2",
+            "rect": {
+                "x": -4,
+                "y": 94,
+                "width": 383,
+                "height": 88
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white envelope with a black background"
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

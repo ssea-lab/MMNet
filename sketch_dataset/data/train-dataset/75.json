@@ -1,0 +1,597 @@
+{
+    "layers": [
+        {
+            "id": "B0E9284F-270D-4297-BAF4-DECF4F261492",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "rectangle",
+            "color": [
+                0.1490196139,
+                0.1960784346,
+                0.2196078449,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white image of a plane flying over a field"
+        },
+        {
+            "id": "BF3D3A45-BB37-4C0A-98A4-8308AE370CE6",
+            "name": "Mask",
+            "rect": {
+                "x": 200,
+                "y": 312,
+                "width": 144,
+                "height": 72
+            },
+            "_class": "rectangle",
+            "color": [
+                0.1843137254901961,
+                0.2470588235294118,
+                0.2941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "B92D66C4-90B8-4A88-AAD0-9EB0AC0657E8",
+            "name": "cm",
+            "rect": {
+                "x": 83,
+                "y": 335,
+                "width": 22,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word cms is written in white letters"
+        },
+        {
+            "id": "FA17565A-CE3D-4A34-8581-B4BA0FDF9746",
+            "name": "ft",
+            "rect": {
+                "x": 113,
+                "y": 335,
+                "width": 12,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the fftf"
+        },
+        {
+            "id": "C10B1145-C1F4-4BFE-B79F-5A99452FA261",
+            "name": "182",
+            "rect": {
+                "x": 241,
+                "y": 328,
+                "width": 62,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 1822 is shown in blue on a black background"
+        },
+        {
+            "id": "2EA3753F-F155-4C09-82CF-67C038244E3D",
+            "name": "Mask",
+            "rect": {
+                "x": 188,
+                "y": 400,
+                "width": 168,
+                "height": 99
+            },
+            "_class": "rectangle",
+            "color": [
+                0.1843137254901961,
+                0.2470588235294118,
+                0.2941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white image of a black circle"
+        },
+        {
+            "id": "39DD690D-4B34-4351-AA60-ADE4E98778EC",
+            "name": "-_btn",
+            "rect": {
+                "x": 188,
+                "y": 424,
+                "width": 28,
+                "height": 28
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a line"
+        },
+        {
+            "id": "AED3D3DA-EFBA-434A-9E48-3559D42A6F84",
+            "name": "+_btn",
+            "rect": {
+                "x": 330,
+                "y": 424,
+                "width": 28,
+                "height": 28
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white circle with a cross in the middle"
+        },
+        {
+            "id": "7F1C6203-85C4-43F0-B235-16F20E48612E",
+            "name": "kg",
+            "rect": {
+                "x": 83,
+                "y": 423,
+                "width": 18,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the kgg"
+        },
+        {
+            "id": "6EFB2F3A-8E1A-4E03-A225-D9EF3856095B",
+            "name": "lb",
+            "rect": {
+                "x": 113,
+                "y": 423,
+                "width": 13,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue and white logo with the words bld"
+        },
+        {
+            "id": "3911A2C1-C6EC-4FC7-BD2F-6A2F0D7D7BB5",
+            "name": "80.3",
+            "rect": {
+                "x": 234,
+                "y": 416,
+                "width": 76,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the radio station 80 3"
+        },
+        {
+            "id": "34B187B5-8815-4975-B8C5-DB4D6C193498",
+            "name": "Mask",
+            "rect": {
+                "x": 200,
+                "y": 488,
+                "width": 144,
+                "height": 72
+            },
+            "_class": "rectangle",
+            "color": [
+                0.1843137254901961,
+                0.2470588235294118,
+                0.2941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "AA2CA16E-2533-4836-8F3A-6DD63DCE8196",
+            "name": "goal",
+            "rect": {
+                "x": 89,
+                "y": 511,
+                "width": 31,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word goal is in white letters on a black background"
+        },
+        {
+            "id": "B961FCF5-429B-4D99-8F02-2377EECBE362",
+            "name": "lb",
+            "rect": {
+                "x": 113,
+                "y": 511,
+                "width": 13,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "B7307312-ECE7-4213-BCF9-5922D3D88948",
+            "name": "79",
+            "rect": {
+                "x": 250.5,
+                "y": 504,
+                "width": 43,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 79 is shown in blue on a black background"
+        },
+        {
+            "id": "CCA36F42-F982-4600-9D96-72BD7752F18C",
+            "name": "Mask",
+            "rect": {
+                "x": 200,
+                "y": 576,
+                "width": 144,
+                "height": 72
+            },
+            "_class": "rectangle",
+            "color": [
+                0.1843137254901961,
+                0.2470588235294118,
+                0.2941176470588235,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "87456570-6EFF-416D-B039-8126BCF67B4D",
+            "name": "age",
+            "rect": {
+                "x": 91,
+                "y": 599,
+                "width": 27,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word age is written in white letters"
+        },
+        {
+            "id": "3A803349-E336-45A1-826A-4E754F8669BF",
+            "name": "29",
+            "rect": {
+                "x": 249.5,
+                "y": 592,
+                "width": 45,
+                "height": 43
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 29 is shown in blue on a black background"
+        },
+        {
+            "id": "201A68F5-6BC9-454D-B6C3-B05A5F7E3F46",
+            "name": "Mask",
+            "rect": {
+                "x": 32,
+                "y": 136,
+                "width": 144,
+                "height": 144
+            },
+            "_class": "rectangle",
+            "color": [
+                0.4470588235294118,
+                0.5647058823529413,
+                0.615686274509804,
+                1
+            ],
+            "label": 0,
+            "msg": "the color blue is shown in this image"
+        },
+        {
+            "id": "1BBC4C7F-30CE-4CC0-80DF-8C5699A37438",
+            "name": "Male",
+            "rect": {
+                "x": 83,
+                "y": 229,
+                "width": 43,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the male and female logo"
+        },
+        {
+            "id": "41322AC0-E7D9-4E07-98F8-A9E626756FE4",
+            "name": "Male icon",
+            "rect": {
+                "x": 83.56343345398159,
+                "y": 174.63362757975,
+                "width": 40.29775429449546,
+                "height": 40.29775429449546
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a male symbol on a black background"
+        },
+        {
+            "id": "3BA20A67-01F3-481F-B9E9-8CFD23C1D750",
+            "name": "Mask",
+            "rect": {
+                "x": 167,
+                "y": 115,
+                "width": 210,
+                "height": 210
+            },
+            "_class": "rectangle",
+            "color": [
+                0.4470588235294118,
+                0.5647058823529413,
+                0.615686274509804,
+                1
+            ],
+            "label": 0,
+            "msg": "a gray square button with a black background"
+        },
+        {
+            "id": "65707C79-5304-4464-B682-D142C37EDAE7",
+            "name": "Female",
+            "rect": {
+                "x": 239,
+                "y": 229,
+                "width": 67,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a female logo with a blue background"
+        },
+        {
+            "id": "F8C6986F-3749-4096-A45A-EC61FF1B891D",
+            "name": "Femaleicon",
+            "rect": {
+                "x": 247.60481604906408,
+                "y": 172.1048160490641,
+                "width": 48.79036790187183,
+                "height": 48.790367901871775
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a female symbol on a black background"
+        },
+        {
+            "id": "208E428A-F27D-43C5-913B-0F4F770E241C",
+            "name": "calculate_btn",
+            "rect": {
+                "x": 32,
+                "y": 688,
+                "width": 312,
+                "height": 56
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "calculate your bmi app"
+        },
+        {
+            "id": "AF4A7160-C4FE-4FE4-90AD-529ECEBFFAFE",
+            "name": "Light Status Bar",
+            "rect": {
+                "x": 6,
+                "y": 3.5,
+                "width": 363.5,
+                "height": 14
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white logo with the words \"the best\""
+        },
+        {
+            "id": "A8FC107D-38DE-4D1D-8670-48FD58EC2101",
+            "name": "refresh_btn",
+            "rect": {
+                "x": 297,
+                "y": 48,
+                "width": 48,
+                "height": 48
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a circular icon with an arrow pointing to the right"
+        },
+        {
+            "id": "7E28A61F-0E76-4E13-9A7A-0479544FE3B9",
+            "name": "BMI Calculator",
+            "rect": {
+                "x": 32,
+                "y": 81,
+                "width": 198,
+                "height": 26
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word \"calculator\" is written in white letters"
+        },
+        {
+            "id": "5AECFE53-1BD6-4E01-9D86-11FF518219E4",
+            "name": "Path 3",
+            "rect": {
+                "x": 32,
+                "y": 56,
+                "width": 23,
+                "height": 0.10000000000000142
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "49FB13D9-C7E0-4931-866D-89CCA5F62DD9",
+            "name": "Path 3 Copy",
+            "rect": {
+                "x": 30.537885853369232,
+                "y": 48.27046279585991,
+                "width": 10.146055275512083,
+                "height": 16.459074408280173
+            },
+            "_class": "shapePath",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue arrow pointing to the right"
+        },
+        {
+            "id": "6D24A3DD-F40F-45E0-80BB-427F7FCC6D37",
+            "name": "Weight Diary",
+            "rect": {
+                "x": 56,
+                "y": 47,
+                "width": 102,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the weight diary logo"
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

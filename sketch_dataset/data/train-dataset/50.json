@@ -1,0 +1,483 @@
+{
+    "layers": [
+        {
+            "id": "30156C8C-A2E5-4C37-8C68-5E8BE22A2D6D",
+            "name": "wall",
+            "rect": {
+                "x": 0,
+                "y": -26,
+                "width": 375,
+                "height": 237.25
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.958326019012403,
+                0.9694292076920714,
+                0.9842687074829932,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and black square with a white background"
+        },
+        {
+            "id": "9464BAA7-569B-4069-A17A-0EEA672C951A",
+            "name": "Broken Link!",
+            "rect": {
+                "x": 105.5,
+                "y": 421,
+                "width": 164,
+                "height": 31
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "broken link logo"
+        },
+        {
+            "id": "CA4ABC3A-2932-4E4E-92AA-2C0D57112D01",
+            "name": "Something went wrong",
+            "rect": {
+                "x": 52,
+                "y": 457,
+                "width": 271,
+                "height": 50
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a man and a woman"
+        },
+        {
+            "id": "A0FD5BCF-D9DA-4C32-B566-791A611C1FDA",
+            "name": "Rectangle 4",
+            "rect": {
+                "x": 101.5,
+                "y": 533,
+                "width": 172,
+                "height": 94
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and white hat with a white background"
+        },
+        {
+            "id": "B942366F-3598-4EAF-9C10-C6AC66929EA1",
+            "name": "Retry",
+            "rect": {
+                "x": 162.5,
+                "y": 558,
+                "width": 50,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in blue"
+        },
+        {
+            "id": "B6C68094-D5B5-4C61-9339-B22B270A7085",
+            "name": "Rectangle",
+            "rect": {
+                "x": 171.33333333333303,
+                "y": 291.93877551020404,
+                "width": 176.2314463230059,
+                "height": 67.25408210022596
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5241919366598933,
+                0.5738515816773953,
+                0.6736022534013606,
+                0.2000000029802322
+            ],
+            "label": 0,
+            "msg": "a triangle shaped piece of fabric with a black background"
+        },
+        {
+            "id": "4099B202-92E0-46E4-8880-7D8BBC86ED67",
+            "name": "Rectangle Copy",
+            "rect": {
+                "x": 28,
+                "y": 289.0612244897958,
+                "width": 185.57286364969696,
+                "height": 31.170461855371684
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5241919366598933,
+                0.5738515816773953,
+                0.6736022534013606,
+                0.2000000029802322
+            ],
+            "label": 0,
+            "msg": "a triangle shaped object with a black background"
+        },
+        {
+            "id": "496A084D-5BF5-40ED-A3CA-562EF6733001",
+            "name": "Path 24",
+            "rect": {
+                "x": 33,
+                "y": 220,
+                "width": 364.5358310640113,
+                "height": 140.27866388492203
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white horse head with a black outline"
+        },
+        {
+            "id": "0C0CA6CD-DE0C-46AC-9765-2E823FD7BFA7",
+            "name": "line",
+            "rect": {
+                "x": 147.57706153672007,
+                "y": 296.72279048666377,
+                "width": 31.206927016361988,
+                "height": 34.436222161763055
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a grey and white logo with a black background"
+        },
+        {
+            "id": "BBD829A5-97D1-4B94-95CD-19E5A15301B0",
+            "name": "Rectangle 8 Copy 2",
+            "rect": {
+                "x": -39.99990679311304,
+                "y": 108.12065439672804,
+                "width": 378.4647366571262,
+                "height": 148.4839713643552
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and white striped shirt with a black and white logo"
+        },
+        {
+            "id": "725CE7B3-A55B-4CDE-B3AA-AC9A95434231",
+            "name": "Rectangle 2",
+            "rect": {
+                "x": -66.82004089979546,
+                "y": 74.79141104294479,
+                "width": 132.16768916155434,
+                "height": 152.332555034608
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9374770693522437,
+                0.945968820948608,
+                0.9530452806122449,
+                1
+            ],
+            "label": 0,
+            "msg": "a white plastic cup with a black handle"
+        },
+        {
+            "id": "0076D95F-BE7A-4489-96B2-44393AF9E479",
+            "name": "Oval",
+            "rect": {
+                "x": -99,
+                "y": 61,
+                "width": 164.34764826175888,
+                "height": 32.17995910020451
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8293774207089026,
+                0.8625097969827108,
+                0.8901201105442177,
+                1
+            ],
+            "label": 0,
+            "msg": "a white and blue oval shaped object"
+        },
+        {
+            "id": "469E9761-AD9D-493B-AAEC-D20ACF55568B",
+            "name": "shadow",
+            "rect": {
+                "x": 176.5399932861328,
+                "y": 287.66128189851554,
+                "width": 229.76211066362976,
+                "height": 19.107889532803426
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and white building with a large window"
+        },
+        {
+            "id": "5F4B2E9C-EE8A-401D-9D50-95FC5B82F9F3",
+            "name": "shadow",
+            "rect": {
+                "x": 144,
+                "y": 302,
+                "width": 22,
+                "height": 6
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue and white object with a black background"
+        },
+        {
+            "id": "3C995238-B452-410E-BEFF-0110304D88F7",
+            "name": "tip",
+            "rect": {
+                "x": 131.3584434765853,
+                "y": 279.4367094679933,
+                "width": 28.331982766574583,
+                "height": 28.156100367692716
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1884473406776688,
+                0.1733934261836048,
+                0.282312925170068,
+                1
+            ],
+            "label": 0,
+            "msg": "a purple triangle with a black background"
+        },
+        {
+            "id": "C6E26E93-F97D-480C-8F7F-11F8C06A1D0B",
+            "name": "Triangle 3",
+            "rect": {
+                "x": 150.05507892562218,
+                "y": 247.4935553405311,
+                "width": 73.5193382578509,
+                "height": 72.9501467425224
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.9132677663770432,
+                0.8348918876262627,
+                1
+            ],
+            "label": 0,
+            "msg": "a triangle shaped object with a white background"
+        },
+        {
+            "id": "5DBE0761-F7FA-4C79-97A6-1F3E12061381",
+            "name": "Rectangle 5",
+            "rect": {
+                "x": 174.34352012213913,
+                "y": 164.41091677421667,
+                "width": 124.03884083737921,
+                "height": 129.05773855029247
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.6131234217171717,
+                0.6131234217171717,
+                1
+            ],
+            "label": 0,
+            "msg": "a pink rectangle with a black background"
+        },
+        {
+            "id": "3253B18B-A181-488F-9606-273DB6CC4D92",
+            "name": "Rectangle 5 Copy",
+            "rect": {
+                "x": 174.34352012213913,
+                "y": 164.41091677421667,
+                "width": 97.04281289236042,
+                "height": 104.75040580862049
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.8894169019616168,
+                0.6131234217171717,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow ribbon with a white border"
+        },
+        {
+            "id": "65A5E02C-3BC5-4D7F-BCF3-163F15893232",
+            "name": "Mask",
+            "rect": {
+                "x": 255.90812554419426,
+                "y": 145.21374134664813,
+                "width": 59.75944980940221,
+                "height": 57.668242429021944
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7626065340909091,
+                0.8824724943741509,
+                1
+            ],
+            "label": 0,
+            "msg": "a pink umbrella with a black background"
+        },
+        {
+            "id": "DFDC5F3D-28F4-4E44-8D1A-A1861EA31892",
+            "name": "Rectangle 6",
+            "rect": {
+                "x": 278.98487394558015,
+                "y": 165.58671904818004,
+                "width": 39.785540211977604,
+                "height": 41.15976220479968
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.7607843137254902,
+                0.8823529411764706,
+                0.2626811594202899
+            ],
+            "label": 0,
+            "msg": "a pink triangle with a black background"
+        },
+        {
+            "id": "F3088E25-40AA-4FB7-B11B-201C5C015617",
+            "name": "Rectangle 5 Copy 2",
+            "rect": {
+                "x": 201.339548067157,
+                "y": 188.71824951588863,
+                "width": 97.04281289236042,
+                "height": 104.75040580862051
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                0.8894169019616168,
+                0.6131234217171717,
+                1
+            ],
+            "label": 0,
+            "msg": "a yellow ribbon with a white border"
+        },
+        {
+            "id": "11D6AC63-627A-4C8F-A72D-E0E4844650C3",
+            "name": "Line",
+            "rect": {
+                "x": 269.1274083668486,
+                "y": 123.65291003767051,
+                "width": 14.642159098860247,
+                "height": 16.610243696796502
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9228050595238095,
+                0.9228050595238095,
+                0.9228050595238095,
+                1
+            ],
+            "label": 0,
+            "msg": "a large blue sky"
+        },
+        {
+            "id": "470BEAA2-CAF9-4021-8DB1-C2B67FC70E8D",
+            "name": "Line Copy",
+            "rect": {
+                "x": 254.92607093491824,
+                "y": 128.609739263822,
+                "width": 10.123984675706197,
+                "height": 14.540211175866233
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9228050595238095,
+                0.9228050595238095,
+                0.9228050595238095,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue skateboard with a white board"
+        },
+        {
+            "id": "2CD06673-1FC7-40FB-B016-22A474A690C7",
+            "name": "Line Copy 2",
+            "rect": {
+                "x": 283.4059321857749,
+                "y": 128.4381292349029,
+                "width": 16.678515011990385,
+                "height": 15.164268940320568
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9228050595238095,
+                0.9228050595238095,
+                0.9228050595238095,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue skateboard with a white board"
+        },
+        {
+            "id": "1E1248ED-D838-485D-AA4F-53971B377811",
+            "name": "Status",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 22
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

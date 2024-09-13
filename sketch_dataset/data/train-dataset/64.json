@@ -1,0 +1,673 @@
+{
+    "layers": [
+        {
+            "id": "4A4EBCA6-4B13-4717-919A-8B05586673B5",
+            "name": "Text",
+            "rect": {
+                "x": 45,
+                "y": 769,
+                "width": 180,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "7A6727E6-1C05-4ACA-AA2A-BEE1F792541B",
+            "name": "Shape",
+            "rect": {
+                "x": 19.5,
+                "y": 776,
+                "width": 13,
+                "height": 1
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "BFBC9E4B-23BF-4975-AFCA-A9AA6A82A085",
+            "name": "Shape",
+            "rect": {
+                "x": 27,
+                "y": 771.5,
+                "width": 5.5,
+                "height": 10
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a blue arrow pointing to the left"
+        },
+        {
+            "id": "2941C579-036A-498B-8EBD-E9447B677440",
+            "name": "Text",
+            "rect": {
+                "x": 45,
+                "y": 723,
+                "width": 202,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the barcode is shown in black and white"
+        },
+        {
+            "id": "7361BA80-B26A-4790-9C44-159206BAAFD1",
+            "name": "Shape",
+            "rect": {
+                "x": 19.5,
+                "y": 730,
+                "width": 13,
+                "height": 1
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "59E8400D-D3E0-420E-A83D-644F9B492328",
+            "name": "Shape",
+            "rect": {
+                "x": 27,
+                "y": 725.5,
+                "width": 5.5,
+                "height": 10
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a blue arrow pointing to the left"
+        },
+        {
+            "id": "E7CDF5EE-08AE-40E2-B76F-BD6F407E4FD2",
+            "name": "Text",
+            "rect": {
+                "x": 45,
+                "y": 677,
+                "width": 130,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "0E463967-4524-4377-B344-00CE711BAAB0",
+            "name": "Shape",
+            "rect": {
+                "x": 19.5,
+                "y": 684,
+                "width": 13,
+                "height": 1
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "603B949F-BB1A-4A19-9F51-F45489FDE90F",
+            "name": "Shape",
+            "rect": {
+                "x": 27,
+                "y": 679.5,
+                "width": 5.5,
+                "height": 10
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue arrow pointing to the left"
+        },
+        {
+            "id": "07A71F41-D4A6-4822-8B7B-F67CC0EDCCAA",
+            "name": "Title",
+            "rect": {
+                "x": 20,
+                "y": 633,
+                "width": 137,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "50B3372B-B65A-4749-A432-71F7DBBD3954",
+            "name": "Submenu 4",
+            "rect": {
+                "x": -14,
+                "y": 720,
+                "width": 403,
+                "height": 108
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white image"
+        },
+        {
+            "id": "6991E670-D217-4D23-9152-D825A357AE66",
+            "name": "Seperator",
+            "rect": {
+                "x": 50,
+                "y": 597,
+                "width": 305,
+                "height": 1
+            },
+            "_class": "rectangle",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the person is wearing a black shirt and jeans"
+        },
+        {
+            "id": "E46E9605-2914-4E7C-8257-E57E5BDD93CD",
+            "name": "Text",
+            "rect": {
+                "x": 45,
+                "y": 551,
+                "width": 190,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "954CF6B9-3970-472F-9760-C41CE4F62142",
+            "name": "Shape",
+            "rect": {
+                "x": 19.5,
+                "y": 558,
+                "width": 13,
+                "height": 1
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "7F9EBC1F-BC71-4F65-B5A5-D0B12DFBA3F6",
+            "name": "Shape",
+            "rect": {
+                "x": 27,
+                "y": 553.5,
+                "width": 5.5,
+                "height": 10
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a blue arrow pointing to the left"
+        },
+        {
+            "id": "E53E579A-9CCA-4544-AB9F-41E574E3D2F2",
+            "name": "Text",
+            "rect": {
+                "x": 45,
+                "y": 505,
+                "width": 180,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "1D16B907-8805-4379-9643-B602B9DB5436",
+            "name": "Shape",
+            "rect": {
+                "x": 19.5,
+                "y": 512,
+                "width": 13,
+                "height": 1
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "F9D1A234-A6C3-43CA-BD28-E2939E2B5C02",
+            "name": "Shape",
+            "rect": {
+                "x": 27,
+                "y": 507.5,
+                "width": 5.5,
+                "height": 10
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a blue arrow pointing to the left"
+        },
+        {
+            "id": "7CEA5D2D-3634-46A0-A155-F479B47FACD8",
+            "name": "Text",
+            "rect": {
+                "x": 45,
+                "y": 459,
+                "width": 202,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the barcode is shown in black and white"
+        },
+        {
+            "id": "43B67B7E-5E31-457F-9C88-81854FFD06D1",
+            "name": "Shape",
+            "rect": {
+                "x": 19.5,
+                "y": 466,
+                "width": 13,
+                "height": 1
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "604A34DC-94AC-4FC4-A432-A61BA12A5E67",
+            "name": "Shape",
+            "rect": {
+                "x": 27,
+                "y": 461.5,
+                "width": 5.5,
+                "height": 10
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a blue arrow pointing to the left"
+        },
+        {
+            "id": "BF513936-D34A-43F5-8537-74045743D636",
+            "name": "Text",
+            "rect": {
+                "x": 45,
+                "y": 413,
+                "width": 130,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "2CAA4586-946A-49ED-B29D-AD05EF0580D2",
+            "name": "Shape",
+            "rect": {
+                "x": 19.5,
+                "y": 420,
+                "width": 13,
+                "height": 1
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "C209F200-7A58-484D-A23F-A742F878FF0B",
+            "name": "Shape",
+            "rect": {
+                "x": 27,
+                "y": 415.5,
+                "width": 5.5,
+                "height": 10
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a blue arrow pointing to the left"
+        },
+        {
+            "id": "1CD6AB16-3265-4269-A6F6-5ABEBDCC2908",
+            "name": "Title",
+            "rect": {
+                "x": 20,
+                "y": 369,
+                "width": 194,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "DF7C643C-8F88-46BD-94AA-7CE0AA8C189D",
+            "name": "Background",
+            "rect": {
+                "x": -4,
+                "y": 94,
+                "width": 383,
+                "height": 251
+            },
+            "_class": "rectangle",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white square with a black border"
+        },
+        {
+            "id": "B120DAD2-60BD-4000-9639-B37166181E57",
+            "name": "Form 2",
+            "rect": {
+                "x": 20,
+                "y": 279,
+                "width": 335,
+                "height": 40
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white square with a black background"
+        },
+        {
+            "id": "5F14D872-054D-416B-8305-87E4DBD68E76",
+            "name": "Oval",
+            "rect": {
+                "x": 316,
+                "y": 290,
+                "width": 15.33333333333303,
+                "height": 15.333333333333314
+            },
+            "_class": "oval",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a white circular ring on a black background"
+        },
+        {
+            "id": "91005FA0-DDF5-4A71-9122-FC63AB8DA108",
+            "name": "Shape",
+            "rect": {
+                "x": 327.375,
+                "y": 301.375,
+                "width": 5.625,
+                "height": 5.625
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white knife with a handle on a black background"
+        },
+        {
+            "id": "53BD432F-5A6D-4670-B5EC-51E8972B3A96",
+            "name": "Text",
+            "rect": {
+                "x": 80,
+                "y": 200,
+                "width": 216,
+                "height": 44
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "2D4DF66E-7001-46DE-8E87-92F1E5151255",
+            "name": "Title",
+            "rect": {
+                "x": 99,
+                "y": 147,
+                "width": 177,
+                "height": 38
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white text that says \"we are here to help\""
+        },
+        {
+            "id": "99FDDAFD-F5BB-4C9B-B481-AAF5BA5CF5B1",
+            "name": "Page Title",
+            "rect": {
+                "x": 130.5,
+                "y": 53,
+                "width": 117,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word \"support\" is written in black letters on a black background"
+        },
+        {
+            "id": "33AAD995-7C1F-4E73-A148-C03A848F2D33",
+            "name": "Shape",
+            "rect": {
+                "x": 24,
+                "y": 56,
+                "width": 20,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white square"
+        },
+        {
+            "id": "1A2B45EB-7F3B-4EBB-8E1B-A29D1D3B2288",
+            "name": "Shape",
+            "rect": {
+                "x": 24,
+                "y": 50,
+                "width": 20,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white square"
+        },
+        {
+            "id": "57C1602C-D5D4-43DD-8463-AFF4F7115364",
+            "name": "Shape",
+            "rect": {
+                "x": 24,
+                "y": 62,
+                "width": 20,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white square"
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

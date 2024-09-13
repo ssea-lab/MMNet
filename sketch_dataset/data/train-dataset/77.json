@@ -1,0 +1,445 @@
+{
+    "layers": [
+        {
+            "id": "430EF0A8-754B-416B-BD3C-3CFEC2D6A2FE",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 880
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "A0A06BCD-C311-4257-A746-6D6F14064B43",
+            "name": "Best Seller For Men",
+            "rect": {
+                "x": 48,
+                "y": 251,
+                "width": 180,
+                "height": 336
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a black background"
+        },
+        {
+            "id": "A9ABC159-41CE-47EA-AA73-3388143DDA4F",
+            "name": "hover",
+            "rect": {
+                "x": 24,
+                "y": 321,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white square in the middle"
+        },
+        {
+            "id": "5761F150-BB02-4031-858F-13F76DE5966C",
+            "name": "ic_minus",
+            "rect": {
+                "x": 327,
+                "y": 324,
+                "width": 16,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6078431372549019,
+                0.6078431372549019,
+                0.6078431372549019,
+                1
+            ],
+            "label": 0,
+            "msg": "a gray background with a white square"
+        },
+        {
+            "id": "DFBEC215-201D-4798-B818-550E85429656",
+            "name": "ic_minus copy",
+            "rect": {
+                "x": 327,
+                "y": 562,
+                "width": 16,
+                "height": 2
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a cross with a white background"
+        },
+        {
+            "id": "962B132B-220C-4CD1-B037-F85690F0FE38",
+            "name": "ic_minus copy 2",
+            "rect": {
+                "x": 334,
+                "y": 555,
+                "width": 2,
+                "height": 16
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a cross with a white background"
+        },
+        {
+            "id": "95FC96A1-8E10-4CF3-AB67-FE07AFB9DADC",
+            "name": "Collection",
+            "rect": {
+                "x": 48,
+                "y": 635,
+                "width": 180,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the collection of the collection"
+        },
+        {
+            "id": "F31B5EFC-089A-42AF-99B6-D04851F7B4F0",
+            "name": "Deal & Offer",
+            "rect": {
+                "x": 48,
+                "y": 683,
+                "width": 180,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the deal and coffee company"
+        },
+        {
+            "id": "3F90E509-E596-4C47-A273-64A29280BC8B",
+            "name": "Find A Store",
+            "rect": {
+                "x": 48,
+                "y": 731,
+                "width": 180,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "find a store logo"
+        },
+        {
+            "id": "A9371C8F-B728-40F2-9E73-87D2110B2536",
+            "name": "Magazine Fashion",
+            "rect": {
+                "x": 48,
+                "y": 779,
+                "width": 180,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a barcode with many lines of black text"
+        },
+        {
+            "id": "E88AD3B1-8663-447D-BAC6-794BF464FEF3",
+            "name": "Log Out",
+            "rect": {
+                "x": 48,
+                "y": 827,
+                "width": 180,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the blog out"
+        },
+        {
+            "id": "919605A8-7008-4653-867B-C3FD052F6D6F",
+            "name": "line",
+            "rect": {
+                "x": 48,
+                "y": 603,
+                "width": 335,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "B0E70E0D-5BF2-4665-99E8-C3C7A9F1F1B7",
+            "name": "avatar",
+            "rect": {
+                "x": 32,
+                "y": 99,
+                "width": 56,
+                "height": 56
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8470588235294118,
+                0.8470588235294118,
+                0.8470588235294118,
+                1
+            ],
+            "label": 0,
+            "msg": "a man with a beard and a plaid shirt"
+        },
+        {
+            "id": "1C826A87-D9B1-4A2C-AA99-92F36927B950",
+            "name": "Jackson Scott",
+            "rect": {
+                "x": 104,
+                "y": 104,
+                "width": 180,
+                "height": 21
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white text"
+        },
+        {
+            "id": "D0D9A5E6-FAB7-4E35-9429-61D02480C536",
+            "name": "Balance: $99,56",
+            "rect": {
+                "x": 104,
+                "y": 134,
+                "width": 180,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in black and white"
+        },
+        {
+            "id": "EF50FC35-DE76-4F3B-A0FE-11B8B011FAA7",
+            "name": "ic_arrow_down",
+            "rect": {
+                "x": 334.8630113597037,
+                "y": 120.13698864029632,
+                "width": 8,
+                "height": 13.726022719407382
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6078431372549019,
+                0.6078431372549019,
+                0.6078431372549019,
+                1
+            ],
+            "label": 0,
+            "msg": "a grey arrow pointing down on a black background"
+        },
+        {
+            "id": "0577A405-948C-45E3-BF03-FC7668749A85",
+            "name": "Rectangle",
+            "rect": {
+                "x": 0,
+                "y": 27,
+                "width": 48,
+                "height": 48
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "7D22D10B-AEBD-4850-BC01-4964521A1165",
+            "name": "ic_back",
+            "rect": {
+                "x": 10,
+                "y": 40,
+                "width": 28,
+                "height": 21.98668480206169
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white arrow pointing to the right"
+        },
+        {
+            "id": "D5C3D84F-EBA4-41D9-872F-F3309EAEE2C4",
+            "name": "line",
+            "rect": {
+                "x": 0,
+                "y": 187,
+                "width": 375,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "9E91B658-F6BB-4627-A44C-6EE209AC4EA5",
+            "name": "Search",
+            "rect": {
+                "x": 48,
+                "y": 205,
+                "width": 155,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word search is in white letters on a black background"
+        },
+        {
+            "id": "4F99050A-0EBA-4DF7-AB6D-C801FFC8CC7C",
+            "name": "Path",
+            "rect": {
+                "x": 25,
+                "y": 204.9995,
+                "width": 11,
+                "height": 11.000500000000002
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "the person's logo is shown in white"
+        },
+        {
+            "id": "077AE82A-A584-48D5-BA05-10CEA4B0E8AB",
+            "name": "Path",
+            "rect": {
+                "x": 24,
+                "y": 204,
+                "width": 15.996500000000026,
+                "height": 15.996499999999997
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "the person's logo is shown in white"
+        },
+        {
+            "id": "3BD57F36-102A-4282-AABB-CD5799A4FF31",
+            "name": "line",
+            "rect": {
+                "x": 0,
+                "y": 236,
+                "width": 375,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        }
+    ],
+    "width": 375,
+    "height": 880,
+    "layer_width": 64,
+    "layer_height": 64
+}

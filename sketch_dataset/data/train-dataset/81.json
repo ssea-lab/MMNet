@@ -1,0 +1,673 @@
+{
+    "layers": [
+        {
+            "id": "A1BD256F-B1D1-45F7-AA86-324CEE0CCF7B",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 812
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "6E086ED5-F004-4E30-A13F-CF262085FC37",
+            "name": "base",
+            "rect": {
+                "x": 32,
+                "y": 702,
+                "width": 311,
+                "height": 48
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock"
+        },
+        {
+            "id": "320B5C63-0A27-43ED-8158-1095FF42FF16",
+            "name": "Apply",
+            "rect": {
+                "x": 65.44499999999994,
+                "y": 717,
+                "width": 247.20000000000005,
+                "height": 19
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "apply now - apply now"
+        },
+        {
+            "id": "8ACEFA97-8530-4161-8D5E-4089ED368CCC",
+            "name": "Brand",
+            "rect": {
+                "x": 32,
+                "y": 445,
+                "width": 192.40625,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the brand logo is shown in black and white"
+        },
+        {
+            "id": "29DF2FAF-7485-4C02-AC70-35FADA47FFB5",
+            "name": "Adidas",
+            "rect": {
+                "x": 40,
+                "y": 485,
+                "width": 140,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the adidas logo is shown on a black background"
+        },
+        {
+            "id": "D36FE52D-2A95-49A4-BEDC-7E2F71261E9F",
+            "name": "Puma",
+            "rect": {
+                "x": 204,
+                "y": 485,
+                "width": 140,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "puma logo with a black background"
+        },
+        {
+            "id": "2829A7CE-5D1E-45B3-AD6D-EF7195598B1D",
+            "name": "Nike",
+            "rect": {
+                "x": 40,
+                "y": 517,
+                "width": 140,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "nike logo on a black background"
+        },
+        {
+            "id": "49551EB5-8DEF-47A1-9107-91F0C6091710",
+            "name": "Elise",
+            "rect": {
+                "x": 204,
+                "y": 517,
+                "width": 140,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for elise"
+        },
+        {
+            "id": "81861D0E-1D07-451C-B409-E325B914FE23",
+            "name": "Mango",
+            "rect": {
+                "x": 40,
+                "y": 549,
+                "width": 140,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the mango logo is shown in black and white"
+        },
+        {
+            "id": "5092B848-A778-4CA9-9EC2-8FD03E1FEDCA",
+            "name": "Bitis",
+            "rect": {
+                "x": 204,
+                "y": 549,
+                "width": 140,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for bitis"
+        },
+        {
+            "id": "1995709B-659E-48B5-AAE7-2A5D0F1911AD",
+            "name": "ASOS",
+            "rect": {
+                "x": 40,
+                "y": 581,
+                "width": 140,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "aosos logo"
+        },
+        {
+            "id": "27840A63-1FF8-450D-815E-B70502958046",
+            "name": "Robin",
+            "rect": {
+                "x": 204,
+                "y": 581,
+                "width": 140,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "robinsons group logo"
+        },
+        {
+            "id": "C594AD8C-0BFC-4803-9DF0-66209D9E4C17",
+            "name": "Color",
+            "rect": {
+                "x": 32,
+                "y": 341,
+                "width": 192.40625,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the color of money"
+        },
+        {
+            "id": "ECD34EBD-9BBB-4C35-894B-1B001ED5574B",
+            "name": "Oval",
+            "rect": {
+                "x": 40,
+                "y": 381,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "C8A45142-6E4F-4394-B54C-F798DD651DA7",
+            "name": "Oval",
+            "rect": {
+                "x": 136,
+                "y": 381,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "A2CA28BB-4762-45BA-A82A-0AB9B128FCF2",
+            "name": "Oval",
+            "rect": {
+                "x": 280,
+                "y": 381,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.816203773021698,
+                0.007513228338211775,
+                0.1066960170865059,
+                1
+            ],
+            "label": 0,
+            "msg": "a red circle with a black background"
+        },
+        {
+            "id": "FDE7C998-7656-4B8A-8895-18660A5AA259",
+            "name": "Oval",
+            "rect": {
+                "x": 88,
+                "y": 381,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6078431372549019,
+                0.6078431372549019,
+                0.6078431372549019,
+                1
+            ],
+            "label": 0,
+            "msg": "a grey circle with a black background"
+        },
+        {
+            "id": "9311D0C3-E7F6-4F6D-B877-A0BF14D8DD64",
+            "name": "Oval",
+            "rect": {
+                "x": 232,
+                "y": 381,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.8470588235294118,
+                0.8470588235294118,
+                0.8470588235294118,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black border"
+        },
+        {
+            "id": "E399D3F1-B867-430A-8E7C-21B3F91CF84C",
+            "name": "Oval",
+            "rect": {
+                "x": 184,
+                "y": 381,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circular button with a black border"
+        },
+        {
+            "id": "6F6D2C36-0210-4593-95FE-2B35481DFD35",
+            "name": "Category",
+            "rect": {
+                "x": 32,
+                "y": 245,
+                "width": 192.40625,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word category is written in black on a black background"
+        },
+        {
+            "id": "65C04CDE-FC4E-47E2-91EF-2F78E948AA38",
+            "name": "T-Shirt (36)",
+            "rect": {
+                "x": 40,
+                "y": 285,
+                "width": 74,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the t - shirt company"
+        },
+        {
+            "id": "6F6E4E13-8A08-4051-BC65-1DB1E07CBE6F",
+            "name": "arrow down",
+            "rect": {
+                "x": 337,
+                "y": 289,
+                "width": 13.72602271940741,
+                "height": 8
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.6078431372549019,
+                0.6078431372549019,
+                0.6078431372549019,
+                1
+            ],
+            "label": 0,
+            "msg": "the v logo is shown in white on a black background"
+        },
+        {
+            "id": "DB3B3EB8-D556-4B51-909F-784B2DA5CFB5",
+            "name": "line",
+            "rect": {
+                "x": 40,
+                "y": 176,
+                "width": 295,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9098039215686274,
+                0.9098039215686274,
+                0.9098039215686274,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "B122F68D-2076-45A7-9394-74A2C60BBF71",
+            "name": "line",
+            "rect": {
+                "x": 80,
+                "y": 176,
+                "width": 200,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white clock on it"
+        },
+        {
+            "id": "E583DA3F-9602-453B-A8F3-E5CD3269EBC9",
+            "name": "Range Price",
+            "rect": {
+                "x": 32,
+                "y": 132,
+                "width": 192.40625,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word \"ranges\" is written in black on a black background"
+        },
+        {
+            "id": "8F8A7582-4266-4472-BAF0-819C613EC9F3",
+            "name": "$15",
+            "rect": {
+                "x": 40,
+                "y": 189,
+                "width": 74,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word $ 15 is in white letters on a black background"
+        },
+        {
+            "id": "ED18C1F0-FC89-4E60-9956-89EFBD89E901",
+            "name": "$99",
+            "rect": {
+                "x": 261,
+                "y": 189,
+                "width": 74,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word 99 is in the middle of a black background"
+        },
+        {
+            "id": "8A427BB9-8B81-436D-BCED-F85E49D212FC",
+            "name": "Oval 2",
+            "rect": {
+                "x": 76,
+                "y": 172,
+                "width": 9,
+                "height": 9
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "8E4E60F7-15E6-4FC8-9E98-70547D5CAE71",
+            "name": "Oval 2",
+            "rect": {
+                "x": 271,
+                "y": 172,
+                "width": 9,
+                "height": 9
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "71426044-7FE6-47BC-B449-13D9D82B8CB3",
+            "name": "Background",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 375,
+                "height": 116
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                0.8200000000000001
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "528552CE-59A8-4E30-808D-6A761B214D91",
+            "name": "base nav",
+            "rect": {
+                "x": 0,
+                "y": 27,
+                "width": 375,
+                "height": 44
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "695BA145-AA4B-4A5C-B0AD-1D8AC7664D63",
+            "name": "Filter",
+            "rect": {
+                "x": 16,
+                "y": 71,
+                "width": 343,
+                "height": 38
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the filterbox logo"
+        },
+        {
+            "id": "A3A346CF-8D09-4E1C-BA83-04E968F2F3E8",
+            "name": "ic_close",
+            "rect": {
+                "x": 331,
+                "y": 35,
+                "width": 28,
+                "height": 28
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2901960784313725,
+                0.2901960784313725,
+                0.2901960784313725,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white cross icon"
+        },
+        {
+            "id": "8C8EE583-DCF5-451C-B961-222982488E33",
+            "name": "bg",
+            "rect": {
+                "x": 0,
+                "y": 782,
+                "width": 375,
+                "height": 30
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "4ACFB716-850B-4201-8B80-DCF32E82EAE3",
+            "name": "line",
+            "rect": {
+                "x": 133,
+                "y": 795,
+                "width": 110,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.07058823529411765,
+                0.07450980392156863,
+                0.0784313725490196,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white square"
+        }
+    ],
+    "width": 375,
+    "height": 812,
+    "layer_width": 64,
+    "layer_height": 64
+}

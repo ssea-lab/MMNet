@@ -1,0 +1,939 @@
+{
+    "layers": [
+        {
+            "id": "D7B98FB0-5897-457F-96D3-98E4B40F52DF",
+            "name": "Rectangle 22",
+            "rect": {
+                "x": 0,
+                "y": 618,
+                "width": 375,
+                "height": 49
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "46895690-431A-42F8-933F-18A9FB0E80E0",
+            "name": "Oval",
+            "rect": {
+                "x": 167,
+                "y": 622,
+                "width": 41,
+                "height": 41
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue circle with a white border"
+        },
+        {
+            "id": "7ED3FF50-101A-498C-BC35-C293F83CB569",
+            "name": "Rectangle 5",
+            "rect": {
+                "x": 186.41666666666652,
+                "y": 636,
+                "width": 2.166666666666515,
+                "height": 13
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "5240BC11-F7EE-45C2-BCBC-02AF13CDB811",
+            "name": "Rectangle 5 Copy",
+            "rect": {
+                "x": 181,
+                "y": 641.4166666666665,
+                "width": 13,
+                "height": 2.166666666666515
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a blue sky with a few clouds in the distance"
+        },
+        {
+            "id": "1C3AF3BB-BCE7-4466-A876-C9F6355D457B",
+            "name": "Goals",
+            "rect": {
+                "x": 247.5,
+                "y": 652,
+                "width": 29,
+                "height": 10
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word goals in blue on a black background"
+        },
+        {
+            "id": "C6BC66FB-E0CE-4392-B13D-CAC86EF76E33",
+            "name": "Stats",
+            "rect": {
+                "x": 106.5,
+                "y": 652,
+                "width": 24,
+                "height": 10
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word stats is shown in black and white"
+        },
+        {
+            "id": "F0E7FC8F-7DF0-4B53-A1BD-B49779D7E031",
+            "name": "Bookshelf",
+            "rect": {
+                "x": 19,
+                "y": 652,
+                "width": 48,
+                "height": 10
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a white and black logo with the words \"the best\""
+        },
+        {
+            "id": "3C797584-EA50-4793-9B3E-C6609C03E3A8",
+            "name": "Setting",
+            "rect": {
+                "x": 315,
+                "y": 652,
+                "width": 34,
+                "height": 11
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word setting is shown in black and white"
+        },
+        {
+            "id": "3901E586-20E4-43F1-81DC-95E0A611CBE8",
+            "name": "Line Copy 4",
+            "rect": {
+                "x": -0.5,
+                "y": 617.5,
+                "width": 375.5003337782223,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "50B77B58-3293-40A5-BD0D-AC3B15C9A149",
+            "name": "Rectangle 29",
+            "rect": {
+                "x": 124,
+                "y": 629,
+                "width": 3,
+                "height": 16
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1098039215686274,
+                0.1568627450980392,
+                0.2,
+                1
+            ],
+            "label": 0,
+            "msg": "a black square with a white square in the middle"
+        },
+        {
+            "id": "955D4AE8-E340-4246-8C0E-A5BB160ED8DD",
+            "name": "Rectangle 29 Copy",
+            "rect": {
+                "x": 119,
+                "y": 632,
+                "width": 3,
+                "height": 13
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1098039215686274,
+                0.1568627450980392,
+                0.2,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white square in the middle"
+        },
+        {
+            "id": "82959A2E-BAA6-487E-A0DB-A3B46A3F67A9",
+            "name": "Rectangle 29 Copy 2",
+            "rect": {
+                "x": 114,
+                "y": 635,
+                "width": 3,
+                "height": 10
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1098039215686274,
+                0.1568627450980392,
+                0.2,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white square in the middle"
+        },
+        {
+            "id": "204C936C-7A66-491D-BA2F-CF2E057BD6BD",
+            "name": "Rectangle 29 Copy 3",
+            "rect": {
+                "x": 109,
+                "y": 637,
+                "width": 3,
+                "height": 8
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1098039215686274,
+                0.1568627450980392,
+                0.2,
+                1
+            ],
+            "label": 0,
+            "msg": "a black background with a white square in the middle"
+        },
+        {
+            "id": "A83A9D4B-10BF-478F-AD60-53524454540C",
+            "name": "Path",
+            "rect": {
+                "x": 327.46354377377793,
+                "y": 631.4635286356279,
+                "width": 9.286379463340836,
+                "height": 9.286471364372119
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a black gear wheel with a white circle in the center"
+        },
+        {
+            "id": "9AFF53E5-0C83-4EDD-AFB4-66E71655B458",
+            "name": "Path",
+            "rect": {
+                "x": 322.5,
+                "y": 626.5,
+                "width": 19,
+                "height": 19
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a black gear wheel with a white circle in the center"
+        },
+        {
+            "id": "FB827A3B-18F8-4901-A7AA-521F3A3C4E20",
+            "name": "Oval 20",
+            "rect": {
+                "x": 252,
+                "y": 626,
+                "width": 20,
+                "height": 20
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "ECFB60F0-781E-48A7-85E6-B3F9AB3223CA",
+            "name": "Oval 20 Copy",
+            "rect": {
+                "x": 258,
+                "y": 632,
+                "width": 8,
+                "height": 8
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 2,
+            "msg": "a blue button with a cross in the middle"
+        },
+        {
+            "id": "1A23EE86-863F-4A37-A66E-4EE4DB995C7F",
+            "name": "Rectangle 26",
+            "rect": {
+                "x": 34,
+                "y": 630,
+                "width": 19,
+                "height": 14
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 1,
+            "msg": "a white and blue striped wall with a blue stripe"
+        },
+        {
+            "id": "99E2185F-4499-4FC8-82CF-42B48DC6EA33",
+            "name": "Rectangle 28",
+            "rect": {
+                "x": 43,
+                "y": 629,
+                "width": 1,
+                "height": 16
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 2,
+            "msg": "a white and blue striped wall with a blue stripe"
+        },
+        {
+            "id": "895E93FC-72DA-42A6-87C0-95327DD7FB75",
+            "name": "Line Copy 4",
+            "rect": {
+                "x": -0.5,
+                "y": 63.5,
+                "width": 375.5003337782223,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "2D4BFA3E-E782-4135-85AD-486144787FF2",
+            "name": "Goals",
+            "rect": {
+                "x": 162.5,
+                "y": 33,
+                "width": 51,
+                "height": 18
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the goal logo with a blue background"
+        },
+        {
+            "id": "D8FD22EE-35B2-4462-9FE3-1790ED856192",
+            "name": "Bars/Status/Black",
+            "rect": {
+                "x": 6,
+                "y": 3.5,
+                "width": 363.5,
+                "height": 14
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white text"
+        },
+        {
+            "id": "9E70C4FC-BBA4-4065-AB44-5BB645D47A89",
+            "name": "Line Copy 6",
+            "rect": {
+                "x": 24.5,
+                "y": 502.5,
+                "width": 326,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "352DB213-21DC-4EF8-9E5F-4E86150EA50C",
+            "name": "Line Copy 7",
+            "rect": {
+                "x": -0.5,
+                "y": 450.5,
+                "width": 376,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "7C9A3A2B-41AC-4574-8A39-AA2959EF9FFF",
+            "name": "9",
+            "rect": {
+                "x": 55,
+                "y": 535,
+                "width": 22,
+                "height": 36
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is black and white"
+        },
+        {
+            "id": "7C8D351D-E229-4BEE-8CAA-5EEC886F57B6",
+            "name": "BOOKS/MONTH",
+            "rect": {
+                "x": 17,
+                "y": 567,
+                "width": 98,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the book store"
+        },
+        {
+            "id": "411D8489-2E71-4F48-806E-1DF09771AE59",
+            "name": "0.4",
+            "rect": {
+                "x": 161,
+                "y": 535,
+                "width": 54,
+                "height": 36
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white logo with the word no 0"
+        },
+        {
+            "id": "F48A4F97-32DC-41E9-B787-ADE191F04599",
+            "name": "BOOKS/DAY",
+            "rect": {
+                "x": 139,
+                "y": 567,
+                "width": 98,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for booksday"
+        },
+        {
+            "id": "E8C4892B-7F9C-4457-9A3E-F9B465DD0288",
+            "name": "45",
+            "rect": {
+                "x": 284.5,
+                "y": 535,
+                "width": 44,
+                "height": 36
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number four is shown in black on a white background"
+        },
+        {
+            "id": "7F0139C4-8040-4DD5-BD56-3979FCCBDF7B",
+            "name": "MINUTES/DAY",
+            "rect": {
+                "x": 250,
+                "y": 567,
+                "width": 112,
+                "height": 17
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company minuteman"
+        },
+        {
+            "id": "AD9E5FC7-7F0B-4FFF-BA08-C78818532E58",
+            "name": "Estimated time to he",
+            "rect": {
+                "x": 68,
+                "y": 473,
+                "width": 240,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a man standing in front of a building"
+        },
+        {
+            "id": "E23E9F92-B915-495E-B946-DA425ED01400",
+            "name": "Combined Shape",
+            "rect": {
+                "x": 117,
+                "y": 393,
+                "width": 19,
+                "height": 14
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.7294117647058823,
+                0.7450980392156863,
+                0.7568627450980392,
+                1
+            ],
+            "label": 0,
+            "msg": "a square black square with a white background"
+        },
+        {
+            "id": "700D3D5E-BD58-4219-930D-19D01A57A827",
+            "name": "Line",
+            "rect": {
+                "x": 126,
+                "y": 393,
+                "width": 1,
+                "height": 14
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a grey and white cat is sitting on a chair"
+        },
+        {
+            "id": "78393F8E-78B9-4D4D-B210-4BCC77D24DC2",
+            "name": "63 books left",
+            "rect": {
+                "x": 146,
+                "y": 394,
+                "width": 113,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a man with a gun"
+        },
+        {
+            "id": "46A75D3A-C46F-478E-BA30-96128AA68C36",
+            "name": "37",
+            "rect": {
+                "x": 93,
+                "y": 260,
+                "width": 190,
+                "height": 60
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the number 37 is shown in black on a black background"
+        },
+        {
+            "id": "C1777C92-A7DC-49E3-A8EC-AE02ECBEAA88",
+            "name": "Page 1",
+            "rect": {
+                "x": 75,
+                "y": 183,
+                "width": 226,
+                "height": 194.26119141473214
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "3480E285-8DFF-4956-B461-C20B94231C43",
+            "name": "Page 1 Copy",
+            "rect": {
+                "x": 75,
+                "y": 200.73247470395336,
+                "width": 55.43608800755601,
+                "height": 176.52854989735556
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is a blue arrow"
+        },
+        {
+            "id": "94608FD7-2F25-470C-9A80-C6628A2F7643",
+            "name": "BOOK READED",
+            "rect": {
+                "x": 133,
+                "y": 322,
+                "width": 109,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the book reader by person"
+        },
+        {
+            "id": "76B49B89-609C-4B56-A68C-8F915BE7B2A1",
+            "name": "Rectangle 23",
+            "rect": {
+                "x": 0,
+                "y": 64,
+                "width": 375,
+                "height": 60
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue sky with a plane flying in the air"
+        },
+        {
+            "id": "175FB598-6C1C-47DA-B0F2-E2EDCBA376E6",
+            "name": "Oval",
+            "rect": {
+                "x": 20,
+                "y": 82,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 1,
+            "msg": "a white circle with a black border"
+        },
+        {
+            "id": "8C20BAE7-F89F-4935-912F-4CB080F0317C",
+            "name": "Rectangle 5 Copy",
+            "rect": {
+                "x": 26,
+                "y": 93,
+                "width": 12,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "F9B7BBFC-60C3-4327-85D9-F4D3EB389ED5",
+            "name": "Oval",
+            "rect": {
+                "x": 330,
+                "y": 82,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 1,
+            "msg": "a white circle with a black border"
+        },
+        {
+            "id": "A2F84EB4-39E4-4CDB-9861-01F566E94B39",
+            "name": "Rectangle 5",
+            "rect": {
+                "x": 341,
+                "y": 88,
+                "width": 2,
+                "height": 12
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a blue sky with a few clouds in the distance"
+        },
+        {
+            "id": "BAA89361-6A67-4FA4-B711-187F0D5B12F4",
+            "name": "Rectangle 5 Copy",
+            "rect": {
+                "x": 336,
+                "y": 93,
+                "width": 12,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 2,
+            "msg": "a blue background with a white square in the middle"
+        },
+        {
+            "id": "44DAF31C-12AC-47AB-A936-A974C9AA49FA",
+            "name": "YEARLY GOAL 100 BOOK",
+            "rect": {
+                "x": 93,
+                "y": 87,
+                "width": 189,
+                "height": 14
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a barcode with a black background and white text"
+        },
+        {
+            "id": "15002836-9922-44AA-A9FD-250425E7741E",
+            "name": "Notification",
+            "rect": {
+                "x": 31,
+                "y": 145,
+                "width": 30,
+                "height": 30
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a bell icon on a black background"
+        },
+        {
+            "id": "23C3C2D4-513A-4DE0-9464-E01288CD1587",
+            "name": "Rectangle 40",
+            "rect": {
+                "x": 71,
+                "y": 149,
+                "width": 130,
+                "height": 24
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person"
+        },
+        {
+            "id": "21EA658B-C4B8-4D11-91A6-2EE98E5CCCFD",
+            "name": "Triangle 2",
+            "rect": {
+                "x": 67.33330390746005,
+                "y": 155,
+                "width": 7.666696092539951,
+                "height": 12
+            },
+            "_class": "triangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person"
+        },
+        {
+            "id": "4E37F381-B351-4693-A400-720A96FEE7AE",
+            "name": "Get Daily Reminder",
+            "rect": {
+                "x": 80,
+                "y": 155,
+                "width": 112,
+                "height": 13
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white image of a barcode"
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}

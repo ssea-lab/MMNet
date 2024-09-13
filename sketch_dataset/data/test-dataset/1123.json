@@ -1,0 +1,1129 @@
+{
+    "layers": [
+        {
+            "id": "8404BA2C-1D5D-4F64-9A0C-F9E0DF9A590A",
+            "name": "Oval 2 Copy",
+            "rect": {
+                "x": -219.5,
+                "y": 63.5,
+                "width": 253,
+                "height": 253
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9624255952380952,
+                0.9624255952380952,
+                0.9624255952380952,
+                1
+            ],
+            "label": 0,
+            "msg": "a white oval with a black background"
+        },
+        {
+            "id": "DF1A96A9-FED3-4D48-91CA-3A8FEDC9BB54",
+            "name": "Oval 2 Copy 2",
+            "rect": {
+                "x": 344.5,
+                "y": 63.5,
+                "width": 253,
+                "height": 253
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9624255952380952,
+                0.9624255952380952,
+                0.9624255952380952,
+                1
+            ],
+            "label": 0,
+            "msg": "a white arrow pointing to a white arrow"
+        },
+        {
+            "id": "25E87A93-38EB-4165-A88E-61C627EB604D",
+            "name": "Line Copy 5",
+            "rect": {
+                "x": 151.5,
+                "y": 403.5,
+                "width": 21,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the north face men's jacket in black"
+        },
+        {
+            "id": "0A54F43D-430F-4570-B4B3-27F7AC715370",
+            "name": "Line Copy 7",
+            "rect": {
+                "x": 179.5,
+                "y": 403.5,
+                "width": 21,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "the north face men's jacket in black"
+        },
+        {
+            "id": "4538EA3E-0B83-4C7A-89E7-206B874BBEA3",
+            "name": "Line Copy 8",
+            "rect": {
+                "x": 207.5,
+                "y": 403.5,
+                "width": 21,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue background with a white square"
+        },
+        {
+            "id": "C06BC095-1E5E-4902-BA2D-FEC5ECCA9F43",
+            "name": "\"Whoever is trying t",
+            "rect": {
+                "x": 74,
+                "y": 421,
+                "width": 228,
+                "height": 40
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a person with a black background"
+        },
+        {
+            "id": "497D7D74-975E-4DD2-924D-AF6502075149",
+            "name": "Your thought",
+            "rect": {
+                "x": 146.5,
+                "y": 472,
+                "width": 82,
+                "height": 10
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word your on a blue background"
+        },
+        {
+            "id": "5BD5348E-75CA-4150-BF40-C3522F0CE27B",
+            "name": "Line",
+            "rect": {
+                "x": 233,
+                "y": 476,
+                "width": 9,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 1,
+            "msg": "a blue sky with a plane flying in the air"
+        },
+        {
+            "id": "EC451E5E-21F5-41BB-B44D-CA778546925E",
+            "name": "Path 3",
+            "rect": {
+                "x": 239.67621193709874,
+                "y": 473.6189996189994,
+                "width": 4.104850076177627,
+                "height": 5.768235441005572
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 2,
+            "msg": "a blue arrow pointing to a black arrow"
+        },
+        {
+            "id": "FC98AE36-3F20-4B0E-B026-0C8E3E39FDF2",
+            "name": "Rectangle 10",
+            "rect": {
+                "x": 0,
+                "y": 503,
+                "width": 375,
+                "height": 120
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "58F9F3B8-2AAE-4BDA-B9CE-DBC778CEA24C",
+            "name": "PAGE",
+            "rect": {
+                "x": 77,
+                "y": 641,
+                "width": 33,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word page is shown in black and white"
+        },
+        {
+            "id": "47E6E76E-486C-40D9-8895-92371ABA7DE0",
+            "name": "TIME",
+            "rect": {
+                "x": 268,
+                "y": 641,
+                "width": 28,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the time logo is shown in black and white"
+        },
+        {
+            "id": "E3EE5C07-2434-4C5C-9C13-D0FADD92A42E",
+            "name": "Rectangle 11",
+            "rect": {
+                "x": 269,
+                "y": 665,
+                "width": 27,
+                "height": 2
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue sky with a plane flying in the air"
+        },
+        {
+            "id": "5997332C-7577-4FE0-8C82-27617F7A5661",
+            "name": "Line Copy 4",
+            "rect": {
+                "x": 14.5,
+                "y": 584,
+                "width": 346,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "0E087049-3C3B-4B2F-8BEB-FB334BFBE34A",
+            "name": "Line 2",
+            "rect": {
+                "x": 27,
+                "y": 531,
+                "width": 1,
+                "height": 94.04837451562503
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "36FC21DE-5433-4DA7-82A9-54906ECFED04",
+            "name": "Line 2 Copy",
+            "rect": {
+                "x": 80,
+                "y": 531,
+                "width": 1,
+                "height": 94.04837451562503
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "6FBA8D2D-9E4D-4BD7-85B0-5529C623B76B",
+            "name": "Line 2 Copy 2",
+            "rect": {
+                "x": 133,
+                "y": 531,
+                "width": 1,
+                "height": 94.04837451562503
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "7CA4B4DC-8A9E-4C01-B90C-F724E41AF786",
+            "name": "Line 2 Copy 3",
+            "rect": {
+                "x": 186,
+                "y": 531,
+                "width": 1,
+                "height": 94.04837451562503
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "69D24B36-579C-4BA3-A52F-5E03AE9B48D8",
+            "name": "Line 2 Copy 4",
+            "rect": {
+                "x": 239,
+                "y": 531,
+                "width": 1,
+                "height": 94.04837451562503
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "2A286ECF-6771-4B1A-8195-87DCD03F75A8",
+            "name": "Line 2 Copy 5",
+            "rect": {
+                "x": 292,
+                "y": 531,
+                "width": 1,
+                "height": 94.04837451562503
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "1B45F8D3-09EB-4ACD-A603-E8A5787FF27D",
+            "name": "Line 2 Copy 6",
+            "rect": {
+                "x": 345,
+                "y": 531,
+                "width": 1,
+                "height": 94.04837451562503
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a pair of black and white sneakers on a white background"
+        },
+        {
+            "id": "68FF2055-4ED1-4528-8390-802BD5F80DCF",
+            "name": "Line",
+            "rect": {
+                "x": 14.5,
+                "y": 536.5,
+                "width": 346,
+                "height": 1
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue sky with a few clouds in the distance"
+        },
+        {
+            "id": "861DDF03-F490-433D-B2A9-A105022439D8",
+            "name": "FRI",
+            "rect": {
+                "x": 19,
+                "y": 515,
+                "width": 16,
+                "height": 10
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word friday is shown in blue letters"
+        },
+        {
+            "id": "3FFB7AEA-6BDB-4CFF-BEB7-D903523D94A4",
+            "name": "SAT",
+            "rect": {
+                "x": 70.58333333333303,
+                "y": 515,
+                "width": 18,
+                "height": 10
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word saa is shown in black and white"
+        },
+        {
+            "id": "E2FB4994-16BC-4E33-ABE8-57CB763106D8",
+            "name": "SUN",
+            "rect": {
+                "x": 121.16666666666652,
+                "y": 515,
+                "width": 22,
+                "height": 10
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the sun logo is shown in black and white"
+        },
+        {
+            "id": "FC497146-6DFE-4D12-9EB4-EFBD2BB27F8F",
+            "name": "MON",
+            "rect": {
+                "x": 172.25,
+                "y": 515,
+                "width": 25,
+                "height": 10
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word monon is shown in a black background"
+        },
+        {
+            "id": "9EFA7681-DD04-48E7-80CE-5F431DFC68E3",
+            "name": "TUE",
+            "rect": {
+                "x": 227.33333333333303,
+                "y": 515,
+                "width": 20,
+                "height": 10
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word uv is shown in black and white"
+        },
+        {
+            "id": "B5239CE4-9CCB-4AD8-81A7-B178B3CC38E5",
+            "name": "WED",
+            "rect": {
+                "x": 277.41666666666606,
+                "y": 515,
+                "width": 25,
+                "height": 10
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word wedding is shown in black letters"
+        },
+        {
+            "id": "57171EEB-8ED6-4CFC-BC10-4E8D37A9AAEC",
+            "name": "THU",
+            "rect": {
+                "x": 334.5,
+                "y": 515,
+                "width": 21,
+                "height": 10
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the word hh is shown in black and white"
+        },
+        {
+            "id": "5DF37C29-0AA8-4264-9BAE-673F8384332B",
+            "name": "Fill 1",
+            "rect": {
+                "x": 28,
+                "y": 537.0002999999997,
+                "width": 319,
+                "height": 87.9997000000003
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5730000000000001,
+                0.808,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a wave is shown in a blue background"
+        },
+        {
+            "id": "C3966381-C830-419C-AA60-15E406217C9F",
+            "name": "Path 2",
+            "rect": {
+                "x": 26.29877894371748,
+                "y": 536.2870560819911,
+                "width": 320.5265283175322,
+                "height": 68.71294391800893
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue wave is shown on a black background"
+        },
+        {
+            "id": "C8BE0279-A788-414A-A251-3CD2DCDDC291",
+            "name": "Oval 6",
+            "rect": {
+                "x": 23,
+                "y": 532,
+                "width": 9,
+                "height": 9
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue circle with a white star in the center"
+        },
+        {
+            "id": "C64E3817-402D-434C-84BE-53E077CE42D1",
+            "name": "Oval 6 Copy",
+            "rect": {
+                "x": 76,
+                "y": 566,
+                "width": 9,
+                "height": 9
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue circle with a white star in the center"
+        },
+        {
+            "id": "09AE65EB-1038-496F-9F86-CD9F9F01ED06",
+            "name": "Oval 6 Copy 2",
+            "rect": {
+                "x": 129,
+                "y": 555,
+                "width": 9,
+                "height": 9
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue circle with a white star in the center"
+        },
+        {
+            "id": "17C5BF3B-59D3-42E9-8A2B-49302DA13C98",
+            "name": "Oval 6 Copy 3",
+            "rect": {
+                "x": 182,
+                "y": 600,
+                "width": 9,
+                "height": 9
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue circle with a white star in the center"
+        },
+        {
+            "id": "66320AE1-31F7-47D0-A960-4BD67EA191B0",
+            "name": "Oval 6 Copy 4",
+            "rect": {
+                "x": 235,
+                "y": 567,
+                "width": 9,
+                "height": 9
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue circle with a white star in the center"
+        },
+        {
+            "id": "6BE5DEFB-8D06-4EA0-B9BE-F057EDACE80E",
+            "name": "Oval 6 Copy 5",
+            "rect": {
+                "x": 288,
+                "y": 551,
+                "width": 9,
+                "height": 9
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue circle with a white star in the center"
+        },
+        {
+            "id": "2B790FCF-82A0-480C-8758-9C6FD79A1391",
+            "name": "Oval 6 Copy 6",
+            "rect": {
+                "x": 338,
+                "y": 597,
+                "width": 15,
+                "height": 15
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue circle with a white light in the center"
+        },
+        {
+            "id": "642FAEF2-73F0-4F08-B132-9AF863028D60",
+            "name": "Oval 6 Copy 7",
+            "rect": {
+                "x": 342,
+                "y": 601,
+                "width": 7,
+                "height": 7
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue square with a black background"
+        },
+        {
+            "id": "518D87C6-8068-4F2D-BCEA-C58F3C2E60A0",
+            "name": "Rectangle 12",
+            "rect": {
+                "x": 328,
+                "y": 577,
+                "width": 32,
+                "height": 15
+            },
+            "_class": "rectangle",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the person is standing in front of a blue background"
+        },
+        {
+            "id": "EC982892-DE2A-432E-8BF8-629F5E880B35",
+            "name": "Triangle",
+            "rect": {
+                "x": 343,
+                "y": 591,
+                "width": 4,
+                "height": 3.7528302158116276
+            },
+            "_class": "shapePath",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the person is standing in front of a blue background"
+        },
+        {
+            "id": "65D4EFF6-5559-428C-B38D-7C9108E289E8",
+            "name": "18m",
+            "rect": {
+                "x": 332,
+                "y": 580,
+                "width": 26,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the m9 is shown in white"
+        },
+        {
+            "id": "7F5DFE85-D3A3-43AE-A907-479CB683CDA8",
+            "name": "Oval 2",
+            "rect": {
+                "x": 62.5,
+                "y": 63.5,
+                "width": 253,
+                "height": 253
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.9624255952380952,
+                0.9624255952380952,
+                0.9624255952380952,
+                1
+            ],
+            "label": 0,
+            "msg": "a white circle with a black background"
+        },
+        {
+            "id": "06A5CD6F-DF93-4F3C-A423-A94236ED389F",
+            "name": "Page 1",
+            "rect": {
+                "x": 188,
+                "y": 57,
+                "width": 134,
+                "height": 227.0000002858785
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a blue circle with a white line through it"
+        },
+        {
+            "id": "BAFD36C6-B499-4873-A1E6-B053ACA2F7C1",
+            "name": "Oval 4",
+            "rect": {
+                "x": 55,
+                "y": 57,
+                "width": 267,
+                "height": 267
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 0,
+            "msg": "a circle with a black background and a blue outline"
+        },
+        {
+            "id": "7CE354D0-67EF-4B09-986C-E6034D6D1098",
+            "name": "Mask",
+            "rect": {
+                "x": 124,
+                "y": 95,
+                "width": 158,
+                "height": 220
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.5725490196078431,
+                0.8078431372549021,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "the happy lemon book cover"
+        },
+        {
+            "id": "4BFC7CAA-415B-4291-9A32-6C4E89239A97",
+            "name": "Rectangle 8",
+            "rect": {
+                "x": 134,
+                "y": 105,
+                "width": 7,
+                "height": 170
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2282100340136054,
+                0.2282100340136054,
+                0.2282100340136054,
+                1
+            ],
+            "label": 0,
+            "msg": "a black and white image of a man with a gun"
+        },
+        {
+            "id": "10A32D63-9793-4945-9024-44ACEB273B03",
+            "name": "Rectangle",
+            "rect": {
+                "x": 147,
+                "y": 40,
+                "width": 81,
+                "height": 40
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue circle with a white border"
+        },
+        {
+            "id": "691D7C8B-401E-476D-B7DC-23EF37B9BCD4",
+            "name": "3h 14m",
+            "rect": {
+                "x": 164,
+                "y": 50,
+                "width": 47,
+                "height": 16
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the logo for the company is shown in white"
+        },
+        {
+            "id": "8113334F-F9D3-4F14-9FB0-51CE1B162549",
+            "name": "The Happy Lemon",
+            "rect": {
+                "x": 105.5,
+                "y": 344,
+                "width": 165,
+                "height": 23
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "the happy leopard logo"
+        },
+        {
+            "id": "63863B61-BD98-4C52-A3B9-C3626CCAD31A",
+            "name": "Kurt Yamashita",
+            "rect": {
+                "x": 144,
+                "y": 377,
+                "width": 87,
+                "height": 12
+            },
+            "_class": "text",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black and white photo of a man with a gun"
+        },
+        {
+            "id": "C3D24AFE-D182-461B-8189-87F6CB210B3F",
+            "name": "Oval",
+            "rect": {
+                "x": 335,
+                "y": 30,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.2274509803921568,
+                0.6549019607843134,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a blue circle with a black background"
+        },
+        {
+            "id": "99022632-FA1D-4E98-8268-FB0E5168161E",
+            "name": "Oval 5",
+            "rect": {
+                "x": 339,
+                "y": 40,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "CDABF4C8-31D9-4350-93B3-C052110F163A",
+            "name": "Oval 5 Copy",
+            "rect": {
+                "x": 345,
+                "y": 40,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "691B1599-0669-4AFB-8B72-F6D1BB7CD613",
+            "name": "Oval 5 Copy 2",
+            "rect": {
+                "x": 351,
+                "y": 40,
+                "width": 4,
+                "height": 4
+            },
+            "_class": "shapeGroup",
+            "color": [
+                1,
+                1,
+                1,
+                1
+            ],
+            "label": 0,
+            "msg": "a white background with a black and white cat"
+        },
+        {
+            "id": "4BF299EC-371F-41A9-83CE-23A543CFED02",
+            "name": "Bars/Status/Black",
+            "rect": {
+                "x": 6,
+                "y": 3.5,
+                "width": 363.5,
+                "height": 14
+            },
+            "_class": "symbolInstance",
+            "color": [
+                0.0,
+                0.0,
+                0.0,
+                0.0
+            ],
+            "label": 0,
+            "msg": "a black background with a white text"
+        },
+        {
+            "id": "B63B56AB-C406-4AE5-B215-E3F261200BEC",
+            "name": "Oval",
+            "rect": {
+                "x": 19,
+                "y": 30,
+                "width": 24,
+                "height": 24
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.1098039215686274,
+                0.1568627450980392,
+                0.2,
+                1
+            ],
+            "label": 1,
+            "msg": "a black circle with a white background"
+        },
+        {
+            "id": "361026B4-00D1-4109-BE97-2859D331D581",
+            "name": "Line 3",
+            "rect": {
+                "x": 26.007359312880908,
+                "y": 37.00735931288068,
+                "width": 9.985281374238639,
+                "height": 9.985281374238525
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 2,
+            "msg": "a white and black striped flag with a black background"
+        },
+        {
+            "id": "FC5F0679-17DF-46BA-8D4B-6A5C38A4BCD2",
+            "name": "Line 3 Copy",
+            "rect": {
+                "x": 26.25,
+                "y": 37.25,
+                "width": 9.985281374238639,
+                "height": 9.985281374238525
+            },
+            "_class": "shapeGroup",
+            "color": [
+                0.847,
+                0.847,
+                0.847,
+                1
+            ],
+            "label": 2,
+            "msg": "a white knife is shown on a black background"
+        }
+    ],
+    "width": 375,
+    "height": 667,
+    "layer_width": 64,
+    "layer_height": 64
+}
