@@ -3,6 +3,22 @@
 Pytorch implementation for MMNet: A Multi-Scale Multimodal Model for
 End-to-End Grouping of Fragmented UI Elements.
 
+### Abstract
+
+Graphical User Interface (GUI) designs often result in fragmented elements, leading to inefficient and redundant code when automatically converted. This paper presents MMNet, a novel end-to-end model for grouping these fragmented elements,
+leveraging multimodal feature representations and advanced retention mechanisms to improve grouping accuracy and efficiency.MMNet uses UI sequence prediction, enhanced by large multi-modal models, and a multi-scale retention mechanism to build a UI encoder. This approach captures temporal dependencies and multi-scale features, improving multimodal representation learning. MMNet introduces three key innovations: depth-first traversal for sequence extraction, enhanced small object detection through comprehensive attribute integration, and a novel data augmentation method using large multimodal models. The multi-scale retention mechanism further refines relationship modeling between UI elements. Evaluated on a dataset of 1,430 UI design prototypes, MMNet outperformed three state-of-the-art deep learning methods, demonstrating its effectiveness andinnovation. 
+
+![](C:\Users\86189\Desktop\mmnet\MMNet\fig.png)
+
+### Results
+
+| Method          | ACC       | F1        | Precision | Recall    |
+| --------------- | --------- | --------- | --------- | --------- |
+| EfficientNet    | 0.799     | 0.636     | 0.637     | 0.636     |
+| SwinTransformer | 0.769     | 0.575     | 0.550     | 0.612     |
+| EGFE            | 0.853     | 0.738     | 0.735     | 0.748     |
+| **MMNet(Ours)** | **0.890** | **0.760** | **0.773** | **0.757** |
+
 ### Requirements
 
 ```
@@ -71,5 +87,4 @@ torchrun --nnodes 1 --nproc_per_node 1  sw_vit_main.py --evaluate --resume ./wor
 The implementations of EfficientNet, Vision Transformer, and Swin Transformer are based on the following GitHub Repositories. Thank for the works.
 
 - EfficientNet: https://github.com/lukemelas/EfficientNet-PyTorch
-- ViT: https://github.com/lucidrains/vit-pytorch
 - Swin Transformer: https://github.com/microsoft/Swin-Transformer
