@@ -25,7 +25,7 @@ cd MMnet
 * Start to train with
 
   ```
-  torchrun --nnodes 1 --nproc_per_node 1  main.py --batch_size 10 --lr 5e-4Test Our Model
+  torchrun --nnodes 1 --nproc_per_node 1  main.py --batch_size 10 --lr 5e-4
   ```
 
 ### Test Our Model
@@ -33,7 +33,7 @@ cd MMnet
 * Start to test with
 
   ```
-  torchrun --nnodes 1 --nproc_per_node 1  main_ddp.py --evaluate --resume ./work_dir/set-wei-05-0849/checkpoints/latest.pth --batch_size 40
+  torchrun --nnodes 1 --nproc_per_node 1  main.py --evaluate --resume ./work_dir/set-wei-05-0849/checkpoints/latest.pth --batch_size 40
   ```
 
 ### Baselines of UI Fragmented Element Classification
@@ -49,35 +49,21 @@ cd MMnet
 * Start to test with 
 
   ```
-  torchrun --nnodes 1 --nproc_per_node 4  efficient_main.py --evaluate --resume ./work_dir/efficient_net/latest.pth --batch_size 8
+  torchrun --nnodes 1 --nproc_per_node 1  efficient_main.py --evaluate --resume ./work_dir/efficient_net/latest.pth --batch_size 8
   ```
-
-#### Vision Transformer(ViT)
-
-- Start to train with
-
-```
-torchrun --nnodes 1 --nproc_per_node 4  vit_main.py --batch_size 4 --lr 5e-4
-```
-
-- Start to test with
-
-```
-torchrun --nnodes 1 --nproc_per_node 4  vit_main.py --evaluate --resume ./work_dir/vit/latest.pth --batch_size 8
-```
 
 #### Swin Transformer
 
 - Start to train with
 
 ```
-torchrun --nnodes 1 --nproc_per_node 4  sw_vit_main.py --batch_size 4 --lr 5e-4
+torchrun --nnodes 1 --nproc_per_node 1  sw_vit_main.py --batch_size 4 --lr 5e-4
 ```
 
 - Start to test with
 
 ```
-torchrun --nnodes 1 --nproc_per_node 4  sw_vit_main.py --evaluate --resume ./work_dir/swin/latest.pth --batch_size 8
+torchrun --nnodes 1 --nproc_per_node 1  sw_vit_main.py --evaluate --resume ./work_dir/swin/latest.pth --batch_size 8
 ```
 
 ### ACKNOWNLEDGES
