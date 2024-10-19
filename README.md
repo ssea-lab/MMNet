@@ -8,7 +8,7 @@ End-to-End Grouping of Fragmented UI Elements.
 Graphical User Interface (GUI) designs often result in fragmented elements, leading to inefficient and redundant code when automatically converted. This paper presents MMNet, a novel end-to-end model for grouping these fragmented elements,
 leveraging multimodal feature representations and advanced retention mechanisms to improve grouping accuracy and efficiency.MMNet uses UI sequence prediction, enhanced by large multi-modal models, and a multi-scale retention mechanism to build a UI encoder. This approach captures temporal dependencies and multi-scale features, improving multimodal representation learning. MMNet introduces three key innovations: depth-first traversal for sequence extraction, enhanced small object detection through comprehensive attribute integration, and a novel data augmentation method using large multimodal models. The multi-scale retention mechanism further refines relationship modeling between UI elements. Evaluated on a dataset of 1,430 UI design prototypes, MMNet outperformed three state-of-the-art deep learning methods, demonstrating its effectiveness andinnovation. 
 
-![](C:\Users\86189\Desktop\mmnet\MMNet\fig.png)
+![](./fig.png)
 
 ### Results
 
